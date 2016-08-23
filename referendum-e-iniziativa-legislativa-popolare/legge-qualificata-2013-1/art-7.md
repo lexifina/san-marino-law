@@ -1,0 +1,3 @@
+Art. 7
+(Pubblicità della domanda o della richiesta referendaria)
+1. Del deposito della domanda o della richiesta di referendum abrogativo e del testo integrale della proposta referendaria presentata dai soggetti di cui agli articoli 5 e 6 è data dall’Ufficio Segreteria Istituzionale immediata comunicazione alla Reggenza; alla proposta è inoltre data pubblicità mediante affissione, a cura del Segretario di Stato per gli Affari Interni, all’albo del Pubblico Palazzo. L’avviso è trasmesso altresì alla Cancelleria del Tribunale ed ai Capitani di Castello perché ne curino l’affissione nei rispettivi albi.
