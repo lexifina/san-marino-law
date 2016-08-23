@@ -1,0 +1,6 @@
+Art. 23
+(Attuazione della volontà referendaria)
+1. Concluse le operazioni di voto e di scrutinio, la Reggenza pubblica con proprio decreto il risultato del referendum; in caso di approvazione della proposta, la Reggenza apre il termine di sei mesi entro il quale il Congresso di Stato è tenuto a redigere un progetto di legge volto a disciplinare, secondo i principi ed i criteri direttivi approvati dal corpo elettorale, la materia che è stata oggetto di referendum.
+2. La Reggenza, ricevuto il progetto di legge di cui al comma che precede, lo trasmette al Collegio Garante perché si esprima sulla compatibilità della proposta di legge con il quesito approvato, e suggerisce al Congresso di Stato gli eventuali emendamenti da apportare al provvedimento stesso. La Reggenza, ricevuta la comunicazione del Collegio Garante, la trasmette al Congresso di Stato al quale è assegnato il termine di trenta giorni per la regolarizzazione del progetto uniformandolo alle comunicazioni ricevute dal Collegio.
+3. Il Congresso di Stato, apportati gli emendamenti, deposita il progetto di legge all’Ufficio di Presidenza del Consiglio Grande e Generale che lo inserisce all’ordine del giorno della prima seduta utile.
+4. E’ compito della Reggenza vigilare sul corretto svolgimento della procedura prevista ai commi che precedono.

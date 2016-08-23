@@ -1,0 +1,9 @@
+Art. 10
+(Giudizio di ammissibilità)
+1. Spetta al Collegio Garante pronunciarsi sulla ammissibilità del quesito referendario di iniziativa popolare. Il referendum è ammesso se sono state rispettate le formalità di cui all’articolo 5 e se sussistono i requisiti di cui all’articolo 3, lettere a) e b).
+2. Il Collegio Garante, verificati gli adempimenti previsti dall'articolo 5, nonché il pieno rispetto dei requisiti di cui all’articolo 3, lettere a) e b), dichiara ammesso il referendum.
+3. Dal giudizio di ammissibilità del referendum è esclusa ogni valutazione che attenga al complesso normativo risultante a seguito dell'eventuale accoglimento della proposta referendaria e della conseguente abrogazione della legge o della norma di legge oggetto di referendum.
+4. Le decisioni di cui al presente articolo sono adottate a maggioranza dei membri del Collegio e sono inappellabili ad eccezione della decisione avente per oggetto la verifica degli adempimenti relativi alla regolarità del numero minimo delle firme dei cittadini elettori di cui all'articolo 5 e delle iscrizioni dei firmatari nelle liste elettorali per la quale è ammesso il ricorso allo stesso Collegio nel termine perentorio di dieci giorni dalla pronuncia del Collegio Garante.
+5. Il Collegio Garante deve pronunciare la propria sentenza nel termine di venti giorni dalla data di convocazione e, prima di dichiarare l’eventuale inammissibilità, può richiedere al comitato promotore chiarimenti ed integrazioni della relazione della proposta, fissando un breve termine per la risposta.
+6. La decisione del Collegio Garante è comunicata alla Reggenza, la quale, nel caso di giudizio con esito negativo, con proprio decreto, ne prende atto e ne dà pubblica notizia.
+7. Dichiarato invece ammesso il referendum dal Collegio Garante, la Reggenza ne dà formale comunicazione al comitato promotore per l'avvio della raccolta delle firme di cui all'articolo 12.

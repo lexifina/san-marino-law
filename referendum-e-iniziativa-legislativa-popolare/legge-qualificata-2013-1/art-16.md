@@ -1,0 +1,16 @@
+Art. 16
+(Votazione)
+1. Le votazioni nel referendum avvengono tramite scheda di Stato, avente le caratteristiche indicate nel modello adottato con decreto reggenziale, nella quale è riprodotta in modo chiaro ed integrale la proposta soggetta a referendum seguita dalle diciture SI – NO chiaramente differenziate.
+2. In caso di contemporaneo svolgimento di più referendum le schede relative a ciascun quesito dovranno essere di diverso colore.
+3. I seggi elettorali sono costituiti secondo le norme previste dalla vigente legge elettorale, ad eccezione delle disposizioni che disciplinano l’Ufficio elettorale intersezionale, la cui costituzione non è prevista per le consultazioni referendarie. Resta salvo il diritto di assistere a tutte le operazioni del seggio elettorale oltre che per i rappresentanti delle forze politiche di cui all’articolo 15 anche per i rappresentanti del comitato promotore del referendum stesso e del comitato contrario.
+4. Con apposita legge sono introdotte, per le consultazioni referendarie, le norme disciplinanti l’esercizio del diritto di voto con modalità informatiche a partire dal superamento del certificato elettorale cartaceo e dall’adozione di supporti informatici per il computo dell’affluenza degli elettori votanti; il tutto nel pieno rispetto dei principi fondamentali di segretezza, universalità, unicità del voto ed espressione diretta della volontà dell’elettore.[^5]
+
+[^5]: Testo originario (Legge Qualificata n.1/2013):
+    1. Le votazioni nel referendum avvengono tramite scheda di Stato, avente le caratteristiche indicate nel modello adottato con decreto reggenziale, nella quale è riprodotta in modo chiaro ed integrale la proposta soggetta a referendum seguita dalle diciture SI – NO chiaramente differenziate.
+    2. In caso di contemporaneo svolgimento di più referendum le schede relative a ciascun quesito dovranno essere di diverso colore.
+    3. I seggi elettorali sono costituiti secondo le norme previste dalla vigente legge elettorale, fermo restando il diritto di rappresentanza per i comitati e le altre organizzazioni indicate all’articolo 15.
+    4. Con apposita legge sono introdotte, per le consultazioni referendarie, le norme disciplinanti l’esercizio del diritto di voto con modalità informatiche a partire dal superamento del certificato elettorale cartaceo e dall’adozione di supporti informatici per il computo dell’affluenza degli elettori votanti; il tutto nel pieno rispetto dei principi fondamentali di segretezza, universalità, unicità del voto ed espressione diretta della volontà dell’elettore.
+    Modifiche legislative:
+    Legge Qualificata n.1/2016, Articolo 5:
+    1. L’articolo 16, comma 3, della Legge Qualificata n. 1/2013 è così modificato:
+    “3. I seggi elettorali sono costituiti secondo le norme previste dalla vigente legge elettorale, ad eccezione delle disposizioni che disciplinano l’Ufficio elettorale intersezionale, la cui costituzione non è prevista per le consultazioni referendarie. Resta salvo il diritto di assistere a tutte le operazioni del seggio elettorale oltre che per i rappresentanti delle forze politiche di cui all’articolo 15 anche per i rappresentanti del comitato promotore del referendum stesso e del comitato contrario.”.
