@@ -1,0 +1,3 @@
+Art. 3
+La notificazione per mezzo del servizio postale comporta l'impiego di doppia cedola di ricevuta, istituita ad uso degli Uffici giudiziari, comprovante i dati dell'atto di notificazione, il mittente, il destinatario e la identificazione del ricevente. Una cedola resta in mano del ricevente.
+Ciascuno dei componenti l'Ufficio Cursorile è tenuto ad annotare in ordine cronologico gli estremi di ogni notificazione eseguita in apposito registro, numerato e vidimato in ogni foglio dal Cancelliere del Tribunale Commissariale, nonché negli atti di ciascun procedimento giudiziario, di cui alla notificazione eseguita.
