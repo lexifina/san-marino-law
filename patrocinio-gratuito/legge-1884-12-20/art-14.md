@@ -1,0 +1,1 @@
+14. - Qualora la sentenza ordini in tutto o in parte la compensazione delle spese, queste saranno prelevate in tutto o in parte da ciò che il giudicato attribuisce a chi ha fruito del beneficio dei poveri.

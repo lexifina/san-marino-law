@@ -1,0 +1,10 @@
+5. - La Reggenza nomina un relatore, scelto tra gli avvocati iscritti in apposito elenco predisposto annualmente dall’Ordine degli Avvocati. Il relatore, presa cognizione della causa e riconosciuta la presumibile fondatezza della pretesa dell’istante, è tenuto innanzitutto a tentare un componimento. Qualora la conciliazione non riesca, il relatore, nella prima riunione del Commissione Nazionale delle Libere Professioni, fa la relazione della causa, dopodiché la Commissione Nazionale delle Libere Professioni emette la decisione sulla ammissione ed individua nell’ambito dell’elenco di cui al primo periodo, l’avvocato cui affidare il patrocinio della causa secondo i criteri determinati con delibera dal Consiglio dell’Ordine degli Avvocati.[^3]
+
+[^3]: Testo originario (Legge 20 dicembre 1884):
+    La Reggenza nominerà un relatore, il quale, presa cognizione della causa, è tenuto innanzi tutto a tentare un componimento.
+    Qualora la conciliazione non riesca, il relatore nella prima adunanza dei legali, farà la relazione della causa. La Reggenza, chiusa la discussione, porrà a voti la dimanda.
+    La deliberazione sarà presa in segreto coll'intervento dei soli votanti, e a maggioranza di voti.
+    Modifiche legislative:
+    Legge 1 luglio 2015 n.102, Articolo 13, comma 3:
+    3. L’articolo 5 della Legge 20 dicembre 1884 e successive modifiche è abrogato e sostituito dal seguente:
+    “La Reggenza nomina un relatore, scelto tra gli avvocati iscritti in apposito elenco predisposto annualmente dall’Ordine degli Avvocati. Il relatore, presa cognizione della causa e riconosciuta la presumibile fondatezza della pretesa dell’istante, è tenuto innanzitutto a tentare un componimento. Qualora la conciliazione non riesca, il relatore, nella prima riunione del Commissione Nazionale delle Libere Professioni, fa la relazione della causa, dopodiché la Commissione Nazionale delle Libere Professioni emette la decisione sulla ammissione ed individua nell’ambito dell’elenco di cui al primo periodo, l’avvocato cui affidare il patrocinio della causa secondo i criteri determinati con delibera dal Consiglio dell’Ordine degli Avvocati.”
