@@ -1,0 +1,5 @@
+## TITOLO III ROGATORIE ALL'ESTERO
+Art. 34
+(Trasmissione di rogatorie ad autorità straniere)
+1. Fatte salve le differenti disposizioni contenute nelle convenzioni internazionali in vigore per la Repubblica che prevedono la trasmissione diretta fra autorità giudiziarie, il magistrato titolare delle indagini qualora ciò sia necessario per lo svolgimento delle stesse, inoltra alle autorità straniere competenti le richieste relative ai procedimenti penali che abbiano per oggetto il compimento di atti istruttori o la trasmissione di mezzi di prova, fascicoli o documenti, trasmettendo le stesse alla Segreteria di Stato alla Giustizia la quale provvede all'inoltro per via diplomatica, al Ministero di Giustizia dello Stato richiesto.
+2. Qualora lo Stato richiesto, per dare corso alla richiesta di rogatoria, richieda una garanzia di reciprocità, il Segretario di Stato per la Giustizia, previa delibera congressuale in tal senso, nel rispetto dei limiti previsti dalla presente legge, garantisce o meno la reciprocità allo Stato richiesto.
