@@ -1,0 +1,4 @@
+Art. 41
+(Prescrizioni urbanistiche ed edilizie)
+1. Il Responsabile del Progetto di cui all’articolo 11 della Legge 19 luglio 1995 n.87 e successive modificazioni è tenuto ad acquisire il parere dell’AASS sulla proposta di Piano Particolareggiato e relativa Variante dallo stesso elaborato ed a modificare la proposta medesima in conformità alle indicazioni fornitegli dall’AASS; tale parere è acquisito prima dell’approvazione definitiva dello strumento urbanistico.
+2. La realizzazione di piazzole da adibire ad isola ecologica ed a pensiline per la fermata degli autobus di linea, non è soggetta al rilascio di titolo autorizzativo edilizio purché conforme alle previsioni del piano particolareggiato ovvero, in caso di assenza dello strumento urbanistico o di mancata previsione nell’ambito dello stesso, purché sia acquisito il preventivo parere favorevole dell’Azienda Autonoma di Stato di Produzione e dell’Ufficio Progettazione.

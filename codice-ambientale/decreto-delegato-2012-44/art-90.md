@@ -1,0 +1,5 @@
+Art. 90
+(Risparmio idrico)
+1. Coloro che gestiscono o utilizzano la risorsa idrica adottano le misure necessarie all’eliminazione degli sprechi ed alla riduzione dei consumi e ad incrementare il riciclo ed il riutilizzo, anche mediante l’utilizzazione delle migliori tecniche disponibili.
+2. La CTA approva, se necessario, specifiche norme sul risparmio idrico in agricoltura, basato sulla pianificazione degli usi, sulla corretta individuazione dei fabbisogni nel settore e sui controlli degli effettivi emungimenti.
+3. L’Amministrazione può promuovere e stipulare accordi con soggetti economici interessati, al fine di favorire il risparmio idrico, il riutilizzo delle acque di scarico e il recupero come materia prima dei fanghi di depurazione, con la possibilità di ricorrere a strumenti economici, di stabilire agevolazioni in materia di adempimenti amministrativi e di fissare, per le sostanze ritenute utili, limiti agli scarichi in deroga alla disciplina generale, nel rispetto comunque delle norme comunitarie e delle misure necessarie al conseguimento degli obiettivi di qualità.

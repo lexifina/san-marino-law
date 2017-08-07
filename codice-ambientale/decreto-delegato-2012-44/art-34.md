@@ -1,0 +1,5 @@
+Art. 34
+(Veicoli fuori uso)
+1. Il proprietario di un veicolo a motore che intenda procedere alla demolizione dello stesso, deve consegnarlo ad un impianto debitamente autorizzato per la messa in sicurezza, la demolizione, il recupero dei materiali e la rottamazione.
+2. Il proprietario di un veicolo a motore destinato alla demolizione può, altresì, consegnarlo ai concessionari o alle succursali della case costruttrice che sono tenuti a curarne il conferimento successivo agli impianti di demolizione.
+3. Gli impianti di demolizione ovvero i concessionari o succursali, rilasciano al proprietario del veicolo consegnato per la demolizione un certificato nel quale risulta la data della consegna, gli estremi dell’autorizzazione del centro, le generalità del proprietario e gli estremi di identificazione del veicolo nonché l’assunzione da parte del gestore del centro stesso ovvero di un concessionario o titolare della succursale, dell’impegno a provvedere direttamente alle pratiche di cancellazione dal Registro Automobilistico.

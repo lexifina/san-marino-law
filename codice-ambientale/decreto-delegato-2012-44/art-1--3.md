@@ -1,0 +1,4 @@
+Articolo 1
+(Limitazione della garanzia)
+1. La Società garantisce all’Ecc.ma Camera della Repubblica di San Marino, fino alla concorrenza dell’importo massimo complessivo indicato in premessa, le somme che l’impresa e suoi obbligati solidali ai sensi di legge siano tenuti a corrispondere alla stessa Ecc.ma Camera per la copertura delle eventuali spese sostenute dalla Pubblica Amministrazione in relazione agli oneri di cui all’articolo 6, paragrafi 1 e 2 del Regolamento (CE) n.1013/2006 e, in particolare, per il trasporto dei rifiuti, il loro recupero o smaltimento, il loro deposito e per la bonifica dei siti inquinati connessi alle operazioni di cui in premessa.
+2. Nel caso in cui la fideiussione riguardi più trasporti la garanzia è comunque prestata fino alla concorrenza dell’importo massimo complessivo indicato in premessa in relazione a ciascun trasporto.

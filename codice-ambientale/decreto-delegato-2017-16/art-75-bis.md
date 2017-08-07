@@ -1,0 +1,4 @@
+Art. 75-bis
+Sino alla piena operatività dell’Unità Organizzativa UPA, i compiti, le attività e le funzioni di cui all’articolo 6 del Decreto Delegato 27 aprile 2012 n.44 come sostituito dall’articolo 5 del presente decreto sono così assegnati:
+a) all’Unità Operativa Gestione Ambientale (UOGA) i compiti di cui al comma 1, lettera a), punti 2, 3, 4 e 9 e l’attività di supporto di cui al comma 1, lettera a), punti 7 e 8 e di cui al comma 2 del citato articolo 6;
+b) al Dipartimento Prevenzione (DP) i compiti di cui al comma 1, lettera a), punti 1, 5 e 6, 7 e 8, al comma 1, lettera b), punti 1 e 2, al comma 1, lettera c) punti 1, 2 e 3, al comma 1, lettera d), punti 1 e 2, al comma 1, lettera e), punti 1 e 2, l’attività istruttoria di cui al comma 2, l’attività di vigilanza e controllo di cui al comma 3 e le funzioni di cui al comma 6 del citato articolo 6.
