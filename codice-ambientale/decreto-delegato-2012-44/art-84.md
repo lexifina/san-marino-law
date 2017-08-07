@@ -1,0 +1,3 @@
+Art. 84
+(Opere di urbanizzazione realizzate da privati)
+1. Qualora l’Amministrazione, mediante atti di convenzionamento ritenga opportuno demandare a soggetti privati le opere di urbanizzazione, compresa la posa della rete fognaria, dovrà costituire parte integrante del suddetto convenzionamento anche il progetto esecutivo di posa delle fognature preventivamente validato dal gestore del servizio idrico integrato. L’allacciamento ai collettori pubblici avverrà dopo il collaudo favorevole della rete fognaria svolto dal gestore del servizio idrico integrato o da professionisti da questo incaricati. Il gestore del servizio idrico integrato ha facoltà di condurre anche verifiche nel corso dei lavori.
