@@ -1,0 +1,14 @@
+Art.9
+(Comitato valutatore)
+1. I benefici sono concessi da un comitato valutatore composto dal Segretario di Stato all’Industria e Commercio o suo delegato, dal Segretario di Stato al Lavoro o suo delegato, dal Dirigente dell’Ufficio Industria, Artigianato e Commercio o suo delegato e dal Direttore della Camera di Commercio o suo delegato. Il comitato valutatore è presieduto dal Segretario di Stato all’Industria e Commercio o suo delegato. Il comitato valutatore viene convocato dal Direttore della Camera di Commercio.
+2. Il comitato valutatore ha il compito di verificare la sussistenza dei requisiti di cui alla presente legge, la correttezza e completezza della documentazione, nonché di esaminare, valutare il progetto d'impresa e deliberare in merito.
+3. Il comitato valutatore esamina entro venti giorni lavorativi dalla presentazione il progetto con i promotori, successivamente delibera e comunica al presentatore, mediante raccomandata con avviso di ricevimento, la propria motivata decisione entro dieci giorni lavorativi dalla data di deliberazione.[^3]
+
+[^3]: Testo originario (Legge 178/2015):
+    1. I benefici sono concessi da un comitato valutatore composto dal Segretario di Stato all’Industria e Commercio o suo delegato, dal Segretario di Stato al Lavoro o suo delegato, dal Dirigente dell’Ufficio Industria, Artigianato e Commercio o suo delegato e dal Direttore della Camera di Commercio o suo delegato. Il comitato valutatore è presieduto dal Segretario di Stato all’Industria e Commercio o suo delegato. Il comitato valutatore viene convocato dal Dirigente dell’Ufficio Industria, Artigianato e Commercio.
+    2. Il comitato valutatore ha il compito di verificare la sussistenza dei requisiti di cui alla presente legge, la correttezza e completezza della documentazione, nonché di esaminare, valutare il progetto d'impresa e deliberare in merito.
+    3. Il comitato valutatore esamina entro venti giorni lavorativi dalla presentazione il progetto con i promotori, successivamente delibera e comunica al presentatore, mediante raccomandata con avviso di ricevimento, la propria motivata decisione entro dieci giorni lavorativi dalla data di deliberazione.
+    Modifiche legislative:
+    Decreto - Legge 31 marzo 2016 n.42, Articolo 03:
+    1. Il comma 1 dell’articolo 9 della Legge n.178/2015 è sostituito dal seguente comma:
+    “1. I benefici sono concessi da un comitato valutatore composto dal Segretario di Stato all’Industria e Commercio o suo delegato, dal Segretario di Stato al Lavoro o suo delegato, dal Dirigente dell’Ufficio Industria, Artigianato e Commercio o suo delegato e dal Direttore della Camera di Commercio o suo delegato. Il comitato valutatore è presieduto dal Segretario di Stato all’Industria e Commercio o suo delegato. Il comitato valutatore viene convocato dal Direttore della Camera di Commercio.”.
