@@ -1,0 +1,4 @@
+Art.10
+(Esame della domanda e provvedimento di ammissione ai benefici)
+1. Il comitato valutatore sulla base del progetto presentato, delibera l’ammissione ai benefici nella misura e proporzione che ritiene più congrua alla realizzazione del progetto imprenditoriale, tenuto conto dell’idoneità dei soggetti proponenti, delle potenzialità del mercato di riferimento, delle scelte tecniche ipotizzate, della convenienza economica dell'iniziativa e valutata la compatibilità dell'iniziativa con gli eventuali indirizzi economici generali della Repubblica di San Marino.
+2. La liquidazione e l’erogazione del prestito d’onore e degli incentivi alla stabilizzazione sono effettuati dall’Ufficio Industria, Artigianato e Commercio entro sette giorni lavorativi dalla data di deliberazione del rilascio dei benefici.
