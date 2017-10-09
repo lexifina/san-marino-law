@@ -1,0 +1,4 @@
+Art. 1
+La Repubblica di San Marino riconosce, come parte integrante del proprio ordinamento, le norme del diritto internazionale generalmente riconosciute e conforma ad esse i suoi atti e la condotta. Si uniforma alle norme contenute nelle dichiarazioni internazionali in tema di diritti dell’uomo e delle libertà fondamentali. Riconferma il diritto di asilo politico. Rifiuta la guerra come strumento di risoluzione delle controversie fra Stati e si conforma, nell’azione internazionale, ai principi sanciti dallo Statuto delle Nazioni Unite.
+L’ordinamento sammarinese riconosce, garantisce ed attua i diritti e le libertà fondamentali enunciate nella Convenzione Europea per la salvaguardia dei diritti dell’uomo e delle libertà fondamentali.
+Gli accordi internazionali in tema di protezione delle libertà e dei diritti dell’uomo, regolarmente stipulati e resi esecutivi, prevalgono in caso di contrasto sulle norme interne.
