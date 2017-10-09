@@ -1,0 +1,26 @@
+Art.18
+Lavoro interno Il programma di trattamento si articola anche attraverso il lavoro.
+Il lavoro è finalizzato anche a far acquisire al detenuto una preparazione professionale adeguata alle normali condizioni lavorative e ad agevolarne il reinserimento sociale. Il lavoro deve altresì consentire il mantenimento e, se possibile, l’accrescimento delle capacità lavorative.
+Il lavoro penitenziario è remunerato. La durata delle prestazioni lavorative non può superare i limiti stabiliti dalle leggi vigenti in materia di lavoro.
+Nell’assegnazione al lavoro, al fine di responsabilizzare il detenuto, si tiene conto delle proposte di quest’ultimo in merito a progetti di lavoro, che saranno valutate dal GOT.
+Sono esclusi dall’assegnazione di cui al quarto comma, i detenuti che:
+a) con i loro comportamenti compromettano la sicurezza ovvero turbino l’ordine dell’istituto;
+b) con violenza o minaccia impediscano le attività di altri detenuti;
+c) nella vita penitenziaria si avvalgano dello stato di soggezione degli altri detenuti nei loro confronti.
+Il provvedimento di esclusione è adottato dalla Direzione dell’Istituto, ed è comunicato senza indugio al Magistrato competente. Il provvedimento di esclusione non può essere superiore ai sei mesi, prorogabile in misura non superiore ogni volta a tre mesi. Sulla remunerazione spettante ai detenuti sono prelevate le somme dovute a titolo di risarcimento del danno, di rimborso delle spese di procedimento e di mantenimento in carcere secondo le modalità e la misura indicata dal regolamento. Il Direttore del Dipartimento Affari Istituzionali e Giustizia, sentito il GOT, stipula apposite convenzioni con soggetti pubblici o privati o cooperative sociali interessati a fornire ai detenuti opportunità di lavoro. Le convenzioni disciplinano l’oggetto e le condizioni di svolgimento dell’attività lavorativa, la formazione del lavoratore e il trattamento retributivo, senza oneri a carico della finanza pubblica. Viene altresì stipulato, con il singolo detenuto interessato, apposito contratto di lavoro penitenziario a tempo determinato, rinnovabile annualmente o per frazioni di anno. I detenuti che mostrino attitudini artigianali, culturali o artistiche possono essere ammessi ad esercitare per proprio conto attività artigianali, intellettuali o artistiche.[^3]
+
+[^3]: Testo originario Legge 29 aprile 1997 n.44:
+    Art. 18 Attività lavorative All'interno della struttura carceraria deve essere favorito il lavoro compatibilmente con gli spazi carcerari; apposito regolamento ne disciplinerà le modalità.
+    Modifiche legislative.
+    Legge 26 aprile 2017 n.45, Articolo 3:
+    L’articolo 18 della Legge 29 aprile 1997 n.44 è così modificato:
+    “Art.18 Lavoro interno Il programma di trattamento si articola anche attraverso il lavoro.
+    Il lavoro è finalizzato anche a far acquisire al detenuto una preparazione professionale adeguata alle normali condizioni lavorative e ad agevolarne il reinserimento sociale. Il lavoro deve altresì consentire il mantenimento e, se possibile, l’accrescimento delle capacità lavorative.
+    Il lavoro penitenziario è remunerato. La durata delle prestazioni lavorative non può superare i limiti stabiliti dalle leggi vigenti in materia di lavoro.
+    Nell’assegnazione al lavoro, al fine di responsabilizzare il detenuto, si tiene conto delle proposte di quest’ultimo in merito a progetti di lavoro, che saranno valutate dal GOT.
+    Sono esclusi dall’assegnazione di cui al quarto comma, i detenuti che:
+    a) con i loro comportamenti compromettano la sicurezza ovvero turbino l’ordine dell’istituto;
+    b) con violenza o minaccia impediscano le attività di altri detenuti;
+    c) nella vita penitenziaria si avvalgano dello stato di soggezione degli altri detenuti nei loro confronti.
+    Il provvedimento di esclusione è adottato dalla Direzione dell’Istituto, ed è comunicato senza indugio al Magistrato competente. Il provvedimento di esclusione non può essere superiore ai sei mesi, prorogabile in misura non superiore ogni volta a tre mesi. Sulla remunerazione spettante ai detenuti sono prelevate le somme dovute a titolo di risarcimento del danno, di rimborso delle spese di procedimento e di mantenimento in carcere secondo le modalità e la misura indicata dal regolamento.
+    Il Direttore del Dipartimento Affari Istituzionali e Giustizia, sentito il GOT, stipula apposite convenzioni con soggetti pubblici o privati o cooperative sociali interessati a fornire ai detenuti opportunità di lavoro. Le convenzioni disciplinano l’oggetto e le condizioni di svolgimento dell’attività lavorativa, la formazione del lavoratore e il trattamento retributivo, senza oneri a carico della finanza pubblica. Viene altresì stipulato, con il singolo detenuto interessato, apposito contratto di lavoro penitenziario a tempo determinato, rinnovabile annualmente o per frazioni di anno. I detenuti che mostrino attitudini artigianali, culturali o artistiche possono essere ammessi ad esercitare per proprio conto attività artigianali, intellettuali o artistiche.”.
