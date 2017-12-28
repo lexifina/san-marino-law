@@ -1,0 +1,27 @@
+Art. 13
+(Impegni occupazionali per residenza automatica)
+1. L’articolo 2 del Decreto Delegato 25 aprile 2014 n.63 è così sostituito:
+“Art.2
+(Impegni occupazionali per residenza automatica)
+1. Il regime semplificato di cui all’articolo 16 della Legge n.71/2013 è accessibile
+solo qualora vengano assunti dalle liste di avviamento al lavoro almeno cinque
+dipendenti a tempo indeterminato e ad orario contrattuale pieno; nel caso di
+assunzione di un numero maggiore di lavoratori, compresi quelli assunti a tempo
+determinato, almeno il 50% di questi deve essere reclutato dalle liste di avviamento
+al lavoro.
+2. L’eventuale assunzione dei soci della società e dei loro famigliari non rileva ai
+fini del requisito occupazionale richiesto dal comma precedente.
+3. Nel caso di progetti imprenditoriali con specializzazione particolarmente elevata,
+all’atto della presentazione del progetto imprenditoriale, è possibile fare richiesta di
+sostituire parte del personale da assumere dalle liste di avviamento al lavoro con
+personale da assumere al di fuori delle liste di avviamento al lavoro, purché in
+possesso di particolari qualifiche, determinanti per l’avvio del progetto
+imprenditoriale, da documentare in maniera specifica anche attraverso la
+produzione di certificazione idonea a comprovarle. Il Comitato Tecnico Valutatore
+delibera in merito a tale richiesta, consultato l’Ufficio del Lavoro rispetto alla
+presenza o meno di tale personale nelle liste di avviamento al lavoro.
+4. Nel caso di progetti imprenditoriali atti a rilevare un’attività esistente ai sensi di
+quanto previsto dall’articolo 15 della Legge 27 giugno 2013 n.71, qualora l’impresa
+rilevata non abbia i minimi occupazionali indicati al comma 1, questi devono essere
+integrati entro sessanta giorni dal rilevamento. L’integrazione rileva ai fini
+dell’accesso ai benefici fiscali e del regime semplificato.”.

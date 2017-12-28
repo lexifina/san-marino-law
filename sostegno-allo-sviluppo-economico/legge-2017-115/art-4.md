@@ -1,0 +1,5 @@
+Art. 4
+(Politiche incentivanti l’assunzione di categorie deboli)
+1. L'aliquota contributiva di cui all’articolo 9, comma 1, lettera a) della Legge 31 marzo 2010 n.73 è azzerata per ogni lavoratore assunto di cui all'articolo 70, comma 2, della Legge n.166/2013, così come sostituito dalla presente legge, per un periodo di quattro anni dal momento dell’assunzione.
+2. Le disposizioni di cui al comma 1 si applicano soltanto per le assunzioni effettuate a partire dall’entrata in vigore della presente legge. Per quelle effettuate in precedenza restano in vigore le norme vigenti al momento dell’assunzione, che si applicano anche ai rinnovi di permessi di lavoro presso la stessa impresa dei medesimi lavoratori. Le assunzioni effettuate da imprese che acquisiscano, assorbano o proseguano l’attività di imprese precedentemente esistenti, a condizione che queste ultime vengano cessate e solo limitatamente ai lavoratori precedentemente impiegati in tali imprese, non sono considerate come nuove.
+3. Le aliquote di cui al presente articolo possono essere modificate con decreto delegato sulla base dell’andamento delle liste di avviamento al lavoro.

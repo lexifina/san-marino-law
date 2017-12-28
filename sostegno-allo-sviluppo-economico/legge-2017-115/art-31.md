@@ -1,0 +1,6 @@
+Art. 31
+(Immobili ad uso produttivo)
+1. È istituito il “Registro degli immobili a uso economico”, tenuto dalla Camera di Commercio e contenente un elenco degli immobili a destinazione produttiva, commerciale e servizi che non ospitino attività economiche e siano disponibili per l’affitto o la vendita.
+2. Tutti i proprietari di immobili che rispondano ai criteri di cui al comma 1 sono tenuti ad iscriverli al registro indicando, quantomeno, la metratura dell’immobile, la sua ubicazione, la sua destinazione ed il prezzo indicativo a cui può essere venduto o affittato, nonché eventualmente una breve descrizione dell’immobile e l’indicazione del recapito a cui l’interessato può rivolgersi per ricevere maggiori informazioni.
+3. Il “Registro degli Immobili a uso economico” viene messo a disposizione, dalla Camera di Commercio, di eventuali investitori che vogliano aprire una attività in Repubblica e siano alla ricerca di un immobile in cui ubicarla.
+4. La Camera di Commercio stabilisce eventuali ulteriori dati o elementi necessari per una corretta tenuta del registro e pone in essere tutte le misure idonee per rendere noto questo servizio gratuito a tutti i proprietari di immobili ad uso economico della Repubblica.

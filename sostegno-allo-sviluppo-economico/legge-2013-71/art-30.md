@@ -1,0 +1,5 @@
+## TITOLO VI MODIFICHE DELLE NORME IN MATERIA DI PROCEDURA CIVILE
+Art. 30
+(Modifica all’articolo 1 della Legge 17 giugno 1994 n. 55 e successive modifiche)
+1. La procedura sommaria documentale, disciplinata dalla Rubrica VII, paragrafo 154, del Libro II delle Leges Statutae e dall’articolo 1 della Legge 17 giugno 1994 n.55 e successive modificazioni, si applica, oltre che sulla base dei documenti indicati nel predetto articolo 1 della Legge n.55/1994, anche sulla base di estratti conto bancari con attestazione di conformità alle scritture contabili fornita da parte del legale rappresentante o dell’amministratore delegato o del direttore generale dell’istituto di credito, autenticata da notaio.
+2. La procedura sommaria documentale applicata sulla base delle parcelle di onorari e spese professionali può essere attivata, oltre che in presenza di liquidazione dell’autorità giudiziaria, come previsto dall’articolo 1 della predetta Legge n.55/1994, anche in presenza di opinamento degli ordini professionali.
