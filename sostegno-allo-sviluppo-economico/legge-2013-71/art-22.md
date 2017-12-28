@@ -1,0 +1,4 @@
+Art. 22
+(Proroghe e irregolarità)
+1. I progetti imprenditoriali indicati nel presente Titolo devono essere realizzati e conclusi nel termine indicato dal progetto stesso, salvo proroghe concesse dal Comitato Tecnico Valutatore motivate da comprovate circostanze. Tale proroga, sebbene motivata, non potrà superare gli ulteriori dodici mesi.
+2. Annualmente l’Ufficio Industria, Artigianato e Commercio verifica il rispetto delle condizioni autorizzative. Qualora l’Ufficio rilevi irregolarità e discordanze rispetto al progetto autorizzato o violazione alle disposizioni della presente legge, dà comunicazione al Comitato Tecnico Valutatore che decide sulla revoca dei benefici e delle residenze collegate ai progetti imprenditoriali e ne dà comunicazione agli uffici competenti per i conseguenti adempimenti. L’Ufficio di Stato Civile, ricevuta comunicazione di revoca delle residenze, procede alla cancellazione dai Registri della popolazione residente.

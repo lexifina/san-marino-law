@@ -1,0 +1,5 @@
+Art. 16
+(Incentivi per iniziative di internazionalizzazione)
+1. Al fine di agevolare i processi di internazionalizzazione delle imprese sammarinesi, è concesso un credito d’imposta IGR pari al 20% delle spese ammissibili sostenute da parte di operatori economici sammarinesi per la partecipazione ad iniziative imprenditoriali, missioni, partecipazione a fiere ed altre iniziative di ricerca di nuovi mercati.
+2. Le domande sono presentate alla Camera di Commercio di San Marino. Il Comitato Tecnico Valutatore di cui all’articolo 17 della Legge n.71/2013, sulla base di quanto disposto dal regolamento di cui al comma 3, stabilisce l’eventuale accesso ai benefici di cui al presente articolo e l’importo di credito d’imposta IGR da erogare.
+3. Il Congresso di Stato adotta un regolamento applicativo del presente articolo dove sono specificati i requisiti che devono avere le imprese beneficiarie, la tipologia di spese ammissibili, nonché ogni altra disposizione necessaria all'attuazione del presente articolo comprese quelle relative all'istruzione delle pratiche.

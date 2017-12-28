@@ -1,0 +1,13 @@
+## TITOLO VI DISPOSIZIONI FINALI
+Art. 32
+(Norme transitorie, finali e di coordinamento)
+1. Sono fatti salvi tutti i benefici, sussidi, abbattimenti o riduzioni ottenuti in forza delle norme tempo per tempo vigenti prima dell’entrata in vigore della presente legge.
+2. L’eventuale abbattimento dell’imponibile già concesso alle imprese ai sensi del previgente articolo 70 della Legge n.166/2013, può essere suddiviso, su richiesta dell’impresa interessata, in un massimo di cinque esercizi. Le modalità applicative del presente articolo sono stabilite tramite Circolare dell’Ufficio Tributario.
+3. La decorrenza delle disposizioni di cui all’articolo 5, ad eccezione del comma 11, è fissata al 1° gennaio 2018 ed è modificabile con decreto delegato sulla base dell’andamento del processo di associazione di cui all’articolo 5, comma 10, della presente legge.
+4. Le imprese che siano intervenute nel rilevamento di attività in conclamata crisi aziendale, a seguito di specifico accordo sottoscritto con le Segreterie di Stato, le organizzazioni sindacali e dei datori di lavoro, prima dell’entrata in vigore della presente legge, e che soddisfino le condizioni di cui all’articolo 71, comma 5, della Legge n.166/2013, possono richiedere un credito di imposta IGR pari al valore delle maggiori imposte pagate rispetto a quelle previste all’articolo 73 della Legge n.166/2013, fermo restando che il periodo temporale di cui all’articolo 73, comma 1, lettera c) della medesima legge resta quello vigente al momento del rilevamento e decorre dal primo esercizio per il quale tale credito d’imposta IGR è stato richiesto.
+5. L’articolo 19, comma 3, lettera d) della Legge n.42/1955 è così modificato:
+“d) i soci delle società regolarmente costituite, ove entrino in regolare rapporto di
+lavoro con la società, nonché gli amministratori, i consiglieri delegati o di
+amministrazione ed in genere tutti coloro che hanno, in virtù di cariche sociali, la
+rappresentanza e l’amministrazione della società.”.
+6. I lavoratori non iscritti alle liste di avviamento al lavoro titolari di rapporto di lavoro a tempo determinato nel corrente anno (2017), che abbiano lavorato ininterrottamente presso la stessa impresa nella Repubblica di San Marino da periodi antecedenti il 31 dicembre 2016, e che avranno il loro rapporto di lavoro confermato entro il 30 giugno 2018, avranno tale rapporto di lavoro trasformato a tempo indeterminato a decorrere dall’1 luglio 2018.
