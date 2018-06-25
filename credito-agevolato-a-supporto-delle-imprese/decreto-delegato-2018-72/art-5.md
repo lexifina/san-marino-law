@@ -1,0 +1,3 @@
+Art. 5
+(Progetti finanziabili)
+1. Il Comitato di cui all’articolo 15 ammette ai finanziamenti previsti dal presente decreto delegato, i progetti aziendali che prevedano nuovi investimenti tesi ad uno sviluppo dell’impresa e/o ad un suo riposizionamento sul mercato e/o al mantenimento della sua capacità competitiva e che, fatte salve specifiche deroghe previste dal presente decreto delegato, comportino il mantenimento o l’incremento del numero delle risorse umane occupate nell’impresa stessa nel rispetto dei limiti minimi occupazionali previsti. Sono, altresì, considerati ammissibili gli investimenti in corso da non più di sei mesi dalla data della richiesta a decorrere dal primo acquisto di beni oggetto dell’investimento.

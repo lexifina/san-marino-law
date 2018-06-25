@@ -1,0 +1,3 @@
+Art.3
+Ai sensi del 3°) comma dell'art.7 della Legge 28 gennaio 1993 n.13 ed ai fini del trattamento in conto interessi, nel comparto dell'industria alberghiera gli interventi da privilegiare sono quelli fissati dall'art. 14 della già citata legge.
+Per gli interventi di cui ai punti 1) e 2) nel comparto dell'industria alberghiera di cui al precedente articolo 1, l'intervento dello Stato potrà essere elevato fino al massimo del 90% del valore globale del progetto complessivo relativo sia ad interventi di ristrutturazione e/o ampliamento dell'immobile sia all'acquisto di attrezzature, impianti ed arredi.
