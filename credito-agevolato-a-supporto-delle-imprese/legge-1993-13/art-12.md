@@ -1,0 +1,5 @@
+Art. 12
+SOGGETTI FINANZIABILI
+Allo scopo di potenziare, qualificare e diversificare l'offerta turistica quale componente del reddito del Paese, di elevarne l'immagine sul mercato nazionale ed internazionale godono dei benefici previsti al presente titolo le imprese alberghiere e le imprese che realizzano infrastrutture di interesse pubblico.
+Le imprese che intendono beneficiare degli interventi previsti al presente titolo dovranno sottoscrivere apposite convenzioni con lo Stato; tali convenzioni, in particolare per le imprese che realizzano infrastrutture di interesse pubblico, dovranno indicare le finalità di reciproco interesse nell'ambito degli scopi previsti al comma precedente; la convenzione dovrà altresì prevedere – nei limiti massimi stabiliti ai successivi artt. 13 e 14 - l'ammontare, la durata e la percentuale dell'intervento in conto interessi dei finanziamenti.
+Qualora le attività disciplinate al presente titolo siano esercitate da un gestore la convenzione potrà prevedere anche l'intervento del proprietario dell'immobile.

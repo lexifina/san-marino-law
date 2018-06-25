@@ -1,0 +1,4 @@
+Art. 27
+(Revocatoria)
+1. Le obbligazioni derivanti dai finanziamenti di cui al presente decreto delegato ed il relativo privilegio indicato al articolo 25 non sono soggetti, dopo il consolidamento del privilegio di cui al comma 2, né all’azione revocatoria concorsuale prevista dall’articolo 3 della Legge 15 novembre 1917 n.17 e successive modifiche né all’azione revocatoria “pauliana”. Analogo trattamento è riconosciuto alle eventuali ulteriori garanzie poste in essere ai fini dell’erogazione dei mutui di cui al presente decreto delegato.
+2. Il privilegio di cui all’articolo 25, comma 1, si consolida entro dieci giorni dall’iscrizione presso la Conservatoria dei Registri Immobiliari o del Tribunale. Il predetto termine si applica anche alle eventuali ulteriori garanzie poste in essere ai fini dell’erogazione dei mutui di cui al presente decreto delegato.

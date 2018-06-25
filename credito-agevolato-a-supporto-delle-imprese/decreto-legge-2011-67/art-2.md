@@ -1,0 +1,5 @@
+Art. 2
+Le domande aventi per oggetto il finanziamento dei progetti di cui all’articolo 4, comma 2, lettera e), della Legge 3 agosto 2009 n.109, sono ammissibili anche in assenza dei requisiti previsti dell’articolo 3, comma 2, della medesima legge.
+Nei casi di cui al comma precedente, l’istanza può essere presentata anche da costituende imprese ancora non operative o dai soggetti che intendono acquisire l’impresa.
+I soggetti di cui al precedente secondo comma che presentano l’istanza devono comunque soddisfare i restanti requisiti previsti dalla Legge n. 109/2009 e successive modificazioni ivi compresa la presentazione del progetto aziendale. L’erogazione del finanziamento è comunque subordinata al completamento delle procedure di acquisizione dell’azienda o del ramo d’azienda ed all’avvio dell’attività economica.
+Nei casi disciplinati dal presente articolo è finanziabile sia l’investimento teso all’acquisto dell’azienda o ramo dell’azienda sia gli eventuali ulteriori investimenti rilevabili dal progetto aziendale rientranti nelle tipologie previste all’articolo 4 della Legge n. 109/2009.

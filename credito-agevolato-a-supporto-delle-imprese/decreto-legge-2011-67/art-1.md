@@ -1,0 +1,3 @@
+## ECONOMICHE
+Art. 1
+Fatto salvo l’ammontare massimo di finanziamenti erogabili di cui all’articolo 1, comma 2, della Legge 3 agosto 2009 n.109, il termine di cui all’articolo 5, comma 1 della medesima e di cui all’articolo 1, primo comma, del relativo Regolamento di esecuzione del 22 ottobre 2009 n. 2, già modificati con l’articolo 27, comma 2, della Legge 21 dicembre 2009 n.168 e dall’articolo 24 del Decreto Legge 26 ottobre 2010 n.172, sono prorogati al 31 marzo 2011.

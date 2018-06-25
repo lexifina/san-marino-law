@@ -1,0 +1,54 @@
+## RACCOLTA COORDINATA DELLE NORME IN MATERIA DI CREDITO AGEVOLATO A SUPPORTO DELLE IMPRESE
+## LEGGI CITATE NEL TESTO COORDINATO E NELLE ALTRE NORME IN MATERIA
+(AGGIORNATO AL 25 GIUGNO 2018)
+- Legge Ipotecaria 16 marzo 1854
+- Legge 15 novembre 1917 n.17
+- Legge 17 febbraio 1961 n.7
+- Legge 27 luglio 1979, n. 50
+- Legge 29 marzo 1982 n.32
+- Legge 31 luglio 1985 n.88
+- Legge 13 novembre 1985 n.139
+- Legge 29 settembre 1987 n.118
+- Legge 29 maggio 1991 n.70
+- Legge 29 gennaio 1992 n.7
+- Legge 28 gennaio 1993 n.13
+- Legge 19 luglio 1995 n.87
+- Legge 19 marzo 1996 n.35
+- Legge 24 novembre 1997 n.134
+- Decreto 21 febbraio 2001 n.25
+- Legge 17 novembre 2005 n.165
+- Decreto 25 luglio 2003 n.96
+- Legge 21 gennaio 2004 n. 6
+- Legge 25 maggio 2004 n.70
+- Decreto 20 luglio 2004 n. 100
+- Legge Costituzionale 16 dicembre 2005 n.185
+- Legge 27 gennaio 2006 n.22
+- Legge 23 febbraio 2006 n.47
+- Decreto 30 maggio 2006 n.78
+- Regolamento 27 marzo 2007 n.3
+- Decreto Delegato 7 luglio 2008 n.106
+- Legge 3 agosto 2009 n.109
+- Regolamento 22 ottobre 2009 n.2
+- Legge 21 dicembre 2009 n.168
+- Legge 26 luglio 2010 n.130
+- Decreto Legge 26 ottobre 2010 n.172
+- Legge 22 dicembre 2010 n.194
+- Decreto - Legge 28 aprile 2011 n.67
+- Decreto Delegato 28 aprile 2011 n.68
+- Decreto Legge 20 settembre 2011 n.146
+- Decreto-Legge 31 maggio 2012 n.61
+- Legge 27 giugno 2013 n.71
+- Decreto Delegato 24 luglio 2013 n. 93
+- Regolamento 11 settembre 2013 n.3
+- Decreto Delegato 10 dicembre 2013 n.165
+- Legge 16 dicembre 2013 n. 166
+- Legge 21 dicembre 2012 n.150
+- Decreto Delegato 25 aprile 2014 n.63
+- Decreto Delegato 30 ottobre 2014 n.174
+- Legge 5 dicembre 2014 n.211
+- Decreto Delegato 20 marzo 2015 n.33
+- Legge 7 agosto 2015 n.137
+- Decreto Delegato 3 novembre 2015 n.162
+- Legge 22 dicembre 2015 n.189
+- Decreto Delegato 6 luglio 2017 n.77
+- Decreto Delegato 25 giugno 2018 n.72

@@ -1,0 +1,10 @@
+Art. 30
+(Proroga durata del mutuo agevolato)
+1. Nel caso in cui l’operatore economico, a causa di documentate situazioni di crisi economica, non riesca ad ottemperare nei termini previsti al pagamento delle rate per il rimborso del prestito ottenuto, si applicano le disposizioni del presente articolo.
+2. L’operatore economico può avanzare richiesta all’organo che ha autorizzato il credito precisando e documentando le ragioni che inducono alla richiesta di proroga. Possono essere ammessi alle procedure previste dal presente articolo gli operatori economici che abbiano pagato almeno quattro rate semestrali del mutuo agevolato ai sensi delle norme in vigore e non abbiano più di due rate scadute.
+3. La richiesta deve essere corredata da consenso dell’istituto di credito erogante e di eventuale aggiornamento delle garanzie ritenute necessarie.
+4. In caso di accoglimento della richiesta, il mutuo originario viene estinto e si stipula un nuovo mutuo per il capitale residuo la cui durata sarà pari al periodo residuo del mutuo originario sommando il periodo della proroga che non potrà superare i cinque anni per i mutui a cinque anni e i dieci anni per quelli a dieci anni. Non sono ammissibili richieste di proroga di mutuo agevolato qualora il mutuo in corso sia già pari al massimo previsto dall’articolo 16, comma 4.
+5. Durante tale periodo, il contributo in conto interessi resterà comunque ed in ogni caso limitato alla durata del mutuo originario autorizzato ed il contributo in conto interessi da parte dello Stato sarà commisurato alle nuove rate in scadenza pagate secondo il tasso convenzionato ed alla percentuale in conto interessi prevista dalla norma che ha autorizzato il credito agevolato erogato.
+6. Nel periodo di proroga del mutuo, l’istituto di credito erogante riconosce all’operatore economico il tasso convenzionato dell’anno di stipula del nuovo mutuo.
+7. La decorrenza dell’intervento in conto interessi ha inizio dal semestre successivo a quello di presentazione della richiesta.
+8. Per ogni mutuo agevolato l’operatore economico può avanzare una sola richiesta di proroga ai sensi del presente articolo.
