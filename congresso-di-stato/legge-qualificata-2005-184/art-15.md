@@ -1,0 +1,6 @@
+Art.15
+(Delibere del Congresso di Stato)
+1. Le delibere del Congresso di Stato sono raccolte cronologicamente e numerate progressivamente per seduta.
+2. Le delibere, tranne quelle di cui al successivo quarto comma, sono inviate alla Reggenza, ai Segretari di Stato e agli uffici che ne devono curare l’esecuzione, nonché ai privati direttamente interessati.
+3. La raccolta delle delibere, tranne quelle di cui al successivo quarto comma, è pubblica e può essere consultata da tutti i cittadini presso gli uffici della Segreteria Esecutiva del Congresso di Stato secondo le modalità stabilite dal Congresso di Stato e che comunque saranno indicate dal regolamento di cui al precedente articolo 8. Delle delibere può essere estratta copia da chi ne faccia richiesta, secondo le modalità di cui al sopradetto regolamento.
+4. Le delibere espressamente dichiarate riservate dal Congresso di Stato sono conservate in apposita raccolta tenuta presso l’Ufficio Segreteria Esecutiva del Congresso di Stato e possono essere consultate esclusivamente dalla Reggenza e dai Segretari di Stato in carica che sono tenuti al segreto. Possono essere dichiarate riservate quelle delibere in materia di sicurezza dello Stato e di relazioni internazionali.

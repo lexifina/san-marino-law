@@ -1,0 +1,4 @@
+## RACCOLTA COORDINATA DI NORME SUL CONGRESSO DI STATO
+## LEGGI CITATE NELLA RACCOLTA COORDINATA
+(AGGIORNATO AL 3 AGOSTO 2018)
+Legge 8 luglio 1974 n. 59 Decreto 27 giugno 1909 Legge 28 giugno 1989 n. 68 Legge 29 ottobre 1993 n. 115 Legge 5 settembre 1997 n. 97 Legge 26 febbraio 2002 n. 36 Legge di revisione costituzionale 14 dicembre 2005 n. 182 Legge Costituzionale 15 dicembre 2005 n. 183 Legge Qualificata 15 dicembre 2005 n. 184 Legge Qualificata 16 dicembre 2005 n. 186 Legge Qualificata 12 settembre 2006 n. 1 Regolamento 29 novembre 2010 n. 11 Legge Qualificata 24 febbraio 2011 n. 1 Legge 5 ottobre 2011 n. 160 Legge Qualificata 7 novembre 2011 n. 3 Legge 5 dicembre 2011 n. 188 Decreto Delegato 8 luglio 2013 n. 81 Regolamento 30 dicembre 2013 n. 9 Regolamento 22 marzo 2017 n. 3 Legge Qualificata 3 agosto 2018 n. 3
