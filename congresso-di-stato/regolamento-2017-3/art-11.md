@@ -1,0 +1,7 @@
+Art. 11
+(Proposta di delibera e carteggio a corredo)
+1. La Segreteria di Stato proponente invia all’Ufficio Segreteria Esecutiva del Congresso di Stato la proposta di delibera unitamente al carteggio eventualmente a corredo (citato nel preambolo della delibera ed introdotto con la formula “visto”, “posto agli atti” o
+“allegato”) attraverso il sistema di gestione documentale e di protocollo informatico di cui al Decreto Delegato 8 luglio 2013 n. 81 e al Regolamento 30 dicembre 2013 n. 9. Qualora il sistema di gestione documentale e di protocollo informatico risulti momentaneamente inattivo, o su richiesta dell’Ufficio Segreteria Esecutiva del Congresso di Stato, la proposta di delibera unitamente al carteggio può essere anticipata tramite la posta elettronica.
+2. L’Ufficio Segreteria Esecutiva del Congresso di Stato è tenuta alla conservazione in formato elettronico del carteggio completo relativo ad ogni proposta di delibera pervenuta.
+3. Qualora la proposta di delibera manchi del carteggio a corredo, la Segreteria di Stato è tenuta alla trasmissione all’Ufficio Segreteria Esecutiva del Congresso di Stato almeno il giorno prima della seduta.
+4. Con la trasmissione della documentazione, la Segreteria di Stato proponente deve precisare se i documenti citati in delibera debbano essere “posti agli atti” (nel caso in cui non facciano parte integrante della delibera) oppure “allegati” (nel caso in cui facciano parte integrante della delibera).

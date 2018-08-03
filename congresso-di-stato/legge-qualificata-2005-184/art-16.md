@@ -1,0 +1,8 @@
+## TITOLO V RAPPORTI CON LA PUBBLICA AMMINISTRAZIONE
+Art. 16
+1. Agli organi della Pubblica Amministrazione compete l’organizzazione e la gestione dell’attività amministrativa per l’attuazione dei programmi e delle direttive deliberate dal Congresso di Stato e per il raggiungimento degli obiettivi da questo prefissati, in base ai principi di autonomia operativa e responsabilità di gestione.
+2. Il Congresso di Stato esercita le funzioni di indirizzo politico-amministrativo, definendo gli obiettivi ed i programmi da attuare ed adottando gli altri atti rientranti nello svolgimento di tali funzioni e verifica la rispondenza dei risultati dell’attività amministrativa e della gestione agli indirizzi impartiti. Ad esso spettano in particolare:
+a) le decisioni in materia di atti normativi e l’adozione dei relativi atti di indirizzo interpretativo ed applicativo;
+b) la definizione di obiettivi, priorità, piani, programmi e l’emanazione delle conseguenti direttive generali per l’azione amministrativa e per la gestione;
+c) la individuazione delle risorse umane, materiali ed economico-finanziarie da destinare alle diverse finalità e la loro ripartizione tra i dipartimenti e gli uffici dello Stato.
+3. Il Congresso di Stato adotta le direttive per assicurare l’imparzialità, il buon andamento e l’efficienza degli uffici pubblici e promuove le verifiche necessarie; adotta altresì le direttive per assicurare che le aziende e gli enti pubblici svolgano la loro attività secondo gli obiettivi indicati dalle leggi che ne definiscono l’autonomia e in coerenza con i conseguenti indirizzi del Governo.

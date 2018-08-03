@@ -1,0 +1,7 @@
+Art. 28
+(Proposte di delibera)
+1. Le Segreterie di Stato redigono le proposte di delibera da sottoporre al Congresso di Stato per la relativa approvazione, sulla base delle rispettive competenze.
+2. Le Segreterie di Stato curano l'invio del testo all’Ufficio Segreteria Esecutiva del Congresso di Stato per mezzo del sistema di gestione documentale e di protocollo informatico ai sensi del Decreto Delegato n. 81/2013, identificando il numero della pratica del Dicastero competente in materia ai sensi dell’articolo 2 della Legge Qualificata 15 dicembre 2005 n. 184. Solo in casi straordinari o su richiesta dell’Ufficio Segreteria Esecutiva del Congresso di Stato, l’invio può essere anticipato tramite posta elettronica, supporti ottici o magnetici, entro il martedì o il mercoledì precedente la seduta del Congresso di Stato, qualora indetta per il lunedì o il martedì, o entro due giorni lavorativi precedenti la seduta, se indetta in giorno diverso.
+3. Nel caso di mancato invio delle proposte di delibera all’Ufficio Segreteria Esecutiva del Congresso di Stato così come previsto al comma 2, la delibera non viene iscritta all’ordine del giorno.
+4. Ogni Segreteria di Stato indica il/i Funzionario/i responsabile/i della redazione e trasmissione delle proposte di delibera cui l’Ufficio Segreteria Esecutiva del Congresso di Stato fa riferimento per tutte le esigenze.
+5. L’Ufficio Segreteria Esecutiva del Congresso di Stato verifica in via preventiva e sommaria le delibere proposte all’esame del Congresso di Stato.

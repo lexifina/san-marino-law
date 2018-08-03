@@ -1,0 +1,5 @@
+Art.8
+(Regolamento del Congresso di Stato)
+1. Il Congresso di Stato, salvo quanto disposto dalla legge, disciplina con proprio regolamento i modi di convocazione delle sedute, le forme per l’iscrizione all’ordine del giorno delle proposte di iniziativa legislativa e di quelle relative all’attività normativa del Congresso di Stato, le modalità e i tempi di comunicazione dell’ordine del giorno ai membri del Congresso, nonché della documentazione relativa alle materie da trattare, le modalità di verbalizzazione e conoscenza delle deliberazioni adottate, di conservazione del materiale attinente ai lavori del Congresso di Stato e di informazione sui suoi lavori.
+2. Il regolamento del Congresso di Stato, da emanarsi entro sei mesi dall’entrata in vigore della presente legge, è pubblicato nelle forme legali ed è inserito nel Bollettino Ufficiale delle leggi e decreti della Repubblica.
+3. Le modifiche del regolamento del Congresso di Stato sono da questo deliberate, pubblicate e stampate ai sensi del comma precedente.

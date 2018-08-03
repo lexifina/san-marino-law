@@ -1,0 +1,7 @@
+## TITOLO VII CONSERVAZIONE, CONSULTAZIONE E PUBBLICAZIONE DELLE DELIBERE
+Art. 33
+(Conservazione e consultazione delle delibere del Congresso di Stato)
+1. L’Ufficio Segreteria Esecutiva del Congresso di Stato conserva gli originali delle delibere adottate dal Congresso di Stato.
+2. Le delibere assunte dal Congresso di Stato, debitamente sottoscritte in calce dal Segretario di Stato per gli Affari Interni, sono raccolte in appositi registri, composti da fogli numerati recanti la stampigliatura "Segreteria di Stato per gli Affari Interni"; le delibere del Congresso di Stato sono raccolte cronologicamente e numerate progressivamente per seduta. La raccolta delle delibere, tranne quelle di cui all’articolo 14, è pubblica.
+3. Presso la sede dell’Ufficio Segreteria Esecutiva del Congresso di Stato è consentita la consultazione delle delibere da parte di chiunque ne faccia formale richiesta, fatta eccezione per le delibere che il Congresso di Stato abbia espressamente dichiarato riservate ai sensi dell’articolo 14. La consultazione è gratuita. La copia della delibera del Congresso di Stato e degli eventuali documenti a corredo comporta il pagamento delle relative spese.
+4. La consultazione ed il rilascio di semplice copia delle delibere del Congresso di Stato avvengono con le modalità stabilite dall’Ufficio Segreteria Esecutiva del Congresso di Stato e fatte salve eventuali restrizioni disposte dal Dirigente limitatamente alle delibere di cui all’articolo 35, comma 1.

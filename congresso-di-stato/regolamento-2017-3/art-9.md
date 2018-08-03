@@ -1,0 +1,7 @@
+Art. 9
+(Conservazione e pubblicazione del verbale delle sedute)
+1. I verbali delle sedute del Congresso di Stato di cui all’articolo 7 sono custoditi dal Segretario di Stato per gli Affari Interni per il mandato in corso e, al termine dell’incarico, dallo stesso consegnato al Dirigente dell’Ufficio Segreteria Esecutiva del Congresso di Stato che ne cura la custodia e, su circostanziata richiesta dell’Autorità Giudiziaria, procede al rilascio di copia autentica previa comunicazione al Congresso di Stato.
+2. I verbali del Congresso di Stato sono atti riservati. Possono prenderne visione presso la Segreteria di Stato per gli Affari Interni, in ogni momento, i Capitani Reggenti in carica ed i Membri del Congresso di Stato in carica.
+3. Possono altresì prenderne visione, previa autorizzazione del Segretario di Stato per gli Affari Interni, i soggetti esterni al Congresso di Stato, intervenuti ai sensi dell’articolo 6, limitatamente ai punti dell’ordine del giorno della seduta a cui il singolo verbale si riferisce e per i quali si è avuta la loro presenza.
+4. Gli ex Reggenti e gli ex Segretari di Stato possono in ogni momento prendere visione dei verbali delle sedute che hanno avuto luogo nel corso del loro mandato presso l’Ufficio Segreteria Esecutiva del Congresso di Stato, previa formale richiesta al Dirigente della stessa.
+5. Il Congresso di Stato può autorizzare altri soggetti a prendere visione del verbale, in relazione a singoli punti dell'ordine del giorno.
