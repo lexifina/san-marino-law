@@ -1,0 +1,2 @@
+Art. 9. - I cartellini, al momento della loro numerazione e classificazione, devono essere registrati in un prontuario cronologico delle decisioni, conforme al modello N. 5, e in un repertorio alfabetico degli inscritti, conforme al modello N. 6.
+## ALTRE NORME

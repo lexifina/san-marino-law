@@ -1,0 +1,1 @@
+Art. 2. - L'ufficio del Casellario giudiziario rilascia i certificati richiesti e consentiti dalla legge per le ragioni, alle persone e nei limiti in essa segnati e fornisce gli elementi principali per la statistica giudiziaria, nonché quegli altri dati che interessino la pubblica Amministrazione.

@@ -1,0 +1,6 @@
+Art. 4. - Per ogni richiesta contenuta nel cartellino deve darsi la corrispondente notizia.
+Qualora dagli atti e documenti del procedimento non possa desumersi taluna delle notizie volute, se ne fa la ricerca all'ufficio in grado di somministrarla.
+In ogni modo, trascorsi dieci giorni da quello in cui la decisione divenne irrevocabile, il cartellino dev'essere compilato e trasmesso, anche se mancante di qualche notizia, che verrà successivamente comunicata.
+Se la notizia mancante sia in corso di ricerca, al posto corrispondente, nel cartellino, si fa l'annotazione (a lapis) "richiesta" se invece la notizia non si possa avere, l'annotazione (con inchiostro) "non risulta"; e, se non ricorra il caso della medesima, l'annotazione (con inchiostro) "ipotesi esclusa".
+Art. 5. Nell'atto di firmare il cartellino deve altresì compilarsi dal funzionario una scheda conforme al modello N. 4, per tutti i cartellini che importino decisioni di cui debbasi far menzione nei certificati estratti dal casellario.
+Per agevolare la compilazione lo spoglio statistico dei cartellini, nonché le ricerche nei casellari locali, i cartellini si distinguono per diversa tinta della carta, secondo che si tratti di cartellini penali, civili o di fallimento e, per i primi, secondo che si tratti di misfatti, di delitti o di contravvenzioni.
