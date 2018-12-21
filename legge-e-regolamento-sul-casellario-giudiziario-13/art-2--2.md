@@ -1,0 +1,1 @@
+Art. 2. - Il cartellino è firmato anche per le sentenze d'interdizione o d'inabilitazione e per le dichiarazioni di fallimento anteriori all'attuazione del presente regolamento, e non ancora revocate.

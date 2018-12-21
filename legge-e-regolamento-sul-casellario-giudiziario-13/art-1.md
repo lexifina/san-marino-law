@@ -1,0 +1,2 @@
+Art. 1. - Le registrazioni del Casellario giudiziario si fanno mediante cartellini individuali al nome delle persone a cui si riferiscono le decisioni conformi ai modelli N. 1, 2, 3, annessi al presente regolamento.
+Il cartellino deve essere compilato non più tardi del decimo giorno, da quello in cui la decisione è divenuta irrevocabile e, trattandosi di sentenze proferite da magistrati stranieri, entro dieci giorni, da quello in cui ne fu data comunicazione al Cancelliere.

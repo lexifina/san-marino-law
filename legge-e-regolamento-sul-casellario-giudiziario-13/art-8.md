@@ -1,0 +1,1 @@
+Art. 8. - Quando si tratta di uno straniero, contro il quale sia stata proferita sentenza penale di condanna, è formato un secondo esemplare del cartellino per la sua comunicazione al Governo dello Stato estero, in conformità alle convenzioni esistenti.

@@ -1,0 +1,1 @@
+Art. 9. - Chiunque, essendo a conoscenza, per ragioni d'Ufficio, delle iscrizioni contenute nel Casellario, le pubblichi e palesi indebitamente ad altri, è punito colla prigionia sino a un anno o con la multa sino a tremila lire.

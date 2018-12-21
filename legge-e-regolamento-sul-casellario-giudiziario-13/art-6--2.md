@@ -1,0 +1,2 @@
+Art. 6. - I cartellini e le schede sono contrassegnati con lo stesso numero progressivo; e quindi le schede son riposte con rigoroso ordine alfabetico e in posizione verticale, in appositi schedari, mentre i cartellini sono custoditi, in perfetto ordine numerico, entro adatte buste.
+Ove nel casellario esistano altre iscrizioni al nome dello stesso individuo, la nuova scheda è annullata, e il numero segnato nella scheda esistente è ripetuto sul nuovo cartellino.
