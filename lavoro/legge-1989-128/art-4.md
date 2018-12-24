@@ -1,0 +1,4 @@
+Art.4
+In caso di recidiva del datore di lavoro entro i cinque anni, la Direzione dell'Ufficio del Lavoro emette ordinanza con la quale ingiunge la cessazione immediata del rapporto di lavoro ed applica le sanzioni pecuniarie amministrative di cui all'art.1, aumentate tuttavia, per quanto riguarda il datore di lavoro, da due a quattro volte.
+In caso di recidiva reiterata entro i cinque anni, ed altresì in caso di inosservanza dell'ordine di cessazione immediata del rapporto di lavoro, la Direzione dell'Ufficio del Lavoro applica le sanzioni pecuniarie amministrative di cui al comma precedente e sentita la Commissione di Collocamento, può sospendere in tutto o in parte, da uno a trenta giorni, l'attività dell'impresa o l'esercizio professionale.
+L'ordinanza della Direzione dell'Ufficio del Lavoro è notificata a norma di legge ai trasgressori e trasmessa in copia all'Ufficio del Lavoro, all'Istituto per la Sicurezza Sociale ed agli organismi di Polizia.

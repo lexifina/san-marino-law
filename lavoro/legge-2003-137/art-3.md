@@ -1,0 +1,9 @@
+Art. 3
+(Aspettativa post-partum)
+La lavoratrice ha diritto di assentarsi dal lavoro, trascorso il periodo di astensione obbligatoria previsto dalla legge, per un periodo massimo di aspettativa, entro i primi diciotto mesi di vita del bambino, di 16 mesi, durante il quale le sarà conservato il posto di lavoro.
+Tale periodo di aspettativa non è computato ai fini del trattamento di quiescenza, della carriera né a ciascun altro fine economico od istituto contrattuale. Tuttavia viene corrisposta alla lavoratrice una indennità per ogni giornata lavorativa pari al 30% della retribuzione netta giornaliera fino al raggiungimento dell'anno di vita del bambino e del 20% per il restante periodo qualora il bambino - limitatamente a questo ultimo caso - non usufruisca del servizio di asilo-nido.
+In alternativa ai benefici di cui ai commi precedenti la lavoratrice, che rientra al suo posto di lavoro dopo aver trascorso il periodo di astensione obbligatoria per puerperio, ha diritto, nei dieci mesi successivi a tale periodo e comunque entro il primo anno di vita del bambino, di assentarsi dal lavoro per due ore giornaliere, anche discontinue, a titolo di permesso retribuito.
+In caso di parto plurimo le ore di allattamento sono raddoppiate fino al limite massimo della metà dell'orario contrattuale settimanale.
+Le disposizioni di cui ai commi che precedono si applicano altresì alle madri lavoratrici iscritte alle liste di mobilità di cui alla Legge 29 settembre 1986 n.108.
+Il diritto all'aspettativa post-partum spetta al padre lavoratore, in alternativa alla madre, ai sensi e con le modalità previste dall'articolo 5 della Legge 25 maggio 1981 n.40.
+I lavoratori dipendenti, che si trovano nelle condizioni di poter beneficiare degli istituti di cui ai commi che precedono, devono farne domanda all'ufficio competente dell'Istituto per la Sicurezza Sociale.

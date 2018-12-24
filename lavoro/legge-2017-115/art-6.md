@@ -1,0 +1,5 @@
+Art. 6
+(Altre norme in materia di lavoro)
+1. Con decreto delegato sono disciplinate, relativamente ai lavoratori non iscritti alle liste di avviamento al lavoro, le modalità di concessione del permesso di lavoro e dei nulla osta, gli adempimenti amministrativi e la documentazione necessaria per l'assunzione e le relative sanzioni applicate.
+2. Al fine di evitare fenomeni di superamento dell’orario massimo di lavoro giornaliero e settimanale previsto dai contratti collettivi di lavoro per i lavoratori assunti a tempo pieno, la Commissione per il Lavoro, anche con lo scopo di semplificare i controlli da parte dei competenti organismi, può stabilire con propria delibera forme di indicazione, al momento della assunzione, dell’orario di lavoro del lavoratore e di comunicazione delle variazioni dello stesso.
+3. Il pagamento della retribuzione del lavoratore deve avvenire, da parte dell’impresa, obbligatoriamente tramite accredito su un conto corrente intestato al lavoratore medesimo o tramite altro strumento di pagamento che garantisca la tracciabilità del pagamento stesso.

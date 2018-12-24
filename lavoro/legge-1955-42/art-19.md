@@ -1,0 +1,31 @@
+Art. 19
+Hanno diritto alle prestazioni economiche temporanee, con le modalità ed entro i limiti di cui alla presente legge, tutti coloro - siano o no cittadini sammarinesi - che prestano la loro opera in qualità di lavoratori dipendenti dallo Stato o da imprenditori
+(cittadini sammarinesi, stranieri o apolidi, persone fisiche o giuridiche) che comunque svolgono una attività nell'ambito del territorio della Repubblica.
+Ai fini della presente legge sono lavoratori dipendenti coloro che - quale che ne sia l'età, il sesso, la condizione, il reddito - fuori del proprio domicilio o in questo ultimo, prestino in modo permanente, avventizio, temporaneo, occasionale, eccezionale la propria opera manuale o intellettuale dietro retribuzione e alle dipendenze e sotto la direzione di un datore di lavoro.
+Sono considerati lavoratori dipendenti anche:
+a) i familiari del datore di lavoro, purchè esplichino attività retribuita in stato di
+subordinazione presso il loro congiunto;
+b) gli addetti ai servizi familiari che prestino la loro opera presso un nucleo famigliare
+per almeno quattro ore al giorno.
+Quale sia la durata della prestazione non sono considerati lavoratori dipendenti coloro che attendono ai servizi famigliari presso persone cui siano uniti da vincolo di parentela o di affinità entro il terzo grado. Sono servizi famigliari quelli resi presso una famiglia dal personale domestico propriamente detto, da istitutori, persone di compagnia, bambinaie, portieri, autisti, stallieri;
+c) i religiosi, quando però l'attività retribuita da essi esplicata alle dipendenze di terzi
+non si concreti nell'esplicazione del solo ministero spirituale;
+d) i soci delle società regolarmente costituite, ove entrino in regolare rapporto di
+lavoro con la società. Gli amministratori, i consiglieri delegati o di amministrazione
+e in genere tutti coloro che hanno, in virtu' di cariche sociali, la rappresentanza e
+l'amministrazione della società, non possono essere considerati dipendenti dalla
+società stessa, se non nel caso che il rapporto di lavoro preesista al momento della
+nomina ad amministratore o consigliere e perduri distintamente dopo la nomina in
+tutti i suoi effetti, ovvero sia insorto distintamente al momento stesso della nomina
+a carica sociale per effetto dall'atto costitutivo della società;
+e) i soci di società cooperative di lavoro e di produzione anche di fatto, costituite
+totalmente o in parte da prestatori d'opera, quando i soci stessi siano impiegati in
+lavori assunti dalla società;
+f) gli apprendisti comunque retribuiti;
+g) i lavoratori a domicilio che eseguono lavoro salariato per conto di un imprenditore
+nella propria abitazione o in locali che non siano di pertinenza dell'imprenditore, nè
+sottoposti a sua vigilanza diretta. Non sono considerati lavoratori dipendenti quei
+lavoratori a domicilio che non hanno vincolo di subordinazione con un imprenditore,
+e quei lavoratori a domicilio che, nella propria attività, si fanno coadiuvare da altre
+persone, nel qual caso assumono essi, nei confronti di queste, agli effetti della
+presente legge, la veste e gli obblighi del datore di lavoro.

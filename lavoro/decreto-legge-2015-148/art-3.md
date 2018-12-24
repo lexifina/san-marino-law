@@ -1,0 +1,4 @@
+Art.3
+(Attività socialmente utili)
+1. In applicazione delle disposizioni previste all’articolo 2 del Decreto Delegato 29 dicembre 2010 n. 200 “Attività socialmente utili”, i lavoratori iscritti nelle Liste di Avviamento al Lavoro che percepiscono l’Indennità Economica Speciale possono essere impiegati in attività socialmente utili, anche ulteriori rispetto a quelle previste al citato articolo 2, nei settori di pubblica utilità della Pubblica Amministrazione e del Settore Pubblico Allargato, individuate dalla Direzione Generale della Funzione Pubblica, sulla base delle indicazioni pervenute dai Direttori degli Uffici della Pubblica Amministrazione e degli Enti del Settore Pubblico Allargato.
+1-bis. Le disposizioni previste dal Decreto Delegato n.200/2010 e quelle di cui al comma 1 non si applicano a coloro che percepiscono l’indennità di disoccupazione ai sensi del Capo IV della Legge 31 marzo 2010 n.73.

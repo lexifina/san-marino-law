@@ -1,0 +1,5 @@
+Art. 28
+(Comunicazioni telematiche)
+1. Tutte le comunicazioni relative alla costituzione ed alla amministrazione del rapporto di lavoro intercorrenti tra i datori di lavoro e l’Ufficio del Lavoro devono avvenire ricorrendo in modo prevalente alle tecnologie informatiche.
+2. Entro il 31 dicembre 2011, l’Ufficio del Lavoro si doterà di apposito sito informatico utile alla ricezione delle richieste e della documentazione finalizzata alla gestione dei rapporti di lavoro, nonché a fornire, attraverso modalità idonee, le informazioni richieste dall’utenza, sia per quanto riguarda la disponibilità di posti di lavoro offerti dalle aziende, sia per consentire ai datori di lavoro di visualizzare le competenze degli iscritti nelle Liste di Avviamento al lavoro risultanti dai curricula inviati all’Ufficio del Lavoro.
+3. Entro 90 giorni dall’entrata in vigore del presente decreto - legge, l’Ufficio del Lavoro adotterà le necessarie disposizioni per l’invio in formato elettronico dei curricula che dovranno essere redatti secondo gli standards europei da tutti coloro che intendano iscriversi nelle Liste di Avviamento al Lavoro o vi siano già iscritti.

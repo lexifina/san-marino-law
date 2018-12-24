@@ -1,0 +1,5 @@
+Art. 24
+(Procedure di erogazione del trattamento)
+1. L'importo dell’Indennità di Disoccupazione è erogato dall'Istituto per la Sicurezza Sociale entro il quindicesimo giorno del mese successivo a quello cui deve intendersi riferita l’indennità. Fermo restando la stipulazione del Patto di Servizio di cui all’articolo 3, l’erogazione avverrà secondo le modalità di seguito indicate.
+2. Per essere ammesso al godimento dell'indennità il lavoratore dovrà, entro il termine massimo di 8 giorni lavorativi dalla data di inizio del periodo di disoccupazione, presentare all'Istituto per la Sicurezza Sociale formale domanda redatta su modulo predisposto dallo stesso Istituto e sottoscritto anche dal datore di lavoro. In tale modulo gli Uffici del Lavoro dovranno apporre formale dichiarazione comprovante l'iscrizione del lavoratore nelle Liste secondo la legislazione vigente.
+3. Il termine di presentazione della domanda può essere da 8 a 30 giorni lavorativi; dopo il primo termine l’avente diritto perde il beneficio dell’indennità per il periodo pregresso.

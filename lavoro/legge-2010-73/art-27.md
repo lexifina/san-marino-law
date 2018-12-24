@@ -1,0 +1,20 @@
+Art. 27
+(“Salario di Cittadinanza”)
+[ABROGATO][^61]
+
+[^61]: Testo originario (Legge n.73/2010):
+    1. Possono beneficiare del Salario di Cittadinanza tutti i lavoratori cittadini iscritti all’anagrafe dei residenti e disoccupati iscritti, ma non per effetto di accordi tripartiti, da più di dodici mesi nelle apposite Liste istituite ai sensi dell’articolo 22 della presente legge presso gli Uffici del Lavoro che da oltre quattro mesi a far data dall’entrata in vigore della presente legge non beneficiano di alcun trattamento di sostegno al reddito.
+    2. Per poter accedere al salario di cittadinanza è necessario che il lavoratore abbia stipulato un apposito Patto di Servizio in cui dovranno essere definiti gli obblighi lavorativi e formativi ai quali attenersi pena la perdita del sostegno economico.
+    3. I datori di lavoro potranno accogliere il lavoratore presso la propria sede senza necessità di un formale avvio al lavoro purché abbiano stipulato apposita convenzione con gli Uffici del Lavoro. In tale convenzione saranno definite modalità e durata delle attività lavorative e formative nonché la loro articolazione settimanale, da svolgersi sotto l’eventuale controllo di un tutor del Centro di Formazione Professionale.
+    4. Il salario di cittadinanza non può avere una durata superiore a sei mesi. Esso viene erogato dagli Uffici del Lavoro entro il quindicesimo giorno del mese successivo a quello a cui si riferisce ed è pari al 50% del trattamento massimo previsto per l’Indennità di Disoccupazione.
+    5. A conclusione del Patto di Servizio, gli Uffici del Lavoro dovranno inviare all’Istituto per la Sicurezza Sociale un apposito prospetto nel quale risultino le giornate effettive di attività prestate, l’ammontare della somma corrisposta ed i relativi oneri previdenziali obbligatori, da liquidarsi a carico del Fondo di cui al successivo comma, a favore dell’Istituto per la Sicurezza Sociale in sede di bilancio consuntivo.
+    6. Il Salario di Cittadinanza ed i relativi contributi previdenziali obbligatori sono posti a carico del Bilancio dello Stato sul Capitolo 2-8-7460 “Fondo Speciale per interventi sull’occupazione e contenimento costo del lavoro” gestito dagli Uffici del Lavoro.
+    7. Il beneficiario del Salario di Cittadinanza non ha diritto all’Indennità Economica per malattia; egli dovrà comunque inviare il certificato medico nel rispetto delle procedure previste per giustificare la propria assenza agli Uffici del Lavoro ed al soggetto presso il quale sta svolgendo l’attività.
+    8. Il Salario di Cittadinanza è incompatibile con il diritto agli assegni familiari e con il trattamento di Cassa Integrazione Guadagni. Pertanto, non è in ogni caso possibile presentare richieste in merito né potrà essere richiesto alcun indennizzo a carico del datore di lavoro ospitante, neanche nel caso in cui l’attività prevista dell’inoccupato non possa essere svolta per effetto di sospensione o cessazione a qualsiasi titolo dell’attività del datore di lavoro. Quanto indicato nel presente comma va previsto esplicitamente nella convenzione di cui al terzo comma del presente articolo.
+    9. Al soggetto che svolge l’attività di cui al presente articolo spettano in caso di infortunio o malattia professionale le prestazioni previste dall’articolo 17 della Legge 11 febbraio 1983 n.15
+    “Riforma del sistema pensionistico”.
+    10. Il Salario di Cittadinanza è misura a carattere sperimentale; fatti salvi i rapporti in corso, esso decade dopo 24 mesi dalla sua entrata in vigore, ma potrà essere prorogato con l’emanazione di apposito decreto delegato, sentite le Parti Sociali, previa deliberazione del Congresso di Stato.
+    Modifiche legislative:
+    Legge 22 dicembre 2011 n.200, Articolo 60, primo comma:
+    Gli effetti della misura del Salario di Cittadinanza previsto dall’articolo 27 della Legge 31 marzo 2010 n.73, sono prorogati fino al 31 dicembre 2013.
+    Legge 29 aprile 2014 n.71, Articolo 24, comma 1, quinto punto dell’elenco: vedere nota n. 59.

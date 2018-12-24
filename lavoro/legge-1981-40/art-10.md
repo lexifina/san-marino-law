@@ -1,0 +1,3 @@
+Art. 10
+Il datore di lavoro che non ottempera al decreto del Magistrato del Lavoro o alla sentenza del Giudice di I grado per le cause penali ordinarie e di appello per quelle sommarie, pronunziata nel giudizio di opposizione, è punito con la multa a giorni prevista dall'art. 85 del Codice Penale applicabile nel primo, nel secondo e nel terzo grado.
+In caso di particolare gravità o in presenza di recidiva, può essere aggiunta, alla multa a giorni di cui al precedente comma, l'applicazione della pena dell'interdizione dall'esercizio professionale di cui all'art. 82 del Codice Penale nel primo e nel secondo grado.

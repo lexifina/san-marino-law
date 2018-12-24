@@ -1,0 +1,5 @@
+Art. 4
+(Soggetti interessati)
+1. Le prestazioni di lavoro occasionale e accessorio possono essere rese da inoccupati o disoccupati, lavoratori a part time e percettori di ammortizzatori sociali iscritti alle Liste di Avviamento al Lavoro ai quali il compenso per l’attività occasionale svolta verrà sottratto, per il 65% del suo valore, dall’indennità dovuta, fermo restando il limite orario massimo previsto dagli articoli 16 e 17 della Legge 17 febbraio 1961 n.7. Le prestazioni di lavoro occasionale e accessorio di cui alla lettera e) del comma 1 dell’articolo 2 possono essere rese da chiunque, fermo restando il limite orario massimo previsto dagli articoli 16 e 17 della Legge n.7/1961.
+2. E’ vietata la prestazione di lavoro occasionale e accessorio resa da parte di coloro che ne sono impediti in virtù di leggi e/o contratti collettivi di lavoro o percettori di Indennità Economica Temporanea.
+3. Al fine di garantire il principio della solidarietà familiare nell’ambito di attività economiche, che si esplica attraverso attività di supporto gratuito, si rinvia al decreto applicativo previsto dalla presente legge la relativa regolamentazione.

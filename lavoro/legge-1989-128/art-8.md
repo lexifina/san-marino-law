@@ -1,0 +1,2 @@
+Art.8
+Quando si procede nei confronti del rappresentante legale di una persona giuridica, quest'ultima assume veste di responsabile civile per il pagamento delle sanzioni pecuniarie amministrative comminate dalla presente legge. Agli effetti della recidiva, si tiene conto degli illeciti accertati, nel periodo considerato, a carico delle altre persone che hanno svolto funzioni di rappresentante legale.

@@ -1,0 +1,5 @@
+Art. 3
+(Entrata in vigore delle disposizioni di cui all’articolo 5, comma 6, della Legge n.
+115/2017)
+1. Tenuto conto dei necessari adeguamenti, organizzativi, amministrativi e logistici connessi all’avvio delle attività delle nuove UO previste nel Decreto Delegato 1 marzo 2018 n. 22 “Modifica all’allegato A della Legge 5 dicembre 2011 n. 188 e successive modifiche - Costituzione dello sportello unico per le imprese” e quindi all’effettiva concretizzazione del processo di associazione di cui all’articolo 5, comma 10, della Legge n.115/2017, la decorrenza fissata nell’articolo 32, comma 3, della medesima Legge n.115/2017, posticipata dall’articolo 1 del Decreto Delegato 28 dicembre 2017 n.149, è subordinata all’adozione di direttive del Congresso di Stato che stabiliscono le tempistiche dell’attivazione delle nuove UO e delle nuove funzioni previste.
+2. Nelle direttive del Congresso di Stato di cui al comma precedente è indicata la nuova decorrenza di cui all’articolo 32, comma 3, della Legge n. 115/2017.

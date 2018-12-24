@@ -1,0 +1,3 @@
+Art. 18
+(Inabilità temporanea durante i periodi di integrazione salariale)
+1. A parziale modifica dell’articolo 6, comma 4, della Legge 31 marzo 2010, n. 73, i periodi di inabilità temporanea al lavoro non superiori ai 21 giorni continuativi che dovessero verificarsi durante l’erogazione delle Indennità di mobilità e di disoccupazione non ne comportano la sospensione, ferma restando la corresponsione dell’Indennità economica temporanea commisurata all’importo dell’Indennità di disoccupazione o di mobilità giornaliera che il lavoratore avrebbe percepito al netto dei contributi dovuti a carico del lavoratore.

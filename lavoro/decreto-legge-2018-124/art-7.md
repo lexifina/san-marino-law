@@ -1,0 +1,5 @@
+Art. 7
+(Misura della pensione ordinaria di vecchiaia anticipata)
+1. L’importo della pensione ordinaria vecchiaia anticipata è calcolato sulla base delle disposizioni di cui ai commi 1 e 2, dell’articolo 3, della Legge n. 157/2005 ed all’articolo 17 della Legge n. 158/2011 e ridotto di una quota pari al 10% da destinare alla Cassa Ammortizzatori Sociali.
+2. La pensione è erogata, per l’ammontare calcolato sulla base delle disposizioni previste dal comma che precede, fino al compimento dell’età prevista per la pensione di vecchiaia. Dal primo giorno del mese successivo al compimento dell’età pensionabile la pensione, se più favorevole, viene erogata nella misura stabilita dal calcolo effettuato sulla base del comma 3 dell’articolo 3 della Legge n. 157/2005, così come modificato dal comma 1, dell’articolo 17, della Legge n. 158/2011. Dalla stessa data non verrà più applicata la riduzione di cui al precedente comma 1.
+3. Viene fatta salva l’applicazione delle disposizioni di cui all’articolo 8 della Legge n. 157/2005 e successive modifiche ed integrazioni.

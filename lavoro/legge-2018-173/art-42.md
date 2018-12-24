@@ -1,0 +1,3 @@
+Art.42
+(Infortunio o malattia)
+1. In caso di inabilità dovuta ad infortunio o malattia, qualora non venga attivata prima del 365° giorno dall’inizio della stessa la procedura di cui all’articolo 30 della Legge n.73/2010, così come modificato dall’articolo 9 del Decreto Legge n.118/2014, l’Istituto per la Sicurezza Sociale provvede all’attivazione d’ufficio della procedura stessa per l’accesso del prestatore d’opera a quanto previsto dal medesimo articolo. A tal fine l’UOS Medicina e Igiene del Lavoro – Dipartimenti di Prevenzione dell’Istituto per la Sicurezza Sociale certifica l’inidoneità temporanea o permanente alla mansione svolta per garantire l’accesso agli ammortizzatori sociali previsti dal citato articolo.

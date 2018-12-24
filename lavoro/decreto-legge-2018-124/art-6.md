@@ -1,0 +1,5 @@
+Art. 6
+(Misure del trattamento previdenziale di anzianità anticipato)
+1. L’importo del trattamento previdenziale anticipato viene calcolato sulla base delle disposizioni di cui ai commi 1 e 2 dell’articolo 3 della Legge n. 157/2005 ed all’articolo 17 della Legge n. 158/2011 e ridotto di una quota pari al 10% da destinare alla Cassa Ammortizzatori Sociali.
+2. La pensione viene erogata per l’ammontare calcolato sulla base delle disposizioni previste dal comma che precede, fino al compimento dell’età prevista per la pensione di anzianità. Dal primo giorno del mese successivo al compimento dell’età pensionabile, la pensione, se più favorevole, verrà erogata nella misura stabilita dal calcolo effettuato sulla base del comma 3, dell’articolo 3, della Legge n. 157/2005, così come modificato dal comma 1, dell’articolo 17, della Legge n. 158/2011. Dalla stessa data non viene più applicata la riduzione di cui al precedente comma 1.
+3. Viene fatta salva l’applicazione delle disposizioni di cui all’articolo 8 della Legge n. 157/2005 e successive modifiche ed integrazioni.

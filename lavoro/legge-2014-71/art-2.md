@@ -1,0 +1,3 @@
+Art. 2
+(Nozione)
+1. L’apprendistato è uno speciale rapporto di lavoro in forza del quale il lavoratore è obbligato alla prestazione lavorativa e l’impresa è obbligata ad impartire o fare impartire all’apprendista, nell’impresa o al di fuori di essa, l’addestramento e la formazione necessari perché possa acquisire la capacità tecnica indispensabile per il conseguimento di una determinata qualifica professionale o per effettuare un percorso formativo e applicativo/pratico successivo all’ottenimento di un titolo di studio quale la qualifica professionale, il diploma o la laurea, o per favorire la collocazione o ricollocazione mirata di lavoratori che necessitano di attività formativa per esercitare la mansione richiesta.

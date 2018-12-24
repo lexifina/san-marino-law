@@ -1,0 +1,5 @@
+Art. 7
+(Sezione Ispettorato del Lavoro)
+1. L'Ispettorato del Lavoro viene dotato di tutti gli strumenti necessari affinché l'attività ispettiva e di controllo del funzionamento del mercato del lavoro sia resa più efficace. Al fine di organizzare un servizio maggiormente efficiente, la cui efficacia si deve estendere anche oltre la consueta organizzazione degli orari di lavoro, l'Ispettorato del Lavoro predispone, con periodicità, specifiche azioni coordinate con le forze di Polizia e gli altri organismi di sorveglianza e controllo presenti sul territorio, unitamente alla previsione della condivisione delle informazioni territoriali, urbanistiche, contributive e relative alla sicurezza sui luoghi di lavoro.
+2. La Sezione Ispettorato del Lavoro deve avviare una nuova attività di informazione ai cittadini e alle imprese relativamente a normative e regolamenti in materia di lavoro.
+3. La Sezione Ispettorato del Lavoro annota in una apposita banca dati delle imprese tutte le violazioni accertate, unitamente alle buone pratiche di certificazione dei rapporti di lavoro di cui al successivo articolo 21.
