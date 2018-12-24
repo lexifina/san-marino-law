@@ -1,0 +1,6 @@
+Art. 9
+Qualora vengano posti in essere comportamenti in contrasto con le disposizioni della presente legge, su iniziativa del lavoratore interessato o, per sua delega, delle Organizzazioni Sindacali dei Lavoratori, di cui alla Legge 17 febbraio 1961 n. 7, che vi abbiano interesse, il Magistrato del Lavoro, nei cinque giorni successivi, convocate le parti ed assunte sommarie informazioni, qualora ritenga sussistente la violazione di cui al presente comma, ordina al datore di lavoro, con decreto motivato ed immediatamente esecutivo, la cessazione del comportamento illegittimo e la rimozione degli effetti.
+Avverso suddetto decreto è ammessa, entro giorni quindici dalla data di notifica alle parti, opposizione davanti al Giudice di I grado per le cause penali ordinarie e di appello per quelle sommarie.
+L'interposta opposizione non sospende gli effetti e la esecuzione del decreto del Magistrato del Lavoro.
+E' data facoltà al Giudice di I grado per le cause penali ordinarie e di appello per quelle sommarie, dopo aver ricevuto l'atto di opposizione, di aprire termini di prova, di controprova e per le finali allegazioni.
+La sentenza emessa dal Giudice di I grado per le cause penali ordinarie e di appello per quelle sommarie è definitiva e contro di essa non è ammesso alcun altro gravame.

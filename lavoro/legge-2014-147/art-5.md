@@ -1,0 +1,8 @@
+Art. 5
+(Retribuzione)
+1. Il prestatore di lavoro occasionale e accessorio che svolge l’attività di cui ai commi 1, 2 e 3 dell’articolo 2 ha diritto al trattamento economico previsto dalle tabelle retributive del Contratto Collettivo di Lavoro del settore a cui afferisce il Datore di Lavoro o, in mancanza di un Contratto Collettivo di riferimento per mansioni specifiche, ha diritto alla retribuzione secondo le tariffe abitualmente in uso. Il prestatore di lavoro occasionale e accessorio che svolge attività di servizio alla famiglia di cui al comma 4 dell’articolo 2 ha diritto almeno al trattamento economico minimo previsto per i lavoratori addetti ai servizi familiari.
+2. Le prestazioni di lavoro occasionale e accessorio sono assoggettate esclusivamente al contributo al Fondo Pensioni, dunque al prestatore di lavoro occasionale e accessorio non competono le prestazioni economiche temporanee, gli assegni familiari, l’Indennità Economica Temporanea ed i salari differiti.
+3. L’assunzione di lavoratore occasionale e accessorio iscritto alle Liste di Avviamento al Lavoro è esentata dal pagamento dell’80% della contribuzione, i cui oneri sono imputati sul capitolo 2-4-7460 “Fondo speciale per interventi sull’occupazione e contenimento del costo del lavoro”.[^87]
+
+[^87]: Decreto Delegato 5 maggio 2015 n.62, Articolo 6, comma 1:
+    1. Le prestazioni di lavoro occasionale e accessorio, ad integrazione e modifica dell’articolo 5, comma 2, della Legge n.147/2014, sono assoggettate all’applicazione di tutte le aliquote contributive, a carico sia del datore di lavoro che del lavoratore, incluso FONDISS.

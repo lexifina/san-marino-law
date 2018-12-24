@@ -1,0 +1,7 @@
+Art. 6
+(Orario di lavoro e comunicazioni di variazioni)
+1. Il permesso di lavoro a lavoratori non iscritti alle liste di avviamento al lavoro può essere rilasciato solo a tempo pieno. L’eventuale riduzione temporanea dell’orario di lavoro per un periodo non superiore a due mesi è comunicata alla Direzione dell’Ufficio del Lavoro per la presa d’atto, fatto salvo quanto già previsto dai singoli Contratti Collettivi di Lavoro.
+2. In caso di richiesta di riduzione temporanea dell’orario di lavoro per un periodo superiore a due mesi, la medesima è trasmessa dall’Ufficio del lavoro alla Commissione per il Lavoro per il relativo esame e provvedimento in merito.
+3. Le richieste di riduzione temporanee dell’orario di lavoro di cui ai commi 1 e 2 devono essere motivate. Il provvedimento della Commissione per il Lavoro di cui al comma 2 deve essere motivato.
+4. Il datore di lavoro è tenuto a comunicare all’Ufficio del Lavoro, relativamente ai lavoratori assunti a tempo parziale, ogni variazione relativa all’orario di lavoro, entro tre giorni lavorativi antecedenti all’attuazione della variazione, salvo modifiche occasionali effettuate per motivi d’urgenza non prevedibili e programmabili, nel qual caso la variazione deve essere comunque comunicata entro tre giorni lavorativi successivi.
+5. Il datore di lavoro è tenuto a comunicare all’Ufficio del Lavoro ogni variazione di mansione e livello entro il mese successivo rispetto alla determinazione della variazione.

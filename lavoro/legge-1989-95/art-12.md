@@ -1,0 +1,5 @@
+Art. 12
+Previsione del fabbisogno di manodopera
+Ai fini previsionali dell'occupazione e della formazione professionale, l'Ufficio Industria, Artigianato e Commercio, dovrà procedere all'invio all'Ufficio del Lavoro di copia della convenzione sottoscritta da Aziende di nuova costituzione, nonchè di copia delle delibere contenenti gli impegni occupazionali.
+Fatte salve le convenzioni istitutive delle società di capitali, ferma restando la prerogativa delle aziende private ad assumere prestatori d'opera attraverso l'inoltro di richiesta agli Uffici del Lavoro, ogni datore di lavoro potrà concludere con il Dicastero del Lavoro e Ufficio del Lavoro apposita convenzione sulla base della quale lo stesso si impegnerà ad assumere, entro nove mesi dalla data della convenzione, un determinato numero di lavoratori iscritti nella Lista di Avviamento al Lavoro, di cui saranno indicate la categoria, la qualifica e la eventuale specializzazione.
+Eventuali casi di mancato rispetto delle convenzioni sottoscritte dai datori di lavoro, saranno segnalati dalla Commissione di Collocamento all'Autorità Giudiziaria.

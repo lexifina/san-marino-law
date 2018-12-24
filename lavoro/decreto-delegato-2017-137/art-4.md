@@ -1,0 +1,12 @@
+Art. 4
+(Rilascio del permesso di lavoro)
+1. L’Ufficio del Lavoro, effettuata la verifica della richiesta e della documentazione allegata, entro tre giorni lavorativi, notifica tramite il medesimo portale o altri strumenti telematici, al datore di lavoro, uno dei seguenti provvedimenti:
+a) rilascio del permesso di lavoro o nulla osta;
+b) diniego motivato al rilascio del permesso di lavoro o nulla osta;
+c) richiesta integrazione documentazione o chiarimenti.
+Il provvedimento sottoscritto in originale viene conservato presso la sede dell’Ufficio del Lavoro e viene rilasciato in copia semplice o in copia conforme agli interessati dietro semplice richiesta.
+2. Nel caso di cui al comma 1, lettera c), l’Ufficio del Lavoro assegna al datore di lavoro il termine di tre giorni lavorativi per fornire quanto richiesto, prorogabili in presenza di giustificati motivi. L’Ufficio del Lavoro, ricevuta l’integrazione e/o i chiarimenti richiesti, entro tre giorni lavorativi provvede ai sensi del comma 1.
+3. Nel caso in cui il datore di lavoro non ottemperi a quanto richiesto dall’Ufficio del Lavoro nei tempi richiesti, l’Ufficio del Lavoro provvede immediatamente all’emissione del provvedimento di cui al comma 1, lettera b).
+4. Qualora dal certificato di cui all’articolo 3, comma 1, lettera d) risultino condanne per reati commessi negli ultimi dieci anni per i quali sia stata emessa sentenza penale di condanna definitiva comportante una pena detentiva superiore a due anni, il Direttore dell’Ufficio del Lavoro emette provvedimento di diniego del permesso di lavoro o nulla osta.
+5. Nel caso in cui dal certificato di cui all’articolo 3, comma 1, lettera e) risultino condanne anche non definitive o rinvio a giudizio nell’ambito di un procedimento penale in corso, l’Ufficio del Lavoro trasmette la richiesta di rilascio del permesso di lavoro o nulla osta alla Commissione per il Lavoro la quale provvede ai sensi dei commi 1, 2 e 3.
+6. Nel caso l’assunzione avvenga a norma dell’articolo 2, comma 1, lettera b) della Legge n. 115/2017, l’Ufficio del Lavoro, qualora il livello di inquadramento non risulti compatibile con la mansione indicata nella richiesta del datore di lavoro in base al Contratto Collettivo di Lavoro che si applica al caso specifico, prima di emettere il provvedimento di cui al comma 1, lettera b), può richiedere un'integrazione ai sensi del comma 1, lettera c). Si applica quanto previsto ai commi 1, 2 e 3.

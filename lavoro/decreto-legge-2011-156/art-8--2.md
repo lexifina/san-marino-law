@@ -1,0 +1,14 @@
+Art. 8/bis
+(Rapporti di collaborazione del socio)
+11. Tutti i soci che possiedono quote o azioni in misura non inferiore al 25% del capitale sociale, che svolgono a favore dell’impresa attività lavorativa non avente natura di lavoro subordinato, devono preventivamente comunicare all’Ufficio del Lavoro che fra essi e la società di cui sono comproprietari si è costituito uno speciale rapporto di collaborazione lavorativa.
+12. E’ condizione di ricevibilità della comunicazione, la presentazione in allegato di copia del contratto formalmente registrato, concluso tra il socio e la società, nel quale dovrà essere indicato, a pena di nullità, il corrispettivo erogato per l’attività svolta. In mancanza della predetta comunicazione preventiva, il rapporto di lavoro fra il socio e la società si considera irregolarmente costituito, comportando l’applicazione delle sanzioni previste dall’articolo 21 del presente decreto legge.
+13. I rapporti speciali di collaborazione di cui al presente articolo sono assoggettati agli oneri contributivi e assicurativi previsti dalle normative in materia.[^67]
+
+[^67]: Testo originario (Decreto Legge n.156/2011):
+    1. Tutti i soci che possiedono quote o azioni in misura non inferiore al 10% del capitale sociale, che svolgono a favore dell’impresa attività lavorativa non avente natura di lavoro subordinato, devono preventivamente comunicare all’Ufficio del Lavoro che fra essi e la società di cui sono comproprietari si è costituito uno speciale rapporto di collaborazione lavorativa.
+    2. E’ condizione di ricevibilità della comunicazione, la presentazione in allegato di copia del contratto formalmente registrato, concluso tra il socio e la società, nel quale dovrà essere indicato, a pena di nullità, il corrispettivo erogato per l’attività svolta. In mancanza della predetta comunicazione preventiva, il rapporto di lavoro fra il socio e la società si considera irregolarmente costituito, comportando l’applicazione delle sanzioni previste dall’articolo 21 del presente decreto legge.
+    3. I rapporti speciali di collaborazione di cui al presente articolo sono assoggettati agli oneri contributivi e assicurativi previsti dalle normative in materia.
+    Modifiche legislative:
+    Decreto – Legge 31 maggio 2012 n.61, Articolo 12 bis:
+    Il comma 1 dell’articolo 8/bis (Rapporti di collaborazione del socio) di cui al Decreto Legge 5 ottobre 2011 n.156 è così sostituito:
+    “1. Tutti i soci che possiedono quote o azioni in misura non inferiore al 25% del capitale sociale, che svolgono a favore dell’impresa attività lavorativa non avente natura di lavoro subordinato, devono preventivamente comunicare all’Ufficio del Lavoro che fra essi e la società di cui sono comproprietari si è costituito uno speciale rapporto di collaborazione lavorativa.”.

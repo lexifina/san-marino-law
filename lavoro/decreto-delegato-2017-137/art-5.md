@@ -1,0 +1,3 @@
+Art. 5
+(Durata del permesso di lavoro o nulla osta e successivi rinnovi)
+1. Per i lavoratori di cui all’articolo 3, comma 2, in possesso di regolare permesso di soggiorno rilasciato dalle competenti autorità della Repubblica Italiana, il permesso di lavoro o nulla osta non può avere una durata superiore a quella stabilita dal suddetto permesso di soggiorno. L’eventuale rinnovo può essere rilasciato solo dopo avere accertato la regolare posizione e validità del soggiorno in Italia e la trasformazione a tempo indeterminato può avvenire solo in presenza di un permesso di soggiorno di corrispondente durata.

@@ -1,0 +1,4 @@
+Art. 3
+(Servizi alla famiglia)
+1. Le prestazioni di lavoro occasionale e accessorio nel settore dei servizi alla famiglia sono riservate ad attività di lavoro domestico, giardinaggio, baby sitting, assistenza ad anziani e a persone con disabilità non autosufficienti e a malati. Sono considerati servizi alla famiglia anche le attività di cui alla lettera f) del comma 1 del precedente articolo 2 nel caso in cui vengano effettuate a favore della famiglia e non di operatori economici.
+2. Tali prestazioni possono essere rese, in condizione di occasionalità che non preveda continuità, per un massimo di cento giornate all’anno; se il lavoratore è iscritto alle Liste di Avviamento al Lavoro tale limite è da considerarsi presso la stessa famiglia, le giornate sono frazionabili in ore e non si applicano, qualora compatibili, i limiti previsti all’articolo 7.

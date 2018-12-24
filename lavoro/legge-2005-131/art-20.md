@@ -1,0 +1,5 @@
+Art. 20
+(Lavori accessori e occasionali)
+1. Per lavori accessori si intendono quelle attività che si collocano nell'ambito delle prestazioni riconducibili a piccoli lavori accessori per la famiglia, che hanno come categorie di prestatori studenti, disoccupati, precari, soggetti diversamente abili e casalinghe. Si può prefigurare un impiego del prestatore di lavoro presso lo stesso committente fino ad un massimo di quattro ore al giorno.
+2. Per lavori occasionali si intendono quelle attività che si pongono in essere dopo le ore 20 e nelle giornate di sabato, domenica e festivi per un massimo di sedici ore settimanali, che consistono principalmente in attività di gestione del tempo libero, di ristorazione, dello spettacolo e del commercio da parte di studenti, disoccupati, precari, soggetti diversamente abili e casalinghe. La contrattazione collettiva potrà determinare altri settori ai quali si potrà applicare tale disciplina.
+3. La regolamentazione delle modalità di autorizzazione e di svolgimento delle prestazioni di lavoro di cui ai commi precedenti nonché quelle relative ai versamenti contributivi sarà stabilita da decreto reggenziale.

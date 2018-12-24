@@ -1,0 +1,13 @@
+Art. 9
+(Norma transitoria per l’assunzione di lavoratori non iscritti alle liste di avviamento al
+lavoro)
+1. Fino all’entrata in vigore dell’articolo 5 della Legge n. 115/2017, esclusivamente per le assunzioni di personale non iscritto alle liste di avviamento al lavoro che avvenga a seguito di richiesta numerica di personale secondo le norme vigenti, ad esclusione quindi delle assunzioni effettuate a norma dell’articolo 2 della medesima legge, si applicano, in aggiunta o in sostituzione delle norme di cui al presente Titolo, le disposizioni di cui ai commi 2, 3, e 4.
+2. L'Ufficio del Lavoro può accettare la richiesta di assunzione di lavoratore non iscritto alle liste di avviamento al lavoro solo nel caso in cui il datore di lavoro abbia preventivamente fatto richiesta numerica di personale, con le medesime caratteristiche e non vi sia disponibilità nelle liste di avviamento al lavoro.
+3. Prima del rilascio del permesso di lavoro al lavoratore non iscritto alle liste di avviamento al lavoro, l’Ufficio del Lavoro deve effettuare controlli sull’effettivo possesso di tutti i requisiti compresi quelli indicati nella richiesta del datore di lavoro, in mancanza anche del possesso di un solo requisito non può rilasciare il permesso di lavoro o nulla osta.
+4. Gli accordi sottoscritti fra la Segreteria di Stato per il Lavoro e le imprese in materia di rilascio di permessi di lavoro per lavoratori non iscritti alle liste sono verificati dall’Ufficio del Lavoro, che ne controlla la corretta applicazione e, in caso si rilevino non conformità per fatto imputabile all’impresa, ne sospende l’attuazione, eventualmente sottoponendo la pratica all’esame della Commissione per il Lavoro. Non possono essere rilasciati permessi di lavoro per lavoratori non iscritti alle liste di avviamento al lavoro qualora gli impegni occupazionali derivanti da Convenzioni od Accordi non siano stati rispettati per cause imputabili all’azienda.
+5. Il datore di lavoro può richiedere il trasferimento di un lavoratore non iscritto alle liste di avviamento al lavoro già occupato in territorio presso altra azienda, purché il datore di lavoro abbia preventivamente fatto richiesta numerica di personale e la stessa sia accompagnata da lettera di consenso al trasferimento dell’azienda presso la quale il lavoratore è già dipendente. Tale procedura non si applica nei casi in cui intervengano accordi sindacali specifici riguardanti trasferimenti di più lavoratori.
+6. Fino alle necessarie implementazioni del Portale della Pubblica Amministrazione
+(LABOR), le procedure di cui al Titolo I vengono effettuate tramite le procedure ordinarie.
+CAPO II
+PROCEDURE PER L’ASSUNZIONE DI PERSONALE ISCRITTO ALLE LISTE DI
+AVVIAMENTO AL LAVORO

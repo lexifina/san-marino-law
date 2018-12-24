@@ -1,0 +1,16 @@
+Art. 4
+(Apprendistato formativo e applicativo/pratico)
+[ABROGATO][^76]
+
+[^76]: Testo originario (Legge n.71/2014):
+    1. L’apprendistato finalizzato all’effettuazione di un percorso formativo e applicativo/pratico delle conoscenze teoriche acquisite è riservato a giovani di età compresa tra l’assolvimento dell’obbligo scolastico e i 35 anni.
+    2. La modalità di assunzione in apprendistato di cui al comma precedente è attivata per i giovani alla loro prima occupazione, iscritti alle liste di avviamento al lavoro, in possesso di Attestato o Diploma di qualifica professionale, Diploma di Scuola Secondaria Superiore, Laurea di primo livello, Laurea magistrale, Corsi di perfezionamento e Master post Laurea in mansioni connesse al titolo di studio posseduto. Rientra nel concetto di prima occupazione anche l’aver già esercitato una mansione connessa al titolo di studio posseduto per un periodo massimo di dodici mesi, anche non continuativi negli ultimi tre anni, e aver svolto attività lavorativa ai sensi del Decreto-Legge 27 maggio 2011 n.87 ratificato con Decreto-Legge 22 luglio 2011 n.110.
+    3. L’assunzione in apprendistato è a tempo indeterminato ed è oggetto di comunicazione nominativa trasmessa all’Ufficio del Lavoro ai sensi dell’articolo 3 del Decreto-Legge n.156/2011. L’Ufficio del Lavoro richiede tempestivamente il parere tecnico al Centro di Formazione Professionale sull’ammissibilità del progetto formativo ai sensi di legge, verificato congiuntamente alla Sezione Orientamento. Il Centro di Formazione Professionale si pronuncia entro cinque giorni e comunque vale il principio del silenzio/assenso. L’impresa può anche rivolgere direttamente al Centro di Formazione Professionale la richiesta preventiva di pronuncia sull’ammissibilità del progetto formativo proposto. Il Centro di Formazione Professionale deve programmare visite periodiche in azienda per verificare l’andamento della formazione ed eventualmente proporre formazione teorica in aula, laddove necessario.
+    4. La durata dell’apprendistato di cui al presente articolo, su richiesta dell’impresa, non può avere durata superiore a due anni.
+    5. Durante il periodo di apprendistato, considerato il minor rendimento dell’apprendista e dei costi aziendali per la formazione e l’addestramento, il datore di lavoro corrisponde compensi mensili pari a:
+    a) 1° semestre: il 65% della retribuzione contrattuale corrispondente alla qualifica e livello retributivo finali previsti dalle declaratorie dei contratti collettivi di lavoro;
+    b) 2° semestre: il 75% della retribuzione contrattuale corrispondente alla qualifica e livello retributivo finali previsti dalle declaratorie dei contratti collettivi di lavoro;
+    c) 2° anno: l’80% della retribuzione contrattuale corrispondente alla qualifica e livello retributivo finali previsti dalle declaratorie dei contratti collettivi di lavoro.
+    Modifiche legislative:
+    Legge 29 settembre 2017 n.115, Articolo 27, comma 1:
+    1. Sono abrogati gli articoli 4 e 5 della Legge 19 aprile 2014 n.71. I richiami a detti articoli nelle norme vigenti si intendono riferiti all’articolo 3 della Legge n.71/2014, così come modificato dall’articolo 24 della presente legge.
