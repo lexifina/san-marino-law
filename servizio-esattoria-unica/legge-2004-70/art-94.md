@@ -1,0 +1,4 @@
+Art. 94
+(Gestione transitoria delle Mano Regie)
+Con l’entrata in vigore della presente legge, al fine di armonizzare il passaggio dalla riscossione dei tributi con la sommarissima procedura di Mano Regia alla loro esazione a mezzo Ruoli, le funzioni attualmente svolte dall’Avvocatura dello Stato vengono trasferite, sino all’attivazione del Servizio di Esattoria, alla Banca Centrale, che le potrà svolgere mediante impiego del proprio personale anche nei casi di attività di cui al precedente articolo 5 punto 5).
+La Banca Centrale inizierà a svolgere le funzioni di cui al precedente comma non prima che tutti i collegamenti informatici necessari allo espletamento delle attività siano correttamente stabiliti.

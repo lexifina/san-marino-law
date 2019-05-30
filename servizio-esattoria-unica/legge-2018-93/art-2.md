@@ -1,0 +1,5 @@
+Art. 2
+(Anagrafica Debitori)
+1. Il Servizio Esattoria Unica entro il mese di febbraio di ogni anno pubblica, secondo modalità da attuarsi con proprio regolamento ed in modalità informatizzata, i dati dei debitori di somme iscritte a ruolo ai sensi della Legge 25 maggio 2004 n.70 e successive modifiche, scadute al 31 dicembre dell’anno antecedente a quello precedente la pubblicazione ed il cui debito a ruolo superi l’importo di euro 20.000,00.
+2. Non sono oggetto di pubblicazione i debiti non definitivi, per i quali siano pendenti ricorsi giurisdizionali o siano in essere dilazioni di pagamento. A tal fine è onere del debitore comunicare la pendenza di eventuali ricorsi.
+3. Su richiesta dell’interessato il Servizio Esattoria Unica provvede all’aggiornamento della posizione debitoria qualora intervenga il pagamento o la dilazione prima della pubblicazione annuale dell’elenco dei debitori attraverso la cancellazione del dato dall’elenco pubblico, senza possibilità di visualizzazione dello storico.

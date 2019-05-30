@@ -1,0 +1,3 @@
+Art. 16
+(Recapito postale)
+Le società che sospendono l'attività o avviano la procedura di liquidazione volontaria sono tenute, all'occorrenza, a comunicare all'Ufficio Industria, Artigianato e Commercio un recapito postale diverso da quello della sede societaria, al quale i Pubblici Uffici interessati ed il Servizio di Esattoria possono indirizzare le proprie corrispondenze; tali corrispondenze, come quelle indirizzate alla sede societaria in mancanza della predetta comunicazione, si intendono ricevute a tutti gli effetti decorsi 15 giorni dall'eventuale deposito dell'avviso postale riguardante gli invii di comunicazioni e avvisi spediti a mezzo raccomandata A.R.

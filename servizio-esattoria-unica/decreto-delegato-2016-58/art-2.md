@@ -1,0 +1,3 @@
+Art. 2
+1. Le assegnazioni di personale conseguenti alle modifiche delle funzioni e dell’articolazione organizzativa dell’UO Ufficio del Turismo di cui all’articolo 1 sono effettuate conformemente a quanto previsto dall’articolo 78, comma 1, secondo periodo della Legge n. 188/2011; tali assegnazioni non comportano modifiche all’inquadramento, alla qualifica ed ad ogni altro profilo normativo e retributivo del personale interessato.
+2. Il dirigente dell’UO Ufficio del Turismo organizza l’UO in conformità al nuovo assetto funzionale introdotto dal presente decreto delegato, secondo quanto previsto dagli articoli 6, comma 4, e 10, comma 7 della Legge n. 188/2011.

@@ -1,0 +1,9 @@
+Art. 1
+(Azione di responsabilità)
+1.Lo Stato, per il tramite dell’Eccellentissima Camera della Repubblica di San Marino, esercita l’azione di responsabilità di cui all’articolo 56, comma 4 e all’articolo 64 della Legge 23 febbraio 2006 n.47 e successive modifiche ed integrazioni in caso di somme iscritte a ruolo ai sensi della Legge 25 maggio 2004 n.70 e successive modifiche di importo superiore a euro 200.000,00 contenute in cartella esattoriale scaduta da almeno ventiquattro mesi e per la quale non siano pendenti ricorsi giurisdizionali o siano in essere dilazioni di pagamento.
+2.L’azione di responsabilità, di cui al precedente comma, è autorizzata dal Congresso di Stato valutato il parere vincolante dell’Avvocatura dello Stato in merito.
+3.E’ fatta salva la possibilità da parte dell’Ecc.ma Camera di promuovere l’azione di responsabilità anche per somme inferiori a quella stabilita dal comma 1.
+4.L’azione di responsabilità di cui al comma 1 è promossa dall’Avvocatura dello Stato, legittimata all’esercizio dell’azione nell’interesse di tutti i creditori delle somme iscritte a ruolo.
+5.All’articolo 117 della Legge 23 febbraio 2006 n.47 è aggiunto il seguente comma 1-bis:
+“1-bis.Le azioni di cui al comma 1 esercitate nell’interesse dell’Ecc.ma Camera o degli Enti Pubblici si prescrivono nel termine di cinque anni a far data dal compimento dell’atto che dà luogo alla controversia.”.
+6.Con apposito decreto delegato, da emanarsi entro il 31 marzo di ogni anno, previo apposito riferimento in Commissione Consiliare Permanente Finanze, Bilancio e Programmazione; Artigianato, Industria, Commercio; Turismo, Servizi, Trasporti e Telecomunicazioni, Lavoro e Cooperazione, da parte del Segretario di Stato competente, viene stabilito l’importo delle somme iscritte a ruolo ai sensi della Legge 20 maggio 2004 n.70 e successive modifiche sulla cui base lo Stato esercita l’azione di responsabilità di cui al precedente comma 1.
