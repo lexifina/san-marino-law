@@ -1,0 +1,3 @@
+Art. 13
+(Rotatività del debito esattoriale esecutivo)
+1. Le garanzie personali o reali, incluse quelle ipotecarie, comunque ottenute dal Servizio di Esattoria della Banca Centrale della Repubblica di San Marino nell’interesse degli Enti Impositori, anche nell’ambito di dilazioni concesse ai sensi dell’articolo 34 della Legge 25 maggio 2004 n.70, si estendono ex lege a tutte le cartelle esattoriali e ruoli già esecutivi alla data di escussione delle predette garanzie, a prescindere dalle specifiche cartelle e ruoli oggetto di dilazione o comunque esistenti alla data di perfezionamento della garanzia, purché entro il limite di importo e il limite di durata, ove presente, della garanzia medesima.

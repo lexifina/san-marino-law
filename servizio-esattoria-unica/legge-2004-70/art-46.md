@@ -1,0 +1,6 @@
+Art. 46
+(Riscossione coattiva)
+Per la riscossione coattiva dei crediti iscritti a Ruolo, degli interessi di mora, delle sanzioni amministrative e di ogni ulteriore sanzione accessoria, il Servizio di Esattoria procede secondo le disposizioni della presente legge e a mezzo del proprio personale, opportunamente delegato.
+Il Servizio di Esattoria potrà avvalersi, per l’espletamento dell’attività di cui al precedente comma, anche dell’ausilio del Corpo di Polizia Civile, del Corpo della Gendarmeria, del Nucleo Uniformato della Guardia di Rocca e del Corpo Militare del Servizio di leva.
+Le spese che il Servizio di Esattoria sostiene nel corso dell’esecuzione forzata sono a carico del debitore, ma possono essere anticipate dal Servizio di Esattoria.
+Qualora in sede di pignoramento il debitore non risulti reperibile sul luogo dell’esecuzione, la riscossione coattiva ha comunque luogo anche in assenza di quest’ultimo. L’Ufficiale della riscossione è comunque tenuto, prima di procedere coattivamente, ad effettuare almeno due tentativi di reperimento del debitore presso il luogo dell’esecuzione, in giorni o in orari differenti. Dell’irreperibilità del debitore l’Ufficiale della riscossione deve dare segnalazione nel verbale di esecuzione.

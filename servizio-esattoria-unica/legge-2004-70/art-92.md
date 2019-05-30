@@ -1,0 +1,7 @@
+Art. 92
+(Subentro del Servizio di Esattoria nella procedura di riscossione delle Mano Regie)
+A partire dal 1° novembre 2004, tutti i crediti del Settore Pubblico Allargato per i quali è stata inoltrata istanza di Mano Regia e per i quali è stata eseguita la notifica del precetto di cui al terzo comma della Legge 30 agosto 1873, sono riscossi dal Servizio di Esattoria della Banca Centrale della Repubblica di San Marino.
+Il Servizio di Esattoria procede alla riscossione forzata sui beni del debitore quando, entro tre giorni dalla data di notifica del precetto di cui al precedente comma, non sia intervenuto il pagamento oppure il debitore non dimostri di aver pagato.
+La riscossione in via esecutiva avviene secondo le disposizioni contenute nel Titolo III e seguenti della presente legge, fatte salve le disposizioni relative alle rateizzazioni regolate dalla normativa in vigore.
+Nei casi in cui la riscossione dei crediti di cui al primo comma sia giunta alla fase dell’eseguito pignoramento, il Servizio di Esattoria prosegue la riscossione del credito secondo le disposizioni della presente legge con facoltà di derogare a quanto disposto dal primo comma dell’articolo 70. Per questi crediti, qualora il Tribunale Unico non abbia notificato il termine a riluere di cui all’articolo 23 della Legge n.55/94, il Servizio di Esattoria notifica, nelle forme della presente legge il termine di cui al precedente articolo
+68.
