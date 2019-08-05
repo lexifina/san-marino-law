@@ -1,0 +1,3 @@
+Art. 12
+(Marcatura delle armi da fuoco)
+Su ciascuna arma da fuoco al momento della produzione deve essere riportato, in forma indelebile, su una parte essenziale, la cui mancanza renderebbe l’arma inutilizzabile: il nome del produttore, il paese o il luogo di produzione, il numero di matricola (con codice numerico o alfanumerico), l’anno di fabbricazione o un codice che renda possibile identificare l’anno di fabbricazione, il contrassegno che ne indica la punzonatura presso un banco di prova riconosciuto e qualsiasi altro contrassegno previsto dalla normativa vigente nel paese di produzione o distribuzione.
