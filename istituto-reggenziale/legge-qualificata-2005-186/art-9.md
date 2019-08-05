@@ -1,0 +1,7 @@
+Art.9
+(Promulgazione decreti d’urgenza)
+1. I decreti adottati dal Congresso di Stato ai sensi dell’articolo 2, comma 2, punto b), della Legge Costituzionale n.183/2005 (Legge Costituzionale sul Congresso di Stato) sono promulgati dalla Reggenza con la denominazione di “decreto-legge” e con l’indicazione, nel preambolo, delle circostanze straordinarie di necessità ed urgenza che ne giustificano l’adozione, nonché dell’avvenuta deliberazione del Congresso di Stato.
+2. Prima della promulgazione i Capitani Reggenti possono, con messaggio motivato, rinviare al Congresso di Stato il decreto. Se il Congresso di Stato conferma la propria deliberazione, il decreto deve essere emanato.
+3. Il messaggio, redatto in forma scritta, deve contenere le motivazioni del rinvio.
+4. Il messaggio è immediatamente inoltrato al Congresso di Stato. Qualora il Congresso di Stato confermi la propria precedente deliberazione, il decreto deve essere emanato.
+5. La Reggenza deve sottoporre i decreti alla ratifica del Consiglio Grande e Generale entro tre mesi dalla loro promulgazione pena la loro decadenza. Se il decreto viene ratificato con emendamenti, la Reggenza è tenuta a promulgare il decreto emendato indicando nel preambolo gli estremi del decreto originario e l’avvenuta deliberazione del Consiglio che ha apportato gli emendamenti. Se il decreto viene ratificato nella formulazione originaria, la ratifica del Consiglio dovrà constare in apposita delibera da inserire nel Bollettino Ufficiale.

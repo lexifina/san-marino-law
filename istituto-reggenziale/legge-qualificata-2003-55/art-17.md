@@ -1,0 +1,12 @@
+Art.17
+1. I Capitani Reggenti rispondono alla fine del proprio mandato, davanti al Collegio Garante, ai sensi della Rubrica XIX del Libro I° delle Leges Statutae.
+2. Il Sindacato concerne esclusivamente l'accertamento e la valutazione di eventuali responsabilità istituzionali, restando impregiudicate le eventuali responsabilità penali e civili da farsi valere nelle sedi ordinarie.
+3. Entro quindici giorni dalla conclusione del mandato, ogni cittadino iscritto nelle liste elettorali può presentare denunce presso la Cancelleria del Collegio Garante, in ordine al
+"fatto e non fatto" dei Capitani Reggenti durante l'incarico. Il ricorso deve essere redatto in forma scritta; deve essere indirizzato alla Corte, contenere una chiara e dettagliata esposizione dei fatti, i riferimenti probatori ritenuti necessari dal ricorrente, nonché le motivazioni in diritto a sostegno dell'istanza. Il ricorrente deve concludere il ricorso con l'indicazione chiara e circostanziata della decisione richiesta.
+4. Decorso il termine di cui sopra il Collegio Garante si riunisce entro cinque giorni per verificare l'ammissibilità delle denunce. In caso di ammissibilità, assegna il termine di venti giorni per consentire il deposito di memorie e deduzioni, nonché l'indicazione dei mezzi di prova. Il provvedimento è notificato a cura dell'Ufficio di Cancelleria.
+5. Nei successivi dieci giorni il Presidente del Collegio fissa l'udienza di assunzione delle prove e per la discussione, che dovrà avere luogo nei successivi dieci giorni. Il provvedimento è notificato a tutti gli interessati.
+6. All'udienza possono essere indotti testimoni ed ogni prova ritenuta necessaria. Assunte le prove, il Presidente del Collegio apre la discussione, terminata la quale il Collegio si ritira in camera di consiglio per la decisione. Il Collegio Garante può rinviare la discussione su richiesta delle parti, per il rispetto del diritto alla difesa, qualora sia necessario l'approfondimento sulle risultanze probatorie, fissando apposita udienza.
+7. Il Collegio Garante decide con sentenza.
+8. Colui che è sottoposto a sindacato ha diritto di intervenire personalmente nelle fasi dibattimentali.
+9. In caso di denuncia temeraria, eccezion fatta per l'ipotesi dichiarativa di insufficienza di prove, il Collegio trasmette gli atti al Tribunale Commissariale per quanto di competenza.
+10. Ai fini della pubblicità degli atti si applica l'articolo 10 della presente legge.

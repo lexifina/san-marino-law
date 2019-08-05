@@ -1,0 +1,4 @@
+## RACCOLTA COORDINATA DI NORME SULL’ISTITUTO REGGENZIALE
+## LEGGI CITATE NELLA RACCOLTA COORDINATA
+(AGGIORNATA AL 05/08/2019)
+Legge 5 Giugno 1923 N. 20 Legge 24 marzo 1945 n. 15 Decreto 30 novembre 1964 n. 66 Legge 8 luglio 1974 n. 59 Legge 24 maggio 1995 n. 72 Legge 26 febbraio 2002 n. 36 Legge Qualificata 25 aprile 2003 n. 55 Legge Qualificata 30 ottobre 2003 n. 145 Regolamento 24 marzo 2004 n. 1 Legge di revisione costituzionale 14 dicembre 2005 n. 182 Legge Costituzionale 28 aprile 2005 n. 61 Legge Costituzionale 15 dicembre 2005 n. 183 Legge Qualificata 15 dicembre 2005 n. 184 Legge Costituzionale 16 dicembre 2005 n.185 Legge Qualificata 16 dicembre 2005 n. 186 Legge Qualificata 11 maggio 2007 n. 1 Legge Qualificata 29 maggio 2013 n. 1 Legge 27 settembre 2013 n. 127 Legge Qualificata 23 agosto 2016 n. 2 Legge Qualificata 3 agosto 2018 n.3 Legge Qualificata 5 agosto 2019 n. 2
