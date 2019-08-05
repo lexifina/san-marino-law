@@ -1,0 +1,7 @@
+## MODIFICHE ALLA LEGGE 10 AGOSTO 2012 N.122 E SUCCESSIVE MODIFICHE - TESTO UNICO IN MATERIA DI ARMI ED ESPLOSIVI
+Art. 5
+(Modifiche all’articolo 42-bis della Legge n. 122/2012 e successive modifiche)
+1. All’articolo 42-bis della Legge n.122/2012 e successive modifiche, sono aggiunti i seguenti commi:
+“1 bis. I prodotti di cui al comma 1, devono essere custoditi in espositori interni chiusi a chiave. I vetri e le vetrine esterne devono essere del tipo antisfondamento. La vendita dei prodotti di cui al comma 1 qualora avvenga congiuntamente ad altre merceologie, deve svolgersi in diverso reparto/corner dedicato recante esplicita indicazione che la vendita medesima è riservata ai maggiori degli anni 18. I locali devono essere dotati di telecamere di sorveglianza interna ed esterna.
+1 ter. La violazione dei disposti di cui ai commi 1 e 1bis, qualora non siano applicabili sanzioni penali, comporta l’applicazione della sanzione pecuniaria amministrativa nella misura unica di euro 2.500,00. Nel caso di recidiva la sanzione è raddoppiata ed è inoltre applicata la sospensione immediata della licenza per mesi uno. Il controllo sulla corretta applicazione del presente articolo compete all’Ufficio Attività di Controllo.”.
+2. Le caratteristiche tecniche degli espositori interni, dei vetri e delle vetrine esterne di cui all’articolo 42bis, comma 1bis, della Legge n. 122/2012 e successive modifiche così come introdotto dal comma precedente, sono definite nell’Allegato A del presente decreto delegato.

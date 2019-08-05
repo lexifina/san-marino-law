@@ -1,0 +1,15 @@
+Art. 30
+(Società di tiro sportivo)
+Le società, le federazioni e le associazioni di tiro sportivo, legalmente riconosciute, possono detenere armi e munizioni eccedenti i limiti indicati dai precedenti articoli 28 e 29. Le armi e le munizioni devono essere registrate su appositi registri conformi alle disposizioni di cui ai successivi articoli 39 e 40.
+Le munizioni, se acquistate presso rivenditori autorizzati sammarinesi e dopo che è stata assolta l’imposta di monofase, possono essere vendute dagli enti di cui al primo comma ai tiratori associati, previa registrazione, per l’impiego nelle attività sportive proprie della società e non possono essere portate fuori dall’impianto di tiro. Le cartucce vendute all’interno degli impianti di tiro vanno tutte esplose all’interno del medesimo ovvero ivi depositate o restituite.
+Gli enti di cui al primo comma possono acquistare direttamente dal fornitore in esenzione monofase fino ad un massimo di 75.000 cartucce annue. La Commissione di cui al successivo articolo 49 detta le prescrizioni per la messa in sicurezza dei locali ove sono depositate le armi e le munizioni.[^14]
+
+[^14]: Testo originario (Legge n.122/2012)
+    Art. 30
+    (Società di tiro sportivo) Le società, le federazioni e le associazioni di tiro sportivo, legalmente riconosciute, possono detenere armi e munizioni eccedenti i limiti indicati dai precedenti articoli 28 e 29. Le armi e le munizioni devono essere registrate su appositi registri conformi alle disposizioni di cui ai successivi articoli 39 e 40. Le munizioni, se acquistate presso rivenditori autorizzati sammarinesi e dopo che è stato assolta l’imposta di monofase, possono essere vendute dagli enti di cui al primo comma ai tiratori associati, previa registrazione, per l’impiego nelle attività sportive proprie della società e non possono essere portate fuori dall’impianto di tiro.
+    Modifiche legislative:
+    Legge 30 luglio 2015 n.119, Articolo 13
+    L’articolo 30 della Legge 10 agosto 2012 n.122 è così modificato:
+    “Art.30
+    (Società di tiro sportivo) Le società, le federazioni e le associazioni di tiro sportivo, legalmente riconosciute, possono detenere armi e munizioni eccedenti i limiti indicati dai precedenti articoli 28 e 29. Le armi e le munizioni devono essere registrate su appositi registri conformi alle disposizioni di cui ai successivi articoli 39 e 40. Le munizioni, se acquistate presso rivenditori autorizzati sammarinesi e dopo che è stata assolta l’imposta di monofase, possono essere vendute dagli enti di cui al primo comma ai tiratori associati, previa registrazione, per l’impiego nelle attività sportive proprie della società e non possono essere portate fuori dall’impianto di tiro. Le cartucce vendute all’interno degli impianti di tiro vanno tutte esplose all’interno del medesimo ovvero ivi depositate o restituite.
+    Gli enti di cui al primo comma possono acquistare direttamente dal fornitore in esenzione monofase fino ad un massimo di 75.000 cartucce annue. La Commissione di cui al successivo articolo 49 detta le prescrizioni per la messa in sicurezza dei locali ove sono depositate le armi e le munizioni.”.

@@ -1,0 +1,29 @@
+Art. 68
+(Norme transitorie)
+Coloro che al momento dell’entrata in vigore della presente legge siano titolari di licenza avente ad oggetto l’attività di cui all’articolo 36 da più di 10 anni sono esentati dall’effettuare il corso di armaiolo.
+Ai fini della presente legge in riferimento al certificato di capacità tecnica di armaiolo sono riconosciuti validi i corsi di formazione nonché gli esami sostenuti a norma del Decreto Delegato n.98/2006.
+Possono effettuare intermediazione commerciale nel settore delle armi, delle munizioni, degli esplosivi e degli articoli pirici esclusivamente gli operatori economici che nel proprio oggetto di licenza e/o oggetto sociale abbiano esplicitato tale settore.
+Il rilascio di licenze nel settore delle armerie di cui agli articoli 36 e 47 della presente legge, è oggetto di Nulla Osta preventivo da parte del Congresso di Stato.
+4 bis. Il rilascio di licenze nel settore delle armerie leggere di cui all’articolo 42 è assoggettato al nulla osta del Congresso di Stato qualora la sede operativa della licenza o la sede secondaria siano situate nel Centro storico della Capitale, così come definito dall’articolo 1, comma 1, lettera a) dell’Allegato B della Legge n.130/2010 e successive modifiche. La medesima disposizione è applicabile in caso di eventuale trasferimento sede in Centro Storico della Capitale.
+I privati, possessori di armi, munizioni od altri strumenti la cui detenzione è limitata ai sensi della presente legge, hanno termine sino al 31 dicembre 2015 per denunciare il possesso degli stessi al fine di regolarizzare la loro detenzione, senza incorrere nelle sanzioni per chi detiene armi senza Nulla Osta o Porto d’Armi.
+Con decreto delegato verrà istituito il passaporto delle armi ad uso sportivo e/o venatorio, che potrà essere rilasciato ai titolari di Porto d’Armi o agli interessati all’utilizzo di armi fuori territorio.[^34]
+
+[^34]: Testo originario (Legge n.122/2012)
+    Art. 68
+    (Norme transitorie) Coloro che al momento di entrata in vigore della presente legge siano titolari di licenza avente ad oggetto l’attività di cui agli articoli 36, 42 e 47 da più di 10 anni sono esentati dall’effettuare il corso di armaiolo.
+    Possono effettuare intermediazione commerciale nel settore delle armi, delle munizioni, degli esplosivi e degli articoli pirici esclusivamente gli operatori economici che nel proprio oggetto di licenza e/o oggetto sociale abbiano esplicitato tale settore.
+    Il rilascio di licenze nel settore disciplinato dalla presente legge, è oggetto di Nulla Osta preventivo da parte del Congresso di Stato.
+    I privati, possessori di armi, munizioni od altri strumenti la cui detenzione è limitata ai sensi della presente legge hanno termine sino al 31 dicembre 2012 per denunciare il possesso degli stessi al fine di regolarizzare la loro detenzione, senza incorrere nelle sanzioni per chi detiene armi senza Nulla Osta o Porto d’Armi.
+    Con decreto delegato verrà istituito il passaporto delle armi ad uso sportivo e/o venatorio, che potrà essere rilasciato ai titolari di Porto d’Armi o agli interessati all’utilizzo di armi fuori territorio.
+    Modifiche legislative:
+    Legge 30 luglio 2015 n.119, Articolo 29
+    L’articolo 68 della Legge 10 agosto 2012 n.122 è così modificato:
+    “Art.68
+    (Norme transitorie) Coloro che al momento dell’entrata in vigore della presente legge siano titolari di licenza avente ad oggetto l’attività di cui all’articolo 36 da più di 10 anni sono esentati dall’effettuare il corso di armaiolo. Ai fini della presente legge in riferimento al certificato di capacità tecnica di armaiolo sono riconosciuti validi i corsi di formazione nonché gli esami sostenuti a norma del Decreto Delegato n.98/2006. Possono effettuare intermediazione commerciale nel settore delle armi, delle munizioni, degli esplosivi e degli articoli pirici esclusivamente gli operatori economici che nel proprio oggetto di licenza e/o oggetto sociale abbiano esplicitato tale settore.
+    Il rilascio di licenze nel settore delle armerie di cui agli articoli 36 e 47 della presente legge, è oggetto di Nulla Osta preventivo da parte del Congresso di Stato.
+    I privati, possessori di armi, munizioni od altri strumenti la cui detenzione è limitata ai sensi della presente legge, hanno termine sino al 31 dicembre 2015 per denunciare il possesso degli stessi al fine di regolarizzare la loro detenzione, senza incorrere nelle sanzioni per chi detiene armi senza Nulla Osta o Porto d’Armi.
+    Con decreto delegato verrà istituito il passaporto delle armi ad uso sportivo e/o venatorio, che potrà essere rilasciato ai titolari di Porto d’Armi o agli interessati all’utilizzo di armi fuori territorio.”.
+    Decreto Delegato 5 agosto 2019 n. 122 Art. 7
+    (Modifiche all’articolo 68 della Legge n. 122/2012 e successive modifiche)
+    1. All’articolo 68 della Legge n.122/2012 e successive modifiche, dopo il comma 4 è aggiunto il seguente comma:
+    “4 bis. Il rilascio di licenze nel settore delle armerie leggere di cui all’articolo 42 è assoggettato al nulla osta del Congresso di Stato qualora la sede operativa della licenza o la sede secondaria siano situate nel Centro storico della Capitale, così come definito dall’articolo 1, comma 1, lettera a) dell’Allegato B della Legge n.130/2010 e successive modifiche. La medesima disposizione è applicabile in caso di eventuale trasferimento sede in Centro Storico della Capitale.”.

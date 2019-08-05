@@ -1,0 +1,20 @@
+Art. 2
+(Modalità di vendita on line al fine dell’accertamento della maggiore età
+dell’acquirente)
+1. Le vendite on line di cui all’articolo 1 effettuate da operatore economico sammarinese a ciò autorizzato, ovunque esse siano destinate, devono obbligatoriamente essere corredate degli elementi identificativi del soggetto acquirente, come specificato ai commi 2 e 3.
+2. In caso di vendita on line di archi e balestre, il soggetto acquirente, dopo aver effettuato la registrazione all’interno del sito e-commerce di vendita dell’operatore economico sammarinese prescelto, deve successivamente pagare obbligatoriamente tramite carta di credito o bonifico bancario o piattaforma di pagamento digitale. Il format a cui attenersi è quello di cui all’allegato A specificando i campi obbligatori da inserire nella pagina di acquisto.
+3. In caso di vendita on line della restante categoria di beni, il soggetto acquirente, dopo aver effettuato la registrazione all’interno del sito e-commerce di vendita dell’operatore economico sammarinese prescelto deve attenersi al format di cui all’allegato B specificando i campi obbligatori da inserire nella pagina di acquisto.
+4. L’operatore economico che effettua le vendite on line, al fine del rispetto delle normative vigenti nello Stato di destinazione deve acquisire idonea dichiarazione ed eventuale certificazione dall’acquirente. [^44]
+
+[^44]: Testo originario (Decreto delegato n. 75/2017) Art. 2
+    (Modalità di vendita on line al fine dell’accertamento della maggiore età dell’acquirente)
+    1. Le vendite on line di cui all’articolo 1 effettuate da operatore economico sammarinese a ciò autorizzato, ovunque esse siano destinate, devono obbligatoriamente essere corredate degli elementi identificativi del soggetto acquirente, come specificato ai commi 2 e 3.
+    2. In caso di vendita on line di archi e balestre, il soggetto acquirente, dopo aver effettuato la registrazione all’interno del sito e-commerce di vendita dell’operatore economico sammarinese prescelto, deve allegare la copia della propria carta di identità, sottoscritta in calce, e successivamente pagare obbligatoriamente tramite carta di credito o bonifico bancario dal conto corrente intestati al soggetto di cui alla carta di identità allegata. Il format a cui attenersi è quello di cui all’allegato A specificando i campi obbligatori da inserire nella pagina di acquisto.
+    3. In caso di vendita on line della restante categoria di beni, il soggetto acquirente, dopo aver effettuato la registrazione all’interno del sito e-commerce di vendita dell’operatore economico sammarinese prescelto, deve specificare il codice fiscale. Il format a cui attenersi è quello di cui all’allegato B specificando i campi obbligatori da inserire nella pagina di acquisto.
+    4. L’operatore economico che effettua le vendite on line, al fine del rispetto delle normative vigenti nello Stato di destinazione deve acquisire idonea dichiarazione ed eventuale certificazione dall’acquirente.
+    Modifiche legislative:
+    Decreto Delegato 17 luglio 2018 n. 86 Art.2
+    1. L’articolo 2, comma 2, del Decreto Delegato 4 luglio 2017 n.75 è così sostituito:
+    “2. In caso di vendita on line di archi e balestre, il soggetto acquirente, dopo aver effettuato la registrazione all’interno del sito e-commerce di vendita dell’operatore economico sammarinese prescelto, deve successivamente pagare obbligatoriamente tramite carta di credito o bonifico bancario o piattaforma di pagamento digitale. Il format a cui attenersi è quello di cui all’allegato A specificando i campi obbligatori da inserire nella pagina di acquisto.”.
+    2. L’articolo 2, comma 3, del Decreto Delegato n.75/2017 è così sostituito:
+    “3. In caso di vendita on line della restante categoria di beni, il soggetto acquirente, dopo aver effettuato la registrazione all’interno del sito e-commerce di vendita dell’operatore economico sammarinese prescelto deve attenersi al format di cui all’allegato B specificando i campi obbligatori da inserire nella pagina di acquisto.”.
