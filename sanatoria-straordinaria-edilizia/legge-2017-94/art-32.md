@@ -1,0 +1,7 @@
+Art.32
+(Commissione Tecnica per la Sanatoria Straordinaria)
+1. E' istituita la Commissione Tecnica per la Sanatoria Straordinaria composta dal Dirigente dell’Ufficio per l’Edilizia che la presiede, dal Dirigente dell’Ufficio Pianificazione Territoriale e dal Dirigente dell’Ufficio Gestione Risorse Ambientali ed Agricole.
+2. Alla Commissione Tecnica per la Sanatoria Straordinaria compete l’esame delle domande e il rilascio delle concessioni edilizie in sanatoria straordinaria di cui al presente Titolo.
+3. Le funzioni di segreteria e di supporto tecnico alla Commissione Tecnica per la Sanatoria Straordinaria sono svolte dall’Ufficio per l’Edilizia che ne cura l’attività, le convocazioni su incarico del Presidente, la tenuta dell’archivio nonché l’istruttoria delle pratiche; le funzioni di “Segretario” della Commissione Tecnica per la Sanatoria Straordinaria sono svolte da un funzionario della sezione pratiche edilizie dell’Ufficio per l’Edilizia appositamente incaricato che presenzia alle sedute della Commissione in qualità di verbalizzante.
+4. La Commissione Tecnica per la Sanatoria Straordinaria delibera a maggioranza.
+5. I membri della Commissione Tecnica per la Sanatoria Straordinaria sono direttamente responsabili, oltre che per i reati previsti dal Codice Penale, anche secondo le disposizioni civili ed amministrative ove sussista dolo o colpa grave nei casi di illegittimo diniego, nonché nei casi di illegittimo ritardo negli atti di loro competenza. La responsabilità civile si estende alla Ecc.ma Camera in via solidale.
