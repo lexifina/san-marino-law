@@ -1,0 +1,21 @@
+Art. 70 bis
+(Responsabilità delle persone giuridiche)
+1. I soggetti designati, diversi dalla persona fisica, per le violazioni gravi o ripetute o sistematiche o plurime di cui al precedente Capo II, o che presentino una combinazione di tali caratteristiche, sono considerati responsabili delle violazioni commesse a beneficio del soggetto designato da chiunque agisca individualmente o in quanto parte di un organo di tale persona giuridica e che detenga una posizione preminente in seno alla persona giuridica stessa, basata su:
+a) il potere di rappresentare la persona giuridica;
+b) l'autorità di prendere decisioni a nome della persona giuridica; oppure
+c) l'autorità di esercitare controlli in seno alla persona giuridica.
+1 bis. Nel caso di mancato esercizio di vigilanza o controllo da parte di uno dei soggetti di cui al comma 1, i soggetti designati, diversi dalla persona fisica, sono considerati responsabili.
+2. Nel caso di cui al comma 1, in deroga ai limiti edittali previsti per le singole violazioni, si applica la sanzione amministrativa pecuniaria non inferiore a 30.000 euro.
+3. Fermo quanto disposto dai commi precedenti, e in deroga agli edittali previsti per le singole violazioni, si applica la sanzione amministrativa pecuniaria non inferiore a 10.000 euro ai soggetti titolari di funzioni di amministrazione, direzione e controllo e al personale del soggetto designato che, non assolvendo in tutto o in parte ai compiti direttamente o indirettamente correlati alla funzione o all’incarico, hanno agevolato, facilitato o comunque reso possibile le violazioni contestate ovvero hanno inciso in modo rilevante sull’esposizione del soggetto designato al rischio di riciclaggio o di finanziamento del terrorismo. Qualora il vantaggio economico ottenuto dal soggetto designato sia superiore a 5.000.000 di euro, la sanzione amministrativa pecuniaria è elevata fino al doppio dell’ammontare del vantaggio economico ottenuto, purché tale ammontare sia determinato o determinabile.[^116]
+
+[^116]: TESTO ORIGINARIO Decreto-Legge 11 dicembre 2017 n. 139 Art. 92
+    1. Dopo l’articolo 70 della Legge 17 giugno 2008 n. 92 e successive modifiche è introdotto il seguente articolo 70 bis:
+    “Art. 70 bis
+    (Responsabilità delle persone giuridiche)
+    1. I soggetti designati, diversi dalla persona fisica, per le violazioni gravi o ripetute o sistematiche o plurime di cui al precedente Capo II, o che presentino una combinazione di tali caratteristiche, sono considerati responsabili delle violazioni commesse a beneficio del soggetto designato da chiunque agisca individualmente o in quanto parte di un organo di tale persona giuridica e che detenga una posizione preminente in seno alla persona giuridica stessa, basata su:
+    a) il potere di rappresentare la persona giuridica;
+    b) l'autorità di prendere decisioni a nome della persona giuridica; oppure
+    c) l'autorità di esercitare controlli in seno alla persona giuridica.
+    1 bis. Nel caso di mancato esercizio di vigilanza o controllo da parte di uno dei soggetti di cui al comma 1, i soggetti designati, diversi dalla persona fisica, sono considerati responsabili.
+    2. Nel caso di cui al comma 1, in deroga ai limiti edittali previsti per le singole violazioni, si applica la sanzione amministrativa pecuniaria non inferiore a 30.000 euro.
+    3. Fermo quanto disposto dai commi precedenti, e in deroga agli edittali previsti per le singole violazioni, si applica la sanzione amministrativa pecuniaria non inferiore a 10.000 euro ai soggetti titolari di funzioni di amministrazione, direzione e controllo e al personale del soggetto designato che, non assolvendo in tutto o in parte ai compiti direttamente o indirettamente correlati alla funzione o all’incarico, hanno agevolato, facilitato o comunque reso possibile le violazioni contestate ovvero hanno inciso in modo rilevante sull’esposizione del soggetto designato al rischio di riciclaggio o di finanziamento del terrorismo. Qualora il vantaggio economico ottenuto dal soggetto designato sia superiore a 5.000.000 di euro, la sanzione amministrativa pecuniaria è elevata fino al doppio dell’ammontare del vantaggio economico ottenuto, purché tale ammontare sia determinato o determinabile.”.
