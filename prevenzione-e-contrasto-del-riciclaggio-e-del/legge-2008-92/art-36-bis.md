@@ -1,0 +1,15 @@
+Art. 36 bis
+(Modalità di adempimento degli obblighi di segnalazione)
+1. I soggetti designati segnalano all’Agenzia per il tramite del responsabile incaricato antiriciclaggio.
+2. Gli obblighi di segnalazione di cui all’articolo 36 comma 1 ricadono anche su amministratori, dipendenti, responsabili delle funzioni esternalizzate e sindaci, che li assolvono nelle modalità previste dal presente articolo e dall’articolo 40 ter.
+3. Per i soggetti finanziari di cui all’articolo 18, il responsabile della dipendenza, dell'ufficio, di altro punto operativo, unità organizzativa o struttura del soggetto designato o del soggetto cui compete l'amministrazione e la gestione dei rapporti con la clientela, il responsabile della funzione esternalizzata e in generale il dipendente del soggetto designato ha l'obbligo di segnalare, tempestivamente, ai sensi dell’articolo 36 al responsabile incaricato antiriciclaggio ovvero, in caso di assenza, al suo sostituto o al legale rappresentate del soggetto finanziario.
+4. Per i soggetti non finanziari di cui all’articolo 19 e i soggetti di cui all’articolo 20, il dipendente o comunque chi ha la gestione dei rapporti con la clientela ha l'obbligo di segnalare, tempestivamente, ai sensi dell’articolo 36 al responsabile incaricato antiriciclaggio ovvero, in caso di assenza, al suo sostituto o al legale rappresentate o titolare dell’impresa individuale ovvero al professionista.[^61]
+
+[^61]: TESTO ORIGINARIO Decreto – Legge 11 dicembre 2017 n. 139 Art. 59
+    1. Dopo l’articolo 36 della Legge 17 giugno 2008 n. 92 e successive modifiche è introdotto il seguente articolo 36 bis:
+    “Art. 36 bis
+    (Modalità di adempimento degli obblighi di segnalazione)
+    1. I soggetti designati segnalano all’Agenzia per il tramite del responsabile incaricato antiriciclaggio.
+    2. Gli obblighi di segnalazione di cui all’articolo 36 comma 1 ricadono anche su amministratori, dipendenti, responsabili delle funzioni esternalizzate e sindaci, che li assolvono nelle modalità previste dal presente articolo e dall’articolo 40 ter.
+    3. Per i soggetti finanziari di cui all’articolo 18, il responsabile della dipendenza, dell'ufficio, di altro punto operativo, unità organizzativa o struttura del soggetto designato o del soggetto cui compete l'amministrazione e la gestione dei rapporti con la clientela, il responsabile della funzione esternalizzata e in generale il dipendente del soggetto designato ha l'obbligo di segnalare, tempestivamente, ai sensi dell’articolo 36 al responsabile incaricato antiriciclaggio ovvero, in caso di assenza, al suo sostituto o al legale rappresentate del soggetto finanziario.
+    4. Per i soggetti non finanziari di cui all’articolo 19 e i soggetti di cui all’articolo 20, il dipendente o comunque chi ha la gestione dei rapporti con la clientela ha l'obbligo di segnalare, tempestivamente, ai sensi dell’articolo 36 al responsabile incaricato antiriciclaggio ovvero, in caso di assenza, al suo sostituto o al legale rappresentate o titolare dell’impresa individuale ovvero al professionista.”.

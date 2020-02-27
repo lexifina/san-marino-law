@@ -1,0 +1,3 @@
+Art. 81
+(Estradizione per i misfatti di terrorismo)
+1. Per i misfatti di associazione con finalità di terrorismo, di finanziamento del terrorismo e per ogni misfatto commesso con finalità di terrorismo, in assenza di specifici trattati internazionali, l’estradizione di persona che si trovi nel territorio della Repubblica è regolata dalla Convenzione internazionale per la repressione del finanziamento del terrorismo fatta a New York il 9 dicembre 1999 e ratificata con Decreto 10 dicembre 2001 n.125. Si applicano le disposizioni previste dall’articolo 8 comma 2 numeri 1, 2 e 3 del codice penale.

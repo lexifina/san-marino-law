@@ -1,0 +1,4 @@
+## MISURE PER PREVENIRE, CONTRASTARE E REPRIMERE IL FINANZIAMENTO DEL TERRORISMO, DELLA PROLIFERAZIONE DELLE ARMI DI DISTRUZIONE DI MASSA E L'ATTIVITÀ DEI PAESI CHE MINACCIANO LA PACE E LA SICUREZZA INTERNAZIONALE
+Art.34, commi 2 e 3
+2. Il richiamo all’articolo 47 della Legge 17 giugno 2008 n.92, abrogato dalla lettera c) di cui al comma precedente e contenuto nell’articolo 2, comma 2 del Decreto Delegato 31 ottobre 2008 n.137, deve intendersi riferito all’articolo 15 della presente legge.
+3. In ogni caso di revoca dell’ordine di congelamento o di accoglimento dell’istanza di esenzione dal congelamento di cui al comma 1 dell’articolo 8 del Decreto Delegato 31 ottobre 2008 n.137, l’amministrazione dei beni o fondi cessa, interamente o parzialmente, a norma degli articoli 16, 18 e 19 della presente legge.

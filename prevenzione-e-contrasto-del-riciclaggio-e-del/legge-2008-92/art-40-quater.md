@@ -1,0 +1,15 @@
+Art. 40 quater
+(Comunicazioni oggettive)
+1. L’Agenzia, tenuto conto della valutazione nazionale dei rischi di riciclaggio e di finanziamento del terrorismo, del livello di collaborazione delle categorie di soggetti designati ovvero della necessità di svolgere specifiche analisi di fenomeni o tipologie di riciclaggio o di finanziamento del terrorismo, può richiedere ai soggetti designati la trasmissione, con cadenza periodica, di dati e informazioni individuati in base a criteri oggettivi, concernenti operazioni a rischio di riciclaggio o di finanziamento del terrorismo.
+2. I dati e le informazioni sono utilizzati dall’Agenzia per la comprensione dei rischi di riciclaggio o di finanziamento del terrorismo, ai fini di analisi finanziaria, per l’adozione di un approccio di vigilanza basata sul rischio o per qualsiasi altra funzione attribuita all’Agenzia.
+3. L’invio di una comunicazione oggettiva non esclude l’obbligo di segnalazione di cui all’art. 36 avente ad oggetto la medesima operazione. Qualora la comunicazione oggettiva, alla luce delle valutazioni e degli approfondimenti del soggetto designato, sia connotata da sospetto, il soggetto designato medesimo, è tenuto a segnalare ai sensi dell’articolo 36.
+4. L’Agenzia può, anche mediante apposite circolari, individuare le operazioni, i dati e le informazioni di cui al comma 1 e definire le relative modalità di trasmissione.[^68]
+
+[^68]: TESTO ORIGINARIO Decreto-Legge 11 dicembre 2017 n. 139 Art. 66
+    1. Dopo l’articolo 40 ter della Legge 17 giugno 2008 n. 92 e successive modifiche è introdotto il seguente articolo 40 quater:
+    “Art. 40 quater
+    (Comunicazioni oggettive)
+    1. L’Agenzia, tenuto conto della valutazione nazionale dei rischi di riciclaggio e di finanziamento del terrorismo, del livello di collaborazione delle categorie di soggetti designati ovvero della necessità di svolgere specifiche analisi di fenomeni o tipologie di riciclaggio o di finanziamento del terrorismo, può richiedere ai soggetti designati la trasmissione, con cadenza periodica, di dati e informazioni individuati in base a criteri oggettivi, concernenti operazioni a rischio di riciclaggio o di finanziamento del terrorismo.
+    2. I dati e le informazioni sono utilizzati dall’Agenzia per la comprensione dei rischi di riciclaggio o di finanziamento del terrorismo, ai fini di analisi finanziaria, per l’adozione di un approccio di vigilanza basata sul rischio o per qualsiasi altra funzione attribuita all’Agenzia.
+    3. L’invio di una comunicazione oggettiva non esclude l’obbligo di segnalazione di cui all’art. 36 avente ad oggetto la medesima operazione. Qualora la comunicazione oggettiva, alla luce delle valutazioni e degli approfondimenti del soggetto designato, sia connotata da sospetto, il soggetto designato medesimo, è tenuto a segnalare ai sensi dell’articolo 36.
+    4. L’Agenzia può, anche mediante apposite circolari, individuare le operazioni, i dati e le informazioni di cui al comma 1 e definire le relative modalità di trasmissione.”.
