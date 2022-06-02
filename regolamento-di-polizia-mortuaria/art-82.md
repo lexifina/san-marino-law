@@ -1,0 +1,3 @@
+Art. 82.
+- Ai funzionari menzionati nei precedenti articoli e piu' particolarmente al dirigente la polizia mortuaria è raccomandato, sotto la loro personale responsabilità, di vigilare per l'esatta osservanza dei servigi necroscopici e di non permettere che nei cimiteri si compiano infrazioni di qualsiasi specie a tutto quanto viene stabilito dal presente regolamento od in virtu' del medesimo.
+Gli agenti necroscopici (custodi, becchini ed ogni altro serviente d'ordine inferiore) sono responsabili alla loro volta verso i superiori dell'osservanza dei propri doveri e dell'esecuzione degli ordini ricevuti.
