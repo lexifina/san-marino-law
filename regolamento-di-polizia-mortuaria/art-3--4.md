@@ -1,0 +1,4 @@
+Art. 3
+La disposizione testamentaria di cui all’articolo 5 della Legge n.35/2010, comma 1, lettera a), contenente la volontà del defunto di essere cremato, deve essere prodotta all’Ufficiale di Stato Civile in copia conforme o per estratto rilasciato da un pubblico notaio.
+L’Ufficiale di Stato Civile dispone la cremazione quando risulti l’accettazione della salma da parte dell’Ara crematoria prescelta e siano stati assunti i debiti accordi con la Segreteria di Stato per gli Affari Esteri per il trasferimento fuori dal territorio della Repubblica.
+Nel caso la richiesta di cremazione riguardi la salma di un cittadino non sammarinese, l’Ufficiale di Stato Civile deve acquisire la dichiarazione dell’Autorità competente dello Stato di appartenenza dal quale si evinca che la legislazione di tale paese consente la pratica della cremazione.

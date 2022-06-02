@@ -1,0 +1,2 @@
+Art. 7
+La violazione degli obblighi di custodia dell’affidatario delle ceneri in luoghi privati e comunicazione di variazione del luogo di custodia o della persona affidataria di cui all’articolo 9 della Legge n.35/2010, dà luogo alla applicazione di una sanzione pecuniaria da un minimo di € 100,00 ad un massimo di € 500,00 di competenza del Commissario della Legge, su richiesta dell’Ufficiale di Stato Civile”.

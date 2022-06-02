@@ -1,0 +1,14 @@
+Art. 8
+(Destinazione delle ceneri)
+1. Le ceneri derivanti dalla cremazione vengono raccolte in apposita urna cineraria recante all’esterno il nome, il cognome, la data di nascita e di morte del defunto.
+2. Salvo il caso di dispersione delle ceneri o il caso di trasporto dell’urna fuori del territorio della Repubblica, l’urna cineraria deve essere tumulata o inumata nei cimiteri della Repubblica o nei cimiteri fuori della Repubblica o, qualora il defunto o i suoi familiari esprimano diversa volontà, conservata o inumata in luoghi privati o le ceneri disperse. La dispersione o l’affido familiare delle ceneri sono consentiti nel caso di volontà del defunto espressa in forma scritta o con la dichiarazione in vita di cui all'articolo 7. Sono altresì consentiti la dispersione o l’affido per volere di tutti i familiari aventi titolo, espresso in forma scritta all'Ufficiale di Stato Civile - Dirigente la Polizia Mortuaria, all'atto della richiesta di cremazione; in caso di disaccordo valgono le stesse disposizioni previste dal comma 1 lettera d) dell’articolo 5.
+3. La dispersione delle ceneri in natura all’aperto, è libera ed è consentita nel rispetto delle seguenti condizioni:
+a) in aree all’aperto, a distanza di oltre 200 metri da centri e da insediamenti
+abitativi;
+b) nei laghi e specchi acquei, ad oltre 10 metri dalla riva;
+c) nei fiumi e torrenti, a debita distanza dalla riva.
+La dispersione delle ceneri all’interno di aree private aperte è consentita se favorevoli i proprietari e purché questi la permettano gratuitamente.
+La dispersione delle ceneri è in ogni caso vietata nei centri abitati.
+4. L’Ufficiale di Stato Civile - Dirigente la Polizia Mortuaria prende atto della destinazione delle ceneri che dovrà essere dichiarata contestualmente alla richiesta di cremazione, ne autorizza il trasporto e, in relazione alla richiesta degli aventi titolo, autorizza a seconda dei casi la inumazione, la tumulazione o la conservazione dell’urna, ovvero la dispersione delle ceneri.
+5. La dispersione delle ceneri in un cimitero può essere effettuata all’interno del giardino delle rimembranze, area specificatamente dedicata a tale pratica funebre in forma duratura, in almeno un cimitero della Repubblica. La sepoltura di urne cinerarie in campi comuni è possibile, per una durata decennale, non rinnovabile, in piena terra. In quest’ultimo caso è obbligo l’uso di urne di materiali non deperibili in tale arco di tempo. Al momento della esumazione l’avente titolo disporrà per la futura collocazione dell’urna cineraria o per la dispersione delle ceneri in cinerario comune.
+6. Chi è autorizzato alla dispersione delle ceneri attesta sotto la sua responsabilità il luogo e la data dell’avvenuta dispersione, consegnando apposito verbale all’Ufficiale di Stato Civile – Dirigente la Polizia Mortuaria che ha rilasciato l’autorizzazione, entro 30 giorni dalla data dell’autorizzazione stessa.

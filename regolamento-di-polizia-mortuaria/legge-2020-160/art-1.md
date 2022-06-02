@@ -1,0 +1,4 @@
+Art.1
+(Della sepoltura dei religiosi e delle religiose)
+1. A parziale deroga delle disposizioni di cui alla Legge 15 marzo 1910 “Regolamento di Polizia Mortuaria” ed in particolare di quelle di cui al Titolo III – Capo I, i religiosi e le religiose che hanno prestato per almeno dieci anni attività nel territorio della Repubblica di San Marino possono essere sepolti in cappelle laterali o in cripte presenti nelle chiese e luoghi di culto della Repubblica, ovvero in terreni attigui a chiese e luoghi di culto, ove gli stessi hanno prestato la loro attività.
+2. Alle superiori sepolture si applicano tutte le prescrizioni riguardanti i manufatti destinati a raccogliere le salme nonché le prescrizioni dettate per le aree e fosse destinate all’inumazione previste dalla Legge 4 febbraio 2010 n.35 e successive modifiche.

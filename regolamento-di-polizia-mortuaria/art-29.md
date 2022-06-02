@@ -1,0 +1,3 @@
+Art. 29.
+- Al collo dei cadaveri che si consegnano nei casi indicati dal precedente articolo dovrà essere legata una targhetta sulla quale saranno notate le generalità del defunto. Eseguita l'autopsia, i cadaveri saranno ricomposti e riconsegnati per le ulteriori disposizioni alla persona incaricata del trasporto.
+E' vietato a chicchessia di asportare dalla sala anatomica per essere conservati, cadaveri o parte di essi, senza averne prima ottenuta l'autorizzazione scritta dall'Ufficio sanitario. L'autorizzazione dovrà contenere le generalità del defunto, ma sarà negato in caso di esplicita opposizione della famiglia.

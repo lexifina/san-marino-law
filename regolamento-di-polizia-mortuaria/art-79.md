@@ -1,0 +1,2 @@
+Art. 79.
+- Al dirigente la polizia mortuaria è affidato tutto quanto direttamente o indirettamente riguarda il servizio necroscopico, la tenuta dei cimiteri e la vigilanza sul personale. Egli è il Capo ufficiale di tutti i servizi necroscopici e come tale rilascia e firma i provvedimenti di sua competenza; ne accerta nei modi che reputa convenienti la esecuzione, e promuove in ogni altro caso gli ordini e le decisioni dei poteri superiori.
