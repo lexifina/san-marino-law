@@ -1,0 +1,4 @@
+Art. 16
+(Dichiarazione nell’interesse di persona temporaneamente impedita)
+1. Chi sia temporaneamente impedito ad eseguire una dichiarazione per ragioni connesse con il suo stato di salute, può essere sostituito dal coniuge o convivente more uxorio, dai figli ovvero da un parente in linea retta o collaterale fino al terzo grado, salvo che norme speciali espressamente non dispongano in modo diverso.
+2. La dichiarazione di cui al comma 1 è ricevuta dal funzionario al quale è destinata previo accertamento dell’identità personale del dichiarante, il quale deve anche esibire il documento d’identità della persona nell’interesse della quale rende la dichiarazione e una sua fotocopia, che deve essere inserita nel fascicolo previa annotazione, da parte del funzionario, della sua conformità all’originale. La dichiarazione deve contenere l’espressa indicazione dell’esistenza dell’impedimento.

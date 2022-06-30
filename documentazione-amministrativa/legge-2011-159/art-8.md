@@ -1,0 +1,7 @@
+Art. 8
+(Accertamento d’ufficio)
+1. L’ufficio della pubblica amministrazione ha sempre la facoltà di accertare direttamente o presso gli uffici competenti, anche per mezzo dell’accesso ai relativi dati, la veridicità e l’autenticità delle dichiarazioni sostitutive di certificazioni e di atto di notorietà che ha ricevuto. L’accertamento può essere disposto d’ufficio o su richiesta motivata di chi ne abbia interesse.
+2. La pubblica amministrazione e i gestori di servizi pubblici che hanno ricevuto una dichiarazione della conformità all’originale di un documento, rilasciata ai sensi dell’articolo 21, possono sempre richiedere al dichiarante l’esibizione dell’originale.
+3. La verifica viene obbligatoriamente effettuata per i vincitori dei pubblici concorsi, per l’assegnazione di posti di lavoro e per l’erogazione di prestazioni economiche e benefici anche erogati sotto forma di esenzione.
+4. Se si riscontrano errori materiali non rilevanti ai fini del procedimento, la pubblica amministrazione o il gestore di pubblico servizio può procedere d’ufficio alla rettifica, dandone semplice comunicazione all'interessato il quale, se richiesto, è tenuto ad effettuare personalmente la rettifica presso l’ufficio o il pubblico ufficiale ricevente.
+5. Qualora la pubblica amministrazione o il gestore di pubblico servizio abbia fondato motivo per ritenere che le dichiarazioni ricevute non siano attendibili o siano false trasmette gli atti all’autorità giudiziaria per gli accertamenti di sua competenza.
