@@ -1,0 +1,6 @@
+## TITOLO III COMPETENZA E RESPONSABILITÀ DEL PROCEDIMENTO E DEL PROVVEDIMENTO
+Art. 16
+(Competenza, responsabilità e identificazione dei procedimenti)
+1. Qualora non sia previsto altrimenti da specifiche norme di legge che disciplinano singoli procedimenti, ciascun Dirigente del Settore Pubblico Allargato è competente per l’adozione dei provvedimenti amministrativi necessari per il perseguimento della missione e delle funzioni di tutela e di realizzazione del pubblico interesse in capo all’Unità Organizzativa della quale ha la dirigenza, ed è responsabile dell’attività istruttoria dei relativi procedimenti e di ogni altro relativo adempimento.
+2. Le singole Unità Organizzative dell’Amministrazione ed i singoli enti sono tenuti ad identificare i provvedimenti ed i relativi procedimenti di loro competenza. La Direzione Generale della Funzione Pubblica e i Direttori Generali degli Enti predispongono e aggiornano una apposita tabella recante l’indicazione di tali provvedimenti e dei relativi procedimenti sulla base delle indicazioni fornite dalle singole Unità organizzative/Enti.
+3. La tabella, è resa pubblica e posta a disposizione del pubblico in forma aggiornata presso ciascuna Unità Organizzativa ed Ente e nei pertinenti siti internet, nonché nel sito della Direzione Generale della Funzione Pubblica.

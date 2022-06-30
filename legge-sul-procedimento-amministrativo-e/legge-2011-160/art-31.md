@@ -1,0 +1,6 @@
+Art. 31
+(Obblighi dell’Amministrazione in materia di pubblicazione e diffusione di
+documenti)
+1. Fatte salve le norme sulla pubblicazione ufficiale degli atti e dei provvedimenti dello Stato, l’Amministrazione è sempre tenuta a dare idonea pubblicità alle direttive, circolari, istruzioni, disposizioni comunque denominate che contengono interpretazioni o note esplicative di norme di diritto o che contengono la descrizione di procedure amministrative ovvero disposizioni relative all’organizzazione amministrativa.
+2. L’Amministrazione di propria iniziativa, al fine di promuovere la trasparenza e l’efficacia dell’azione amministrativa nonché la partecipazione dei cittadini alla cura e alla tutela dell’interesse pubblico, anche avvalendosi degli strumenti elettronici e telematici, adotta le misure necessarie per la pubblicazione e la diffusione della conoscenza dei documenti amministrativi da essa prodotti o ricevuti.
+3. In ogni caso, i documenti amministrativi che rientrano nei casi previsti dall’articolo 30 o che contengono dati, menzioni o informazioni di carattere personale non possono essere resi pubblici prima che siano stati occultati tali dati, menzioni o informazioni o prima che siano stati fatti oggetto di un trattamento tale da rendere impossibile l’identificazione delle persone che vi sono nominate, a meno che queste non vi acconsentano.
