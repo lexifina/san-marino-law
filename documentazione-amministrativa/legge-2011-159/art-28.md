@@ -1,0 +1,7 @@
+## TITOLO VII - DISPOSIZIONI TRANSITORIE E FINALI
+Art. 28
+(Disposizioni transitorie)
+1. Gli uffici della pubblica amministrazione e i gestori di pubblici servizi effettuano una ricognizione delle certificazioni di loro competenza, predispongono quanto necessario all’applicazione della presente legge ivi compresi i moduli per le dichiarazioni sostitutive ai sensi dell’articolo 17 entro novanta giorni dall’entrata in vigore della presente legge. Fino a tale data per le dichiarazioni sostitutive di certificazioni di cui all’articolo 12 e per le dichiarazioni sostitutive di atti di notorietà di cui all’articolo 13 si applicano le disposizioni di cui alla Legge 21 ottobre 1988 n. 105.
+2. Fino alla costituzione degli organi della Direzione Generale della Funzione Pubblica, le direttive, il coordinamento ed il supporto tecnico sono demandati ad organi ed uffici dell’Amministrazione individuati con delibera del Congresso di Stato.
+3. Fino all’adozione di apposite norme in materia, la trasmissione in via telematica o elettronica non equivale alla trasmissione a mezzo raccomandata con avviso di ricevimento.
+4. L’imposta di bollo di cui alla Legge 29 ottobre 1981 n.86 e successive modifiche, prevista sui certificati e dichiarazioni di cui alla presente legge, sarà modificata ed eventualmente sostituita con decreto delegato che terrà conto delle risultanze degli adempimenti di cui al comma 1 del presente articolo.
