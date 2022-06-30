@@ -1,0 +1,6 @@
+Art. 22
+(Obbligo di motivazione)
+1. I soggetti “interessati”, ai sensi dell’articolo 1, comma 2, lettera b), hanno diritto di conoscere tempestivamente i motivi dei provvedimenti amministrativi che li riguardano quando questi siano tali da incidere restrittivamente sulla propria situazione giuridica. Coloro che sono ammessi a partecipare al procedimento amministrativo ai sensi dell’articolo 14, comma 2 possono fare richiesta della motivazione di un atto all’Amministrazione competente.
+2. I provvedimenti amministrativi, di cui alla presente legge, devono essere motivati in forma scritta ai sensi dell’articolo 21.
+3. Per gli atti vincolati è sufficiente l’indicazione delle norme in applicazione delle quali il provvedimento è adottato e dei presupposti ai quali tali norme ricollegano la necessaria adozione del provvedimento.
+4. In via eccezionale è valido il provvedimento che non può essere motivato a causa dell’urgenza purché le ragioni dell’urgenza siano indicate nel provvedimento medesimo. In questo caso, l’ufficio che ha adottato il provvedimento deve inoltrare al soggetto interessato la motivazione del provvedimento entro e non oltre trenta giorni dalla sua adozione. Il termine per impugnare rimane sospeso fino alla data di ricevimento da parte dell’interessato della motivazione e comunque non oltre i trenta giorni.

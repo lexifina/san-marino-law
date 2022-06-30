@@ -1,0 +1,4 @@
+Art. 43
+(Annullabilità del provvedimento)
+1. È annullabile il provvedimento amministrativo adottato in violazione di legge o viziato da eccesso di potere o da incompetenza.
+2. Non è annullabile il provvedimento adottato in violazione di norme sul procedimento o sulla forma degli atti qualora, per la natura vincolata del provvedimento, sia palese che il suo contenuto dispositivo non avrebbe potuto essere diverso da quello in concreto adottato. Il provvedimento amministrativo non è comunque annullabile per mancata comunicazione dell’avvio del procedimento qualora l’Amministrazione dimostri che il contenuto del provvedimento non avrebbe potuto essere diverso da quello in concreto adottato. 3. Si applicano le disposizioni relative ai ricorsi avanti al Giudice Amministrativo di cui alla Legge 28 giugno 1989 n.68 e al ricorso in opposizione di cui all’articolo 12 della medesima legge.
