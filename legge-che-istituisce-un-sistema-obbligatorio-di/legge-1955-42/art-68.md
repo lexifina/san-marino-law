@@ -1,0 +1,4 @@
+Art. 68
+Le indennità, gli assegni e le prestazioni in genere di carattere economico di cui alla presente legge non sono cedibili, né sequestrabili, né pignorabili.
+L'assistito, in casi di malattia o di infortunio che abbiano dato luogo a suo favore a rifusione di danni da parte di terzi, è tenuto a rimborsare lo Istituto dell'ammontare delle indennità corrisposte e delle spese delle assistenze prestate fino alla concorrenza della somma che il terzo gli ha versato a titolo di risarcimento.
+L'Istituto per la Sicurezza Sociale ha il diritto di trattenere sulle indennità, gli assegni e le prestazioni in genere di carattere economico l'ammontare delle somme ad esso dovute in virtu' del presente articolo, nonchè quelle dovute in forza di provvedimenti della competente autorità giudiziaria e quelle di cui al penultimo comma dell'art. 30.

@@ -1,0 +1,7 @@
+Art. 67
+Le esenzioni fiscali da ogni e qualsiasi tassa previste dall'art. 71 della legge 24 gennaio 1939, n. 2, si applicano anche a tutte le domande e gli atti concernenti l'assistenza e previdenza, a quelli relativi ai pagamenti d'indennità, assegni e prestazioni in genere di carattere economico, ai processi verbali, ai certificati, atti di notorietà, e quanti altri documenti occorrono in dipendenza delle relative norme di legge.
+Le esenzioni delle tasse di bollo e di registro e da ogni tassa giudiziaria di cui al citato art. 71, sono estese anche a tutti gli atti dei procedimenti contenziosi, ai provvedimenti di qualunque natura relativi ai procedimenti stessi, nonchè a tutti gli atti o scritti o documenti prodotti dalle parti nelle controversie che, in dipendenza delle leggi in materia di assistenza e previdenza, sorgano fra i lavoratori aventi causa e l'Istituto per la Sicurezza Sociale o le persone tenute agli adempimenti previdenziali.
+Tutti gli atti e contratti relativi alla gestione dell'istituto per la Sicurezza Sociale sono esenti da tasse di bollo, registro e ipotecarie.
+L'Istituto è esente da qualsiasi imposta o tassa ed usufruisce della franchigia postale al pari dell'amministrazione dello Stato.
+Le indennità, gli assegni e le prestazioni in genere di carattere economico di cui alla presente legge, non sono soggetti alla imposta sul reddito.
+Sono esenti dalla tassa di successione le somme dovute agli eredi e beneficiari di aventi titolo alle prestazioni previdenziali o assistenziali.

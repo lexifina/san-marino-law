@@ -1,0 +1,5 @@
+Art.12
+L'Istituto per la Sicurezza Sociale ha il diritto di controllare con i mezzi diagnostici che riterrà opportuni le diagnosi, le prescrizioni di medicinali, le cure, le autorizzazioni.
+Gli aventi titolo alle prestazioni sanitarie, i medici dipendenti dall'Istituto per la Sicurezza Sociale o con esso convenzionati e le ostetriche condotte non possono rifiutarsi di sottostare al controllo di cui al comma precedente.
+L'assistito che, senza giustificato motivo, si rifiuti di sottoporsi al controllo è punito con una sospensione dal diritto alle prestazioni sanitarie per un periodo da uno a dieci mesi.
+I medici - dipendenti dall'Istituto per la Sicurezza Sociale o con esso convenzionati - e le ostetriche condotte, che si rifiutino di fornire gli elementi per il controllo di cui al primo comma del presente articolo, sono puniti con una ammenda da L.1000 a L.10.000 e, nei casi di particolare gravità riconosciuti tali dalla Commissione per l'Assistenza, con la sospensione a tempo o il licenziamento in tronco, ovvero la rescissione della convenzione.

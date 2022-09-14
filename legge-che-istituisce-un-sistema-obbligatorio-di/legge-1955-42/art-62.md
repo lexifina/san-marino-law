@@ -1,0 +1,3 @@
+Art. 62
+L'Istituto per la Sicurezza Sociale ha facoltà di fare eseguire da propri funzionari ispezioni presso le aziende e i datori di lavoro in genere per accertare l'osservanza delle leggi e dei regolamenti relativi all'attuazione del sistema obbligatorio di sicurezza sociale, nonchè allo scopo di controllare la esistenza degli elementi che determinano gli adempimenti contributivi o il titolo alle varie prestazioni previdenziali e assistenziali o il mantenimento in essere o la variazione di quelle già concesse.
+L'Istituto, ove occorra, può chiedere anche l'intervento dell'Ispettorato del Lavoro e della Forza Pubblica.

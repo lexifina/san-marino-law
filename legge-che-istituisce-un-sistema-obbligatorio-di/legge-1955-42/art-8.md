@@ -1,0 +1,6 @@
+Art.8
+L'assistenza antitubercolare consiste - oltre che nel ricovero d'urgenza - nella cura domiciliare, ovvero nel ricovero sanatoriale (comprensivo di tutte le cure, gli interventi e i mezzi terapeutici necessari alla guarigione dell'ammalato) che, a seconda dei casi, saranno disposti in relazione alla gravità dell'affezione tubercolare dall'Istituto per la Sicurezza Sociale.
+I ricoveri sanatoriali saranno effettuati presso case di cura convenzionate con l'Istituto per la Sicurezza Sociale e dovranno essere - al pari della cura domiciliare - autorizzati dallo specialista fisiatra convenzionato con il predetto istituto. L'autorizzazione dovrà essere sottoposta al visto dello Istituto.
+Le dimissioni dalla casa di cura, ovvero la cessazione della cura domiciliare, saranno disposte dall'Istituto per la Sicurezza Sociale con apposita dichiarazione di guarigione, o di stabilizzazione clinica, o di prosecuzione della cura in ambulatorio.
+Qualora le dimissioni dalla casa di cura, ovvero la cessazione della cura domiciliare, avvengano per prosecuzione della cura in ambulatorio, l'assistito usufruirà delle necessarie prestazioni.
+Le spese di viaggio connesse al ricovero sanatoriale dell'assistito sono a totale carico dell'Istituto per la Sicurezza Sociale.
