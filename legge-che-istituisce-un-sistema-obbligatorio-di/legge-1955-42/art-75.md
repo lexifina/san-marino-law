@@ -1,0 +1,3 @@
+Art. 75
+Particolari accordi da stipularsi con gli Stati interessati regoleranno l'erogazione delle prestazioni previdenziali e assistenziali ai cittadini sammarinesi residenti all'estero, agli stranieri residenti a San Marino che non hanno titolo ai benefici previdenziali e assistenziali di cui alla presente legge, ai cittadini sammarinesi e agli stranieri residenti sul territorio della Repubblica con protezione previdenziale costituita all'estero.
+In mancanza di tali accordi, rimangono provvisoriamente in vigore le convenzioni attualmente vigenti e i contratti stipulati dalla Congregazione di Assistenza con gli enti mutualistici italiani.

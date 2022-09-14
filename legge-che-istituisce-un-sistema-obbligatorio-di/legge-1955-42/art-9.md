@@ -1,0 +1,3 @@
+Art.9
+La fornitura dei medicinali viene effettuata tramite le tre farmacie di Stato, gestite dall'Istituto per la Sicurezza Sociale e operanti in Città, Borgo e Serravalle, dietro presentazione della relativa prescrizione, che dovrà essere redatta su appositi ricettari dell'Istituto per la Sicurezza Sociale e che sarà rilasciata all'assistito dal medico condotto di cui all'articolo 5, ovvero da uno dei medici specialisti convenzionati con l'Istituto per la Sicurezza Sociale.
+Dalla fornitura dei medicinali sono esclusi gli apparecchi di protesi di qualsiasi natura, gli oggetti di gomma, gli strumenti curativi e simili, gli elementi dietetici per lattanti non aventi carattere medicamentoso, gli articoli di profumeria.

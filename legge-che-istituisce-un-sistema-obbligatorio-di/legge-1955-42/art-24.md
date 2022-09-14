@@ -1,0 +1,7 @@
+Art. 24
+Il lavoratore - in caso di assenza dal lavoro a causa di inabilità temporanea dovuta a malattia comune, malattia tubercolare, malattia professionale, infortunio sul lavoro - deve far pervenire al proprio datore apposita dichiarazione medica attestante lo stato di inabilità temporanea al lavoro.
+Tale dichiarazione dovrà essere redatta su appositi moduli dell'Istituto per la Sicurezza Sociale dal medico curante.
+Il lavoratore dovrà avere cura affinchè tale dichiarazione - che vale anche come giustificativo dell'assenza dal lavoro - venga rimessa al proprio datore di lavoro non oltre il terzo giorno successivo a quello in cui il lavoratore ha iniziato l'assenza.
+Avvenuta la guarigione, il medico curante che la constata, compilerà apposita dichiarazione precisando il giorno in cui il lavoratore può riprendere il lavoro. Tale dichiarazione dovrà essere immediatamente rimessa dal medico al lavoratore, che dovrà consegnarla al proprio datore di lavoro.
+Nel caso che il periodo di inabilità temporanea si inizi con un ricovero di urgenza presso l'Ospedale, la dichiarazione di cui al primo comma del presente articolo sarà redatta dall'Ospedale il quale provvederà direttamente - sostituendosi al lavoratore - a rimettere la dichiarazione stessa al datore di lavoro entro i termini di cui al terzo comma del presente articolo.
+Nel caso che la cessazione del periodo d'inabilità temporanea avvenga con le dimissioni del lavoratore dall'Ospedale di Stato, la dichiarazione di cui al quarto comma sarà redatta dall'Ospedale.

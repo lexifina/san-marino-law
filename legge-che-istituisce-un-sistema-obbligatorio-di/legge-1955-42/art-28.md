@@ -1,0 +1,2 @@
+Art. 28
+Qualora nel corso di un periodo di inabilità temporanea - dovuto a malattia comune, malattia tubercolare, malattia professionale, infortunio sul lavoro, gravidanza e puerperio - si verifichi un ricovero dell'assistito presso l'Ospedale di Stato ovvero una dimissione dall'Ospedale di Stato che non implichi cessazione dello stato d'inabilità temporanea, l'Ospedale di Stato è tenuto a darne immediata comunicazione all'Istituto per la Sicurezza Sociale.
