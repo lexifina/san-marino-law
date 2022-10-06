@@ -1,0 +1,7 @@
+Art.9
+Risoluzione del contratto di fornitura o somministrazione
+Fatta salva la disciplina generale in materia di risoluzione del contratto per inadempimento, il contratto di fornitura o di somministrazione può risolversi quando l'inadempimento del somministratore o fornitore, relativo a prestazioni singole, può essere pregiudizievole a causa della sua notevole importanza e quindi menomare la fiducia della Pubblica Amministrazione o degli Enti Pubblici sull'esatta esecuzione dei successivi adempimenti.
+Nelle forniture o somministrazioni a carattere periodico, qualora non sia possibile un adempimento ritardato, non è dovuto il corrispettivo della singola prestazione, essendo sempre in facoltà della parte, Pubblica Amministrazione od Ente Pubblico, che ha subito l'inadempienza, di accogliere una risoluzione parziale del contratto.
+Ove l'inadempimento possa anche essere ritenuto di notevole importanza, ma non tale da menomare la fiducia dei futuri adempimenti, la parte non inadempiente non può agire in risoluzione, ma può opporre l'exceptio inadimpleti contractus.
+È comunque e sempre fatta salva in favore della parte non inadempiente l'azione di risarcimento del danno.
+In ogni caso però il fornitore o il somministratore non può rifiutare l'esecuzione periodica del contratto, per il ritardo nei pagamenti delle forniture o somministrazioni già effettuate e per le quali a bilancio esista specifico impegno finanziario di spesa.

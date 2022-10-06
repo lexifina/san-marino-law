@@ -1,0 +1,3 @@
+Art.64
+Responsabilità del Direttore del servizio
+Il Direttore o l'autorità che presiede alla sorveglianza del servizio di fornitura o di somministrazione o di accertamento della fornitura o della somministrazione, oltre alle responsabilità che gli derivano dall'ufficio, è solidalmente responsabile assieme al fornitore od al somministratore ed al subappaltatore o cessionario del contratto, per l'attuazione di istruzioni tecnicamente erronee od esorbitanti dai suoi poteri che il fornitore od il somministratore ed il subappaltatore o cessionario del contratto hanno riconosciuto o comunque dovevano riconoscere per tali.

@@ -1,0 +1,7 @@
+Art. 19
+(Aggiudicazione dell’appalto)
+1. La Stazione Appaltante, sulla base dei verbali predisposti dal responsabile del procedimento ovvero dalla Commissione in seguito alla valutazione delle offerte e della graduatoria stilata, individua l’impresa risultata miglior offerente.
+2. In caso di parità di due o più offerte, l’aggiudicazione viene deliberata in favore dell’impresa che non ha in corso forniture o servizi analoghi con la Stazione Appaltante. Si intendono in corso le forniture o i servizi in relazione ai quali non sia stata ancora emessa attestazione finale di esecuzione.
+3. In caso di ulteriore parità, si procede al sorteggio alla presenza dei rappresentanti delle imprese interessate.
+4. Il responsabile del procedimento provvede, altresì, tempestivamente e comunque entro trenta giorni dalla piena efficacia della delibera di aggiudicazione a svincolare le cauzioni provvisorie presentate dalle imprese che non siano risultate aggiudicatarie.
+5. La fase di aggiudicazione si conclude con l’acquisizione di efficacia della delibera di aggiudicazione a seguito del positivo esito del controllo di legittimità previsto dalle vigenti norme in materia di ordinamento cantabile pubblico. Tale fase termina, compatibilmente con i tempi necessari per una compiuta ed esauriente valutazione delle offerte, entro i quaranta giorni successivi alla seduta pubblica di apertura delle buste; il predetto termine può essere prorogato dalla Stazione Appaltante solo in caso di comprovate ed obiettive esigenze con provvedimento da comunicarsi alle imprese partecipanti.

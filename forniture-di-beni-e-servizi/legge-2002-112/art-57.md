@@ -1,0 +1,4 @@
+## BILANCI DI PREVISIONE DELLO STATO E DEGLI ENTI PUBBLICI PER L'ESERCIZIO FINANZIARIO 2003 E BILANCIO PLURIENNALE 2003/2005
+Art.57
+In deroga al termine previsto dall'articolo 3 della Legge 27 marzo 2002 n.49 è consentita la conclusione di contratti pluriennali per la fornitura di servizi quando tale durata corrisponde ai principi fondamentali di economicità ed efficacia della spesa, previo conforme parere obbligatorio della Commissione di Controllo della Finanza Pubblica.
+Alla Direzione Generale della Finanza Pubblica ed all'Avvocatura dello Stato è demandata una attività di monitoraggio costante degli impegni convenzionali assunti dalla Eccellentissima Camera nonché degli accertamenti di entrate effettuati dagli Uffici e Servizi pubblici e degli adempimenti contrattuali dovuti dalle controparti al fine di verificare, nell'ambito delle rispettive competenze, le compatibilità di bilancio, le procedure di riscossione e l'espletamento degli adempimenti.

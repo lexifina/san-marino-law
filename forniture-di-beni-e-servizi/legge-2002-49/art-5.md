@@ -1,0 +1,7 @@
+Art.5
+Misura od entità della fornitura o della somministrazione
+Nel contratto di fornitura o di somministrazione deve sempre essere determinata la misura o l'entità della prestazione, anche quando è periodica o continuativa.
+Nel caso in cui la misura o l'entità non possa essere oggettivamente determinata, la prestazione pattuita è quella che discende dalla necessità normale del soggetto che deve essere fornito o somministrato, ovvero dalla quantità e qualità indicata dalla Pubblica Amministrazione o dagli Enti Pubblici, come soggetti forniti o somministrati.
+Ove però sia stata stabilita una misura o un'entità minima della prestazione, senza fissarne il quantitativo globale, la Pubblica Amministrazione o gli Enti Pubblici, come soggetti che devono essere forniti o somministrati, sono tenuti comunque a ricevere detto quantitativo.
+Ove invece sia stato stabilito il quantitativo minimo e massimo della misura o dell'entità dell'intera o della singola prestazione, è riservato alla Pubblica Amministrazione o agli Enti Pubblici, quali soggetti forniti o somministrati, di stabilire, nei limiti pattuiti, la misura e l'entità della prestazione.
+Il limite massimo nella prestazione può anche essere previsto tra le parti affinché la Pubblica Amministrazione o gli Enti Pubblici, possano fare affidamento su prestazioni potenziali delle quali potranno avvalersi nella misura che potranno ritenere necessaria.

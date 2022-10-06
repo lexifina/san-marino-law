@@ -1,0 +1,3 @@
+Art. 10
+(Disposizioni relative a gare effettuate con il sistema della licitazione privata)
+1. Qualora la Stazione Appaltante effettui, nel rispetto degli articoli 3, comma 5, 12, comma 2 e 15, comma 2 del Decreto Delegato n.26/2015, gara di appalto con il sistema della licitazione privata, l’invito a partecipare alla gara è rivolto almeno a tutte le imprese iscritte nel Registro dei Fornitori aventi uno o più dipendenti a tempo indeterminato assunti tra gli iscritti alle liste di avviamento al lavoro tenute dall’unità organizzativa Centro di Formazione Professionale e per le Politiche Attive del Lavoro, fatti salvi, comunque, gli eventuali requisiti imprenditoriali e di idoneità tecnica previsti per la partecipazione alla gara.
