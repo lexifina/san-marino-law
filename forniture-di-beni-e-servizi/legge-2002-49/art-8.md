@@ -1,0 +1,5 @@
+Art.8
+Termini all'esecuzione del contratto di fornitura o somministrazione
+Il termine per le prestazioni, sia nel contratto di fornitura o di somministrazione ad esecuzione continuata, sia in quello ad esecuzione periodica, è stabilito nel contratto medesimo, e l'esecuzione non può essere pretesa da nessuna delle parti prima della scadenza o delle scadenze, né può essere eseguita prima della stessa scadenza o delle stesse scadenze liberando la parte dall'obbligo.
+La Pubblica Amministrazione e gli Enti Pubblici nel contratto possono riservarsi la facoltà di fissare la scadenza delle singole prestazioni, ma è fatto loro obbligo di comunicarle con ragionevole preavviso al fornitore o al somministratore, collocandolo nella condizione oggettiva di potere eseguire la prestazione.
+Il preavviso dipenderà dalla natura e dall'entità della prestazione, e in caso di contrasto tra le parti la valutazione sullo stesso preavviso è riservata al Giudice, che procederà a norma dell'articolo 29, con rito sommarissimo.

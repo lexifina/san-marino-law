@@ -1,0 +1,29 @@
+Art. 9-bis
+(Verifiche sul possesso dei requisiti dell’impresa aggiudicataria)
+1. Fatto salvo quanto previsto all’articolo 9, comma 5, la verifica sul possesso dei requisiti è effettuata nei confronti dell’impresa aggiudicataria, iscritta o meno nel Registro dei Fornitori, secondo i seguenti termini:
+a) per appalti di valore inferiore alle soglie di cui all’articolo 9, comma 7: la verifica è effettuata dalla Stazione Appaltante unicamente qualora vi siano rilevanti e fondati motivi di ritenere che l’impresa non abbia i requisiti previsti all’articolo 9, comma 1 o, se iscritta nel Registro dei Fornitori, li abbia persi;
+b) per appalti di valore superiore alle soglie di cui all’articolo 9, comma 7 ma inferiore ad euro 150.000,00: la verifica è effettuata dalla Stazione Appaltante, ai fini dell’aggiudicazione della gara, unicamente qualora vi siano rilevanti e fondati motivi di ritenere che l’impresa abbia perso i requisiti previsti all’articolo 9, comma 1 ovvero abbia presentato dichiarazioni, atti o documenti falsi o mendaci. La Stazione Appaltante è, invece, sempre obbligata ad effettuare la verifica prima dell’emissione dell’attestazione finale di esecuzione;
+c) per appalti di valore superiore ad euro 150.000,00: la verifica è obbligatoriamente effettuata sia ai fini dell’aggiudicazione della gara sia prima dell’emissione dell’attestazione finale di esecuzione.
+2. Le verifiche di cui al comma 1 non sono effettuate nei confronti di impresa aggiudicataria rientrante in una delle tipologie di cui all’articolo 9, comma 4.
+3. Ai fini delle verifiche di cui al comma 1, la Stazione Appaltante ha facoltà di avvalersi della UO Ufficio Attività Economiche.
+4. Fatte salve le sanzioni previste in caso di dichiarazioni false o mendaci ovvero di formazione o uso di atti o documenti falsi, qualora in esito alle verifiche effettuate prima dell’emissione dell’attestazione finale di esecuzione sia accertata l’assenza o la perdita dei requisiti di iscrizione, si determinano le seguenti conseguenze:
+a) la Stazione Appaltante incamera la cauzione prevista dall’articolo 27 a titolo di penale. Qualora non sia previsto il rilascio di cauzione, la Stazione Appaltante trattiene definitivamente dalle somme dovute all’impresa appaltatrice a titolo di saldo della prestazione un importo pari al dieci per cento del complessivo corrispettivo contrattuale;
+b) l’impresa iscritta al Registro dei Fornitori è cancellata dal medesimo Registro con le conseguenze di cui all’articolo 11, commi 3 e 4 mentre l’impresa non iscritta non può partecipare a gare d’appalto per il periodo di un anno.[^8]
+
+[^8]: Testo originario (Decreto Delegato 2 marzo 2015 n.26) Art.9 bis
+    (Verifica dei requisiti in capo ai titolari effettivi)
+    1. Nell’ambito delle verifiche di cui all’articolo 9, comma 4, la CCIAA verifica, ai fine dell’aggiudicazione dell’appalto, la sussistenza, in capo ai titolari effettivi dell’impresa risultata miglior offerente, dei requisiti di cui al comma 1 del medesimo articolo 9.
+    MODIFICHE LEGISLATIVE Decreto Delegato 4 marzo 2019 n. 42, Articolo 7
+    (Modifiche all’articolo 9-bis del Decreto Delegato n.26/2015)
+    1. L’articolo 9-bis del Decreto Delegato n.26/2015 e successive modifiche è così modificato:
+    “Art. 9-bis
+    (Verifiche sul possesso dei requisiti dell’impresa aggiudicataria)
+    1. Fatto salvo quanto previsto all’articolo 9, comma 5, la verifica sul possesso dei requisiti è effettuata nei confronti dell’impresa aggiudicataria, iscritta o meno nel Registro dei Fornitori, secondo i seguenti termini:
+    a) per appalti di valore inferiore alle soglie di cui all’articolo 9, comma 7: la verifica è effettuata dalla Stazione Appaltante unicamente qualora vi siano rilevanti e fondati motivi di ritenere che l’impresa non abbia i requisiti previsti all’articolo 9, comma 1 o, se iscritta nel Registro dei Fornitori, li abbia persi;
+    b) per appalti di valore superiore alle soglie di cui all’articolo 9, comma 7 ma inferiore ad euro 150.000,00: la verifica è effettuata dalla Stazione Appaltante, ai fini dell’aggiudicazione della gara, unicamente qualora vi siano rilevanti e fondati motivi di ritenere che l’impresa abbia perso i requisiti previsti all’articolo 9, comma 1 ovvero abbia presentato dichiarazioni, atti o documenti falsi o mendaci. La Stazione Appaltante è, invece, sempre obbligata ad effettuare la verifica prima dell’emissione dell’attestazione finale di esecuzione;
+    c) per appalti di valore superiore ad euro 150.000,00: la verifica è obbligatoriamente effettuata sia ai fini dell’aggiudicazione della gara sia prima dell’emissione dell’attestazione finale di esecuzione.
+    2. Le verifiche di cui al comma 1 non sono effettuate nei confronti di impresa aggiudicataria rientrante in una delle tipologie di cui all’articolo 9, comma 4.
+    3. Ai fini delle verifiche di cui al comma 1, la Stazione Appaltante ha facoltà di avvalersi della UO Ufficio Attività Economiche.
+    4. Fatte salve le sanzioni previste in caso di dichiarazioni false o mendaci ovvero di formazione o uso di atti o documenti falsi, qualora in esito alle verifiche effettuate prima dell’emissione dell’attestazione finale di esecuzione sia accertata l’assenza o la perdita dei requisiti di iscrizione, si determinano le seguenti conseguenze:
+    a) la Stazione Appaltante incamera la cauzione prevista dall’articolo 27 a titolo di penale. Qualora non sia previsto il rilascio di cauzione, la Stazione Appaltante trattiene definitivamente dalle somme dovute all’impresa appaltatrice a titolo di saldo della prestazione un importo pari al dieci per cento del complessivo corrispettivo contrattuale;
+    b) l’impresa iscritta al Registro dei Fornitori è cancellata dal medesimo Registro con le conseguenze di cui all’articolo 11, commi 3 e 4 mentre l’impresa non iscritta non può partecipare a gare d’appalto per il periodo di un anno.”.

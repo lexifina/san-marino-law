@@ -1,0 +1,5 @@
+Art.35
+Sorveglianza sull'esecuzione delle prestazioni
+Il potere di sorveglianza sulle forniture o somministrazioni prestate, nell'interesse pubblico, è sempre riservato per legge alla Pubblica Amministrazione od all'Ente Pubblico, ed è esercitato per mezzo di propri funzionari o corpi tecnici, ai quali competono, per opportuna delega, le facoltà e i poteri relativi all'accettazione delle prestazioni, al controllo dell'esecuzione delle prestazioni, e all'iniziativa di impartire disposizioni per il migliore compimento della prestazione derivanti dal contratto.
+E' in facoltà dei detti funzionari o corpi tecnici di avvalersi di consulenti esterni e di laboratori specializzati.
+Gli uffici che devono essere preposti alla direzione sono individuati dal processo di formazione del contratto di fornitura e di somministrazione nella fase deliberativa già disciplinata, relativa ai comportamenti che devono essere tenuti dalla Pubblica Amministrazione e dagli Enti Pubblici e sono formalmente comunicati al fornitore o al somministratore e al subappaltatore o cessionario del contratto.

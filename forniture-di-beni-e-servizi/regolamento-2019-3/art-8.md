@@ -1,0 +1,9 @@
+Art. 8
+(Obblighi di comunicazione)
+1. La Stazione Appaltante segnala all’UAE per gli adempimenti di competenza ogni comportamento tenuto dall’impresa aggiudicataria integrante gli estremi di cui all’articolo 11, comma 2, lettera d) del Decreto Delegato n. 26/2015; analoga segnalazione deve essere effettuata dalle unità organizzative, Aziende Autonome di Stato ed Enti del Settore Pubblico Allargato in relazione a fatti o comportamenti riferiti ad imprese iscritte nel Registro dei Fornitori di cui siano a conoscenza in ragione del loro ufficio, rilevanti ai fini della sospensione o cancellazione dal Registro dei Fornitori.
+2. La Stazione Appaltante segnala, altresì, l’emissione del provvedimento che prende atto della decadenza dal contratto alle altre Stazioni Appaltanti ed all’UAE.
+3. Qualora l’UAE, in esito all’attività di verifica di cui all’articolo 9, comma 5 e 9 bis, comma 3 del Decreto Delegato n. 26/2015 e successive modifiche, accerti in capo all’impresa appaltatrice la perdita dei requisiti di cui all’articolo 9, comma 1 del medesimo decreto delegato provvede a comunicarlo alla Stazione Appaltante ai fini della decadenza dal contratto di appalto con le conseguenze di cui all’articolo 26 bis, comma 3 del Decreto Delegato n. 26/2015 e successive modifiche.
+4. Le Stazioni Appaltanti comunicano con cadenza mensile all’unità organizzativa Ufficio Attività di Controllo (di seguito anche UAC) le imprese con le quali l’Amministrazione abbia stipulato contratti di fornitura e somministrazione ai fini dell’applicazione delle disposizioni di cui all’articolo 23, commi 1 e 2 del Decreto Legge 5 ottobre 2011 n. 156. L’UAC provvede a segnalare le sanzioni comminate, ai sensi dell’articolo 23, commi 1 e 2 del predetto decreto legge, alle Stazioni Appaltanti ed all’UAE.
+## Sezione II
+Disposizioni relative all’asta elettronica, alla licitazione ed alla trattativa
+privata

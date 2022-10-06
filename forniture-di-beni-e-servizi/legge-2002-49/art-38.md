@@ -1,0 +1,3 @@
+Art.38
+Determinazione convenzionale del corrispettivo
+Se, al di fuori del precedente articolo e dell'articolo 7, la Pubblica Amministrazione o gli Enti Pubblici, e il fornitore od il somministratore non hanno già determinato convenzionalmente la misura del corrispettivo, oppure non hanno stabilito il modo di determinarla, oppure non hanno stabilito altro modo o forma di adempiere al corrispettivo, essa è calcolata facendo riferimento alle mercuriali o listini esistenti, determinate dalle competenti autorità o da organizzazioni sindacali autorizzate, o predisposte anche a mezzo regolamento dalla Pubblica Amministrazione o dagli usi correnti nel territorio al tempo della conclusione del contratto.

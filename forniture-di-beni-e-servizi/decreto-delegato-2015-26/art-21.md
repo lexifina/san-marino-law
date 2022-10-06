@@ -1,0 +1,7 @@
+Art. 21
+(Esame delle offerte)
+1. Le offerte in gara sono esaminate sotto il profilo contabile, tecnico ed economico dal responsabile del procedimento o dalla Commissione. Deve essere innanzitutto verificata l’idoneità degli offerenti.
+2. Il contenuto e le modalità di presentazione delle offerte, la procedura di valutazione delle stesse ed i casi di esclusione dall’esame sono definiti con Regolamento del Congresso di Stato.
+3. In caso di aggiudicazione con il criterio dell’offerta economicamente più vantaggiosa, e qualora sia necessario valutare aspetti di natura tecnica o di particolare complessità, l’esame delle offerte è demandato ad una Commissione, composta da tecnici selezionati preferibilmente tra funzionari della Pubblica Amministrazione muniti di specifica competenza tecnica e professionalità nel settore, di cui uno con funzioni di Presidente.
+4. La Stazione Appaltante procede alla nomina della Commissione scaduti i termini per la presentazione dell’offerta.
+5. Dopo l’apertura dei plichi contenenti le offerte, e fino al momento dell’aggiudicazione dell’appalto, il responsabile del procedimento ovvero la Commissione può contattare l’impresa offerente per acquisire chiarimenti su aspetti già indicati nell’offerta; gli esiti di tali contatti possono essere tenuti riservati su richiesta dell’impresa e solo nei casi previsti dall’articolo 7, comma 3. L’offerta dell’impresa che, contattata dalla Stazione Appaltante non fornisce i chiarimenti richiesti, è esclusa dalla valutazione.
