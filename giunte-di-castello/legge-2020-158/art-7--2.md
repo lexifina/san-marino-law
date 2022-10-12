@@ -1,0 +1,5 @@
+Art. 7
+1. La Commissione Elettorale non oltre il trentacinquesimo giorno precedente a quello della votazione, provvede a delimitare gli spazi di cui all’articolo4 della Legge 14 marzo 1997 n.36 e successive modifiche e con le stesse modalità in esso previste, in modo che in ognuno di essi possa essere assegnata ad ogni lista ammessa una superficie di metri 1,50 di altezza per metri 1 di base.
+2. Entro lo stesso termine la Commissione medesima ripartisce gli spazi anzidetti ed assegna alle liste ammesse le superfici nelle dimensioni previste al comma 1 in ognuno degli spazi stabiliti, nell’ordine di cui all’articolo 10, comma 11, della Legge 24 settembre 2020 n.158, su di una sola linea orizzontale a partire dal lato sinistro e proseguendo verso destra. L’assegnazione delle superfici alle liste viene notificata ai capilista, entro le 24 ore successive.
+3. Nel caso in cui la Commissione Elettorale non provveda nei termini prescritti agli adempimenti di cui ai commi 1 e 2, si sostituisce ad essa il Segretario di Stato per gli Affari Interni.
+4. Ogni lista provvede alle proprie affissioni.
