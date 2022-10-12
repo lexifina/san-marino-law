@@ -1,0 +1,5 @@
+Art. 24
+(Parere delle Giunte sul Bilancio dello Stato)
+1. L’Amministrazione può richiedere con completezza di documentazione a ciascuna Giunta di Castello pareri di natura consultiva circa il Bilancio annuale di previsione dello Stato.
+2. A tal fine la Giunta di Castello ha facoltà di promuovere riunioni in cui dovranno essere analizzate le esigenze del Castello in relazione alle esigenze generali della Repubblica e alle disponibilità di bilancio esistenti, avvalendosi dell’ausilio dei funzionari del Dipartimento Finanze e Bilancio.
+3. Prima della presentazione al Consiglio Grande e Generale del Bilancio annuale dello Stato, la Segreteria di Stato per le Finanze e il Bilancio, la Segreteria di Stato per il Territorio e l’Ambiente e la Segreteria di Stato con delega ai Rapporti con le Giunte di Castello sono tenute ad organizzare un incontro con le Giunte di Castello al fine di svolgere un’analisi delle priorità di ogni Castello coinvolto nelle liste dei lavori pubblici previsti per l’anno seguente.
