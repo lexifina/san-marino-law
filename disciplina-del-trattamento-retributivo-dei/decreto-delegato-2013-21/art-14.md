@@ -1,0 +1,4 @@
+Art. 14
+(Norme transitorie)
+1. Ai sensi di quanto previsto dall’articolo 3 del Decreto Delegato 16 gennaio 2013 n.3, stante il differimento ivi previsto, in ragione delle differenti funzioni delle UO sostituite o trasformate rispetto a quelle delle UO da avviare, nonché in considerazione della trasformazione in corso della UO Poste e Telecomunicazioni in Ente Autonomo ai sensi della Legge 21 maggio 2012 n.54, l’Allegato 1 al presente decreto indica con apposite “Note” la retribuzione di posizione da applicare in via transitoria ai Dirigenti delle UO che saranno sostituite o trasformate.
+2. Le predette “Note” indicano, altresì, la retribuzione di posizione da applicare al Dirigente di costituenda nuova UO derivante dall’accorpamento di UO esistenti previsto dagli articoli 44 e 45 della Legge n.188/2011.
