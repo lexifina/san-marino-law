@@ -1,0 +1,6 @@
+Art. 3
+(Scatti di anzianità)
+1. Gli scatti di anzianità sono dieci con progressione biennale. L’importo di ciascuno degli scatti di anzianità è pari a € 80,00 (ottanta/00).
+2. Il Dirigente matura gli scatti di anzianità, di cui al precedente comma, qualora sia Dirigente in organico o inquadrato, ai sensi dell’articolo 69 della Legge 188/2011, a tempo indeterminato oppure qualora sia Dirigente incaricato a contratto ma già in organico in altra qualifica o inquadrato, ai sensi del medesimo articolo 69 della Legge 188/2011, a tempo indeterminato in un profilo di ruolo nel Settore Pubblico Allargato. Il Dirigente che non sia titolare di rapporto d’organico o a tempo indeterminato in qualunque qualifica o profilo di ruolo nel Settore Pubblico Allargato matura gli scatti di anzianità esclusivamente in relazione al servizio prestato in posizioni dirigenziali nel Settore Pubblico Allargato.
+3. L’anzianità maturata in posizione dirigenziale è computata ai fini della progressione di carriera su posizioni di ruolo o, ai sensi dell’articolo 69 della Legge 188/2011, a tempo indeterminato di pubblico impiego.
+4. L’incarico dirigenziale comporta la rivalutazione dell’importo degli scatti di anzianità maturati in altra qualifica/PDR nel Settore Pubblico Allargato, per il periodo dell’incarico medesimo.
