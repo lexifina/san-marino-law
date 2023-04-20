@@ -1,0 +1,4 @@
+Art. 13
+I contributi anonimi ai soggetti di cui agli articoli 1, 4 e 14 sono vietati. I dati identificativi delle persone fisiche o giuridiche che hanno effettuato elargizioni devono risultare da apposito elenco da conservare insieme ai documenti contabili.
+I contributi e le utilità rispettivamente di importo o valore superiore a euro 3.000,00 per ogni anno solare devono risultare da apposito allegato al bilancio contenente i dati identificativi dei donatori.
+In deroga al primo comma del presente articolo, è consentita la raccolta di fondi di modesta entità in forma anonima, in appositi contenitori di materiale trasparente, durante convegni, feste ed eventi diversi promossi dai Partiti o Movimenti. L’ammontare complessivo dei contributi ricevuti con tale modalità deve essere evidenziato attraverso un’apposita voce di bilancio.

@@ -1,0 +1,2 @@
+Art.1
+In riconoscimento della funzione pubblica svolta e del ruolo esercitato nell’ambito degli organi istituzionali dello Stato, al fine di garantire loro la possibilità di espletare autonomamente i propri compiti al servizio della collettività, è riconosciuto ai Partiti e Movimenti politici che hanno presentato liste elettorali e che sono rappresentati in Consiglio Grande e Generale un finanziamento annuo a carico dello Stato.
