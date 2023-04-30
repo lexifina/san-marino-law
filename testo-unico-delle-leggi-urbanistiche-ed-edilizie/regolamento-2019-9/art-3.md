@@ -1,0 +1,8 @@
+Art. 3
+(Contributo di monetizzazione degli spazi per i posti auto)
+1. Nei casi previsti dall’articolo 2 l’importo dovuto per ogni posto auto è pari ad euro 1.500,00 (millecinquecento/00) ed è determinato sulla base della tabella che segue: Costo delle opere e dei € 1.313,81 materiali per la realizzazione di un singolo posto auto scoperto, compreso di impianto di illuminazione. La superficie di riferimento è data dalla somma dell'area di un posto auto
+(dimensioni: m 5,00 x 2,50) e una porzione (dimensioni: m 2,50 x 2,50) del corsello di distribuzione posizionato centralmente rispetto ad una doppia fila di posti auto, avente larghezza di m 5,00.
+Spese tecniche per € 131,38 progettazione, istruttoria pratica, uso del suolo ecc.:
+10% del costo di costruzione Rendita catastale (categoria € 60,97 C5/ 4): 18,75 x 0,0542 x 60* = € 60,97 * Coefficiente passibile di aggiornamenti sulla base delle determinazioni dell'Ufficio Tecnico del Catasto Importo totale € 1.506,16 Arrotondamento € 1.500,00
+2. Per gli edifici esistenti ricadenti in zona A1 di cui all’articolo 33 della Legge n. 7/1992, non è previsto alcun onere di monetizzazione degli spazi per i posti auto per assolvere l’aumento del carico urbanistico, anche nel caso in cui gli stessi ricadano in zona A1 con strumento attuativo approvato che preveda oneri di monetizzazione.
+3. Il corrispettivo della monetizzazione degli spazi per i posti auto di cui al precedente comma 1, è aggiornato in base alle variazioni del costo delle voci riportate nella tabella di cui al comma 1 del presente articolo, con la stessa procedura di approvazione del presente regolamento.

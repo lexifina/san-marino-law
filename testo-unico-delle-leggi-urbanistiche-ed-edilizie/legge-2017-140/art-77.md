@@ -1,0 +1,7 @@
+Art.77
+(Interventi su immobili realizzati prima dell’entrata in vigore del regime concessorio)
+1. La realizzazione di interventi edilizi su unità immobiliari e/o unità edilizie edificate antecedentemente all’entrata in vigore della Legge 13 agosto 1960 n.22, per cui non risultino concessioni o autorizzazioni edilizie approvate successivamente all’entrata in vigore della medesima legge, è consentita previa presentazione all’Ufficio per l’Edilizia di una richiesta di concessione edilizia “Stato di fatto” ai sensi dell’articolo 57. Tale richiesta è corredata da documentazione attestante che lo stato di fatto sia antecedente alla data di entrata in vigore della precitata Legge n.22/1960.
+2. La Commissione Tecnica per l’Edilizia, verificata la sussistenza dei presupposti di cui al comma 1, prende atto della richiesta di concessione edilizia “Stato di fatto” con proprio provvedimento non oneroso.
+3. Tale presa d’atto produce gli effetti della concessione o autorizzazione edilizia in sanatoria di cui all’articolo 75.
+4. La concessione edilizia “Stato di fatto” è rilasciata nei termini di cui all’articolo 59.
+5. A seguito del rilascio della concessione edilizia “Stato di fatto”, il certificato di conformità edilizia e agibilità o il certificato di rispondenza edilizia, è rilasciato nel rispetto dei requisiti indicati all’articolo 71, comma 1 e dei termini stabiliti dal medesimo articolo.

@@ -1,0 +1,13 @@
+Art. 2
+(Ambito di applicazione)
+1. Il presente regolamento si applica agli edifici esistenti ricadenti in zona ad intervento diretto di cui agli articoli 34 (zona B), 35 (zona BE) e 40 (zona D) della Legge 29 gennaio 1992 n. 7 e successive modifiche , agli edifici esistenti ricadenti in zona A1 ed A2 di cui all’articolo 33 della Legge n.7/1992 con strumento attuativo approvato e agli edifici esistenti ricadenti in zona R1 e R2 di cui all’articolo 38 e all’articolo 39 della Legge n. 7/1992 con strumento attuativo approvato, qualora per gli interventi edilizi classificati ai sensi della Sezione III, del Capo IV, della Legge n. 140/2017, ad esclusione di quelli di ristrutturazione edilizia con demolizione e ricostruzione (art. 106, commi 3 e 4, della Legge n. 140/2017) e nuova costruzione (art. 109 della Legge n. 140/2017), si configuri un aumento del carico urbanistico e vi sia l’impossibilità di reperire gli spazi per i posti auto e parcheggi necessari previsti ai sensi dell’articolo 96, comma 1, della Legge n. 140/2017.
+2. Si ha aumento del carico urbanistico nel caso in cui la modifica di uno dei parametri di cui all’articolo 81, comma 14, della Legge n. 140/2017) determini un aumento della dotazione degli spazi per i posti auto previsti ai sensi dell’articolo 96, comma 1, della Legge n. 140/2017.
+3. L’impossibilità di reperire gli spazi per i posti auto e parcheggi e di adeguamento ai parametri definiti dall’articolo 96 della Legge n. 140/2017 sussiste quando non possano essere rispettate le dimensioni minime dei posti auto di cui all’articolo 96, comma 9, della Legge n. 140/2017, le dimensioni degli spazi di manovra minimi per le auto definite nell’Allegato “H” alla Legge n. 140/2017 e nei seguenti casi:
+a) mancanza di spazio necessario tra edificio e strada pubblica per la formazione dello spazio di sosta;
+b) insufficienza di superficie in riferimento alla dotazione necessaria;
+c) insufficienza di spazio per la realizzazione di accessi ai sensi dell’articolo 91 della Legge n. 140/2017;
+d) manomissione del marciapiede esistente;
+e) ostruzione di passi carrai esistenti;
+f) ostacolo alla realizzazione di opere o servizi pubblici;
+g) creazione di pericolo al transito (es. aree prospicienti o prossime alla curva);
+4. Per gli interventi su edifici esistenti ricadenti in zona ad intervento diretto di cui agli artt. 34 (zona B), 35 (zona BE) e 40 (zona D) della Legge n. 7/1992 non è ammessa la monetizzazione degli spazi per i posti auto e parcheggi nei casi di aumento del carico urbanistico per le funzioni appartenenti alla Categoria 5 di cui all’articolo 96, comma 1 e nei casi in cui non siano localizzati presso la sede dell’ attività almeno i primi 5 posti auto per le restanti Categorie elencate all’articolo 96, comma 1.

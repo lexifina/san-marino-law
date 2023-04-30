@@ -1,0 +1,5 @@
+Art.23
+(Accertamento dello stato di consistenza)
+1. Dichiarata la pubblica utilità ai sensi dell’articolo 21 l'Ufficio Tecnico del Catasto accede ai fondi interessati onde accertarne lo stato di consistenza ai fini della determinazione dell’indennità di espropriazione da parte della Commissione di cui all’articolo 20.
+2. Il predetto stato di consistenza risulta da apposito verbale redatto in contraddittorio con coloro che risultino catastalmente proprietari o con i loro delegati ovvero, nel caso di assenza o di rifiuto, davanti a due testimoni che non siano dipendenti né delle Unità Organizzative della Pubblica Amministrazione a cui afferiscono i Dirigenti di cui al comma 1 dell’articolo 20 né del proprietario. Al contraddittorio sono ammessi l’affittuario ed eventuali consulenti di parte.
+3. Del giorno, luogo ed ora fissati per l'accertamento dello stato di consistenza deve essere data comunicazione, almeno dieci giorni prima dell'inizio delle operazioni di accertamento, a coloro che risultano catastalmente proprietari dei beni immobili e/o titolari di diritti relativi ai beni immobili da espropriare mediante raccomandata con avviso di ricevimento.
