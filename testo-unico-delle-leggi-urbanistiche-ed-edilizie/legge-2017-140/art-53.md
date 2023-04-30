@@ -1,0 +1,5 @@
+Art. 53
+(Disposizioni di carattere attuativo)
+1. Le autorizzazioni edilizie relative ad edifici esistenti aventi ad oggetto interventi di passaggio di funzione o di divisione o di accorpamento di unità immobiliari, possono essere rilasciate nel rispetto delle funzioni insediabili nella zona urbanistica oggetto dell’autorizzazione e quando la dotazione minima degli spazi per i posti auto e dei parcheggi resta invariata ai sensi dell’articolo 96 o diminuisce rispetto alla funzione precedentemente approvata ai sensi dell’articolo 83.
+2. L’utilizzo di unità immobiliari o unità edilizie secondo le modalità previste dagli articoli 16 e 17 della Legge 27 gennaio 2006 n.22 non comporta il cambio d’uso ai fini urbanistici.
+3.Gli interventi sugli edifici di rilevante interesse storico, ambientale e culturale inclusi in Zone A “zone omogenee di carattere storico ambientale” di cui all’articolo 33 della Legge n.7/1992 nonché sugli immobili, complessi, organismi e manufatti con valore monumentale inseriti nell’elenco di cui alla Legge n.147/2005 sono soggetti ad autorizzazione della CCM.

@@ -1,0 +1,9 @@
+Art.63
+(Varianti al progetto)
+1. I progetti in variante a quelli oggetto di concessione od autorizzazione edilizia ancora validi ed efficaci sono assoggettati rispettivamente alla procedura di cui all’articolo 59 o
+60.
+2. Fatte salve prescrizioni maggiormente restrittive dettate dagli strumenti di pianificazione attuativa e ad esclusione degli interventi su fabbricati o manufatti ricadenti nell’ambito di competenza della CCM, degli interventi su fabbricati che comportino varianti sostanziali al progetto strutturale, nonché di eventuali interventi che interferiscano sulla vegetazione esistente, è ammessa la facoltà di apportare modifiche in corso d’opera senza necessità di ottenere preventivamente il rilascio di titolo autorizzativo in variante, purché esse non comportino variazioni essenziali al progetto approvato. Le variazioni sono considerate essenziali quando sono in contrasto con le norme in vigore e le prescrizioni urbanistiche di zona e nei seguenti casi:
+a) superino in misura superiore al 10% almeno uno degli indici edilizi indicati nel progetto approvato ed in particolare il rapporto di copertura, l’If, l’Uf, la superficie utile lorda, il volume, l’altezza, le distanze dai confini di proprietà;
+b) comportino passaggio di funzioni urbanistiche.
+3. Prima della ultimazione dei lavori, il titolare del provvedimento autorizzativo originario è tenuto a presentare una variante definitiva denominata “stato di fatto”, comprovante tutte le modifiche apportate al progetto originario ai sensi del comma 2. Tale variante è ritirata dal richiedente previa corresponsione delle eventuali somme dovute all’Amministrazione a titolo di conguaglio del contributo di concessione originariamente versato.
+4. La realizzazione di varianti non essenziali non dà luogo all’applicazione delle sanzioni di cui all’articolo 74.

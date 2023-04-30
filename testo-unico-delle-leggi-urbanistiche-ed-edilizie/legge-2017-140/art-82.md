@@ -1,0 +1,13 @@
+Art.82
+(Applicazione degli indici urbanistici e contrasto tra lo stato di fatto e le previsioni del
+Piano Regolatore Generale)
+1. Gli indici di fabbricabilità e di utilizzazione territoriale (It e Ut) si applicano nei Piani Particolareggiati.
+2. Gli indici di fabbricabilità e utilizzazione fondiaria (If e Uf) si applicano per l’edificazione nelle singole unità fondiarie ove non sia richiesto il piano attuativo. Tali indici specificano rispettivamente i volumi e le superfici costruibili su ciascuna unità fondiaria.
+3. Qualora la superficie territoriale (St) o la superficie fondiaria (Sf), corrispondenti alle diverse zone individuate dal PRG, non coincidano con il perimetro delle particelle catastali, la misura della superficie è fornita dal Sistema Informativo Territoriale.
+4. Il Comparto costituisce l’unità urbanistica sulla quale si applicano gli indici urbanistici edilizi.
+5. Si ha contrasto tra stato di fatto di un’unità fondiaria od edilizia e le previsioni di PRG, eccetto che per gli immobili localizzati all’interno delle zone a Piano Particolareggiato, nei seguenti casi:
+a) eccesso di superficie utile lorda e/o volume e/o altezza esistenti rispetto agli indici previsti dalle norme di zona;
+b) funzioni insediate esistenti appartenenti ad un gruppo diverso da quello previsto dalle norme di zona.
+6. Sono fatti salvi gli indici (altezza, superficie utile lorda e volume) acquisiti sulla base di un progetto approvato; in tal caso gli indici sono computati in base alla presente legge anche se in contrasto con le previsioni di PRG e delle normative vigenti.
+7. Nei casi di cui al comma 5, lettera b) possono essere eseguiti esclusivamente interventi di manutenzione ordinaria e straordinaria dell’unità immobiliare; qualora sia adeguata la funzione urbanistica dell’unità immobiliare alle norme vigenti sono ammesse tutte le modalità di intervento edilizio.
+8. Nei casi di cui al comma 5, lettera a) e al comma 6 sono consentiti tutti gli interventi edilizi di cui alla Sezione III del presente Capo purché non si abbia aumento di superficie utile e/o volume e/o altezza e non si configuri come nuovo intervento. E’ possibile tuttavia realizzare ampliamenti che comportino esclusivamente la costruzione di locali accessori interrati e/o seminterrati e/o portici non computabili in termini di superficie utile lorda ai sensi dell’articolo 85 e purché rispettino le norme sulle distanze dai confini e dalle strade previste dalla presente legge. Qualora resti invariato il carico urbanistico per le unità immobiliari oggetto di intervento, è altresì ammessa la modifica del numero di unità immobiliari e/o il passaggio di funzioni, se previste dalle norme di zona.

@@ -1,0 +1,4 @@
+Art.69
+(Sospensione dei lavori)
+1. La sospensione dei lavori è comunicata all’Ufficio per l’Edilizia a mezzo raccomandata con avviso di ricevimento, e non può avere decorrenza antecedente alla data di invio della comunicazione stessa. I professionisti di cui all’articolo 68, comma 1, lettere e), f), g), h) e i) hanno facoltà di comunicare all’Ufficio per l’Edilizia la sospensione del proprio incarico professionale ed in tal caso, prima del riavvio dei lavori, gli stessi sono tenuti a comunicare la ripresa dell’incarico professionale.
+2. In caso di rinuncia all’incarico dei professionisti di cui all’articolo 68, comma 1, lettere e), f), h), e i) i lavori sono sospesi con le modalità di cui al comma 1 sino alla nomina dei nuovi professionisti. In tal caso è obbligo dei professionisti inviare all’Ufficio per l’Edilizia comunicazione contenente la descrizione delle opere svolte fino alla rinuncia dell’incarico.

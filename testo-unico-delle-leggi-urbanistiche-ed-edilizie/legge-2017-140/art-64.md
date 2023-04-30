@@ -1,0 +1,14 @@
+Art.64
+(Annullamento del titolo autorizzativo e divieto di revoca)
+1. E' vietata la revoca della concessione e dell'autorizzazione edilizia.
+2. La concessione e l'autorizzazione possono essere annullate rispettivamente dalla Commissione Tecnica Edilizia o dal Dirigente dell’Ufficio per l’Edilizia entro cinque anni dalla data dell'atto ai sensi dell’articolo 44 della Legge 5 ottobre 2011 n.160.
+3. L’annullamento in autotutela della concessione e dell’autorizzazione edilizia riguarda soltanto le parti non sanabili realizzate in violazione della suddetta normativa.
+4. Prima dell'annullamento la Commissione Tecnica Edilizia o il Dirigente dell’Ufficio per l’Edilizia dovrà contestare a tutti i soggetti responsabili i vizi rilevati concedendo un termine congruo, non inferiore a novanta giorni, per la presentazione della variante necessaria per adeguare alle norme vigenti il progetto e/o le opere eventualmente realizzate, con eventuale rifacimento delle procedure.
+5. Nel caso di opere realizzate in conformità a titolo edificatorio successivamente annullato a causa di illegittimità riscontrate, in sede giurisdizionale con sentenza definitiva, nell’agire dell’amministrazione e pertanto, per vizi non riconducibili al comportamento del proprietario o avente titolo, le procedure amministrative dovranno essere eventualmente rinnovate, anche mediante esecuzione delle varianti necessarie per rendere il progetto e/o le opere realizzate conformi alla normativa.
+6. A seguito dell’annullamento della concessione o dell’autorizzazione edilizia per la parte illegittima e non sanabile delle opere realizzate si applicano le sanzioni di cui all’articolo 74.
+7. Se nelle more del procedimento di annullamento del titolo autorizzativo il progetto e/o le opere divengono sanabili per il mutamento della normativa, esse saranno sanate con l'applicazione di una sanzione pari al doppio dei contributi dovuti secondo le tariffe vigenti al momento del rilascio della concessione in sanatoria; se l'opera non è soggetta a contributi la sanzione pecuniaria amministrativa è determinata in importo tra euro 500,00 ed euro 3.000,00.
+8. Nei casi di cui al comma 5 si applicano le sanzioni di cui al comma 7.
+9. L’integrale corresponsione della sanzione pecuniaria di cui ai commi 7 e 8 produce i medesimi effetti della concessione o autorizzazione edilizia in sanatoria di cui all’articolo
+75.
+10. A seguito dell’approvazione della concessione o autorizzazione edilizia di cui al comma7, il certificato di conformità edilizia e agibilità o il certificato di rispondenza edilizia, è rilasciato nel rispetto dei requisiti indicati all’articolo 71, comma 1, e dei termini stabiliti dal medesimo articolo.
+11. Non è ammessa la facoltà di oblazione volontaria di cui all'articolo 33, comma primo, lettera a), della Legge 28 giugno 1989 n.68.

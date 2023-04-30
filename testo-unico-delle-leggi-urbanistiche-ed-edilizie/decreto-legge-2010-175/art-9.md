@@ -1,0 +1,10 @@
+Art.9
+1. L’articolo 127 della Legge 19 luglio 1995 n.87 è così sostituito:
+“Art.127 1°. Nei confronti dei contravventori alle norme del presente Capo vengono adottati i seguenti provvedimenti:
+a) al primo accertamento: diffida scritta con obbligo dell'immediata rimozione delle
+esposizioni pubblicitarie abusive o irregolari e dell'immediato sgombro del suolo
+pubblico abusivamente occupato e sanzione pecuniaria amministrativa di €
+500,00=;
+b) al secondo accertamento: sanzione pecuniaria amministrativa di € 4.000,00=;
+c) al terzo accertamento: sanzione pecuniaria amministrativa di € 7.500,00=. 2°. Al terzo accertamento, oltre all’applicazione della sanzione di cui al comma 1 lettera c), è disposta l’acquisizione di diritto ed a titolo gratuito delle esposizioni pubblicitarie abusive o irregolari al patrimonio dello Stato che, tramite i competenti Uffici ed Enti, provvede a rimuoverle addebitando le relative spese al contravventore.
+3°. I provvedimenti sanzionatori previsti al comma 1 ed il provvedimento previsto al comma 2 sono assunti dal Dirigente dell’Ispettorato di Vigilanza di cui all’articolo 175. 4°. La facoltà di oblazione volontaria di cui all’articolo 33, comma primo, lettera a) della Legge 28 giugno 1989 n.68 non è ammessa in relazione alle sanzioni applicate successivamente al primo accertamento.”.
