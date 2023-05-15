@@ -1,0 +1,11 @@
+## II VARIAZIONE AL BILANCIO DI PREVISIONE DELLO STATO E DEGLI ENTI DEL SETTORE PUBBLICO ALLARGATO PER L’ESERCIZIO FINANZIARIO 2020, MODIFICHE ALLA LEGGE 19 NOVEMBRE 2019 N. 157 E SUCCESSIVE MODIFICHE
+Art.26
+(Misure straordinarie per il conferimento di incarichi di lavoro a medici specializzandi)
+1. Al fine di far fronte alle esigenze straordinarie derivanti dal perdurare della diffusione del Covid-19 a livello globale e di garantire i livelli essenziali di assistenza, l’ISS, fino al perdurare dello stato di pandemia può conferire incarichi di lavoro autonomo, mediante l’attivazione di rapporti di collaborazione a convenzione di durata non superiore a sei mesi ed eventualmente prorogabili in ragione del perdurare delle condizioni di diffusione del virus, a medici specializzandi iscritti all’ultimo anno di corso delle scuole di specializzazione nonché, qualora questo abbia durata quinquennale, al penultimo anno del relativo corso.
+2. In ragione dell’urgenza, in deroga alle norme vigenti, tali contratti sono sottoscritti dal Direttore Generale ISS ai sensi dell’articolo 11, comma 6 della Legge n.165/2004, su proposta del competente Direttore UOC, anche in assenza del preventivo parere favorevole del Congresso di Stato.
+3. Rimane ferma, anche per l’attivazione di detti incarichi, la supervisione del tutor, individuato nel Direttore UOC di riferimento.
+4. Il compenso spettante ai medici specializzandi è quello previsto dall’Allegato 2 alla Legge n.139/2018 – livello 0.
+5. Il conferimento di incarichi di lavoro autonomo non comporta l’instaurazione di alcun rapporto di dipendenza con l’ISS.[^11]
+
+[^11]: Si veda Decreto – Legge 31 agosto 2022 n.124, Articolo 3, comma 1:
+    1. Al fine di assicurare il reperimento, in tempi brevi, del personale sanitario necessario per garantire i livelli essenziali di assistenza, ad integrazione e parziale modifica di quanto previsto dall’articolo 26 della Legge 9 novembre 2020 n.196, l’Istituto per la Sicurezza Sociale può procedere al reclutamento di medici specializzandi, iscritti al terzo, quarto e quinto anno di corso delle scuole di specializzazione, attraverso l’attivazione di rapporti di collaborazione a convenzione, di durata non superiore a nove mesi, eventualmente prorogabili di ulteriori nove mesi, fino ad un massimo di diciotto mesi complessivi.
