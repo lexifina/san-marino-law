@@ -1,0 +1,3 @@
+Art.1
+(Finalità)
+1. La presente legge, in linea con le finalità della Legge 30 novembre 2004 n.165 e del Decreto Delegato 11 gennaio 2010 n.1 (Atto organizzativo dell’Istituto per la Sicurezza Sociale), conferma l’Istituto per la Sicurezza Sociale (brevemente I.S.S.) quale ente statale con personalità giuridica di diritto pubblico ed autonomia gestionale deputato all’erogazione di prestazioni sociali, previdenziali, socio-sanitarie e di assistenza sanitaria in coerenza con il Piano Socio-sanitario e nei limiti delle risorse disponibili nell’ambito delle linee di indirizzo e di programmazione annualmente emanate dal Congresso di Stato nel quadro delle politiche definite dal Consiglio Grande e Generale.
