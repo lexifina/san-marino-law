@@ -1,0 +1,11 @@
+Art. 24
+(Criteri generali per la valutazione dei titoli)
+1. La determinazione dei criteri di valutazione si effettua prima dell’espletamento delle prove.
+2. Saranno valutati i titoli prodotti in originale o in copia autentica conforme all’originale.
+3. La valutazione dei titoli è effettuata al termine delle prove previste dai singoli moduli attivati ed è limitata ai soli candidati dichiarati idonei.
+4. Il possesso dei titoli richiesti quali requisito per l’ammissione al concorso genera punteggio solo nei limiti di quanto previsto al successivo articolo.
+5. I titoli di studio superiori e coerenti, qualora sostitutivi del titolo specifico richiesto dal bando, generano punteggio solo nei limiti di quanto previsto al successivo articolo.
+6. Qualora, per lo stesso titolo vi siano votazioni rapportate a valori massimi differenti, determinati da una evoluzione della normativa nel tempo la votazione conseguita in funzione della vecchia normativa deve essere rapportata alla votazione prevista dalla normativa in vigore. Deve essere valutata anche la frazione di voto che eventualmente venga a determinarsi.
+7. Qualora il bando di concorso preveda, oltre il diploma di laurea, anche il possesso di diploma di specializzazione, per la valutazione del punteggio si terrà conto della media delle votazioni conseguite. Nel caso che le due votazioni siano rapportate a valori massimi differenti, entrambe le votazioni devono essere rapportate in centesimi. Deve essere valutata anche la frazione di voto che eventualmente venga a determinarsi. Per chi accede ai concorsi pubblici e non è dipendente a ruolo o a tempo indeterminato, ai sensi dell’art. 69 della Legge n.188/2011, della Pubblica Amministrazione, il titolo di studio richiesto è sempre requisito indispensabile.
+8. Può accedere al concorso pubblico chi è in possesso del titolo di studio superiore e coerente con quello messo a concorso. Tale titolo non è valutato come titolo aggiuntivo ed è utilizzato ai fini della determinazione del punteggio di cui al successivo articolo.
+9. Qualora il bando di concorso preveda una assegnazione a specifica Unità Organizzativa, per la quale sia previsto un titolo di studio specifico, il bando dovrà esplicitare tale requisito.
