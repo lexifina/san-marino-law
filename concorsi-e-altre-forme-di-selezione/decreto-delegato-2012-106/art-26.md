@@ -1,0 +1,4 @@
+Art. 26
+(Criteri per l’accesso al concorso in assenza di titolo di studio)
+1. Fatta eccezione per l’accesso ai PDR per i quali il possesso del titolo è requisito indispensabile, il dipendente a ruolo o assunto a tempo indeterminato, ai sensi dell’art. 69 della Legge n. 188/2011, non in possesso del titolo di studio minimo richiesto dal bando di concorso, può accedere solo se ha una anzianità di servizio, in posizione funzionale coerente immediatamente inferiore, di almeno un numero di anni calcolato come previsto al successivo comma 2, ed è contemporaneamente in possesso del titolo di studio richiesto per la posizione funzionale ricoperta.
+2. La determinazione degli anni di servizio necessari per sostituire il titolo di studio richiesto, si ottiene raddoppiando la differenza degli anni di studio esistente fra il titolo richiesto dal bando e quello posseduto dal candidato.

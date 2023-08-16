@@ -1,0 +1,6 @@
+## CONCORSI ED ALTRE FORME DI SELEZIONE
+## TITOLO I DISPOSIZIONI GENERALI
+Art. 1
+(Ambito di applicazione)
+1. La presente legge disciplina le procedure per l’ammissione ad un rapporto di pubblico impiego di ruolo ed altre forme di selezione.
+2. In conformità ai criteri di legalità, imparzialità ed efficienza dell’attività della Pubblica Amministrazione, sanciti dall’articolo 14 della Legge 8 luglio 1974, n. 59 - Dichiarazione dei Diritti dei Cittadini e dei Principi Fondamentali dell’Ordinamento Sammarinese, così come riformata dalla Legge 26 febbraio 2002, n. 36, nonché in conformità alle norme del Titolo V della Legge Qualificata 15 dicembre 2005, n. 184, le procedure di selezione sono orientate alla individuazione, con la maggior trasparenza, efficacia, efficienza ed economicità possibile, del personale dotato dei requisiti professionali necessari all’Amministrazione pubblica per lo svolgimento dei compiti istituzionali cui è preposta, al fine dell’ottimale andamento e dell’efficienza delle unità organizzative responsabili della realizzazione delle funzioni amministrative e dell’erogazione dei servizi alla cittadinanza.
