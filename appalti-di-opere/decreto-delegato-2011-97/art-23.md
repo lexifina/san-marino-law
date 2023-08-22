@@ -1,0 +1,4 @@
+## CAPO III
+Art. 23
+1. All’articolo 3, comma 1 della Legge 3 ottobre 2007 n.107 è aggiunta la seguente lettera:
+“n) approva, osservando il procedimento previsto per la formazione di strumenti di pianificazione attuativa, i progetti preliminari relativi ad opere ed infrastrutture pubbliche di particolare rilevanza e complessità. In relazione all’esercizio di tale funzione la Commissione per le Politiche Territoriali è coadiuvata dai competenti Dirigenti e funzionari del Settore Pubblico Allargato ed acquisisce i pareri obbligatori in materia di valutazione dell’impatto ambientale e, qualora l’intervento ricada in centri o nuclei storici o interessi immobili con valore monumentale, in materia di conservazione dei monumenti nonché i pareri facoltativi che saranno ritenuti opportuni ai fini dell’esame degli interventi previsti nel progetto.”.

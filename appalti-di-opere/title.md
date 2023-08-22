@@ -1,0 +1,53 @@
+## RACCOLTA COORDINATA IN MATERIA DI APPALTI DI OPERE
+(AGGIORNATO AL 22 AGOSTO 2023)
+Sommario LEGGE 17 SETTEMBRE 1999 N.96 ................................................................ 3 DECRETO 20 GENNAIO 2000 N.10 ...............................................................21 ALTRE NORME ..........................................................................................66 DECRETO DELEGATO 15 GIUGNO 2011 N.97 ................................................66 LEGGE 26 MAGGIO 2004 N.71 ....................................................................78 DECRETO DELEGATO 25 aprile 2018 n.41 ....................................................79 LEGGE 21 DICEMBRE 2009 N.168 ...............................................................81 LEGGE 22 DICEMBRE 2011 N.200 ...............................................................82 LEGGE 31 OTTOBRE 2013 N.153 .................................................................83 LEGGE 20 DICEMBRE 2013 N.174 ...............................................................84 LEGGE 23 DICEMBRE 2014 N.219 ...............................................................85 LEGGE 21 DICEMBRE 2016 N.144 ...............................................................86 LEGGE 21 DICEMBRE 2017 N.147 ...............................................................87 LEGGE 3 OTTOBRE 2019 n.154 ...................................................................88 DECRETO DELEGATO 25 giugno 2021 n.117 .................................................90 LEGGE 25 OTTOBRE 2022 n.148 .................................................................91 DECRETO DELEGATO 26 maggio 2023 n.87 ..................................................92
+## LEGGI CITATE NEL TESTO COORDINATO E NELLE ALTRE NORME IN MATERIA
+- Legge Ipotecaria 16 marzo 1854
+- Legge 17 febbraio 1961 n.7
+- Legge 26 novembre 1980 n.88
+- Legge 7 maggio 1984 n.46
+- Legge 25 gennaio 1991 n.8
+- Legge 29 maggio 1991 n.71
+- Legge 23 maggio 1995 n.70
+- Legge 18 luglio 1995 n.87
+- Legge 24 novembre 1997 n.133
+- Legge 18 febbraio 1998 n. 30
+- Legge 18 febbraio 1998 n.31
+- Legge 17 settembre 1999 n.96 (citata anche come Legge Quadro)
+- Decreto 25 novembre 1999 n.121
+- Decreto 20 gennaio 2000 n.10
+- Errata corrige del 11 febbraio 2000
+- Decreto 24 luglio 2000 n.62
+- Decreto 29 ottobre 2001 n.100
+- Legge 27 marzo 2002 n.49
+- Legge 21 gennaio 2004 n.6
+- Legge 26 maggio 2004 n.71
+- Legge 17 novembre 2005 n.165
+- Legge13 dicembre 2005 n.179
+- Legge 3 ottobre 2007 n.107
+- Legge 21 dicembre 2009 n.168
+- Legge 22 dicembre 2010 n.194
+- Decreto Delegato 24 febbraio 2011 n.46
+- Decreto Delegato 15 giugno 2011 n.97
+- Legge 5 ottobre 2011 n.159
+- Legge 5 dicembre 2011 n.188
+- Legge 22 dicembre 2011 n.200
+- Legge 21 dicembre 2012 n.150
+- Legge 31 ottobre 2013 n.153
+- Legge 20 dicembre 2013 n.174
+- Legge 23 dicembre 2014 n.219
+- Decreto Delegato 2 marzo 2015 n.26
+- Legge 3 novembre 2015 n.160
+- Decreto Delegato 16 giugno 2016 n.74
+- Legge 21 dicembre 2016 n.144
+- Legge 21 dicembre 2017 n.147
+- Decreto Delegato 25 aprile 2018 n.41
+- Legge 3 ottobre 2019 n.154
+- Decreto Delegato 30 gennaio 2020 n.9
+- Decreto Delegato 29 marzo 2021 n.61
+- Decreto Delegato 29 ottobre 2021 n.184
+- Decreto Delegato 25 giugno 2021 n.117
+- Legge 25 ottobre 2022 n.148
+- Legge 23 dicembre 2022 n.171
+- Decreto Delegato 26 maggio 2023 n.87
+## RACCOLTA COORDINATA IN MATERIA DI APPALTI DI OPERE

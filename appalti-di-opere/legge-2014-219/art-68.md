@@ -1,0 +1,7 @@
+## BILANCI DI PREVISIONE DELLO STATO E DEGLI ENTI PUBBLICI PER L’ESERCIZIO FINANZIARIO 2015 E BILANCI PLURIENNALI 2015/2017
+Art.68
+(Della Trasparenza)
+1. Il Congresso di Stato è impegnato a predisporre, entro il 31 marzo 2015, un regolamento che preveda che il titolare o legale rappresentante di impresa che intenda beneficiare di fondi pubblici o di agevolazioni fiscali contributive a qualunque titolo, o intenda partecipare ad appalti pubblici, sia tenuto a dichiarare sotto la propria responsabilità penale i nominativi di tutti i beneficiari economici persone fisiche dell’impresa stessa, a prescindere dalla quota posseduta.
+2. E’ facoltà dei membri del Consiglio Grande e Generale prendere visione presso la Banca Centrale della Repubblica di San Marino delle informazioni relative ai titolari effettivi dei soggetti autorizzati ai sensi della Legge n.165/2005 e successive modifiche ed integrazioni. Con apposito decreto delegato, da emanarsi entro il 30 giugno 2015, sono disciplinate le modalità di accesso a tali informazioni e le misure atte a garantire la loro riservatezza.
+3. E’ abrogato il punto e) del comma 5 dell’articolo 16 della Legge 17 novembre 2005 n.165 così come modificato dall’articolo 74 della Legge n.174/2013.
+4. Il termine di cui al comma 3 dell’articolo 74 della Legge 20 dicembre 2013 n.174 è prorogato al 31 marzo 2015.

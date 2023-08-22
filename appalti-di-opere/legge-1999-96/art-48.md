@@ -1,0 +1,4 @@
+Art. 48
+(Dell'impossibilità di dare esecuzione all'opera od alla prestazione del servizio)
+Allorquando nell'esecuzione dell'opera o nella prestazione del servizio sia sopravvenuta impossibilità non imputabile ad una delle parti, il contratto di appalto si scioglie, ma a carico dell'appaltante. E' posto a carico della Pubblica Amministrazione il pagamento delle sole opere già compiute, limitatamente alla utilità che l'appaltante stesso, Pubblica Amministrazione, ne può conseguire e proporzionalmente al compenso determinato per l'intera opera o per l'intera prestazione del servizio.
+In caso di sopravvenuta impossibilità, l'utilità dell'opera o della prestazione di servizio già parzialmente eseguita, è da commisurarsi e ritenersi tale quando possa essere impiegata nei modi e nel senso previsti dal contratto di appalto.

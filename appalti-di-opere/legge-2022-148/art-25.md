@@ -1,0 +1,4 @@
+## II VARIAZIONE AL BILANCIO DI PREVISIONE DELLO STATO E DEGLI ENTI DEL SETTORE PUBBLICO ALLARGATO PER L’ESERCIZIO FINANZIARIO 2022, MODIFICHE ALLA LEGGE 22 DICEMBRE 2021 N.207 E SUCCESSIVE MODIFICHE
+Art. 25
+(Istituzione e disciplina di un nuovo Registro Unico)
+1. Il Registro dei Fornitori di cui agli articoli 8, 9, 10 e 11 del Decreto Delegato 2 marzo 2015 n.26 e successive modifiche ed il Registro di cui agli articoli 8 e 9 del Decreto 20 gennaio 2000 n.10 e successive modifiche sono uniti in un Registro Unico suddiviso in due sezioni e tenuto dall’Agenzia per lo Sviluppo Economico - Camera di Commercio (ASE-CC). La disciplina del suddetto Registro Unico è definita con decreto delegato, ferme restando le ulteriori deleghe contenute nell’articolo 24 della Legge 24 dicembre 2018 n.173, nella Legge 27 marzo 2002 n.49 e nella Legge 17 settembre 1999 n.96.

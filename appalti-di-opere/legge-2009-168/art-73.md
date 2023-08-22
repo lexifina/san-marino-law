@@ -1,0 +1,7 @@
+## BILANCI DI PREVISIONE DELLO STATO E DEGLI ENTI PUBBLICI PER L’ESERCIZIO FINANZIARIO 2010 E BILANCI PLURIENNALI 2010/2012
+Art. 73
+(Orientamenti per il conferimento di incarichi di consulenza)
+Il Congresso di Stato è tenuto a conferire incarichi di consulenza e collaborazione solo a consulenti di comprovata specializzazione e qualora non si tratti di attività che l’Amministrazione debba o sia in grado di svolgere, anche utilizzando le elaborazioni e i contributi per i quali siano state assegnate precedenti consulenze. Deve inoltre essere garantita la coerenza con altri progetti.
+In ogni caso, dette consulenze e collaborazioni devono essere temporanee e legate a precisi progetti ed obiettivi i quali, insieme ai compiti attribuiti, devono essere chiaramente specificati
+Non sono ammessi rapporti convenzionali per sopperire alla carenza di personale su posizioni d’organico. Il Congresso di Stato è impegnato a far effettuare una ricognizione dei rapporti di consulenza e convenzionali in essere nel Settore Pubblico Allargato in ambito amministrativo ai fini di una loro revisione e riduzione.
+Il conferimento e la proroga di incarichi di consulenza e collaborazione deliberati autonomamente dagli Enti del Settore Pubblico Allargato e dalle Aziende Autonome di Stato, divengono efficaci con il parere conforme del Congresso di Stato e fatti salvi gli adempimenti relativi al controllo di legittimità previsti dalla Legge 18 febbraio 1998 n. 30.

@@ -1,0 +1,29 @@
+Art. 14
+(Finanza di progetto)
+Per la realizzazione di opere pubbliche inserite nella programmazione di cui all’articolo 4 o i cui studi di fattibilità siano stati adottati a mente dell’articolo 4bis, finanziabili in tutto o in parte con capitali privati, l’Amministrazione o l’Ente Pubblico appaltante può affidare una concessione ponendo a base di gara uno studio di fattibilità, finalizzato alla presentazione di offerte che contemplino l'utilizzo di risorse totalmente o parzialmente a carico dei soggetti proponenti.
+Al concessionario dell’opera pubblica individuato in esito alle procedure di gara, di regola, spetta, a titolo di controprestazione, unicamente il diritto di gestire funzionalmente e di sfruttare economicamente tutti i lavori realizzati. Tuttavia, l'Amministrazione o l’Ente pubblico appaltante stabilisce in sede di gara anche un prezzo nei seguenti casi:
+a) qualora al concessionario sia imposto di praticare nei confronti degli utenti
+prezzi inferiori a quelli corrispondenti alla remunerazione degli investimenti e
+alla somma del costo del servizio e dell’ordinario utile di impresa;
+b) qualora sia necessario assicurare al concessionario il perseguimento
+dell’equilibrio economico-finanziario degli investimenti e della connessa
+gestione in relazione alla qualità del servizio da prestare.
+Nella determinazione del prezzo di cui al comma secondo, si tiene conto della eventuale prestazione di beni e servizi da parte del concessionario all’Amministrazione o Ente Pubblico appaltante, relativamente all’opera concessa, secondo quanto stabilito dall’Ente appaltante stesso nella fase deliberativa.
+A titolo di prezzo, l’Amministrazione o l’Ente Pubblico appaltante, fatte salve le prerogative del Consiglio Grande e Generale, può cedere in proprietà o in diritto di godimento beni immobili nella propria disponibilità o allo scopo espropriati la cui utilizzazione sia strumentale o connessa all'opera da affidare in concessione nonché beni immobili che non assolvono più a funzioni di interesse pubblico.
+La concessione ha di regola durata non superiore a trenta anni; tuttavia, l’Amministrazione o l’Ente Pubblico appaltante, al fine di assicurare il perseguimento dell'equilibrio economico-finanziario degli investimenti del concessionario, può stabilire che la concessione abbia una durata superiore a trenta anni, tenendo conto del rendimento della concessione, della percentuale del prezzo di cui al comma secondo rispetto all'importo totale dei lavori e dei rischi connessi alle modifiche delle condizioni di mercato.[^18]
+
+[^18]: Testo originario (Decreto n.10/2000):
+    Art. 14
+    Lavori edili con concessione d'utilizzo I lavori edili con concessione d'utilizzo sono appalti che il committente aggiudica ad un imprenditore
+    (concessionario), nei quali il corrispettivo per i lavori eseguiti non consiste nel pagamento, bensì nel diritto ad utilizzare l'opera, eventualmente con la corresponsione di un prezzo. Per l'appalto di concessione d'utilizzo si applicano le norme previste dal presente Regolamento.
+    Modifiche legislative Legge 22 dicembre 2010 n.194, Art. 89, comma secondo
+    (Modificazioni al Decreto 20 gennaio 2000 n.10) omissis L'articolo 14 del Decreto 20 gennaio 2000 n.10 è così sostituito:
+    “Art.14
+    (Finanza di progetto) Per la realizzazione di opere pubbliche inserite nella programmazione di cui all’articolo 4 o i cui studi di fattibilità siano stati adottati a mente dell’articolo 4bis, finanziabili in tutto o in parte con capitali privati, l’Amministrazione o l’Ente Pubblico appaltante può affidare una concessione ponendo a base di gara uno studio di fattibilità, finalizzato alla presentazione di offerte che contemplino l'utilizzo di risorse totalmente o parzialmente a carico dei soggetti proponenti.
+    Al concessionario dell’opera pubblica individuato in esito alle procedure di gara, di regola, spetta, a titolo di controprestazione, unicamente il diritto di gestire funzionalmente e di sfruttare economicamente tutti i lavori realizzati. Tuttavia, l'Amministrazione o l’Ente pubblico appaltante stabilisce in sede di gara anche un prezzo nei seguenti casi:
+    a) qualora al concessionario sia imposto di praticare nei confronti degli utenti prezzi inferiori a quelli corrispondenti alla remunerazione degli investimenti e alla somma del costo del servizio e dell’ordinario utile di impresa;
+    b) qualora sia necessario assicurare al concessionario il perseguimento dell’equilibrio economico-finanziario degli investimenti e della connessa gestione in relazione alla qualità del servizio da prestare.
+    Nella determinazione del prezzo di cui al comma secondo, si tiene conto della eventuale prestazione di beni e servizi da parte del concessionario all’Amministrazione o Ente Pubblico appaltante, relativamente all’opera concessa, secondo quanto stabilito dall’Ente appaltante stesso nella fase deliberativa.
+    A titolo di prezzo, l’Amministrazione o l’Ente Pubblico appaltante, fatte salve le prerogative del Consiglio Grande e Generale, può cedere in proprietà o in diritto di godimento beni immobili nella propria disponibilità o allo scopo espropriati la cui utilizzazione sia strumentale o connessa all'opera da affidare in concessione nonché beni immobili che non assolvono più a funzioni di interesse pubblico.
+    La concessione ha di regola durata non superiore a trenta anni; tuttavia, l’Amministrazione o l’Ente Pubblico appaltante, al fine di assicurare il perseguimento dell'equilibrio economico-finanziario degli investimenti del concessionario, può stabilire che la concessione abbia una durata superiore a trenta anni, tenendo conto del rendimento della concessione, della percentuale del prezzo di cui al comma secondo rispetto all'importo totale dei lavori e dei rischi connessi alle modifiche delle condizioni di mercato.”.
+    omissis

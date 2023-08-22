@@ -1,0 +1,5 @@
+Art.24
+(Prescrizioni tecniche)
+Le prescrizioni tecniche sono rappresentate dai requisiti di natura tecnica riguardanti una prestazione, un materiale, un prodotto o una fornitura, in modo che gli stessi siano conformi all'impiego che stabilisce il committente.
+Fanno parte di questi requisiti le classi di qualità, l'utilizzabilità, la sicurezza e le misure, come anche le prescrizioni per materiali, prodotti e forniture per quanto riguarda la garanzia di qualità, la terminologia, la raffigurazione, i controlli ed i processi di controllo, l'imballaggio, il marchio e le scritte contraddistintive.
+Sono inoltre da considerarsi requisiti tecnici le disposizioni per la progettazione ed i calcoli relativi alle costruzioni, le norme per il controllo, per l'ispezione e per il collaudo delle stesse, le tecniche e le metodologie costruttive e tutti quegli altri requisiti che il committente pubblico, relativamente alle costruzioni finite, è in grado di imporre come disposizioni generali o specifiche per i materiali o gli elementi costruttivi.

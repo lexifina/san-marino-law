@@ -1,0 +1,3 @@
+Art. 65
+(Del recesso unilaterale dal contratto)
+Anche quando è stata data esecuzione all'opera o alla prestazione del servizio, all'appaltante, Pubblica Amministrazione, è riconosciuta la facoltà di recedere dal contratto, a suo insindacabile giudizio giustificandone la causa, ma lo stesso si assume l'obbligo di indennizzare l'appaltatore, il subappaltatore o il cessionario del contratto di appalto dell'ammontare per le spese già sostenute, per i lavori già eseguiti e per il mancato guadagno, pari al 10% dell'ammontare delle opere che non verranno eseguite e che si intende l'utile netto che l'appaltatore, il subappaltatore o il cessionario del contratto di appalto avrebbero potuto ricavare dal completamento dell'opera o dall'intera prestazione del servizio.

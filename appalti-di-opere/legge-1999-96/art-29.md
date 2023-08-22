@@ -1,0 +1,3 @@
+Art. 29
+(Determinazione convenzionale del corrispettivo delle modifiche)
+Se, al di fuori del precedente articolo e nel caso di introduzione di modifiche, l'appaltante, Pubblica Amministrazione, e l'appaltatore non hanno già determinato convenzionalmente la misura del corrispettivo, oppure non hanno stabilito il modo di determinarla, oppure non hanno stabilito altro modo o forma di adempiere al corrispettivo, essa è calcolata facendo riferimento alle tariffe esistenti, determinate dalle competenti autorità o da organizzazioni sindacali autorizzate, o predisposte anche a mezzo regolamento dalla Pubblica Amministrazione o dagli usi correnti nel territorio al tempo della conclusione del contratto.
