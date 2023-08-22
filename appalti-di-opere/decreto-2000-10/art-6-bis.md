@@ -1,0 +1,22 @@
+Art. 6 bis
+(Concorsi di progettazione)
+1. I concorsi di progettazione sono indetti mediante bando in relazione ad opere ed infrastrutture pubbliche, qualora la prestazione riguardi la progettazione di lavori di particolare rilevanza sotto il profilo architettonico, ambientale, storico-artistico, conservativo e tecnologico.
+2. Nel concorso di progettazione relativo al settore dei lavori pubblici, l'Amministrazione o l’Ente Pubblico banditore pone a base di gara uno studio di fattibilità e richiede tassativamente la produzione di progetti o piani con livello di approfondimento pari a quello di un progetto preliminare. Qualora il concorso di progettazione riguardi un intervento da realizzarsi con il sistema della finanza di progetto di cui all'articolo 14, la proposta ideativa contiene anche la redazione di uno studio economico finanziario per la sua costruzione e gestione.
+3. Il termine di presentazione della proposta è stabilito in relazione all'importanza e complessità del tema e non può essere inferiore a sessanta giorni dalla pubblicazione del bando.
+4. I soggetti ammessi a partecipare ai concorsi di progettazione, l'ammontare del premio da assegnare al vincitore e delle somme da assegnare agli altri progetti ritenuti meritevoli, a titolo di rimborso spese, sono stabiliti dal bando.
+5. L'Amministrazione o l’Ente Pubblico banditore acquista la proprietà del progetto vincitore con il pagamento del premio.
+6. L'Amministrazione o l’Ente Pubblico banditore ha facoltà, mediante procedura negoziata, di affidare al vincitore del concorso, se in possesso dei requisiti di capacità tecnico professionale previsti in rapporto ai livelli progettuali da sviluppare, i successivi livelli di progettazione; tale facoltà ed il relativo corrispettivo sono stabiliti nel bando.
+7. Nel caso in cui al concorso di progettazione sia ammessa la partecipazione di un numero limitato di partecipanti, l'Amministrazione o l’Ente Pubblico banditore stabilisce criteri di selezione chiari e non discriminatori; al fine di garantire un'effettiva concorrenza, il numero di candidati invitati non può essere inferiore a cinque. [^9]
+
+[^9]: Testo originario (Decreto Delegato n.97/2011):
+    Art. 5
+    1. A seguito dell'articolo 6 del Decreto 20 gennaio 2000 n.10 sono aggiunti i seguenti articoli:
+    "Art. 6 bis Concorsi di progettazione
+    1. I concorsi di progettazione sono indetti mediante bando in relazione ad opere ed infrastrutture pubbliche, qualora la prestazione riguardi la progettazione di lavori di particolare rilevanza sotto il profilo architettonico, ambientale, storico-artistico, conservativo e tecnologico.
+    2. Nel concorso di progettazione relativo al settore dei lavori pubblici, l'Amministrazione o l’Ente Pubblico banditore pone a base di gara uno studio di fattibilità e richiede tassativamente la produzione di progetti o piani con livello di approfondimento pari a quello di un progetto preliminare. Qualora il concorso di progettazione riguardi un intervento da realizzarsi con il sistema della finanza di progetto di cui all'articolo 14, la proposta ideativa contiene anche la redazione di uno studio economico finanziario per la sua costruzione e gestione.
+    3. Il termine di presentazione della proposta è stabilito in relazione all'importanza e complessità del tema e non può essere inferiore a sessanta giorni dalla pubblicazione del bando.
+    4. I soggetti ammessi a partecipare ai concorsi di progettazione, l'ammontare del premio da assegnare al vincitore e delle somme da assegnare agli altri progetti ritenuti meritevoli, a titolo di rimborso spese, sono stabiliti dal bando.
+    5. L'Amministrazione o l’Ente Pubblico banditore acquista la proprietà del progetto vincitore con il pagamento del premio.
+    6. L'Amministrazione o l’Ente Pubblico banditore ha facoltà, mediante procedura negoziata, di affidare al vincitore del concorso, se in possesso dei requisiti di capacità tecnico professionale previsti in rapporto ai livelli progettuali da sviluppare, i successivi livelli di progettazione; tale facoltà ed il relativo corrispettivo sono stabiliti nel bando.
+    7. Nel caso in cui al concorso di progettazione sia ammessa la partecipazione di un numero limitato di partecipanti, l'Amministrazione o l’Ente Pubblico banditore stabilisce criteri di selezione chiari e non discriminatori; al fine di garantire un'effettiva concorrenza, il numero di candidati invitati non può essere inferiore a cinque.
+    omissis omissis omissis

@@ -1,0 +1,5 @@
+Art. 26
+(Direzione dei lavori e sorveglianza sul servizio prestato)
+Il potere di direzione dei lavori e di sorveglianza ai servizi prestati, nell'interesse pubblico, è sempre riservato per legge alla Pubblica Amministrazione, ed è esercitato per mezzo di propri funzionari o corpi tecnici, ai quali competono, per opportuna delega, le facoltà e i poteri relativi all'accettazione dei materiali, al controllo dell'esecuzione dei lavori, e all'iniziativa di impartire disposizioni per il migliore compimento dell'opera e della prestazione del servizio.
+È data facoltà alla Pubblica Amministrazione di affidare la direzione dei lavori a professionisti esterni alla Pubblica Amministrazione, mediante apposito disciplinare d'incarico.
+Gli uffici che devono essere preposti alla direzione dei lavori sono individuati dal processo di formazione del contratto di appalto nella fase deliberativa già disciplinata, relativa ai comportamenti che devono essere tenuti dalla Pubblica Amministrazione, e sono formalmente comunicati all'appaltatore, al subappaltatore ed al cessionario del contratto di appalto.
