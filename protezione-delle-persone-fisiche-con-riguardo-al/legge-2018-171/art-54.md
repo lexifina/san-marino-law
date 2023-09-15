@@ -1,0 +1,12 @@
+Art.54
+(Autonomia e indipendenza)
+1. L’Autorità Garante per la protezione dei dati personali agisce in piena autonomia ed indipendenza nell’adempimento dei propri compiti e nell’esercizio dei propri poteri conformemente alla presente legge.
+2. L’Autorità Garante per la protezione dei dati personali è dotata di risorse umane, tecniche e finanziarie necessarie per l’effettivo espletamento dei propri compiti e l’esercizio dei propri poteri.
+3. Nell’adempimento dei rispettivi compiti e nell’esercizio dei rispettivi poteri previsti dalla presente legge, i membri dell’Autorità Garante per la protezione dei dati personali non subiscono pressioni esterne, né dirette, né indirette, e non sollecitano né accettano istruzioni da alcuno.
+4. I membri dell’Autorità Garante per la protezione dei dati personali si astengono da qualunque azione incompatibile con le loro funzioni e per tutta la durata del mandato non possono esercitare nella Repubblica di San Marino, a pena di decadenza, alcuna attività professionale o di consulenza, né essere amministratori o dipendenti di enti pubblici o privati, né ricoprire cariche elettive.
+5. All’Autorità Garante per la protezione dei dati personali si applicano, per quanto compatibili, le disposizioni di cui alla Legge 5 settembre 2014 n.141.[^2]
+
+[^2]: Testo originario (Legge 21 dicembre 2018 n.171) Art. 54, comma 4, 4.L’Ufficio dell’Autorità Garante del trattamento dei dati personali è soggetto ai principi e alle norme di pubblico impiego e dei rapporti di lavoro alle dipendenze dello Stato. All’Ufficio del Garante si applicano altresì i principi e le norme di cui alla Legge 5 dicembre 2011 n.188 e sue successive modifiche ed integrazioni, per quanto compatibili.
+    Modifiche legislative: Legge 22 dicembre 2021 n.207, Art. 13 (Modifica della disciplina in materia di protezione delle persone fisiche con riguardo al trattamento dei dati personali, comma 3:
+    3. Il comma 4 dell’articolo 54 della Legge 21 dicembre 2018 n.171 è così modificato:
+    “4. I membri dell’Autorità Garante per la protezione dei dati personali si astengono da qualunque azione incompatibile con le loro funzioni e per tutta la durata del mandato non possono esercitare nella Repubblica di San Marino, a pena di decadenza, alcuna attività professionale o di consulenza in materia di protezione dei dati personali, esclusi i casi di cui ai commi 10 e 11 dell’articolo 52, né ricoprire cariche elettive.”.
