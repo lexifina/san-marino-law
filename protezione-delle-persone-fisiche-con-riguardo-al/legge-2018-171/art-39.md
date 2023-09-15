@@ -1,0 +1,8 @@
+Art.39
+(Posizione del responsabile della protezione dei dati)
+1. Il titolare del trattamento e il responsabile del trattamento si assicurano che il responsabile della protezione dei dati sia tempestivamente e adeguatamente coinvolto in tutte le questioni riguardanti la protezione dei dati personali.
+2. Il titolare del trattamento e il responsabile del trattamento sostengono il responsabile della protezione dei dati nell’esecuzione dei compiti di cui all’articolo 40 fornendogli le risorse necessarie per assolvere tali compiti e accedere ai dati personali e ai trattamenti e la formazione idonea e continua per mantenere la propria conoscenza specialistica.
+3. Il titolare del trattamento e il responsabile del trattamento si assicurano che il responsabile della protezione dei dati non riceva alcuna istruzione per quanto riguarda l’esecuzione di tali compiti. Il responsabile della protezione dei dati non è rimosso o penalizzato dal titolare del trattamento o dal responsabile del trattamento per l’adempimento dei propri compiti. Il responsabile della protezione dei dati riferisce direttamente al vertice gerarchico del titolare del trattamento o del responsabile del trattamento.
+4. Gli interessati possono contattare il responsabile della protezione dei dati per tutte le questioni relative al trattamento dei loro dati personali e all’esercizio dei loro diritti derivanti dalla presente legge.
+5. Il responsabile della protezione dei dati è tenuto alla riservatezza in merito all’adempimento dei propri compiti.
+6. Il responsabile della protezione dei dati può svolgere altri compiti e funzioni. Il titolare del trattamento o il responsabile del trattamento si assicura che tali compiti e funzioni non diano adito a un conflitto di interessi.
