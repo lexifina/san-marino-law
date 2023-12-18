@@ -1,0 +1,10 @@
+Art. 3
+Le funzioni di Seggio Speciale riservato ai malati intrasportabili, per le consultazioni elettorali e referendarie, sono assegnate alla sezione elettorale prevista all’articolo 22, comma 3, della Legge 31 gennaio 1996 n. 6, istituita presso l’Ospedale di Stato la quale, per le consultazioni elettorali generali e referendarie, viene integrata nella sua composizione da ulteriori due scrutatori, nominati secondo le modalità previste dall’articolo 23 della Legge Elettorale 31 gennaio 1996 n. 6 come modificato dall’articolo 12 della Legge Qualificata 11 maggio 2007 n. 1.[^39]
+
+[^39]: Testo originario (Decreto Delegato 13 dicembre 2007 n. 117) Art. 3
+    Le funzioni di Seggio Speciale riservato ai malati intrasportabili, per le consultazioni elettorali generali e referendarie, sono assegnate alla sezione elettorale prevista all’articolo 22, comma 3, della Legge 31 gennaio 1996 n. 6, istituita presso l’Ospedale di Stato, integrata nella sua composizione da ulteriori due scrutatori, nominati secondo le modalità previste dall’articolo 23 della Legge Elettorale come modificato dall’articolo 12 della Legge Qualificata 11 maggio 2007 n.1.
+    Nelle consultazioni per il rinnovo dei Capitani e delle Giunte di Castello, le funzioni di Seggio Speciale di cui al presente Decreto, sono svolte dagli Uffici Elettorali Sezionali cui gli elettori sono iscritti.
+    MODIFICHE LEGISLATIVE:
+    Decreto delegato 23 aprile 2009 n. 53 Art. 3
+    1. L’articolo 3 del Decreto Delegato 13 dicembre 2007 n.117 è così sostituito:
+    “Le funzioni di Seggio Speciale riservato ai malati intrasportabili, per le consultazioni elettorali e referendarie, sono assegnate alla sezione elettorale prevista all’articolo 22, comma 3, della Legge 31 gennaio 1996 n. 6, istituita presso l’Ospedale di Stato la quale, per le consultazioni elettorali generali e referendarie, viene integrata nella sua composizione da ulteriori due scrutatori, nominati secondo le modalità previste dall’articolo 23 della Legge Elettorale 31 gennaio 1996 n. 6 come modificato dall’articolo 12 della Legge Qualificata 11 maggio 2007 n. 1.”

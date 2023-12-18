@@ -1,0 +1,2 @@
+ART.2
+Dalla data di apertura della campagna elettorale, di cui all'articolo 1, l'affissione di stampati, giornali murali od altro, di figure o immagini rappresentative del pensiero e di manifesti che, attraverso qualunque forma, costituiscano manifestazione di propaganda elettorale, è consentita esclusivamente negli spazi a ciò destinati nel territorio dei singoli Castelli e con l'osservanza delle norme di cui al presente regolamento.

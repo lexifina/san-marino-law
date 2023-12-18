@@ -1,0 +1,2 @@
+Art. 5
+Nella giornata delle votazioni e durante l’orario delle stesse, il Presidente del Seggio, concordando con l’elettore intrasportabile e/o con i familiari l’orario più opportuno, accompagnato esclusivamente da due Scrutatori, di cui uno con funzioni di Segretario, procede a raccogliere il voto recandosi, scortato dalla Forza pubblica, presso il domicilio in Repubblica indicato, avendo cura di assicurare con ogni mezzo idoneo la libertà e la segretezza del voto nel rispetto delle esigenze connesse alla condizione di salute dell’elettore.
