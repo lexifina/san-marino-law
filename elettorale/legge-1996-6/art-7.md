@@ -1,0 +1,5 @@
+ART.7
+1. Entro le ore dodici del 28 febbraio, o del giorno immediatamente successivo se il 28 febbraio è festivo, ogni cittadino, anche se non direttamente interessato, può presentare reclamo orale o scritto avanti l'Ufficiale di Stato Civile-Capo dell'Ufficio Elettorale di Stato, contro la iscrizione o la esclusione dalle liste elettorali o l'erronea attribuzione alla sezione elettorale nonché contro il mancato recepimento di variazioni anagrafiche o di stato civile. Quando il reclamo è fatto in forma orale, lo stesso viene verbalizzato dall'Ufficiale di Stato Civile-Capo dell'Ufficio Elettorale di Stato.
+2. Sui reclami decide inappellabilmente, entro il quindici marzo, il Commissario della Legge.
+3. Esaurite le procedure di cui ai commi che precedono, le liste elettorali sono dichiarate definitive e non possono modificarsi che in forza alla revisione annuale di cui all'articolo 6, quarto comma.
+4. Alle elezioni partecipano gli iscritti nelle liste definitivamente approvate, che abbiano compiuto il diciottesimo anno d'età al giorno della votazione compreso.

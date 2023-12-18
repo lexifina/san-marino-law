@@ -1,0 +1,3 @@
+Art. 2
+(Definizione di associazioni segrete)
+1. Sono associazioni segrete, ai sensi del precedente articolo, quelle che, anche all’interno di associazioni palesi, occultando la propria esistenza, ovvero tenendo segrete finalità e/o attività, ovvero rendendo volontariamente sconosciuti in tutto od in parte ed anche reciprocamente i propri soci, affiliati anche attraverso giuramento incompatibile con il dovere di esclusiva fedeltà alla Repubblica, svolgono attività diretta ad interferire sull’esercizio delle funzioni di organi costituzionali, dell’Amministrazione Pubblica, di Enti Pubblici, nonché di servizi pubblici essenziali in modo da favorire i propri associati o interessi di parte.

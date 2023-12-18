@@ -1,0 +1,4 @@
+ART.9
+1. Nel giorno delle elezioni e durante l'apertura dei seggi, all'esterno e nelle immediate vicinanze dei seggi stessi, è vietato lo stazionamento di attrezzature, anche mobili, di partiti, gruppi politici e associazioni, l'uso di bracciali, coccarde e distintivi di riconoscimento e l'uso di qualsiasi oggetto possa costituire la manifestazione di una scelta politica.
+2. Al fine di evitare qualsiasi opera o sospetto di opera di propaganda, di condizionamento o di pressione su coloro che sono in attesa di esercitare il voto, è vietato ai candidati delle liste partecipanti alle elezioni di sostare, durante l'apertura dei seggi ed oltre il periodo necessario per l'espressione del proprio voto, all'interno e nelle immediate vicinanze dei seggi stessi.
+3. Le violazioni delle norme del presente articolo sono punite con la prigionia di primo grado di cui all'articolo 81 del Codice Penale o con la multa a lire di cui all'articolo 84 del Codice Penale.
