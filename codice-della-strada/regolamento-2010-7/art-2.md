@@ -1,0 +1,5 @@
+Art. 2
+(Verifiche e nulla osta)
+1. Il Comando di Polizia Civile, che deve tenere un apposito calendario delle chiusure alla viabilità, verifica tempestivamente se la richiesta sia compatibile con le esigenze pubbliche, se vi siano concomitanze e quant’altro necessario alla decisione, comunicando agli organizzatori eventuali prescrizioni e modifiche o verificando soluzioni alternative in accordo con gli stessi organizzatori.
+2. Il Comando della Polizia Civile, per la richiesta di chiusura anche parziale alla viabilità di cui al presente regolamento, si relaziona con il Comando della Gendarmeria ed il Coordinatore del Dipartimento di Polizia per le eventuali implicazioni di ordine pubblico e per le conseguenti decisioni da prendere.
+3. Compiute le necessarie verifiche, il Comando di Polizia Civile trasmette alla Segreteria di Stato per gli Affari Interni, tramite la Segreteria Esecutiva del Congresso di Stato, il nulla osta per l’emissione della relativa ordinanza, indicando esattamente tutte le necessarie informazioni per la sua emissione e prevedendo, se del caso, eventuali prescrizioni a cui gli organizzatori devono attenersi.

@@ -1,0 +1,24 @@
+Art. 70
+(Accesso ai documenti)
+1. I proprietari, i conducenti dei veicoli comunque coinvolti, i danneggiati, le società di assicurazione e qualunque altro soggetto interessato al risarcimento possono chiedere agli organi di polizia che hanno eseguito gli accertamenti, le informazioni relative alle modalità dell’incidente, alla residenza ed al domicilio delle parti, alla copertura assicurativa dei veicoli e ai dati di individuazione di questi ultimi.
+2. La richiesta di informazioni è formulata direttamente o mediante lettera raccomandata con avviso di ricevimento ed è rivolta al Comando cui appartiene l’Agente che ha proceduto alla rilevazione dell’incidente.
+3. Il Comando è tenuto a fornire, previo pagamento delle eventuali spese, le informazioni richieste entro trenta giorni dalla data in cui perviene l’istanza.
+4. Nei casi relativi a sinistri stradali in assenza di infortuni o con prognosi inferiore a trenta giorni, le istanze di accesso ai documenti estratti dal sistema di videosorveglianza territoriale devono pervenire al Comando entro sei giorni dal sinistro.
+5. Fatte salve le ipotesi di reato, il Comando rilascia la documentazione video inerente il sinistro stradale di cui al comma 4 entro trenta giorni dalla data in cui perviene l'istanza, previo il pagamento delle spese sostenute per la fornitura del servizio forfetariamente quantificate in euro 100,00 (cento/00). Il termine di rilascio della documentazione video può essere superato per giustificati motivi quali la necessità di richiedere al soggetto interessato un'integrazione dell'istanza o l’acquisizione del consenso di eventuali soggetti controinteressati.
+6. Le istanze di accesso ai documenti di cui al presente articolo devono essere annotate in apposito registro con l’indicazione dei dati soggettivi, oggettivi e cronologici.[^22]
+
+[^22]: Testo originario (Decreto Delegato n.81/2008):
+    I proprietari, i conducenti dei veicoli comunque coinvolti, i danneggiati, le società di assicurazione e qualunque altro soggetto interessato al risarcimento possono chiedere agli organi di polizia che hanno eseguito gli accertamenti, le informazioni relative alle modalità dell’incidente, alla residenza ed al domicilio delle parti, alla copertura assicurativa dei veicoli e ai dati di individuazione di questi ultimi.
+    La richiesta di informazioni è formulata direttamente o mediante lettera raccomandata con avviso di ricevimento ed è rivolta al comando cui appartiene l’agente che ha proceduto alla rilevazione dell’incidente.
+    Il comando è tenuto a fornire, previo pagamento delle eventuali spese, le informazioni richieste entro trenta giorni dalla data in cui perviene l’istanza.
+    Le istanze di accesso ai documenti di cui al presente articolo devono essere annotate in apposito registro con l’indicazione dei dati soggettivi, oggettivi e cronologici.
+    Modifiche legislative Decreto Delegato 28 gennaio 2021 n.12, Articolo 2:
+    1. L’articolo 70 del Decreto Delegato 26 maggio 2008 n.81, e successive modifiche è modificato come segue:
+    “Art. 70
+    (Accesso ai documenti)
+    1. I proprietari, i conducenti dei veicoli comunque coinvolti, i danneggiati, le società di assicurazione e qualunque altro soggetto interessato al risarcimento possono chiedere agli organi di polizia che hanno eseguito gli accertamenti, le informazioni relative alle modalità dell’incidente, alla residenza ed al domicilio delle parti, alla copertura assicurativa dei veicoli e ai dati di individuazione di questi ultimi.
+    2. La richiesta di informazioni è formulata direttamente o mediante lettera raccomandata con avviso di ricevimento ed è rivolta al Comando cui appartiene l’Agente che ha proceduto alla rilevazione dell’incidente.
+    3. Il Comando è tenuto a fornire, previo pagamento delle eventuali spese, le informazioni richieste entro trenta giorni dalla data in cui perviene l’istanza.
+    4. Nei casi relativi a sinistri stradali in assenza di infortuni o con prognosi inferiore a trenta giorni, le istanze di accesso ai documenti estratti dal sistema di videosorveglianza territoriale devono pervenire al Comando entro sei giorni dal sinistro.
+    5. Fatte salve le ipotesi di reato, il Comando rilascia la documentazione video inerente il sinistro stradale di cui al comma 4 entro trenta giorni dalla data in cui perviene l'istanza, previo il pagamento delle spese sostenute per la fornitura del servizio forfetariamente quantificate in euro 100,00 (cento/00). Il termine di rilascio della documentazione video può essere superato per giustificati motivi quali la necessità di richiedere al soggetto interessato un'integrazione dell'istanza o l’acquisizione del consenso di eventuali soggetti controinteressati.
+    6. Le istanze di accesso ai documenti di cui al presente articolo devono essere annotate in apposito registro con l’indicazione dei dati soggettivi, oggettivi e cronologici.”.

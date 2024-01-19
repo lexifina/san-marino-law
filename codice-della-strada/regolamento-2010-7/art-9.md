@@ -1,0 +1,4 @@
+Art. 9
+(Esecuzione di lavori)
+1. Il presente regolamento si applica anche alle richieste di ordinanza per l’esecuzione di lavori che comportino chiusure al traffico. Oltre alla domanda per l’occupazione di suolo pubblico prevista dalla Legge 28 maggio 1992 n.42, il richiedente deve presentare all’A.A.S.P. un progetto esecutivo della segnaletica di cantiere impegnandosi di curarne l’installazione, la manutenzione e la sorveglianza in qualsiasi momento.
+2. Non è necessaria la richiesta di ordinanza quando la circolazione su strade, a causa dell’esecuzione dei lavori, sia regolata per il senso unico alternato da personale appositamente preposto o da semaforo. Per il presente caso sono sufficienti gli adempimenti previsti per l’occupazione di suolo pubblico oltre alla tempestiva informazione al Comando di Polizia Civile che può, se del caso, impartire le necessarie prescrizioni.

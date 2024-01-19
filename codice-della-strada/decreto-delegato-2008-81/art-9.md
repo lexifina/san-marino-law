@@ -1,0 +1,4 @@
+Art. 9
+(Atti vietati)
+Su tutte le strade e sulle loro pertinenze è vietato: a) danneggiare in qualsiasi modo le opere, le piantagioni, gli impianti stradali; b) creare condizioni di pericolo; c) danneggiare, spostare rimuovere, imbrattare, alterare la segnaletica sia orizzontale, che verticale; c) impedire il libero flusso delle acque nei fossi laterali e nelle opere di raccolta e di scarico, nonché il loro naturale deflusso sui terreni sottostanti; d) scaricare sulle strade e nei fossi fango, materiale imbrattante e dannoso.
+Le violazioni alle norme di cui al comma che precede, se i fatti non costituiscono più grave reato di danneggiamento, sono soggette a sanzione amministrativa di seconda categoria comminata con ingiunzione del Direttore dell’AASP. Colui che ha procurato il danneggiamento è tenuto a proprie spese alla remissione in pristino delle opere danneggiate.

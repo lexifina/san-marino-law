@@ -1,0 +1,5 @@
+Art. 43
+(Sosta e fermata dei veicoli)
+Salvo diversa segnalazione, i conducenti di veicoli devono sostare sul margine destro della carreggiata e parallelamente all’asse di questa e secondo il senso di marcia, lasciando uno spazio libero sufficiente per il transito dei pedoni dove non esista un marciapiede rialzato; devono inoltre spegnere il motore in caso di fermata o sosta superiore a tre minuti su area pubblica o aperta al pubblico.
+Nelle aree destinate a parcheggio, i conducenti sono tenuti al rispetto delle regole che disciplinano la sosta e ad osservare la segnaletica predisposta.
+Per “fermata” si intende la temporanea sospensione della marcia anche se in area ove non sia ammessa la sosta, per consentire la salita o la discesa delle persone, ovvero per altre esigenze di brevissima durata. La fermata non deve comunque arrecare intralcio alla circolazione ed il conducente deve essere presente e pronto a riprendere la marcia. Per “sosta” si intende invece la sospensione protratta nel tempo della marcia del veicolo, con possibilità di allontanamento da parte del conducente.
