@@ -1,0 +1,5 @@
+Art. 26
+Norme transitorie Le disposizioni di cui agli articoli precedenti si applicano alle nuove patenti che saranno rilasciate dopo l'entrata in vigore della presente legge. Le patenti rilasciate secondo le norme già in vigore conservano la loro validità fino a conferma o a revisione: in tale occasione le patenti saranno adeguate alle nuove norme.
+I limiti di durata delle patenti di guida rilasciate in base alla legge precedente sono prorogati ai limiti di durata previsti dall'articolo 12 della presente legge su richiesta degli interessati senza la presentazione di ulteriori documenti.
+I titolari di patenti A - B - C per mutilati o minorati fisici, rilasciate prima dell'entrata in vigore della presente legge, che intendano eliminare le annotazioni sul documento, sono tenuti a richiedere un duplicato dello stesso.
+Le equipollenze tra le categorie delle patenti di guida rilasciate anteriormente all'entrata in vigore della presente legge e le categorie di cui all'articolo 2 sono indicate nella tabella di cui all'Allegato A.

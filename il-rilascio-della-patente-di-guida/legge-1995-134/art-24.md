@@ -1,0 +1,2 @@
+Art. 24
+Attuazione di direttive e di accordi internazionali La disciplina relativa alle patenti di guida ed agli altri documenti abilitativi alla guida nonché ai conducenti dei veicoli a motore, prevista dalla presente legge, può essere modificata e regolamentata con decreto reggenziale qualora debbano essere recepiti accordi internazionali o venga ravvisata l'opportunità di conformarsi a normative internazionali.

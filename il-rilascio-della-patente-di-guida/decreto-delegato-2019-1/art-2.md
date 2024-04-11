@@ -1,0 +1,7 @@
+Art. 2
+(Caratteristiche del documento)
+1. La patente di guida contiene il numero del documento, l’immagine fotografica del titolare, il cognome, il nome, la data e il luogo di nascita, il numero identificativo unico del supporto, la residenza, la data di rilascio, la data di scadenza, l’Ufficio che l’ha rilasciata, le categorie di veicoli per cui il titolare è abilitato alla guida e la firma del titolare. Sul fronte è raffigurata una veduta del Monte Titano.
+2. Il supporto della patente di guida è costituito da una tessera in policarbonato, di dimensioni 8,5 x 5,4 cm, munita di un microprocessore su cui vengono memorizzati i dati necessari all’identificazione del soggetto e delle categorie di patente per cui lo stesso è abilitato alla guida, utilizzando criteri di sicurezza che ne impediscono la modifica da soggetti non autorizzati.
+La lettura del microprocessore è sottoposta a codici di sblocco presenti sul documento. La patente presenta elementi tecnici e grafici atti ad impedirne la duplicazione e la contraffazione, quali laminazione sul lato che riporta la fotografia, l’ologramma, l’OVI, microscritture e guilloches.
+3. Il modello della patente di guida è riportato nell’Allegato “A” del presente decreto delegato.
+4. La patente di guida può essere implementata onde consentire l’inserimento di ulteriori dati del titolare e l’uniformazione a standard e parametri internazionali.
