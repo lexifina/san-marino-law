@@ -1,0 +1,6 @@
+Art. 63
+(Periodicità della definizione del fabbisogno)
+1. Il fabbisogno è definito con decreto delegato, previo confronto con le Organizzazioni Sindacali.
+2. Il fabbisogno è soggetto a revisione ogni tre anni, salvo diverso accordo contenuto nel Contratto Collettivo di Lavoro per il pubblico impiego e da recepire con apposito atto normativo.
+3. La rilevazione del fabbisogno è contestuale per tutte le figure professionali necessarie alle UO, a prescindere dalle norme e contratti che ne regolano il rapporto di lavoro e pertanto la durata e la scadenza del fabbisogno del personale che svolge funzioni ausiliarie ai sensi del Contratto Privatistico e del personale salariato coincidono con quella del fabbisogno del personale di pubblico impiego.
+4. Nel superiore interesse dell’efficiente e regolare svolgimento dell’attività amministrativa, qualora, durante il periodo che intercorre tra una revisione e la successiva, emergano esigenze urgenti di professionalità non previste dal fabbisogno, quest’ultimo può essere integrato, in via temporanea e comunque fino alla successiva revisione, con atto dei competenti organi della Direzione Generale della Funzione Pubblica previo confronto con le Organizzazioni Sindacali.

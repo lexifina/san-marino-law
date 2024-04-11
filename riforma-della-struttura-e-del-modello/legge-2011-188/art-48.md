@@ -1,0 +1,14 @@
+Art. 48
+(Competenze per gli atti sul Personale)
+1. Ai Dirigenti di cui al comma 1, del precedente articolo è trasferita la competenza per l’adozione degli atti riguardanti:
+a) l’inquadramento del personale, in ottemperanza a quanto previsto da apposite leggi e/o da specifici accordi;
+b) l’assunzione secondo le previsioni di legge;
+c) il collocamento in quiescenza;
+d) la progressione di carriera dei dipendenti pubblici così come regolata dalle leggi e dai contratti in materia;
+e) le attribuzioni per essi previste dall’articolo 54 della presente legge.
+2. Nell’ambito delle deroghe di carattere generale e preventivo previste dall’articolo 35, comma 2, della Legge 20 dicembre 2002 n.112 e dall’articolo 6 del Regolamento 23 febbraio 2007 n.2, già concesse e che verranno deliberate, le autorizzazioni per incarichi e sostituzioni sono di competenza dei Direttori degli Enti e, per la PA, del Dirigente UO Gestione Personale PA in base alle direttive impartite dal Direttore RUO.
+3. Sono di competenza del Dirigente UO Gestione Personale PA il conferimento degli incarichi e delle sostituzioni e l’adozione dei relativi atti del personale docente delle Scuole di ogni Ordine e Grado, ivi compreso il personale di cui all’Allegato “F” alla Legge Organica per l’insegnamento della Religione Cattolica e del personale docente del Centro di Formazione Professionale reperito a norma del comma 6 dell’articolo 9 della Legge 13 febbraio 1980 n.10, nell’ambito rispettivamente del Piano delle Cattedre di cui all’articolo 15 della Legge 17 luglio 1979 n.41, e del piano annuale di intervento del Centro di Formazione Professionale di cui all’articolo 17 della Legge 13 febbraio 1980 n.10.
+4. La competenza in capo al Congresso di Stato in materia di approvazione dei Piani Generali delle cattedre per l’insegnamento nelle scuole di ogni ordine e grado è trasferita all’organo collegiale preposto alla definizione degli stessi, di cui al successivo articolo 53, nell’ambito degli indirizzi impartiti dal Congresso di Stato.
+5. La competenza in capo al Congresso di Stato in materia di approvazione del Piano Annuale delle Cattedre per l’insegnamento nel Centro di Formazione Professionale è trasferita al Direttore del Dipartimento a cui afferisce il CFP, nell’ambito degli indirizzi impartiti dal Congresso di Stato.
+6. La competenza in capo al Congresso di Stato relativa alla deroga di cui all’articolo 35, comma 2, della Legge 16 dicembre 2002 n.112, è trasferita alla Direzione Generale della Funzione Pubblica, sentito il Consiglio di Direzione. Fino alla definizione del fabbisogno conseguente alla presente legge, tale competenza resta in capo al Congresso di Stato.
+7. La competenza dei distacchi amministrativi rientra, salvo quanto previsto dalla lettera c) del successivo articolo, nelle competenze sulle assegnazioni e sulla mobilità.

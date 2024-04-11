@@ -1,0 +1,8 @@
+## TITOLO V PROFILI DI RUOLO E FABBISOGNO
+## CAPO I PROFILI DI RUOLO
+Art. 55
+(Profilo di Ruolo)
+1. Il Profilo di Ruolo definisce le caratteristiche professionali del dipendente con rapporto di lavoro di pubblico impiego ed indica il grado di professionalità, autonomia e responsabilità richiesto, prescindendo dalla Unità Organizzativa di assegnazione.
+2. I Profili di Ruolo (di seguito denominati anche PDR) unitamente alle funzioni delle UO, contribuiscono a rendere esplicita e trasparente la configurazione dell’amministrazione e della sua attività e costituiscono la base normativa ed organizzativa per la gestione e lo sviluppo delle professionalità, per la misurazione dei carichi di lavoro e la definizione del fabbisogno, per le selezioni e la valutazione delle prestazioni secondo standard oggettivi ed in coerenza con il modello organizzativo della presente legge.
+3. I Profili di Ruolo sono declinati, previo confronto con le Organizzazioni Sindacali, mediante decreto delegato sulla base dei modelli di cui all’Allegato B della presente legge e tenuto conto delle norme di cui alla presente legge.
+4. I posti con relative qualifiche e mansionari di cui all’Allegato A alla Legge 17 settembre 1993 n.106 e successive modifiche, sono sostituiti dai corrispondenti PDR, in base alla tabella delle corrispondenze allegata al decreto delegato di cui al precedente comma, ma fin dall’entrata in vigore della presente legge, in coerenza con quanto stabilito all’articolo 10, si intendono in ogni caso superati i mansionari. Fino alla loro formale abrogazione, i mansionari costituiscono un riferimento indicativo ed esemplificativo della professionalità e dell’operatività.

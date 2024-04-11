@@ -1,0 +1,5 @@
+Art. 70
+(Nuovo regime retributivo ed ambito di applicazione)
+1. Al personale di cui all’articolo che precede si applica la retribuzione prevista dal PDR per il quale è effettuata l’assunzione.
+2. Fino alla riforma della sua struttura ed ai sensi del comma 1 dell’articolo 58, la retribuzione di cui al comma che precede è composta dal piede retributivo e dagli scatti di anzianità. Tali voci retributive saranno individuate con il duplice obiettivo di ridurre complessivamente gli importi attualmente legati alle qualifiche e di tenere conto delle retribuzioni del settore privato per le medesime o equivalenti professionalità/funzioni previste per il PDR. Questi obiettivi saranno perseguiti con modalità e soluzioni utili a garantire l’equità e la considerazione delle professionalità, dei diversi settori e della specificità delle funzioni, previo confronto con le Organizzazioni Sindacali.
+3. Il comma che precede non si applica al personale dirigente, essendo la relativa retribuzione regolata dalla Legge n.108/2009 e dalle relative norme di attuazione.

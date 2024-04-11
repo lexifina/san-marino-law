@@ -1,0 +1,11 @@
+Art. 35
+(Gruppi di Progetto DGFP e Responsabili di Progetto)
+1. Il Gruppo di Progetto non sostituisce l’azione manageriale della dirigenza che si esplica attraverso la linea gerarchica.
+2. La Direzione Generale della Funzione Pubblica, in particolare attraverso il Direttore Pianificazione e Controllo, indirizza ed approva i Progetti e predispone i più opportuni atti a supporto del buon andamento delle attività dei Gruppi di Progetto.
+3. Il Responsabile di Progetto (di seguito anche RdP) governa i progetti, svolge una funzione di integrazione e di coordinamento fra i vari Dipartimenti e Unità Organizzative coinvolti e interviene trasversalmente per implementare, sviluppare e finalizzare i progetti. A tali scopi, si riferisce in prima istanza ai Direttori di Dipartimento per tutte le necessità relative al progetto stesso.
+4. Il RdP è scelto tra i Direttori della DGFP o nominato dal Direttore Pianificazione e Controllo preferibilmente nello staff della DGFP, tra i Direttori di Dipartimento, tra i Dirigenti o i funzionari del Settore Pubblico Allargato o, in caso di necessità, tra esperti esterni all’amministrazione, tenuto conto delle capacità necessarie a gestire il progetto il quale, in linea di massima e a regime, deve fare riferimento ai più riconosciuti e diffusi standard.
+5. Il Direttore PC concorda con il Responsabile di progetto i principali elementi del progetto e la designazione dei partecipanti al GdP.
+6. L’attività e la collaborazione prestata nonché il buon esito del progetto costituiscono elementi utili per il curriculum e la valutazione del RdP, dei partecipanti al GdP, e dei soggetti di cui al comma 4 dell’articolo precedente, anche i fini del compenso di risultato qualora previsto.
+7. Il RdP valuta il contributo espresso dai partecipanti al GdP in relazione ai compiti assegnati e agli obiettivi conseguiti. Il RdP esterno alla DGFP è valutato dal Direttore PC.
+8. La mancanza di collaborazione e l’inottemperanza ai doveri previsti dal Progetto possono costituire violazione che può dar luogo a sanzione disciplinare proporzionata alla gravità della violazione medesima.
+9. Previo confronto con le Organizzazioni Sindacali, sono individuati i criteri per la valorizzazione dei partecipanti ai GdP e dei RdP ed il raggiungimento dei risultati.

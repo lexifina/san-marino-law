@@ -1,0 +1,3 @@
+Art. 78
+(Norme transitorie per le assegnazioni)
+1. Compatibilmente con le modifiche alla struttura introdotte con l’Allegato A, con l’entrata in vigore della presente legge, il personale resta assegnato alle UO in cui si trova allocato in virtù delle norme previgenti. Qualora una UO o un Dipartimento acquisisca funzioni prima di pertinenza di altro ufficio/dipartimento, il personale addetto a tali funzioni è assegnato alla UO/Dipartimento che acquisisce le funzioni medesime con atto e secondo le regole di cui alla presente legge, su segnalazione del Direttore di Dipartimento o Ente interessati.
