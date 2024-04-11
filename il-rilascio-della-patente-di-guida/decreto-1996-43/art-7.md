@@ -1,0 +1,6 @@
+ART. 7
+Requisiti uditivi per il conseguimento, la conferma e la revisione della patente speciale delle categorie A, B, C e D
+1 - Possono conseguire, ottenere la conferma di validità o essere sottoposti a revisione della patente speciale delle categorie A e B, coloro che non raggiungono i requisiti uditivi richiesti per la patente di guida normale della categoria A e B, purchè i veicoli siano muniti su ambedue i lati di specchi retrovisori di superficie e caratteristiche non inferiori a quelle prescritte per lo specchio esterno d'obbligo.
+2 - Per il conseguimento, la conferma di validità o la revisione della patente speciale delle categorie C e D occorre percepire la voce di conversazione con fonemi combinati a non meno di quattro metri di distanza ed a non meno di due metri per l'orecchio che sente di meno.
+3 - La funzione uditiva per il conseguimento, la conferma di validità o la revisione delle patenti speciali di categoria A, B, C e D può essere valutata con l'uso di apparecchi correttivi dell'udito monoaurali o binaurali, purchè tollerati.
+4 - Le caratteristiche tecniche delle protesi, e la loro efficienza, devono essere attestate dal costruttore con certificazione, rilasciata in data non anteriore a tre mesi, da esibire all'organo medico che procede all'accertamento dell'idoneità fisica.

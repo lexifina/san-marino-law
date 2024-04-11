@@ -1,0 +1,6 @@
+## REQUISITI PSICO-FISICI NECESSARI PER IL CONSEGUIMENTO, LA REVISIONE E LA CONFERMA DELLA PATENTE DI GUIDA
+ART. 1
+Requisiti generali fisici e psichici
+1 - Per conseguire o confermare o per la revisione della patente di guida occorre che il richiedente, all'accertamento sanitario praticato con i comuni esami clinici e con gli accertamenti specialistici eventualmente ritenuti necessari, risulti essere esente da malattie fisiche e psichiche, deficienze organiche o minorazioni anatomiche o funzionali, che possono comunque pregiudicare la sicurezza della guida di quei determinati tipi di veicoli ai quali la patente abilita, tenuto anche conto dell'uso cui essi sono destinati.
+2 - Il Dirigente del Servizio Medicina di Base, o suo delegato, che rilascia il Certificato di idoneità alla guida deve tenere in particolare considerazione le affezioni morbose di cui all'articolo 9.
+3 - Quando dagli accertamenti sanitari o dalle altre indagini cliniche e di laboratorio ritenute necessarie, si evidenziano malattie fisiche o psichiche o deficienze organiche o minorazioni anatomiche o funzionali di cui ai successivi articoli 2, 3, 4 e 9, il medico può rilasciare il Certificato di idoneità solo quando accerti e dichiari che esse non possono comunque pregiudicare la sicurezza nella guida di quei tipi di veicoli ai quali la patente abilita.

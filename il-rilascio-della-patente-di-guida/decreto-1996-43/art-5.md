@@ -1,0 +1,2 @@
+ART. 5
+Tempi di reazione Per conseguire, confermare o per la revisione della patente di guida delle categorie C, D ed E e per la patente speciale delle categorie C e D occorre avere tempi di reazione, in atteggiamento misto, distintamente per stimoli semplici luminosi ed acustici, sufficientemente rapidi e regolari per poter essere classificati, in ciascuna prova, almeno nel quarto decile della scala decilica di classificazione.

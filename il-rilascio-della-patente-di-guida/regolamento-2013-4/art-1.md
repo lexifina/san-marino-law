@@ -1,0 +1,3 @@
+## REGOLAMENTO PER L’ESAME PRATICO DI GUIDA PER IL CONSEGUIMENTO DELLA PATENTE DI CATEGORIA AM
+Art. 1
+1. Ai sensi dell’articolo 3 del Decreto Delegato 22 agosto 2013 n. 119, viene adottato il seguente Regolamento per la prova di verifica delle capacità e dei comportamenti per il conseguimento della patente di guida della categoria AM, anche speciale. Lo scopo dell’esame pratico è di verificare l’abilità alla guida, la padronanza del veicolo, il corretto comportamento durante la circolazione stradale, il rispetto delle regole, la percezione dei pericoli dovuti al traffico veicolare e pedonale, la corretta posizione del veicolo sulla corsia.
