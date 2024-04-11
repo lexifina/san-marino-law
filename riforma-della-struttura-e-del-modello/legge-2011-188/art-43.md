@@ -1,0 +1,7 @@
+Art. 43
+(Organi e Norme di Disciplina)
+1. Allo scopo di rendere compatibili e coordinare le vigenti norme di disciplina con i ruoli del modello organizzativo di cui alla presente legge, di dare seguito in tal senso all’articolo 49 della Legge 31 luglio 2009 n.106, nonché di dare attuazione, nella specifica materia, all’articolo 80, primo punto del comma 1, della Legge 22 dicembre 2010 n.194, il Congresso di Stato è autorizzato ad adottare decreto delegato per l’aggiornamento ed il coordinamento delle norme di disciplina, previo confronto con le Organizzazioni Sindacali, sulla base delle seguenti disposizioni:
+a) i Dirigenti e i Direttori di enti/dipartimenti, rispettivamente sul personale di competenza, irrogano l’ammonizione; gli stessi promuovono nei confronti del personale di competenza l’azione disciplinare per sanzioni di grado superiore;
+b) la competenza per l’irrogazione della censura ed in merito alla sospensione cautelare è, per tutto il Settore Pubblico Allargato, del Direttore RUO sentita la DGFP;
+c) la Commissione di Disciplina è composta in via paritetica dalla DGFP e da rappresentanti delle Organizzazioni Sindacali ed è presieduta dal Direttore della Funzione Pubblica, il cui voto prevale in caso di parità;
+d) le norme e le procedure di disciplina sono riviste, snellite, coordinate e rese compatibili con i principi e le disposizioni di cui al presente articolo con la garanzia del diritto di difesa e del contraddittorio.

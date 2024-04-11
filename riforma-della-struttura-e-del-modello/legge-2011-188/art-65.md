@@ -1,0 +1,4 @@
+Art. 65
+(Definizione del primo fabbisogno)
+1. Tenuto conto di quanto previsto al comma 4 dell’articolo 5 della presente legge, e considerate le esigenze di adattamento, implementazione e di messa a regime che ogni trasformazione strutturale presenta, il primo fabbisogno che sarà definito in tale fase, costituirà lo strumento normativo e tecnico per la transizione da un modello di dotazione organica al modello organizzativo di cui alla presente Riforma.
+2. Il primo fabbisogno, sarà informato ad indirizzi di contenimento e razionalizzazione, e sarà basato sull’analisi delle macro attività riconducibili alle funzioni delle UO e su standard metodologici, in modo da avviare l’applicazione dei criteri e dei principi previsti dal modello organizzativo di cui alla presente legge nell’ambito dei presidi strategici da esso istituiti.

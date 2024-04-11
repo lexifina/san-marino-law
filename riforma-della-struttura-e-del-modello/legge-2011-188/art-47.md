@@ -1,0 +1,6 @@
+Art. 47
+(Competenze amministrative sul Personale)
+1. L’adozione degli atti sul personale, relativamente alla gestione amministrativa ed operativa, compete ai Direttori con funzioni di capo del personale degli Enti del Settore Pubblico Allargato e, per la Pubblica Amministrazione, al Dirigente dell’UO Gestione Personale e alle pertinenti Commissioni, come previsto dalla presente legge.
+2. La Direzione Generale della Funzione Pubblica esercita le competenze di indirizzo e controllo sull’applicazione delle regole e direttive generali impartite dal Congresso di Stato e sulla gestione di procedure che riguardano il personale del Settore Pubblico Allargato, affinché sia garantita omogeneità di trattamento ed unitarietà di orientamenti, decisioni e processi.
+3. Le deliberazioni, gli atti e i provvedimenti relativi al personale del Settore Pubblico Allargato sono emanati dagli organi competenti in attuazione della legge e delle direttive generali impartite dal Congresso di Stato ai sensi dell’articolo 16, comma 2, lettera b), della Legge Qualificata 15 dicembre 2005 n.184, e nei limiti delle risorse umane, materiali ed economico-finanziarie individuate sempre ai sensi dell’articolo 16, comma 2, lettera c), della medesima legge.
+4. I direttori e dirigenti di cui al comma 1, del presente articolo, danno comunicazione degli atti adottati al Direttore RUO.

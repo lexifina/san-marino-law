@@ -1,0 +1,6 @@
+Art. 69
+(Nuovo regime normativo ed ambito di applicazione)
+1. All’assunzione definitiva del personale di pubblico impiego consegue l’inquadramento a tempo indeterminato nel corrispondente PDR, ai sensi dell’articolo 56 della presente legge.
+2. L’assunzione a tempo determinato avviene comunque con riferimento ad un PDR ai sensi del medesimo articolo 56.
+3. Le norme di cui alle leggi di pubblico impiego, ivi comprese quelle di cui alle Leggi n.105/2009, n.107/2009 e n.108/2009 che facciano riferimento al conseguimento del rapporto di organico/ruolo o allo status d’organico/ruolo, devono intendersi riferite, per il personale di cui ai commi che precedono, al rapporto di lavoro a tempo indeterminato. In particolare, a modifica dell’articolo 5, comma 2, della Legge n.107/2009, al concorso interno sarà ammesso il personale di ruolo ed il personale a tempo indeterminato.
+4. Ferma restando l’applicazione di tutte le norme vigenti in materia di pubblico impiego e previste dalla presente legge, l’eventuale ulteriore regolamentazione del rapporto di lavoro a tempo indeterminato è oggetto di contrattazione con le Organizzazioni Sindacali, fatta salva l’eventuale necessità di ratifica da parte del Consiglio Grande e Generale e/o l’adozione di atti normativi.

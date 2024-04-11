@@ -1,0 +1,3 @@
+Art. 2
+(Gestione budgetaria e riforma della contabilità pubblica e del bilancio)
+1. Per il raggiungimento delle finalità di cui alla presente legge, l’amministrazione dovrà dotarsi di regole interne, strumenti e metodologie appropriate per la programmazione e la gestione delle risorse economico-finanziarie su base budgetaria; a tale impostazione dovrà ispirarsi la legge di riforma dell’Ordinamento Contabile dello Stato, la quale dovrà ridefinire anche ruoli e poteri in merito alla gestione della spesa, in coerenza con gli indirizzi di separazione dei poteri di cui al Titolo V della Legge Qualificata n.184/2005 e con il modello organizzativo della presente legge.

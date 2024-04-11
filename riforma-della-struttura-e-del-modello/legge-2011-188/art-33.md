@@ -1,0 +1,3 @@
+Art. 33
+(Staff della Direzione Generale della Funzione Pubblica)
+1. La Direzione Generale della Funzione Pubblica, per svolgere le attività ad essa demandate, è dotata di uno staff il cui personale è indicato nell’ambito del fabbisogno ed è scelto in via prioritaria nel Settore Pubblico Allargato, dalla Direzione Generale della Funzione Pubblica, sentiti i Direttori di Dipartimento ed Enti interessati. In mancanza di professionalità specialistiche all’interno del Settore Pubblico Allargato, si procede ai sensi delle norme vigenti e per progetti specialistici possono essere instaurate collaborazioni e stipulati contratti di lavoro dipendente di diritto privato, previa autorizzazione del Congresso di Stato.

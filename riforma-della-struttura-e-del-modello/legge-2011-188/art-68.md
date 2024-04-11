@@ -1,0 +1,5 @@
+## TITOLO VI RAPPORTO D’IMPIEGO
+Art. 68
+(Indirizzi per la progressiva evoluzione del rapporto di impiego)
+1. In coerenza con i principi e le disposizioni di cui alla presente legge che dispongono in merito al rapporto di impiego e con l’obiettivo di estendere tali principi anche agli altri ambiti del rapporto di lavoro, il Congresso di Stato è impegnato a valutare con le Organizzazioni Sindacali le modifiche normative e contrattuali utili a realizzare il progressivo allineamento del regime normativo e retributivo dei lavoratori pubblici e privati tenuto conto degli esiti dell’applicazione delle norme di riforma della PA e degli impegni previsti all’articolo 25 della Legge n.105/2009.
+2. Nel presente titolo sono introdotte norme tese agli obiettivi di cui al precedente comma e all’articolo 80 della Legge n.194/2010, in attesa degli adempimenti previsti dal medesimo articolo 25 della Legge n.105/2009 per la riforma della struttura retributiva da attuarsi nella seconda fase della riforma della PA ai sensi della medesima legge e secondo gli indirizzi di cui al precedente articolo 58 ultimo comma.

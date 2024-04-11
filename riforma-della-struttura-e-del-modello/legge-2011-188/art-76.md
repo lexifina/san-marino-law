@@ -1,0 +1,11 @@
+Art. 76
+(Norme transitorie: incompatibilità e obbligo di rotazione)
+1. Fino all’entrata in vigore delle norme di cui all’articolo 8 della presente legge, restano ferme le incompatibilità generali previste dalle vigenti norme per i dipendenti pubblici e per i Dirigenti e quelle che regolano con carattere di specialità Enti ed UO.
+2. Inoltre, fino all’entrata in vigore della legge di cui al citato articolo 8, è incompatibile con la carica di membro del Consiglio Grande e Generale e con le cariche in organismi direttivi di associazioni sindacali e di categoria nonché di presidente, segretario politico e membro di segreteria politica di partiti e movimenti politici, lo svolgimento:
+a) di attività che comportano valutazioni discrezionali in ambito ispettivo e concessorio;
+b) di attività dirigenziali che hanno influenza sulle assunzioni nel settore pubblico e privato e di attività di gestione del personale nel settore pubblico allargato;
+c) di attività che assicurano il funzionamento degli organi costituzionali ed istituzionali, e le consultazioni elettorali.
+3. Al personale appartenente alle forze di polizia si applicano le medesime incompatibilità di cui al comma che precede, con riferimento alle cariche in territorio e fuori territorio, nonché l’incompatibilità con la carica di Capitano di Castello.
+4. Qualora non già contemplata dalle speciali norme previgenti, l’incompatibilità con la carica di membro del Consiglio Grande e Generale si applica a partire dalla XXVIII legislatura.
+5. Le norme di cui all’articolo 8 della presente legge disciplineranno l’obbligo del dipendente di astenersi dallo svolgimento di attività in cui possa configurarsi conflitto di interessi e l’obbligo della rotazione del dirigente in relazione a specifiche UO/Enti.
+6. Fino all’entrata in vigore di tali norme, l’obbligo di rotazione del dirigente sussiste solo se espressamente previsto nelle speciali norme di riferimento e/o nell’Allegato A alla presente legge. Nel caso tale obbligo sussista, l’incarico attribuito a qualunque titolo sulla posizione dirigenziale interessata non può superare la durata massima di nove anni consecutivi, fatta salva la eventuale minore durata massima prevista per le UO dalle norme speciali loro applicabili. Il periodo è calcolato a decorrere dalla data di ricopertura della posizione.
