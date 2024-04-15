@@ -1,0 +1,7 @@
+## REVISIONE DEL SECONDO FABBISOGNO GENERALE DEL SETTORE PUBBLICO ALLARGATO E SECONDO FABBISOGNO DEL CORPO DI POLIZIA CIVILE
+## CAPO I FINALITÀ
+Art. 1
+(Finalità)
+1. Il Capo II e gli Allegati 1 e 2 al presente decreto delegato apportano modifiche al Secondo Fabbisogno Generale del Settore Pubblico Allargato, in linea con quanto previsto dall’articolo 3, comma 4 del Decreto Delegato 20 settembre 2021 n.162
+“Ratifica Decreto Delegato 15 luglio 2021 n.132 – Secondo fabbisogno generale del Settore Pubblico Allargato” nonché in ragione delle intervenute modifiche della struttura di Dipartimenti ed Unità Organizzative (UO) della Pubblica Amministrazione. Il fabbisogno dell’UO Uffici Giudiziari Tribunale è, in particolare, variato, in relazione ai profili di ruolo (PDR) di Operatore Amministrativo (OPAMMI) ed Operatore Specializzato Amministrativo (OPSPAMMI), secondo quanto previsto dall’articolo 8 dell’Allegato B al Decreto Delegato n.162/2021 e alla luce dell’istituzione dei nuovi profili di ruolo (PDR) di Assistente Giudiziario (ASGIUD) e di Assistente Giudiziario Specializzato (ASGIUDSP).
+2. Il Capo III e l’Allegato 3 al presente decreto delegato definiscono il Secondo Fabbisogno relativo all’UO Corpo di Polizia Civile di cui all’articolo 54 del Titolo II dell’Allegato A alla Legge 5 dicembre 2011 n. 188 e successive modifiche, modificando il Decreto Delegato 25 febbraio 2019 n.34 e successive modifiche.

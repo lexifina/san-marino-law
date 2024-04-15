@@ -1,0 +1,8 @@
+## ISTITUZIONE E MODIFICA DI PROFILI DI RUOLO, VARIAZIONI AL SECONDO FABBISOGNO GENERALE DEL SETTORE PUBBLICO ALLARGATO E SEMPLIFICAZIONE DEI PROCEDIMENTI DI RECLUTAMENTO DEL PERSONALE PUBBLICO
+Art. 1
+(Finalità)
+1. Il presente decreto delegato, in attuazione dell’articolo 26 dell’Accordo Governo
+– Organizzazioni Sindacali per il rinnovo del Contratto Collettivo di Lavoro del Pubblico Impiego per il triennio 2022/2024, ratificato dal Consiglio Grande e Generale il 16 gennaio 2024 con delibera n.8, e nell’esercizio della delega di cui all’articolo 55, comma 3 della Legge 5 dicembre 2011 n.188, disciplina all’Allegato A il nuovo profilo di ruolo
+(PDR) di quarto grado di Addetto Nidi per l’Infanzia (ADNI) e modifica il PDR di Tecnologo Universitario (TECUNI) di cui all’Allegato B al Decreto Delegato 30 novembre 2023 n.169.
+2. Il presente decreto delegato, nell’esercizio della delega di cui all’articolo 63 della Legge n.188/2011, apporta, altresì, ulteriori modifiche al Secondo Fabbisogno Generale del Settore Pubblico Allargato, in linea con quanto previsto dall’articolo 3, comma 4 del Decreto Delegato 20 settembre 2021 n.162.
+3. Il presente decreto delegato, infine, modifica la Legge 31 luglio 2009 n.107 e successive modifiche, il Decreto Delegato 2 agosto 2012 n.106 e successive modifiche e l’articolo 22 del Decreto Delegato 30 gennaio 2020 n.16, nell’esercizio delle deleghe di cui all’articolo 7 della Legge n.107/2009 e di cui all’articolo 59, comma 1 della Legge 21 dicembre 2017 n.147, allo scopo di semplificare e rendere maggiormente celeri i procedimenti di reclutamento del personale, con particolare riferimento a quelli volti alla copertura di PDR sino al quarto grado.
