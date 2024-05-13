@@ -1,0 +1,10 @@
+Art.54
+(Dirigenti sportivi - Tecnici - Ufficiali di gara)
+1. Sono considerati dirigenti sportivi, sia i membri elettivi del CONS, delle FSN, delle DSA e delle Associazioni Sportive che, per nomina o su incarico specifico conferito da un organo deliberativo, esercitano la loro attività in funzione della crescita tecnico-sportiva, sociale, educativa e culturale degli appartenenti all’organizzazione sportiva che sono chiamati a dirigere.
+2. I dirigenti sportivi inquadrati nei vari organi del CONS, delle FSN, delle DSA e delle Associazioni Sportive, devono esercitare la loro funzione, nel rispetto e facendo applicare l’ordinamento sportivo nazionale ed internazionale, senza scopo di lucro e senza percepire compensi, eccetto i casi previsti dalla legge, dallo statuto o regolamenti delle singole organizzazioni sportive di riferimento.
+3. I tecnici, allenatori e preparatori fisici inquadrati presso le Associazioni Sportive, le FSN e DSA e presso il CONS esercitano la loro attività nel rispetto dell’ordinamento sportivo nazionale ed internazionale e delle norme antidoping, in funzione della crescita tecnico-sportiva, educativa degli atleti.
+4. Nell’ambito del CONS, delle FSN e DSA, possono costituirsi e regolamentare un organismo di coordinamento dei tecnici sportivi.
+5. Gli ufficiali di gara, inquadrati nelle rispettive FSN e DSA, possono partecipare, nella qualifica a loro attribuita, allo svolgimento delle manifestazioni sportive per assicurarne la regolarità nel rispetto delle regolamentazioni nazionali ed internazionali.
+6. Le FSN e le DSA possono riconoscere gruppi od associazioni di ufficiali di gara.
+7. Gli ufficiali di gara svolgono le proprie funzioni nel rispetto della lealtà sportiva, in osservanza dei principi di terzietà, imparzialità e indipendenza di giudizio.
+8. Per l’espletamento della loro attività sportiva, dirigenti sportivi, tecnici e ufficiali di gara possono percepire indennità e rimborsi spesa in funzione delle loro abilitazioni e requisiti tecnico-sportivi, nelle forme, modalità e disposizioni previste dalla presente legge.

@@ -1,0 +1,9 @@
+Art.41
+(Sospensione, modifica e revoca di affiliazione)
+1. Il Consiglio Nazionale, qualora vi sia il fondato sospetto di disfunzioni, inadempienze alle norme ed alle finalità statutarie, con particolare riguardo allo svolgimento delle attività sportive ed alla correttezza amministrativa da parte delle FSN e DSA, dà incarico al Comitato Esecutivo, qualora quest’ultimo non avesse già provveduto autonomamente, a disporre indagini e verifiche, per la formulazione di una relazione istruttoria.
+2. Nel caso in cui, ad un primo sommario esame risultassero fondate le disfunzioni ed inadempienze ipotizzate, il Consiglio Nazionale adotta delibera con cui contesta le violazioni rilevate e le notifica, a mezzo di raccomandata A.R., alla FSN o alla DSA oggetto di indagine, fissando un’udienza dibattimentale da tenersi in contraddittorio non prima di quindici giorni dall’avvenuta notifica.
+3. E’ facoltà della FSN o della DSA indurre mezzi di prova sia per testi che per documenti, nonché allegazioni difensive sino ad ulteriori quindici giorni seguenti l’udienza dibattimentale.
+4. Il Consiglio Nazionale, in esito al procedimento d’indagine, delibera a maggioranza dei due terzi dei componenti, l’atto di proscioglimento dalle contestazioni o di sospensione transitoria o di revoca dell’affiliazione da notificarsi entro quindici giorni, a mezzo di raccomandata, alla FSN o DSA interessata.
+5. Avverso le superiori decisioni è ammesso ricorso al Tribunale Sportivo entro trenta giorni dall’avvenuta notifica.
+6. Il procedimento di cui ai commi che precedono non pregiudica l’adozione di concorrente provvedimento di commissariamento, di cui all’articolo 14, comma 3, lettera l).
+7. Il mantenimento o la modifica della modalità di affiliazione al CONS in qualità di FSN/DSA sono disciplinati da apposito regolamento emanato dal Comitato Esecutivo ed approvato dal Consiglio Nazionale.

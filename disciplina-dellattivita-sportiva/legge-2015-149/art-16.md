@@ -1,0 +1,7 @@
+Art.16
+(Consiglio Olimpico: composizione e deliberazioni)
+1. Il Consiglio Olimpico è composto dal Presidente del CONS che lo presiede, dai Presidenti delle Federazioni Olimpiche che disciplinano uno sport incluso nel programma dei Giochi Olimpici, dai membri del Comitato Esecutivo esterni al Consiglio Nazionale, dai due rappresentanti degli atleti olimpici e dagli eventuali membri sammarinesi del CIO e dai Presidenti sammarinesi delle Federazioni Sportive continentali o internazionali, qualora questi ultimi rappresentino sport inclusi nel programma dei Giochi Olimpici.
+2. Il Consiglio Olimpico delibera, a maggioranza assoluta dei componenti, la partecipazione ai Giochi Olimpici e a tutte le manifestazioni similari e designa, su indicazione della Commissione Tecnica, le discipline sportive e gli atleti che vi partecipano in base ai relativi criteri di qualificazione definiti.
+3. Il Consiglio Olimpico delibera, altresì, a maggioranza assoluta dei componenti, su temi di carattere olimpico, a norma della Carta Olimpica. In caso di parità prevale il voto del Presidente.
+4. Sono ammesse deleghe, per la partecipazione ai lavori del Consiglio Olimpico, solo in favore dei Vice Presidenti e dei Segretari Generali delle Federazioni Olimpiche.
+5. Le funzioni di Segretario del Consiglio Olimpico sono assunte dal Segretario Generale del CONS e, in caso di impedimento o sua assenza, da un membro del Consiglio Olimpico o del Comitato Esecutivo o da un funzionario del CONS designato dal Presidente.
