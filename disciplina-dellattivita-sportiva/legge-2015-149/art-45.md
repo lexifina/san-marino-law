@@ -1,0 +1,7 @@
+Art. 45
+(Registro delle Associazioni Sportive affiliate)
+1. Al fine di attestare la regolare affiliazione delle Associazioni Sportive alle FSN o DSA è costituito presso il CONS il Registro delle Associazioni Sportive affiliate.
+2. L’iscrizione al Registro delle Associazioni Sportive affiliate è obbligatoria per confermare lo status di Associazione Sportiva affiliata ad una FSN o DSA riconosciuta dal CONS onde accedere ai finanziamenti pubblici e fruire delle agevolazioni fiscali riservate, nell’ambito sportivo, dalla legge.
+3. L’iscrizione è annuale e avviene mediante trasmissione, da parte delle FSN/DSA dello Statuto della Associazione Sportiva, delle successive modifiche ed emendamenti e dichiarazione sottoscritta della denominazione sociale, delle finalità statutarie, unitamente ai nominativi del Presidente o del legale rappresentante e dei membri del Consiglio Direttivo con poteri decisionali.
+4. Le Associazioni Polisportive dovranno iscriversi per ogni sezione disciplinante una attività sportiva riconducibile alle diverse Federazioni o Discipline Associate ed indicare i dirigenti sportivi, con poteri decisionali referenti per ogni FSN o DSA riconosciuta dal CONS.
+5. Un apposito regolamento del CONS disciplinerà i termini e le modalità di accesso al Registro delle Associazioni Sportive affiliate, nonché la modalità di trasmissione dei dati e della relativa documentazione amministrativa necessaria.

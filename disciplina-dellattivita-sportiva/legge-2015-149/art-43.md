@@ -1,0 +1,5 @@
+Art. 43
+(Finanziamento delle Federazioni, Discipline Associate e Associazioni Sportive)
+1. Le FSN e le DSA perseguono i propri fini a mezzo del sostegno finanziario erogato annualmente dal CONS, ai sensi dell’articolo 9, comma 1, lettera a), nonché da eventuali introiti derivanti dalla gestione degli impianti sportivi, da contributi provenienti da altri Enti Pubblici o privati, Organizzazioni sportive internazionali, erogazioni e liberalità da parte di privati, ricavi da manifestazioni sportive, diritti televisivi, sponsorizzazioni e merchandising.
+2. Le Associazioni Sportive non affiliate alle Federazioni Sportive o Discipline Associate o altre Organizzazioni sportive giuridicamente riconosciute possono ricevere contributi dal CONS ai sensi dell’articolo 8, comma 1, lettera l).
+3. Le FSN, le DSA e le Associazioni Sportive possono accedere, altresì, al credito sportivo agevolato per investimenti infrastrutturali, nonché fruire delle agevolazioni fiscali stabilite dallo Stato e determinate dalla legge in materia tributaria.

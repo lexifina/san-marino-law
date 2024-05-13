@@ -1,0 +1,9 @@
+Art.49
+(Società sportive professionistiche e lega multidisciplinare)
+1. Sono considerate società sportive professionistiche le società che partecipano ai rispettivi campionati professionistici, nazionali e internazionali, ed i cui atleti svolgono l’attività sportiva in maniera prevalente.
+2. Possono stipulare contratti con atleti professionistici solo le Associazioni Sportive costituite nella forma di società per azioni o di società a responsabilità limitata, in conformità alla Legge 23 febbraio 2006 n.47 e successive modifiche ed integrazioni e dopo che abbiano ottenuto, per la loro disciplina sportiva, preventivo nulla osta della rispettiva FSN competente, sentito il parere del CONS.
+3. L’Associazione Sportiva deve ottenere l’affiliazione da una o più FSN riconosciute dalla Federazione Internazionale che disciplina l’attività sportiva oggetto del contratto. L’affiliazione può essere revocata dalla FSN per gravi infrazioni alla legge o all’ordinamento sportivo.
+4. La revoca dell’affiliazione della Associazione Sportiva determina l’inibizione dello svolgimento dell’attività sportiva professionistica.
+5. Nell’esercizio delle proprie attività sono tenute all’applicazione del principio della solidarietà sportiva ed economica in favore dello sport dilettantistico con particolare attenzione ai settori giovanili.
+6. Al fine del coordinamento e per favorire lo sviluppo e l’organizzazione dell’attività sportive professionistiche, le Associazioni Sportive di cui al comma 2, possono costituirsi in Lega Multidisciplinare.
+7. Un apposito regolamento, proposto dalle Associazioni Sportive costituenti la Lega Multidisciplinare e approvato dal Consiglio Nazionale, stabilirà le norme di funzionamento e gli organismi di gestione, nella quale ogni Associazione Sportiva aderente avrà diritto ad un seggio e ad una rappresentanza delle FSN, una per ogni disciplina sportiva in questione.

@@ -1,0 +1,11 @@
+## TITOLO VIII ASSICURAZIONI
+Art.58
+(Assicurazioni)
+1. Le FSN, le DSA e le Associazioni Sportive hanno l’obbligo di assicurare tutti i propri tesserati, agonisti o praticanti che prestano attività ludico-sportiva, contro danni derivanti dagli infortuni occorsi nell’esercizio dell’attività sportiva.
+2. Alla stessa copertura assicurativa sono soggetti anche tutti i dirigenti, tecnici, medici, collaboratori e tutti i soci iscritti alle Associazioni sportive affiliate, regolarmente tesserati alle FSN, alle DSA e i singoli tesserati direttamente a queste ultime, come definito all’articolo 31.
+3. Detta copertura deve comprendere i rischi connessi ai trasferimenti dal domicilio ai luoghi di raduno effettuati sia con mezzi propri che con mezzi collettivi. Agli oneri derivanti dalla prevista copertura assicurativa si provvede con la partecipazione dei singoli federati ed iscritti di cui sopra.
+4. La responsabilità civile del CONS, delle FSN, delle DSA, delle Associazioni Sportive nonché dei rispettivi dirigenti, tecnici, atleti e federati in relazione alle attività previste dalla presente legge, deve essere coperta da adeguata garanzia assicurativa. Gli oneri derivanti dalla copertura assicurativa di cui al presente comma sono a carico del CONS.
+5. Le manifestazioni e le competizioni sportive di qualsiasi genere e le relative gare e prove non possono essere autorizzate se l’organizzazione sportiva competente non abbia provveduto a contrarre, a proprie spese, adeguata copertura assicurativa per la responsabilità civile verso i terzi e verso i partecipanti.
+6. In caso di responsabilità civile verso i soggetti di cui al comma 1 da parte dei soggetti previsti al comma 2, gli indennizzi corrisposti dall’assicuratore infortuni verranno computati nell’eventuale maggior risarcimento dovuto ai sensi della responsabilità civile.
+7. Le imprese assicuratrici, per gli indennizzi dovuti ai sensi del comma 1, non hanno azione di regresso nei confronti dei responsabili civili assicurati ai sensi del comma 2.
+8. I capitoli ed i massimali della copertura assicurativa di cui ai commi precedenti non possono essere inferiori ai minimi stabiliti periodicamente dal Comitato Esecutivo del CONS in relazione ai rischi di ogni singola disciplina sportiva.
