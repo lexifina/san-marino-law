@@ -1,0 +1,6 @@
+Art.6
+(Scadenza dei termini in giorni di chiusura degli uffici)
+Tutti i termini posti per il compimento di atti da eseguirsi o depositarsi in uffici pubblici o di enti pubblici, in ogni ramo del diritto e quindi sia in materia civile che penale, in materia amministrativa, ed anche in materia tributaria, se vengano a scadenza in giorno festivo o comunque in un giorno di chiusura dell'ufficio competente a ricevere l'atto o presso il quale esso deve essere eseguito, é prorogato al giorno di apertura dell'ufficio immediatamente successivo.
+La disposizione che precede si applica anche ai termini previsti nella Legge n. 68/1989.
+Sono comunque fatte salve le disposizioni dettate in materia processuale civile e penale dall'articolo 2, punto 11.0 e dall'articolo 29, secondo comma, della Legge n. 55/1994, così come interpretate in via autentica dall'articolo 3 della presente legge.
+In via di interpretazione autentica dell'articolo 1 della Legge 17 maggio 1984 n.49 il termine per l'interposizione dell'appello si applica anche alle riassunzioni del giudizio in caso di annullamento della sentenza.

@@ -1,0 +1,13 @@
+Art. 19
+(Entrata in vigore delle disposizioni contenute nella legge)
+1. Le disposizioni contenute nel Capo I della presente legge si applicano:
+a) alle cause civili in corso con effetto sul prosieguo del processo;
+b) a tutte le cause civili il cui atto introduttivo sia depositato in Cancelleria in data successiva all’entrata in vigore della presente legge.
+2. I termini di prescrizione di cui all’articolo 11, comma 1 si applicano ai diritti sorti anteriormente all’entrata in vigore della presente legge, qualora gli stessi non si prescrivano anteriormente sulla base delle previgenti norme. L’abbreviazione dei termini prescrizionali di cui all’articolo 11 comma 1 non si applica alle cause pendenti prima dell'entrata in vigore della presente legge.
+3. Le disposizioni contenute nel Capo IV Sezione II si applicano ai ricorsi amministrativi depositati in Cancelleria in data successiva all’entrata in vigore della presente legge. [^23]
+
+[^23]: Vedi anche Articolo 43 della Legge 22 dicembre 2021 n.207
+    (Interpretazione autentica del comma 2 dell’articolo 19 della Legge 1 luglio 2015 n.102 “Disposizioni in materia di procedura e diritto civile e di procedura amministrativa” e norme di coordinamento per le rinnovazioni ipotecarie)
+    1. L’articolo 19, comma 2, della Legge 1 luglio 2015 n.102, laddove prevede: “I termini di prescrizione di cui all’articolo 11, comma 1, si applicano ai diritti sorti anteriormente all’entrata in vigore della presente legge, qualora gli stessi non si prescrivano anteriormente sulla base delle previgenti norme”, deve interpretarsi nel senso che, per i diritti sorti in data anteriore all’entrata in vigore della Legge n.102/2015, si applica il termine di prescrizione di cui all’articolo 11, comma 1, decorrente dalla data di entrata in vigore della medesima legge oppure il termine di prescrizione trentennale qualora il suo decorso scada in data anteriore.
+    2. Con riferimento ai diritti reali immobiliari di garanzia, le iscrizioni ipotecarie sono rinnovate nei termini della Legge 24 novembre 1887 e pertanto negli ultimi sei mesi precedenti la scadenza prevista dai commi 1 e 2 dell’articolo 11 della Legge n.102/2015 e dal comma 2 dell’articolo 19 della medesima legge, come interpretato nel comma 1 del presente articolo. Sono fatte salve le formalità eseguite prima dell’entrata in vigore del presente articolo.
+    3. È demandato a decreto delegato l’aggiornamento della Legge 24 novembre 1887 a fini di coordinamento delle norme e di adeguamento del procedimento ivi previsto. E’ abrogato l’articolo 8 della Legge 24 novembre 1887 con esonero del Conservatore dall’annotare l’intervenuta perenzione e radiazione, le quali operano comunque in mancanza di rinnovazione dell’iscrizione.
