@@ -1,0 +1,3 @@
+Art. 3
+Nell’ipotesi prevista dalla lettera a), primo comma, del precedente articolo 2, la costituzione della stabile organizzazione deve essere deliberata contestualmente al trasferimento all’estero della sede sociale ed avrà efficacia dal momento di efficacia del trasferimento stesso; in questa sede devono essere indicati gli elementi patrimoniali che confluiranno nella stabile organizzazione.
+Ove l’attività della stabile organizzazione coincida con quella già autorizzata alla società che trasferisce all’estero la propria sede statutaria, non si applica la procedura dei commi 4 e seguenti dell’articolo 11 della Legge 23 luglio 2010 n. 129 e successive modifiche ed integrazioni, salvo il caso del trasferimento della sede all’interno del territorio dello Stato.

@@ -1,0 +1,2 @@
+Art. 17
+Deve essere istituito un apposito registro di carico e scarico delle armi e munizioni, con pagine numerate e vistate dal Comando della Gendarmeria, in cui devono essere annotate la data e l’orario di prelevamento o di consegna, il nominativo della Guardia Giurata Armata e la sua firma, la causale della movimentazione, marca, modello e matricola dell’arma, marca, tipo e quantità delle munizioni. Ciascuna operazione deve essere controfirmata dalla Guardia in servizio presso la Centrale Operativa.

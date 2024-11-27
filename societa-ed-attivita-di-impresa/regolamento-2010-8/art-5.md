@@ -1,0 +1,2 @@
+Art. 5
+Il permanere della validità dell’autorizzazione annuale al servizio armato della Guardia Giurata è vincolato all’esecuzione di esercitazioni pratiche (in bianco ed a fuoco), a carico dell’Istituto di Vigilanza, nel numero minimo di tre all’anno (cioè una esercitazione ogni quadrimestre) ed un refreshing course annuale (eventualmente coincidente con una esercitazione) della durata di una giornata, al fine di assicurare gli standard minimi di sicurezza.

@@ -1,0 +1,8 @@
+Art. 17
+(Sospensione, cessazione e riattivazione)
+1. L’operatore economico può sospendere o cessare la propria autorizzazione ad operare.
+2. La sospensione o la cessazione decorre dal giorno in cui l’istanza è ricevuta dall’UAE o in una data successiva comunque non superiore a trenta giorni correnti dalla ricezione.
+3. L’ autorizzazione può essere sospesa per un periodo massimo di ventiquattro mesi continuativi, trascorsi i quali viene cessata d’ufficio, salvo che entro i successivi trenta giorni l’operatore economico non la riattivi pagando la relativa tassa ed una sovrattassa di euro 500,00 (cinquecento/00).
+4. L’autorizzazione sospesa può essere riattivata dall’operatore economico solo se sussistono i requisiti previsti per il rilascio, se sono state regolarmente pagate tutte le tasse di autorizzazione dovute e, nel caso si tratti di persona giuridica, se sono state regolarmente pagate anche tutte le tasse sui provvedimenti societari dovute.
+5. La persona giuridica che ha cessato una autorizzazione avente ad oggetto l’attività per cui è previsto il nulla osta da parte del Congresso di Stato, non può ottenere il rilascio di una nuova autorizzazione per svolgere la medesima attività senza nuovo nulla osta da parte del Congresso di Stato. Nel caso di diniego, la persona giuridica ha l’obbligo di modificare l’oggetto sociale escludendo l’attività oggetto di nulla osta.
+6. Per i titolari di autorizzazione individuale e per i lavoratori autonomi di cui all’articolo 10 che assumono incarichi istituzionali incompatibili con l’esercizio di attività economica, il periodo massimo di cui al comma 3 è prorogato sino al termine dell’incarico medesimo.

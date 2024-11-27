@@ -1,0 +1,3 @@
+Art. 4
+Il Coordinatore del Dipartimento di Polizia, a seguito di richiesta degli Istituti di Vigilanza interessati, autorizza al servizio armato le singole Guardie Giurate, abilitate ai sensi del precedente articolo, secondo l’elenco fornito dagli stessi Istituti, tenuto conto del numero di Guardie Giurate Armate assegnate a ciascun Istituto di Vigilanza, sentito il parere vincolante del Congresso di Sato ed in base alle effettive esigenze operative.
+Il rinnovo annuale dell’autorizzazione al servizio armato di ciascuna Guardia Giurata ad opera del Comandante della Gendarmeria deve essere eseguito tenendo conto degli stessi criteri previsti al paragrafo precedente.

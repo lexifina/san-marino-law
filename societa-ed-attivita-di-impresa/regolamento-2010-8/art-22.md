@@ -1,0 +1,2 @@
+Art. 22
+Il formatore-esaminatore predispone apposito esame finale alle Guardie Giurate frequentatrici il corso. L’idoneità è concessa per iscritto solo a coloro i quali abbiano effettivamente dimostrato il possesso di tutte le conoscenze fornite e la padronanza delle procedure impartite con alto grado di affidabilità. L’esito dell’esame abilitativo al maneggio e uso delle armi di ciascuna Guardia Giurata sarà trasmesso al Coordinatore del Dipartimento di Polizia.

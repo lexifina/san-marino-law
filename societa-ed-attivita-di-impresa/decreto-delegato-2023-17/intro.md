@@ -1,0 +1,1 @@
+DECRETO DELEGATO 8 febbraio 2023 n.17 - Disposizioni sulle modalità di accesso, di tenuta e consultazione del Registro delle Società di cui alla Legge 23 febbraio 2006 n.47 – Legge sulle Società e successive modifiche

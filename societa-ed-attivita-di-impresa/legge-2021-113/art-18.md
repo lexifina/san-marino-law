@@ -1,0 +1,6 @@
+Art. 18
+(Registro relativo all’impiego e al commercio di prodotti o medicinali a base di
+cannabis)
+1. Gli enti o imprese autorizzati all’impiego e al commercio di prodotti o medicinali a base di cannabis chiudono il registro di cui al presente articolo al 31 dicembre di ogni anno. La chiusura si compie mediante scritturazione riassuntiva di tutti i dati comprovanti i totali delle qualità e quantità dei prodotti avuti in carico e delle quantità e qualità dei prodotti impiegati o commercializzati durante l’anno, con l’indicazione di ogni eventuale differenza o residuo.
+2. Per la lavorazione di prodotti a base di cannabis è tenuto anche un registro di lavorazione, numerato e firmato in ogni pagina dal Direttore dell’Authority Sanitaria o da un funzionario da questi delegato, nel quale sono iscritte le quantità di materie prime poste in lavorazione, con indicazione della loro esatta denominazione e della data di entrata nel reparto di lavorazione, nonché i prodotti ottenuti da ciascuna lavorazione. Tale registro è conservato per cinque anni a far data dall’ultima registrazione.
+3. La Direzione Sanitaria dell’Istituto per la Sicurezza Sociale potrà stabilire procedure suppletive per la registrazione e la gestione di medicinali a base di cannabis da parte delle farmacie dello Stato, o per la disciplina della relativa vendita.

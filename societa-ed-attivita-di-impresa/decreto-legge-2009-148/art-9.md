@@ -1,0 +1,5 @@
+Art. 9
+(Disposizioni transitorie e finali)
+Gli operatori economici che intendono svolgere un’attività di vigilanza o investigazione, devono avere tale attività come oggetto sociale esclusivo.
+Gli operatori economici già intestatari di licenza il cui oggetto comprende l’attività di vigilanza e/o investigazione hanno tre mesi di tempo dall’entrata in vigore del presente decreto–legge, per l’adeguamento a quanto disposto dalla presente normativa o per procedere alla modifica dell’oggetto della propria licenza escludendo l’attività in parola, pena la revoca immediata della licenza da parte del Congresso di Stato. Negli stessi termini dovranno adeguare anche la propria “denominazione sociale” in modo che risulti chiaro il tipo di attività svolta.
+L’obbligo di frequenza del corso di cui al secondo comma dell’articolo 4 del presente decreto-legge, non sussiste per chi svolga attività di vigilanza continuativamente da almeno un anno presso un Istituto di vigilanza privata. Rimane comunque l’obbligo di sostenere l’esame di cui alla lettera b) del primo comma dell’articolo 4 del presente decreto-legge.

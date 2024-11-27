@@ -1,0 +1,2 @@
+Art. 24
+Metodologie del corso: lezioni teoriche e pratiche con utilizzo di materiale didattico, di automezzi degli Istituti di Vigilanza, equipaggiamenti armi e munizioni che fanno normalmente parte delle dotazioni degli Istituti di Vigilanza. La Gendarmeria con proprio personale deve presenziare e verificare il buon andamento della parte pratica del corso, dando il necessario supporto tecnico-logistico in caso di necessità.

@@ -1,0 +1,17 @@
+Art. 13
+(Società Altamente Tecnologica - SAT)
+1. È Società Altamente Tecnologiche (SAT) la società avente uno dei seguenti requisiti:
+a) società di diritto sammarinese costituite in forma di società di capitali che hanno esaurito il periodo di permanenza nel regime di SUT II come previsto dall’articolo 11;
+b) società in possesso dei requisiti di cui all’articolo 3 del presente decreto delegato, il cui capitale sociale sia a qualsiasi titolo detenuto in misura non inferiore al 50% da società, sia estere sia di diritto sammarinese, aventi le seguenti caratteristiche: b1) il cui numero di occupati sia pari o superiore a 50 persone; dove per occupati si intendono i dipendenti a tempo determinato e indeterminato legati all’impresa da forme contrattuali che prevedono il vincolo di dipendenza;
+b2) il cui fatturato o il totale dell’attivo patrimoniale superi 10 milioni di euro.
+2. Nel caso di cui al comma 1 lettera b), qualora la società, che detiene o deterrà le partecipazioni della Start Up Tecnologica di Secondo Livello (SUT II), faccia parte di un gruppo di imprese, nella valutazione dei parametri di cui al presente articolo si considerano i dati afferenti non soltanto a questa, bensì il complesso dei dati riferiti al gruppo di imprese di cui la stessa fa parte.
+3. Nel caso di cui al comma 1, lettera a) il passaggio al regime di Società Altamente Tecnologica (SAT) viene eseguito d’ufficio, a seguito di apposita comunicazione da parte di San Marino Innovation S.p.A. all’Ufficio Attività Economiche, che procederà all’aggiornamento del Registro nonché al rilascio di apposita certificazione alla società interessata.
+4. Nel caso di cui al comma 1, lettera b) l’attribuzione dello status di Società Altamente Tecnologica (SAT) viene effettuata da San Marino Innovation S.p.A., contestualmente al rilascio della certificazione di cui all’articolo 4.
+5. Alle Società Altamente Tecnologiche viene applicato il seguente regime, in deroga alla Legge 23 febbraio 2006 n.47 e successive modifiche:
+a. L’ammontare del capitale sociale non deve essere inferiore a Euro 20.000,00= in caso di società a responsabilità limitata;
+b. I conferimenti del capitale sociale devono essere effettuati in denaro fino alla concorrenza dell’ammontare minimo previsto dal presente decreto delegato e devono essere versati presso un Istituto di credito della Repubblica di San Marino secondo le modalità che seguono:
+b1) la metà del capitale sociale deve essere versato entro 60 giorni dall’acquisizione dello status di Società Altamente Tecnologica (SAT);
+b2) la restante metà del capitale sociale deve essere versato entro 3 anni dall’acquisizione del medesimo status.
+c. Le partecipazioni societarie possono essere differenziate per categorie previamente individuate nell’atto costitutivo e nello statuto. Qualora vengano create diverse categorie di partecipazioni, la società può liberamente determinarne il contenuto, ma tutte le partecipazioni appartenenti alla medesima categoria devono conferire uguali diritti;
+d. La società ha facoltà di sottoscrivere partecipazioni proprie, in misura non superiore al 30% del capitale sociale, da destinarsi a terzi, esclusivamente secondo le modalità e per le finalità di cui al Titolo VI del presente decreto delegato.
+6. Per tutti gli aspetti non espressamente disciplinati nel presente decreto delegato, si applica, in quanto compatibile, la disciplina vigente in materia di società di capitali.

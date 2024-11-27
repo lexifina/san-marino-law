@@ -1,0 +1,7 @@
+## CAPO IV IMPORTAZIONE, ESPORTAZIONE E TRANSITO
+Art. 12
+(Norme generali)
+1. L’importazione, l’esportazione ed il transito di cannabis, semilavorati, infiorescenze o medicinali derivati possono essere effettuati esclusivamente dal servizio farmaceutico, dagli enti e dalle imprese autorizzati alla coltivazione delle piante, alla produzione, alla fabbricazione, all’impiego e al commercio di dette merci.
+2. Fermo restando il rispetto della normativa generale in materia di importazione ed esportazione, da e verso la Repubblica di San Marino, da e verso Paesi dell’Unione Europea o extra Unione Europea, sia relativamente alla documentazione di accompagno delle merci che di assolvimento degli obblighi fiscali e doganali, ogni singola operazione di importazione, esportazione e transito di cannabis, semilavorati, infiorescenze o medicinali derivati deve essere preventivamente autorizzata, da parte dell’ASCC, ai sensi dell’articolo 2, comma 2, lettera b) della presente legge.
+3. È vietata l’importazione o l’esportazione di cannabis, semilavorati, infiorescenze o medicinali derivati per il tramite del servizio postale pubblico ordinario.
+4. Durante il transito è vietato manomettere o in qualsiasi modo modificare gli involucri contenenti cannabis, infiorescenze, semilavorati o medicinali derivati, salvo che per operazioni doganali o di polizia, ad opera del personale qualificato e autorizzato.
