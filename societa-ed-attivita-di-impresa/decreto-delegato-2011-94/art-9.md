@@ -1,0 +1,4 @@
+Art. 9
+(Limitazioni)
+1. Ogni operatore economico esercitante l’attività di noleggio non può superare, quale numero complessivo dei veicoli immatricolati ad uso noleggio, le 50 unità. Nell’ambito di tale limite, il numero di veicoli con cilindrata superiore a 3.000 c.c. non può superare le 2 unità.
+2. In deroga al disposto di cui al precedente comma 1, qualora il noleggiante disponga di una rimessa o garage, così come definita al precedente art. 7, comma 1, lettera b), con superficie superiore ai 400 metri quadrati, il numero massimo dei veicoli immatricolabili ad uso noleggio aumenta di una unità ogni 12,50 metri quadrati di superficie della rimessa o garage eccedenti i 400; in ogni caso non può essere superato il numero di 70 unità per ogni soggetto esercitante l’attività di noleggio, fermo restando il limite numerico di cui al comma 1 relativo ai veicoli con cilindrata superiore a 3.000 c.c.

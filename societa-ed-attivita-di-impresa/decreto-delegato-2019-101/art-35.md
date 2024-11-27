@@ -1,0 +1,5 @@
+Art. 35
+(Trattamento fiscale)
+1. Le partecipazioni attribuite a fronte dell'apporto di opere e servizi resi in favore di Imprese di cui al presente decreto delegato, ovvero di crediti maturati a seguito della prestazione di opere e servizi, ivi inclusi quelli professionali, resi nei confronti degli stessi, non concorrono alla formazione del reddito complessivo del soggetto che effettua l'apporto al momento della loro attribuzione.
+2. Il reddito di lavoro derivante dall'assegnazione, da parte delle Imprese di cui al presente decreto delegato ai propri amministratori, dipendenti o lavoratori a contratto di partecipazioni o di ogni altro diritto per l'acquisto o la sottoscrizione di partecipazioni, non concorre alla formazione del reddito imponibile dei suddetti soggetti, sia ai fini fiscali, sia ai fini contributivi.
+3. Il beneficio di cui al presente articolo è riconosciuto a condizione che le partecipazioni o i diritti oggetto di assegnazione non siano riacquistati dalla società emittente o da altro soggetto che controlla o che è controllato dalla società emittente.

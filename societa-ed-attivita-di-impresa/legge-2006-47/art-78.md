@@ -1,0 +1,7 @@
+Art.78
+(Disposizioni relative a singole voci dello stato patrimoniale)
+1. Gli elementi patrimoniali destinati ad essere utilizzati durevolmente devono essere iscritti tra le immobilizzazioni.
+2. Le partecipazioni in altre società controllate o collegate in misura non inferiore a quelle stabilite dall’articolo 1 punti 7) e 8), si presumono immobilizzate.
+3. Gli accantonamenti per rischi e oneri sono destinati a coprire perdite o debiti di natura determinata, di esistenza certa o probabile, dei quali tuttavia alla chiusura dell'esercizio sono indeterminati o l'ammontare o la data di sopravvenienza.
+4. Nella voce ratei attivi devono essere iscritti i crediti corrispondenti a proventi di competenza dell'esercizio esigibili in esercizi successivi; nella voce ratei passivi devono essere iscritti i debiti corrispondenti a costi di competenza dell'esercizio che saranno sostenuti negli esercizi successivi. Nella voce risconti attivi devono essere iscritti i costi, da intendersi sospesi, che sono stati sostenuti entro la chiusura dell'esercizio ma che competono ad esercizi successivi; nella voce risconti passivi devono essere iscritti i proventi, da intendersi sospesi, che sono stati percepiti entro la chiusura dell'esercizio ma che competono ad esercizi successivi.
+5. Possono riferirsi a tali voci solo quote di costi e di proventi comuni a più esercizi, l'entità dei quali varia in ragione del tempo.

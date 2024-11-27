@@ -1,0 +1,6 @@
+## TITOLO V NUCLEO ANTIFRODE
+Art. 30
+(Nucleo antifrode)
+1. Nell’ambito del corpo della Polizia Civile viene costituito il “Nucleo antifrode” che ha il compito di prevenire e contrastare le frodi fiscali, le truffe, le distorsioni e le anomalie in materia di interscambio.
+2. Compete al Direttore del Dipartimento di Polizia, al Coordinatore Dipartimento Attività Produttive e al Dirigente dell’Ufficio di Controllo e Vigilanza sulle attività economiche, di individuare, su indicazione del Comandante della Polizia Civile, i dipendenti a cui affidare il compito di cui al precedente comma e tra quei dipendenti designare il responsabile del Nucleo, tenendo conto della necessità di garantire un numero di unità congruo alle esigenze operative dell’Ufficio di Controllo e Vigilanza sulle attività economiche, numero che comunque non potrà essere inferiore alle 8 unità. Suddette unità saranno individuate tra sovraintendenti ed agenti, sulla base delle esperienze maturate nello specifico settore, dei titoli di studio specifici ed attinenti alla materia quali ragioneria, economia ed informatica, e per attitudine. Il personale individuato rimarrà assegnato al Nucleo antifrode per un periodo non inferiore ai 5 anni.
+3. Il Nucleo Antifrode comunica l’esito degli accertamenti direttamente agli uffici di competenza.

@@ -1,0 +1,10 @@
+Art. 23
+(Sanzioni)
+1. Chiunque, senza la prescritta autorizzazione, esercita attività di coltivazione, trasformazione o commercializzazione di cannabis, semilavorati, infiorescenze o medicinali derivati soggiace alle sanzioni penali e amministrative previste per l’esercizio delle medesime attività di sostanze stupefacenti.
+2. L’inosservanza delle prescrizioni e delle garanzie poste a ragione dell’atto di autorizzazione, salvo che il fatto costituisca reato, comporta una sanzione amministrativa da euro 15.000,00 (quindicimila/00) a euro 60.000,00
+(sessantamila/00), comminata dai Corpi di Polizia anche su indicazione/segnalazione dell’ASCC.
+3. La mancata osservanza, in tutto o in parte, delle legittime prescrizioni dell’ASCC, salvo che il fatto costituisca reato, comporta l’applicazione di una sanzione pecuniaria amministrativa, comminata dai Corpi di Polizia anche su indicazione/segnalazione della stessa ASCC, da euro 5.000,00 (cinquemila/00) a euro 30.000,00
+(trentamila/00) e può costituire, nei casi più gravi e reiterati, titolo per richiedere al Congresso di Stato la revoca della licenza.
+4. I semi e le piante di cannabis, le infiorescenze, i semilavorati o i medicinali a base di cannabis illegalmente o illegittimamente detenute sono sequestrati e confiscati ad opera del Corpo della Gendarmeria, secondo un protocollo di garanzia e sicurezza stabilito dall’ASCC.
+5. Ad esclusione dei casi di cui al comma 1 e 2 dell’articolo 7 della presente legge, chiunque per colpa o dolo produce sostanze a base di cannabis in quantità superiore a quelle consentite o tollerate è punito con la reclusione sino ad un anno o con la multa fino a euro 15.000,00 (quindicimila/00).
+6. Salvo che il fatto costituisca più grave reato, chiunque non ottempera alle norme sulla tenuta dei registri di entrata e uscita, di carico e scarico e di lavorazione, nonché all’obbligo di trasmissione dei dati e di denunzia di cui al presente Capo è punito con l’arresto sino a due anni o con la multa da euro 1.500,00 (millecinquecento/00) a euro 25.000,00 (venticinquemila/00).

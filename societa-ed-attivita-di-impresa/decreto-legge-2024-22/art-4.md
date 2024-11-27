@@ -1,0 +1,5 @@
+Art. 4
+(Misure straordinarie per la salvaguardia dei posti di lavoro)
+1. Nel corso del primo anno della procedura di cui all’articolo 108 della Legge n.47/2006, ovvero anche in relazione a quella prevista all’articolo 20 della Legge n.17/1917, in deroga a quanto previsto al comma 1, lettera a) dell’articolo 12 della Legge 31 marzo 2010 n.73 e successive modifiche, l'ammontare massimo di Cassa Integrazione Guadagni che può essere richiesta dall'impresa è di un numero di ore pari al divisore contrattuale moltiplicato per otto.
+2. Nel corso del primo anno della procedura di cui all’articolo 108 della Legge n. 47/2006, ovvero anche in relazione a quella prevista all’articolo 20 della Legge n.17/1917, l'impresa ha facoltà di richiedere l'erogazione diretta della Cassa Integrazione Guadagni, senza applicazione della penalità prevista all'articolo 15, comma 3 della Legge n.73/2010, nelle modalità stabilite da apposita circolare dell'Istituto Sicurezza Sociale.
+3. Sono fatte salve le disposizioni previste dalla Legge n.73/2010 e successive modifiche e dal Decreto Delegato 29 dicembre 2023 n.197 non in contrasto con il presente articolo.

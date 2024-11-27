@@ -1,0 +1,8 @@
+Art. 7
+(Caratteristiche strutturali e tecnologiche per la coltivazione)
+1. La coltivazione della cannabis sativa è consentita solo in territorio sammarinese, in strutture indoor (serre tecnologiche) nelle forme: aeroponica, idroponica e acquaponica in locali esclusivamente adibiti ad essa.
+2. Nell’ambito della coltivazione si prevede solo l’utilizzo di materiale genetico certificato – semente – o di talee da seme certificato con l’obbligo di conservare il cartellino delle sementi o delle talee acquistate, per almeno 12 mesi dalla semina e i documenti di tracciabilità per almeno 24 mesi, insieme alla fattura di acquisto comprovante l’origine e il numero di sementi o talee acquistate.
+3. In via transitoria, in assenza di materiale genetico certificato di cui al comma 2, le aziende possono avviare la coltivazione con l’impegno di intraprendere l’iter di registrazione entro un anno dall’inizio dell’attività.
+4. Le talee acquistate devono essere in possesso di un sistema di codifica univoco con informazioni relative alla data di semina, notificata all’ASCC con indicazioni relative al lotto con indicazione del numero di talee acquistate e nome del produttore comprensiva della licenza di florovivaistica.
+5. L’utilizzo delle piante ottenute al termine della coltivazione o parti di esse devono essere utilizzate esclusivamente per la loro trasformazione in un’officina farmaceutica autorizzata da parte di un’agenzia regolatoria del farmaco dell’Unione Europea.
+6. L'autorizzazione alla coltivazione è valida oltre che per la coltivazione, anche per la raccolta, la detenzione e la vendita dei prodotti ottenuti, da effettuarsi esclusivamente alle ditte titolari di autorizzazione alla trasformazione di cannabis.

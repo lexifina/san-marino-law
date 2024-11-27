@@ -1,0 +1,8 @@
+Art. 33
+(Certificazione)
+1. L’UAE rilascia il certificato che attesta, relativamente agli ultimi ventiquattro mesi precedenti alla richiesta del certificato stesso, se:
+a) una persona fisica sia stata socio o abbia avuto i poteri di rappresentanza di cui all’articolo 52 della Legge n.47/2006 e successive modifiche in una società revocata sulla base di provvedimento del Congresso di Stato; la qualità di socio o l’avere i poteri di rappresentanza di cui sopra deve essere contestuale al verificarsi delle azioni che hanno portato all’adozione della delibera di revoca della autorizzazione;
+b) una persona giuridica abbia rivestito la qualità di socio al verificarsi delle azioni che hanno portato all’adozione della delibera di revoca della autorizzazione.
+2. Il rilascio del certificato avviene entro cinque giorni lavorativi dalla richiesta del medesimo.
+3. Il certificato di cui al comma 1 può essere sostituito da corrispondenti dichiarazioni rilasciate con le forme di cui all’articolo 13 della Legge n.159/2011 anche da parte di soggetti non residenti nella Repubblica di San Marino.
+4. All’esclusivo fine del rilascio dei precedenti certificati l’UAE, richiede, per il solo tramite dei funzionari della Banca Centrale della Repubblica di San Marino, le informazioni dalla stessa raccolte e detenute ai sensi dell’articolo 2 della Legge 7 giugno 2010 n.98 riferibili alle società sammarinesi o a cui è stata revocata l’autorizzazione dal Congresso di Stato. L’accesso alle precedenti informazioni non costituisce violazione degli obblighi di riservatezza di cui all’articolo 29 della Legge 29 giugno 2005 n.96 e successive modifiche.

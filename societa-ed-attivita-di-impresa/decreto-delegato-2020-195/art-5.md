@@ -1,0 +1,10 @@
+Art. 5
+(Capitale sociale delle società Spin-off e Start-up universitarie)
+1. Nel caso in cui le società Spin-off e Start-up universitarie siano costituite nella forma della società a responsabilità limitata, a parziale deroga di quanto previsto dall’articolo 13 della Legge 23 febbraio 2006 n. 47 e sue successive modifiche, il capitale sociale non dovrà essere inferiore ad euro 5.000,00.
+2. Il capitale sociale di società Spin-off potrà rimanere inferiore ai limiti di cui all’articolo 13 della Legge n. 47 /2006 e sue successive modifiche solo fino a quando vi sarà la partecipazione dell’Università o di Personale universitario, Assegnisti o Dottorandi di ricerca. Qualora cessi la partecipazione universitaria o di Personale universitario, Assegnisti o Dottorandi di ricerca, la società avrà tempo 6 mesi per adeguarsi alle disposizioni delle leggi vigenti sulle società in tema di capitale sociale.
+3. Il capitale sociale della società Start-up potrà rimanere inferiore ai limiti di cui all’articolo 13 della Legge n. 47/2006 e sue successive modifiche solo per i primi 5 anni di esercizio.
+4. Nel caso in cui le società Spin-off e Start-up universitarie siano costituite nella forma della società per azioni, dovrà essere rispettato quanto previsto dall’articolo 13 della Legge n. 47/2006 e sue successive modifiche.
+5. Le società Spin-off e Start-up universitarie sono esonerate dal pagamento della tassa di licenza d’esercizio per i primi 5 anni di esercizio.
+6. L’atto costitutivo di società Spin-off e Start-up universitarie sono soggetti alla formalità di registrazione mediante pagamento dell’imposta fissa di euro 70,00.
+7. Tutti gli atti societari, di qualsiasi natura e tipo di cui sia parte la società Spin-off e Start-up universitarie sono soggetti alla formalità di registrazione mediante pagamento dell’imposta fissa di euro 70,00.
+8. Tutti gli atti di cessione quote o azioni di società Spin-off e Start-up universitarie sono soggetti alla formalità di registrazione mediante pagamento dell’imposta fissa di euro 70,00.

@@ -1,0 +1,6 @@
+Art. 8
+A parziale deroga del punto 3, primo comma del precedente articolo 1 l’efficacia della deliberazione è comunque subordinata alla presentazione di fideiussione bancaria di istituto sammarinese o di primario istituto di un Paese dell’Unione Europea, in favore dell’Ufficio Tributario, a garanzia del pagamento dei debiti per le imposte iscritte in bilancio, dell’imposta sostitutiva di cui al comma 1 del precedente articolo 6 e delle eventuali ulteriori imposte che possano maturare o essere accertate successivamente all’atto di trasferimento.
+L’importo di detta fideiussione è determinato:
+a) nei casi di cui al precedente articolo 2, ferma la responsabilità solidale della stabile organizzazione o della società costituita con la società trasferita per tutte le obbligazioni tributarie, nella misura dell’1% del fatturato risultante dall’ultimo bilancio d’esercizio approvato, e comunque in misura non inferiore ad € 50.000,00;
+b) in tutti gli altri casi, in misura pari al 2% del fatturato risultante dall’ultimo bilancio d’esercizio approvato fatta salva la misura minima di cui al precedente punto a).
+La fideiussione ha validità ed efficacia fino al termine per l’accertamento delle imposte dirette ed indirette relative al periodo in cui è stato deliberato il trasferimento della sede all’estero.

@@ -1,0 +1,5 @@
+Art. 14
+(Esportazione)
+1. Oltre l’assolvimento degli obblighi fiscali doganali e di documentazione per l’esportazione delle merci, e all’annotazione di cui all’articolo 18, l’ente o l’impresa autorizzati alla coltivazione, trasformazione o commercializzazione di cannabis o medicinali derivati, interessata a esportare semi, piante, semilavorati, infiorescenze o medicinali a base di cannabis, deve presentare domanda di autorizzazione all’ASCC, secondo le modalità indicate dall’ASCC medesima tramite il regolamento di cui all’articolo 13, comma 1.
+2. L’ASCC, rilasciato il permesso di esportazione, ne dà preventivo avviso al Comando della Gendarmeria sammarinese e al Dipartimento Affari Esteri per la comunicazione alle competenti Autorità del Paese di destinazione, attraverso i canali diplomatici.
+3. Sul permesso di esportazione dell’ASCC, numerato progressivamente, dovranno essere indicati esattamente il peso, la qualità e la quantità della merce esportata; nonché gli estremi dell’autorizzazione dell’autorità del Paese di destinazione.

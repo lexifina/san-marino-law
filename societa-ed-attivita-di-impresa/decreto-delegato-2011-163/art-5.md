@@ -1,0 +1,4 @@
+Art. 5
+Il recesso di cui al comma 2 dell’articolo 26 del Decreto - Legge 26 ottobre 2010
+n. 172 deve essere esercitato dal socio entro i termini e con le modalità previste dagli articoli 37 e seguenti della Legge 23 febbraio 2006 n. 47 e successive modifiche.
+Tuttavia, ai fini della riduzione del capitale della società e della liquidazione della quota del socio che ha esercitato il diritto al recesso, gli effetti del recesso restano sospesi fino alla data di efficacia del trasferimento all’estero della sede statutaria ai sensi del precedente articolo 1. In tal caso l’importo della liquidazione della quota dovrà essere depositato dalla società presso un istituto di credito sammarinese e deve essere ivi mantenuta sino all’espletamento della formalità di cui al punto 7 del precedente articolo 1.

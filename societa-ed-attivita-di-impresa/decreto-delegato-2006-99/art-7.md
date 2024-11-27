@@ -1,0 +1,3 @@
+Art. 7
+(Doveri del titolare di licenza di generi di privativa)
+1. Il titolare di licenza per l’esercizio del commercio al dettaglio dei generi di privativa deve garantire il servizio al pubblico sia per quanto riguarda l’offerta di tutti i generi di monopolio dello Stato sia per quanto riguarda i periodi e gli orari di apertura. Le Associazioni di Categoria devono formulare un calendario annuale dal quale si evince che è garantito il servizio al pubblico durante tutto l’anno con relativi orari di apertura e chiusura. Di tale calendario deve essere data comunicazione all’Ufficio Industria, Artigianato e Commercio.

@@ -1,0 +1,6 @@
+## CAPO II DELLA FUSIONE
+Art.89
+(Forme di fusione)
+1. La fusione mediante incorporazione è l’operazione mediante la quale una o più società, tramite estinzione senza liquidazione, trasferiscono ad un’altra l’intero patrimonio attivo e passivo nonché tutte le obbligazioni attive e passive mediante attribuzione ai soci della società incorporata di quote o azioni della società incorporante e, eventualmente, di un conguaglio in denaro non superiore al dieci per cento del valore nominale delle azioni o quote attribuite o, in mancanza di valore nominale, della loro parità contabile.
+2. La fusione mediante costituzione di una nuova società è l’operazione con la quale più società, tramite la loro estinzione senza liquidazione, trasferiscono ad una società di nuova costituzione l’intero patrimonio attivo e passivo mediante l’attribuzione ai soci di quote o azioni della nuova società e, eventualmente, di un conguaglio in denaro non superiore al dieci per cento del valore nominale delle azioni o quote attribuite o, in mancanza di valore nominale, della loro parità contabile.
+3. La partecipazione alla fusione non è consentita alle società sottoposte a procedure concorsuali né a quelle in liquidazione.

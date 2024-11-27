@@ -1,0 +1,4 @@
+Art. 4
+(Locazione transitoria)
+1. Le sedi del negozio a tempo, siano esse pubbliche o private, sono oggetto, in deroga alle disposizioni generali in materia di locazioni ai sensi dell’articolo 1 della Legge 20 febbraio 1991 n.26, di locazione di natura meramente transitoria, secondo i format e gli standard individuati da ASE–CC con l’ausilio dell’Avvocatura dello Stato. Il contratto di locazione transitoria deve essere redatto in forma scritta e registrato presso l’Ufficio del Registro e Conservatoria.
+2. Ferma restando la durata del negozio a tempo di cui all’articolo 1, commi 2 e 3, la durata del contratto di locazione transitoria non può essere superiore a novanta giorni per i negozi a tempo nei centri storici ed a centocinquanta giorni per i negozi a tempo nei centri commerciali, ed è vietata la sublocazione.
