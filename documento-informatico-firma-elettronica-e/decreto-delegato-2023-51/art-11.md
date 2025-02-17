@@ -1,0 +1,4 @@
+Art. 11
+(Presentazione di documenti elettronici all’Amministrazione da parte di
+non operatori economici)
+1. Le domande, istanze, dichiarazioni e, in genere, documenti presentati da cittadino o residente o soggiornante in Repubblica, che non sia in possesso di COE, si ritengono valide e rilevanti a tutti gli effetti di legge nonché validamente trasmesse ad un ufficio dell’Amministrazione o ad un gestore di pubblico servizio se formate quale documento amministrativo elettronico ed inoltrate a mezzo SERC. Qualora il documento amministrativo elettronico abbia la forma della copia per immagine su supporto elettronico di documento analogico sottoscritto con firma autografa non sussiste la necessità di fare pervenire l’originale analogico, salvo che l’ufficio o organo ricevente lo richieda motivando tale determinazione.
