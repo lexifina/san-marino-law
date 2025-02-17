@@ -1,0 +1,8 @@
+Art. 10
+(Modalità generali e residuali di comunicazione in via telematica con l’Amministrazione)
+1. La presentazione di domande, istanze, dichiarazioni e, in genere, documenti in via telematica all’Amministrazione avviene secondo le norme di cui al presente Capo e di cui al successivo Capo IV.
+2. Le modalità di presentazione in via telematica di documenti amministrativi elettronici disciplinate nelle Sezioni II e III del presente Capo hanno valore generale, poiché applicabili per tutti i settori dell’Amministrazione, salvo espresse deroghe autorizzate dalla DGFP, e residuale, perché utilizzabili in assenza di specifiche disposizioni normative settoriali ovvero di specifici programmi applicativi.
+3. La disposizione di cui all’articolo 11, comma 2 della Legge n.159/2011 relativa all’obbligo di spedizione delle istanze e delle dichiarazioni unitamente alla copia fotostatica non autenticata di un documento di identità dell’interessato da questi sottoscritta e dichiarata come conforme all’originale, contenente la dichiarazione di cui al comma 2 dell’articolo 9 della medesima legge, non si applica alla trasmissione all’Amministrazione di documenti elettronici ai sensi delle successive Sezioni II e III del presente Capo.
+4. Le disposizioni di cui alla Sezione III del presente Capo sono dettate al fine di elevare significativamente il grado di certezza che l’identità rivendicata dal richiedente l’accesso ai servizi in linea del Portale della Pubblica Amministrazione sia la sua vera identità, tramite l’introduzione dell’utilizzo di un secondo fattore di autenticazione.
+SEZIONE II
+PRESENTAZIONE DI ISTANZE E DOCUMENTI TRAMITE SERC

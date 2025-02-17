@@ -1,0 +1,6 @@
+Art. 11
+(Compiti affidati all'Autorità per l'Informatica)
+1. E' compito dell'Autorità per l'Informatica promuovere i regolamenti tecnici da emanare con il decreto reggenziale di cui all'articolo 2, punto 4. Tali regolamenti dovranno tener conto degli standard emergenti a livello internazionale.
+2. Almeno ogni due anni, a partire dalla pubblicazione del regolamento tecnico, l'Autorità per l'Informatica provvede ad esaminare i progressi tecnologici, l'evoluzione del mercato e gli sviluppi giuridici a livello internazionale e provvede, se del caso, ad apportare le opportune modifiche al regolamento tecnico.
+3. Ogni sei mesi, a partire dalla pubblicazione del regolamento tecnico, l'Autorità per l'Informatica provvede a pubblicare una lista degli Stati terzi la cui normativa sulla firma elettronica risulta conforme ai requisiti indicati nella presente legge e del regolamento tecnico.
+4. E' compito dell'Autorità per l'Informatica, con il supporto tecnico dell'Ufficio Programmazione Economica Centro Elaborazione Dati e Statistica ed eventualmente della consulenza di persone o società esperte nelle problematiche concernenti la firma elettronica, svolgere funzioni di vigilanza e controllo sulle attività di certificazione e rilascio dei certificati svolte da parte del prestatore di servizi di certificazione.

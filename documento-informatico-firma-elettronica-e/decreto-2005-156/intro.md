@@ -1,0 +1,5 @@
+DECRETO 8 NOVEMBRE 2005 N.156
+## REGOLE TECNICHE PER LA FORMAZIONE, LA TRASMISSIONE, LA CONSERVAZIONE, LA DUPLICAZIONE, LA RIPRODUZIONE E LA VALIDAZIONE, ANCHE TEMPORALE, DEI DOCUMENTI INFORMATICI.
+Testo coordinato con le modifiche derivanti da:
+Decreto Delegato 30 gennaio 2020 n.9 Decreto Delegato 29 marzo 2021 n.61 Decreto Delegato 29 ottobre 2021 n.184 Decreto Delegato 21 marzo 2023 n.51
+DECRETO 8 novembre 2005 n.156
