@@ -1,0 +1,3 @@
+Art. 16
+Coloro che hanno stipulato una convenzione, ottenuta una sentenza o proposta una domanda soggetta a trascrizione nell'interesse di persona incapace da loro rappresentata, o alla quale hanno prestato assistenza nella convenzione o nel giudizio, debbono curare che segua la trascrizione dell'atto o della sentenza. La mancanza della trascrizione può essere opposta ai minori, agli interdetti e a qualsivoglia altro incapace, salvo ai medesimi il regresso contro coloro che avevano l'obbligo della trascrizione.
+La mancanza della trascrizione però non può mai essere opposta dalle persone che avevano l'obbligo di farla per i propri rappresentati o amministrati, nè dai loro eredi.
