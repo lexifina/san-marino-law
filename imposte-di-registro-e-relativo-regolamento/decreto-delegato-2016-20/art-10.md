@@ -1,0 +1,3 @@
+Art. 10
+(Norma transitoria)
+1. Tenuto conto della necessità di introdurre le norme di cui al presente decreto delegato al fine di chiarire elementi indispensabili alla corretta osservanza ed applicazione di una riforma che ha profondamente modificato alcuni punti di riferimento dell’attività notarile anche in relazione alle leggi sulle formalità di registrazione ed ipotecarie, ferma restando la norma transitoria di cui all’articolo 8, comma 8, le disposizioni contenute negli articoli 2, 4 e 7 del presente decreto delegato sono applicate anche con riferimento agli atti iscritti nei Repertori nel corso dell’anno 2015.
