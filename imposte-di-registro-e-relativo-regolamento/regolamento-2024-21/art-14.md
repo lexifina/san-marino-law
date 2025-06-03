@@ -1,0 +1,5 @@
+Art. 14
+(Richiesta di benefici fiscali)
+1. In applicazione dell’articolo 2, secondo comma della Legge n.85/1981, le esenzioni e i benefici fiscali che il contribuente pretende siano applicati all’atto da registrare, sono espressamente richiesti nell’atto stesso, il quale deve contenere le dichiarazioni e la documentazione indicate dalle norme speciali per la sussistenza dei requisiti.
+2. Qualora l’atto pubblico o la scrittura privata autenticata da trascrivere, iscrivere o annotare non contenga quanto previsto al comma 1, e tuttavia il contribuente voglia richiedere l’applicazione di esenzioni e benefici, può effettuare apposita richiesta in cui dichiara e dimostra il possesso dei requisiti. Tale dichiarazione è autenticata e sottoposta ad autonoma registrazione.
+3. Qualora la richiesta dei benefici che indica la sussistenza dei requisiti manchi nella scrittura privata e privata autenticata da sottoporre alla sola registrazione, il contribuente presenta la dichiarazione di cui al comma 2 la quale è unita alla copia ad uso registro, previo assolvimento dell’imposta di bollo prevista per le dichiarazioni.

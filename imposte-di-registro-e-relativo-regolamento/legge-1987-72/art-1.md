@@ -1,0 +1,4 @@
+Art. 1
+E' abrogata la disposizione prevista al paragrafo 556 Rubrica 34a del Libro 3° degli Statuti per la sola parte relativa all'onere del pagamento della tassa del cinque per cento del valore e della stima della cosa, da parte del forense in caso di acquisto dello stesso di beni immobili a qualsiasi titolo.
+E' abrogato ogni successivo provvedimento normativo di modifica e di aggiornamento correlativo a tale disposizione.
+E' altresì abrogato il disposto di cui al secondo comma dell'art. 9 della Legge sulle società 21 dicembre 1942 n. 45 relativamente al seguente testo: "e - ove ritenga che il capitale azionario sia in prevalenza straniero - alla tassa di cui all'articolo 5 della Legge 14 marzo 1918 sulle tasse di registro" - nonché i corrispondenti successivi disposti normativi di modifica.

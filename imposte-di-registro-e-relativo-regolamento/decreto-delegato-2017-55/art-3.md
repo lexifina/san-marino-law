@@ -1,0 +1,5 @@
+Art. 3
+(Imposte sugli atti inerenti l’affidamento fiduciario)
+1. Il contratto di affidamento fiduciario, e gli eventuali ulteriori atti di trasferimento al patrimonio affidato, sono assoggettati all’imposta di registro fissa nella misura di euro 70,00 e alle imposte di bollo, trascrizione e voltura nella misura ordinaria.
+2. Gli atti con cui sono trasferiti ai beneficiari i beni facenti parte del patrimonio affidato sono assoggettati alle imposte previste per i trasferimenti a titolo oneroso. A tali atti si applicano le imposte previste per gli atti a titolo gratuito qualora affidante e beneficiario siano legati da rapporto di parentela in linea retta entro il secondo grado.
+3. Ricorrendo le ipotesi previste al comma III° e IV° dell’articolo 5 della Legge n.43/2010, gli atti di trasferimento a favore dell’affidante dei beni già oggetto del patrimonio affidato sono assoggettati all’imposta di registro fissa nella misura di euro 70,00 e alle imposte di bollo, trascrizione e voltura nella misura ordinaria.

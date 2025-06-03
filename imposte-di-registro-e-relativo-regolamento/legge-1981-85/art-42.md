@@ -1,0 +1,3 @@
+Art. 42
+Le dichiarazioni di nomine pure e semplici della persona committente, per cui si fece un acquisto od altro contratto, sono assoggettate all'imposta fissa stabilita dal n. 42 delle tariffe, soltanto quando la facoltà di fare la nomina sia stata riservata espressamente all'atto che contiene l'acquisto od il contratto, e la dichiarazione o nomina venga fatta entro il perentorio termine di cinque giorni successivi, mediante atto registrato nel detto termine.
+In mancanza di qualcuno degli estremi sopra indicati, le dichiarazioni sono sottoposte a imposta secondo la natura dell'acquisto o contratto cui si riferiscono.

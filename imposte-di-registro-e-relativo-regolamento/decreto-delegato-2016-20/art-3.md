@@ -1,0 +1,4 @@
+Art. 3
+(Norme sulla rettifica di errori materiali)
+1. All’articolo 20 della Legge n.73/2014, dopo il comma 2, è aggiunto il seguente comma:
+“3. Le attestazioni notarili di cui ai superiori commi 1 e 2, sono eseguite con atto separato all’atto da rettificare qualora questo sia già stato registrato. Le attestazioni eseguite con atto separato sono annotate in ordine cronologico nel Repertorio degli atti in cui è inserito l’atto a cui si riferiscono, ciò anche a integrazione dell’articolo 49 della presente legge, e sono sottoposte a registrazione. Esse vanno custodite e conservate insieme all’atto a cui si riferiscono e pertanto hanno il numero di custodia dell’atto rettificato. Le rettifiche, ai sensi del presente articolo, di atti aventi data anteriore all’1 gennaio 2015 hanno il proprio numero di custodia.”.
