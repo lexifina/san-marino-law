@@ -1,0 +1,6 @@
+Art. 16
+(Doveri del Conservatore)
+1. Il Conservatore non può in nessun caso rifiutare, o tardare la ricezione dei titoli presentati e l’esecuzione delle trascrizioni, iscrizioni od annotamenti richiesti, né può rifiutare la restituzione degli atti e delle note.
+2. Il Conservatore può però rifiutare di eseguire le dovute formalità se i titoli e le note non sono chiari, se non possiedono i requisiti previsti dagli articoli 5, 6 e 47 della Legge 16 marzo 1854, dall'articolo 11 della Legge n.87/1981 e dell’articolo 10 del presente Regolamento, se titolo e nota siano di contenuto difforme o se il titolo manchi di un requisito essenziale per l’esecuzione della formalità, ai sensi delle norme generali e speciali applicabili.
+3. Il Conservatore non può ricevere alcuna domanda di trascrizione o di iscrizione o di annotamento fuorché nelle ore nelle quali l'URC è aperto al pubblico e secondo il calendario ufficiale per gli uffici pubblici.
+4. Per causa di forza maggiore che impedisca l’esecuzione delle formalità, il Conservatore, sentiti la Segreteria di Stato per le Finanze e il Bilancio, il Direttore del Dipartimento Finanze e Bilancio ed il Direttore della Funzione Pubblica, emette avviso di temporanea chiusura della Conservatoria o di temporanea sospensione di alcune sue attività, disponendo riguardo ai termini e a quant’altro sia necessario ed opportuno.
