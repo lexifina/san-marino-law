@@ -1,0 +1,4 @@
+Art. 22
+(Identificazione dello straniero)
+1. In ogni tempo lo straniero, sebbene munito di regolare permesso di soggiorno o residenza, può essere invitato dalla Gendarmeria a fornire informazioni e chiarimenti sul di lui o di lei conto e sui motivi per i quali si trovi nel territorio della Repubblica nonché, quando vi siano fondate ragioni, sulla disponibilità di un reddito, da lavoro o da altra fonte, sufficiente al sostentamento proprio ed eventualmente dei famigliari conviventi nel territorio della Repubblica: a tal fine, il permesso di soggiorno o il passaporto o altro documento di identificazione deve essere esibito ad ogni richiesta della Gendarmeria.
+2. Qualora vi sia fondato motivo di dubitare della identità personale dello straniero, si osservano le procedure previste dall’articolo 2 della Legge 25 luglio 2003 n. 97.

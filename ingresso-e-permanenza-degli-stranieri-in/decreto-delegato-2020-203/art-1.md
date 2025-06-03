@@ -1,0 +1,14 @@
+## RESIDENZA ORDINARIA PER LAVORATORI FRONTALIERI
+Art. 1
+(Residenza ordinaria per lavoratori frontalieri)
+1. La residenza è concessa dall’Ufficiale di Stato Civile al lavoratore non iscritto alle liste di avviamento al lavoro in possesso dei seguenti requisiti:
+a) sia lavoratore frontaliero titolare di un rapporto di lavoro subordinato a tempo
+indeterminato presso un operatore economico sammarinese;
+b) abbia svolto attività lavorativa subordinata in maniera continuativa, ovvero con
+interruzioni complessivamente non superiori a giorni quindici lavorativi, negli ultimi
+quindici anni presso uno o più operatori economici sammarinesi. Ai fini del calcolo dei
+periodi di lavoro sono da computare anche eventuali periodi nei quali al lavoratore siano
+stati riconosciuti gli ammortizzatori sociali.
+2. Il richiedente la residenza ai sensi del comma 1 può fare domanda di estensione della stessa ai famigliari, secondo quanto previsto dalle leggi vigenti.
+3. La domanda di residenza ordinaria deve essere presentata nei mesi di novembre e dicembre di ogni anno presso l’Ufficio di Stato Civile. Le domande presentate al di fuori dei mesi indicati sono dichiarate irricevibili dall’Ufficio. Il numero massimo di residenze concesse in base al comma 1 è fissato in 20 unità annuali; concluso il periodo di presentazione delle domande, l’Ufficio di Stato Civile, entro il mese di gennaio, qualora le domande depositate nei termini suindicati, siano in numero superiore alle unità annuali, procede all’accertamento con l’ufficio competente del possesso dei requisiti disposti al comma 1 e sulla base delle risultanze pervenute, provvede alla compilazione di apposita graduatoria redatta sulla base della maggiore anzianità del requisito di cui al comma 1 lettera b) avviando le prime 20 domande risultanti dalla graduatoria medesima, al parere obbligatorio della Gendarmeria. Qualora più domande contengano il medesimo requisito di anzianità, l’Ufficio procede nella compilazione della graduatoria secondo l’ordine cronologico di presentazione. Di tali operazione viene redatto apposito verbale. Qualora le domande depositate nei termini suindicati, sono in numero pari o inferiore alle unità annuali, vengono esaminate dall’Ufficio di Stato Civile, sempre nel successivo mese di gennaio, seguendo l’ordine cronologico di presentazione e sottoposte al parere obbligatorio della Gendarmeria ed agli accertamenti con l’ufficio competente del possesso dei requisiti disposti al comma 1.
+4. In presenza delle circostanze previste al comma 1 e comma 2 dell’articolo 17 della Legge 28 giugno 2010 n.118 e successive modifiche, la valutazione di concessione di residenza è sottoposta alla decisione della Commissione Consiliare Permanente Affari Esteri, Emigrazione ed Immigrazione, Sicurezza e Ordine Pubblico, Informazione.

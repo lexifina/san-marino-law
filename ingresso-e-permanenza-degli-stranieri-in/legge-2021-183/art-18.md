@@ -1,0 +1,6 @@
+## VARIAZIONE AL BILANCIO DI PREVISIONE DELLO STATO E DEGLI ENTI DEL SETTORE PUBBLIO ALLARGATO PER L’ESERCIZIO FINANZIARIO 2021 E MODIFICHE ALLA LEGGE 23 DICEMBRE 2020 N.223
+Articolo 18
+(Estensione di norme speciali sulle intestazioni immobiliari alla locazione finanziaria)
+1. Al fine di equiparare le diverse forme di finanziamento per acquistare immobili in territorio da parte di persone fisiche di cittadinanza straniera, l'articolo 18 della Legge 7 agosto 2017 n.94, gli articoli 16-bis, 16-ter e 16-quater della Legge 28 giugno 2010 n.118, introdotti rispettivamente dall'articolo 19 della Legge 7 agosto 2017 n.94 e dagli articoli 69 e 70 della Legge 23 dicembre 2020 n.223, e le disposizioni di cui al Capo II della Legge 3 ottobre 2019 n.154 che si riferiscono agli acquisti delle persone fisiche, si applicano anche agli acquisti a titolo di riscatto da locazione finanziaria e quindi anche alla stipula del contratto e alla sua cessione o subentro.
+2. La sussistenza dei requisiti e delle condizioni deve essere dichiarata e documentata in ciascuno degli atti in cui, ai fini della trascrizione, siano invocate le speciali norme di riferimento.
+3. A ciascuno di tali atti è altresì allegato, qualora richiesto, il provvedimento autorizzativo dell'organo istituzionale competente.

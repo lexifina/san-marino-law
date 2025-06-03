@@ -1,0 +1,11 @@
+## RILASCIO NUOVI PERMESSI DI SOGGIORNO E CARTE DI RESIDENZA REALIZZATI CON DOCUMENTI SICURI AVENTI MICROPROCESSORE
+Art. 1
+(Finalità)
+1. Ai sensi di quanto disposto dalla Legge 28 giugno 2010 n.118 e successive modifiche e dal Decreto Delegato 22 gennaio 2016 n.5 - Norme in materia di rilascio di permessi di soggiorno e carte di residenza, il presente decreto delegato contiene le disposizioni relative alle caratteristiche dei permessi di soggiorno e di tutte le tipologie delle carte di residenza, compresi i permessi per convivenza, parentale o per minori di cui all’articolo 15 della Legge n.118/2010 e successive modifiche.
+2. Il rilascio o rinnovo dei permessi di soggiorno e di tutte le tipologie delle carte di residenza sono eseguiti utilizzando i documenti contenenti le caratteristiche e le procedure di cui al presente decreto delegato.
+3. Il Corpo della Gendarmeria - Ufficio Stranieri dopo la pre-personalizzazione del documento, eseguita in base all’articolo 3 del Regolamento 9 giugno 2017 n.5, procede alla personalizzazione del documento tramite impressione dei dati dell’intestatario del documento sul fronte e sul retro dello stesso, con procedimento di stampa laser engraving, con conseguente salvataggio nel microprocessore dei dati previsti, secondo le caratteristiche di seguito indicate per ciascuna tipologia di documento.
+4. I supporti del permesso di soggiorno e di tutte le tipologie delle carte di residenza sono delle dimensioni di 85,60 x 53,98 mm, e sono costituiti da una tessera in policarbonato con microprocessore su cui vengono memorizzati i dati necessari all’identificazione del soggetto, utilizzando criteri di sicurezza che ne impediscano la lettura o la modifica da parte di soggetti non autorizzati.
+5. La grafica offset dei supporti di cui al comma 4 è rappresentata sul fronte dalla veduta della Torre Guaita e sul retro dall’immagine dello stemma della Repubblica.
+6. La carta presenta elementi tecnici e grafici atti a impedirne la duplicazione e la contraffazione, quali l’OVI, il DOVID, il Mirage, microstrutture e una finestra trasparente.
+7. Il modello del permesso di soggiorno e dei permessi di cui all’articolo 15 della Legge n.118/2010 e successive modifiche, è contenuto nell’Allegato A.
+8. Il modello della carta di residenza è contenuto nell’Allegato B.

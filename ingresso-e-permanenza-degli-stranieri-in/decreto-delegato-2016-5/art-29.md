@@ -1,0 +1,6 @@
+Art.29
+(Monitoraggio dell’applicazione della legge ai sensi dell’articolo 16, comma 3, della Legge
+n.118/2010 e successive modifiche)
+1. L’Ufficio Industria invia entro il 30 settembre di ogni anno la relazione prevista dall’articolo 17, comma 5, della Legge n. 118/2010 e successive modifiche alla Commissione Consiliare Permanente Affari Esteri, Emigrazione e Immigrazione. La relazione riguarda la concessione delle residenze previste dall’articolo 16, comma 3 della suddetta legge.
+2. Il Dipartimento Affari Esteri invia tempestivamente all’Ufficio Industria copia della delibera della competente Commissione Consiliare Permanente Affari Esteri, Emigrazione e Immigrazione relativa alla concessione della residenza od eventuali variazioni successive della medesima, allegando la documentazione necessaria agli effetti del controllo di cui al comma 3.
+3. L’Ufficio Industria verifica annualmente, dalla data di concessione della residenza, il rispetto delle condizioni autorizzative inerenti l’investimento approvato ai sensi dell’articolo 16, comma 3, della Legge n.118/2010 e successive modifiche e segnala le irregolarità, discordanze o violazioni alla Commissione Consiliare Permanente Affari Esteri, Emigrazione e Immigrazione che decide sulla eventuale revoca della residenza.
