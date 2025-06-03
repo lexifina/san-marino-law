@@ -1,0 +1,10 @@
+Art. 20
+(Variazioni nel rapporto lavorativo e revoca del nulla osta)
+1. Le eventuali variazioni concernenti il rapporto lavorativo di cui all’articolo 12, comma 1, lettera b), della Legge n. 118/2010 e successive modifiche devono essere comunicate tempestivamente dall’Ufficio del Lavoro alla Gendarmeria – Ufficio Stranieri.
+2. Nel caso in cui, successivamente al rilascio del nulla osta da parte dell’Ufficio del Lavoro, la Gendarmeria – Ufficio Stranieri rilevi una o più irregolarità nella documentazione necessaria all’ingresso dello straniero, l’Ufficio del Lavoro, a seguito di segnalazione da parte della Gendarmeria, provvede a revocare il nulla osta.
+3. Nei casi previsti dall’articolo 17, comma 4, lettera e), della Legge n. 118/2010 e successive modifiche, l’Ufficio del Lavoro - autonomamente ovvero a seguito di comunicazione da parte dell’autorità di polizia - provvede a revocare il nulla osta di lavoro.
+4. Ai sensi dell’articolo 18, comma 1, della Legge n. 118/2010 e successive modifiche la perdita del lavoro da parte dello straniero in possesso del permesso di soggiorno per motivi di lavoro rispetto alla data indicata nel nulla osta di avviamento al lavoro, dovuta a fatti non imputabili al lavoratore, deve intendersi quale cessazione anticipata del rapporto di lavoro. In tal caso, il lavoratore straniero in possesso di permesso di soggiorno per motivi di lavoro ha facoltà d’iscriversi entro dieci giorni dalla cessazione anticipata del rapporto di lavoro nella speciale lista di disponibilità istituita presso l’Ufficio del Lavoro per effettuare la stessa mansione precedentemente autorizzata e svolta, nel rispetto della normativa in materia di avviamento al lavoro, per la durata massima di tre mesi.
+5. L’iscrizione nella speciale lista avviene previa presentazione di:
+- documentazione atta a dimostrare la disponibilità di alloggio adeguato;
+- documentazione attestante l’avvenuto pagamento della quota capitaria.
+5 bis. La mancata iscrizione nella speciale lista di disponibilità comporta l’interruzione immediata del permesso di soggiorno per motivi di lavoro.

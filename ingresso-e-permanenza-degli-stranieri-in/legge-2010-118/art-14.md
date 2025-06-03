@@ -1,0 +1,17 @@
+Art. 14
+(Permesso di soggiorno straordinario per esigenze umanitarie di protezione sociale)
+1. Il permesso di soggiorno straordinario può essere concesso allo straniero in caso di particolari esigenze umanitarie di protezione sociale. Il permesso di soggiorno straordinario rilasciato per tali esigenze dà diritto all’erogazione di prestazioni sanitarie e di prestazioni economiche temporanee da parte dell’Istituto per la Sicurezza Sociale e dà la possibilità di lavorare in Repubblica.
+1-bis. Il permesso di soggiorno straordinario è rilasciato altresì alle vittime di tratta e alle vittime di violenza, così come definite dagli strumenti internazionali per la tutela dei diritti umani ratificati dalla Repubblica di San Marino, in considerazione della loro situazione personale e/o ai fini della loro collaborazione nell’ambito di indagini o di procedimenti penali. Il rilascio è subordinato al parere positivo dell’Authority per le Pari Opportunità che, anche avvalendosi dell’ausilio di uffici e servizi pubblici, potrà effettuare i necessari accertamenti.
+2. Il permesso di soggiorno straordinario è temporaneo. Può essere rinnovato annualmente fino al permanere delle esigenze di protezione sociale e, per le vittime di tratta e le vittime di violenza, è rinnovato sulla base delle indicazioni dell’Authority per le Pari Opportunità o dell’Autorità Giudiziaria.[^16]
+
+[^16]: Testo originario (Legge n.118/2010):
+    1. Il permesso di soggiorno straordinario può essere concesso allo straniero in caso di particolari esigenze umanitarie di protezione sociale. Il permesso di soggiorno straordinario rilasciato per tali esigenze dà diritto all’erogazione di prestazioni sanitarie e di prestazioni economiche temporanee da parte dell’Istituto per la Sicurezza Sociale e dà la possibilità di lavorare in Repubblica.
+    2. Il permesso di soggiorno straordinario è temporaneo e può essere rinnovato annualmente fino al permanere delle esigenze di protezione sociale.
+    Modifiche legislative:
+    Legge 30 luglio 2015 n.118, Articolo 19:
+    1. L’articolo 14 della Legge n.118/2010 e successive modifiche è così modificato:
+    “Art. 14
+    (Permesso di soggiorno straordinario per esigenze umanitarie di protezione sociale)
+    1. Il permesso di soggiorno straordinario può essere concesso allo straniero in caso di particolari esigenze umanitarie di protezione sociale. Il permesso di soggiorno straordinario rilasciato per tali esigenze dà diritto all’erogazione di prestazioni sanitarie e di prestazioni economiche temporanee da parte dell’Istituto per la Sicurezza Sociale e dà la possibilità di lavorare in Repubblica.
+    1-bis. Il permesso di soggiorno straordinario è rilasciato altresì alle vittime di tratta e alle vittime di violenza, così come definite dagli strumenti internazionali per la tutela dei diritti umani ratificati dalla Repubblica di San Marino, in considerazione della loro situazione personale e/o ai fini della loro collaborazione nell’ambito di indagini o di procedimenti penali. Il rilascio è subordinato al parere positivo dell’Authority per le Pari Opportunità che, anche avvalendosi dell’ausilio di uffici e servizi pubblici, potrà effettuare i necessari accertamenti.
+    2. Il permesso di soggiorno straordinario è temporaneo. Può essere rinnovato annualmente fino al permanere delle esigenze di protezione sociale e, per le vittime di tratta e le vittime di violenza, è rinnovato sulla base delle indicazioni dell’Authority per le Pari Opportunità o dell’Autorità Giudiziaria.”.
