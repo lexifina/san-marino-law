@@ -1,0 +1,4 @@
+Art. 7
+Ove tutta l'eredità o parte di essa od un legato fossero vincolati a condizione, la imposta è liquidata secondo i rapporti personali esistenti fra l'autore della successione e le persone alle quali l'eredità, in tutto od in parte, od il legato, si devolverebbero ove la condizione non si verificasse, ed è pagata dall'amministrazione dell'eredità con i fondi ereditari ed entro i limiti fissati dalla legge.
+Verificandosi in seguito la condizione, è riformata la liquidazione primitiva in base ai rapporti personali di parentela esistenti tra l'autore della successione e l'erede o legatario, e, secondo i casi, si fa luogo a supplemento o restituzione della differenza di imposta.
+La restituzione deve essere domandata entro sei mesi dal giorno della denuncia dell'avveramento della condizione, salvo sempre all'erede, da cui la prima imposta fosse stata pagata, il diritto di rivalsa verso l'erede od il legatario condizionati.

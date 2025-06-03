@@ -1,0 +1,7 @@
+Art. 12
+(Copie e duplicati)
+1. Le denunce di eredità ed i relativi allegati sono atti riservati. Il Conservatore può rilasciare informazioni e consentire l’accesso ai citati documenti solo al notaio denunciante ed agli altri soggetti di cui all’articolo 3, comma 2 e loro aventi causa.
+2. Il Conservatore può rilasciare copia autentica delle denunce di eredità ed eventualmente dei documenti a corredo, solo ai soggetti indicati al comma 1, a seguito del versamento, da parte del richiedente, dei prescritti diritti erariali e dell’imposta di bollo.
+3. Il legatario, che non abbia firmato la denuncia, ha diritto di accedere alla denuncia della successione che lo riguarda, al fine del pagamento delle imposte dovute ai sensi dell’articolo 6 della Legge n.84/1981 e può visionarla o di richiederne copia per estratto delle sole parti che lo riguardano.
+4. I soggetti di cui al comma 1 possono richiedere il rilascio del duplicato dei certificati di denunciata successione, a seguito del pagamento dei diritti di pratica e dell’imposta di bollo. Il legatario può ricevere copia del duplicato del certificato che menziona il suo legato o che dovrebbe menzionarlo, con omissione dei cespiti non soggetti a pubblicità.
+5. L’Archivista di Stato è tenuto agli stessi doveri per le denunce depositate dal Conservatore, fatta salva l’applicazione delle norme sulla consultabilità dei documenti versati all’Archivio.
