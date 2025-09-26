@@ -1,0 +1,8 @@
+Art. 14[^17]
+L'attività della pubblica amministrazione si conforma a criteri di legalità, imparzialità ed efficienza.
+La legge stabilirà l'obbligo della motivazione dei provvedimenti amministrativi, ed il contraddittorio con i soggetti interessati.
+I pubblici funzionari rispondono degli atti lesivi dei diritti dei cittadini, nei modi e limiti stabiliti dalla legge.
+
+[^17]: Testo originario (Legge n.59/1974):
+    L'attività della pubblica amministrazione si conforma a criteri di legalità, imparzialità ed efficienza. La legge stabilirà l'obbligo della motivazione dei provvedimenti amministrativi, ed il contraddittorio con i soggetti interessati.
+    I pubblici funzionari rispondono degli atti lesivi dei diritti dei cittadini, nei modi e limiti stabiliti dalla legge.
