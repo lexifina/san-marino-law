@@ -1,0 +1,6 @@
+Art. 6[^9]
+La Repubblica riconosce a tutti le libertà civili e politiche. In particolare, sono garantite le libertà della persona, del domicilio, di dimora ed espatrio, di riunione e d'associazione, di manifestazione del pensiero, di coscienza e di culto. E' tutelata la segretezza delle comunicazioni in qualsiasi modo esse avvengano. La legge potrà limitare l'esercizio di tali diritti solo in casi eccezionali per gravi motivi di ordine e di interesse pubblico.
+L'arte, la scienza e l'insegnamento sono liberi. La legge assicura ai cittadini il diritto allo studio libero e gratuito.
+
+[^9]: Testo originario (Legge n.59/1974):
+    La Repubblica riconosce a tutti le libertà civili e politiche. In particolare, sono garantite le libertà della persona, del domicilio, di dimora ed espatrio, di riunione e d'associazione, di manifestazione del pensiero, di coscienza e di culto. E' tutelata la segretezza delle comunicazioni in qualsiasi modo esse avvengano. La legge potrà limitare l'esercizio di tali diritti solo in casi eccezionali per gravi motivi di ordine e di interesse pubblico. L'arte, la scienza e l'insegnamento sono liberi. La legge assicura ai cittadini il diritto allo studio libero e gratuito.
