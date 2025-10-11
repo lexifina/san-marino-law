@@ -1,0 +1,2 @@
+# Preambolo
+Il Consiglio Grande e Generale, consapevole delle gloriose tradizioni di libertà e di democrazia della Repubblica, nel fermo proposito di ripudiare ogni concezione totalitaria dello Stato ed al fine di garantire al popolo sammarinese l'ulteriore progresso civile, sociale e politico nella continuità della vita dello Stato e delle sue istituzioni fondamentali, adotta la presente dichiarazione dei diritti dei cittadini e dei principi ai quali s'informa l'organizzazione e l'azione dei poteri costituzionali.
