@@ -1,0 +1,5 @@
+Art. 5
+(Disposizioni transitorie)
+1. Fino al 31 dicembre 2016 o comunque fino alla data di espletamento della prima sessione utile di esame di abilitazione professionale per organizzatore congressuale, è consentito, previa comunicazione all’Ufficio del Turismo, lo svolgimento di attività di organizzatore congressuale anche da parte di soggetti privi di abilitazione professionale, purché dipendenti di imprese organizzatrici di eventi costituite prima della data di entrata in vigore del presente decreto delegato nonché in possesso di adeguata esperienza professionale e dei requisiti di cui all’articolo 2, comma 2, del Decreto Delegato n.129/2013.
+2. In deroga a quanto previsto all’articolo 5, comma 1, lettera a) del Decreto Delegato n.129/2013, l’ammissione all’esame di abilitazione professionale per organizzatore congressuale è consentita anche a cittadini non sammarinesi purché già titolari di stabile rapporto di lavoro subordinato con imprese organizzatrici di eventi o legali rappresentanti delle stesse al momento dell’entrata in vigore del presente decreto delegato.
+## EVENTI

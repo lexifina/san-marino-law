@@ -1,0 +1,3 @@
+Art. 1
+(Finalità e scopo)
+1. Il presente decreto delegato, in attuazione dell’articolo 64 (Disposizioni per lo sviluppo del turismo matrimoniale) della Legge 23 dicembre 2014 n.219, allo scopo di promuovere la scelta della Repubblica come luogo di celebrazione del matrimonio civile, contiene disposizioni integrative alla Legge 26 aprile 1986 n.49 che consentono di ampliare le sedi di celebrazione del matrimonio civile, definire la equipollenza della certificazione necessaria ad attestare la libertà di stato e la mancanza di impedimenti al matrimonio dei nubendi cittadini stranieri, aumentare le figure istituzionali delegate alle funzioni di celebrante e alle funzioni di assistenza alla celebrazione del matrimonio civile.

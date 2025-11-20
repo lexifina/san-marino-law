@@ -1,0 +1,5 @@
+Art. 15
+(Diritti del consumatore in caso di annullamento del servizio)
+1. Se il pacchetto turistico viene cancellato prima della partenza per qualsiasi motivo, tranne che per colpa del consumatore, questi ha diritto nei confronti dell’agenzia di viaggio di usufruire di un altro pacchetto turistico di qualità equivalente o superiore senza supplemento di prezzo, o di un pacchetto turistico qualitativamente inferiore previa restituzione della differenza di prezzo, oppure gli è rimborsata, entro sette giorni lavorativi dal momento della cancellazione, la somma di danaro versata.
+2. Nei casi previsti dal comma 1 il consumatore ha diritto ad essere risarcito di ogni ulteriore danno dipendente dalla mancata esecuzione del contratto.
+3. Qualora la cancellazione del pacchetto turistico dipenda dal mancato raggiungimento del numero minimo di partecipanti eventualmente richiesto ed il consumatore sia stato informato per iscritto almeno venti giorni prima della data prevista per la partenza, oppure da causa di forza maggiore, questi ha diritto unicamente al rimborso delle somme eventualmente versate.

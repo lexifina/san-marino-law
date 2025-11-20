@@ -1,0 +1,28 @@
+Art. 24[^33]
+(Obblighi di denuncia)
+1. I gestori delle aziende ricettive di cui agli articoli 14, 15, 16, 17, 18 e 19 della Legge 27 gennaio 2006 n. 22, i proprietari di immobili o coloro che ne hanno il possesso in base alla legge o ad un contratto che ospitano e danno alloggio, a qualsiasi titolo oneroso o gratuito, ad uno straniero sono tenuti a richiedergli l'esibizione di un documento di identità in corso di validità ed a fargli declinare i dati anagrafici. Le generalità dello straniero, la durata ed i motivi del soggiorno in Repubblica, gli estremi del passaporto o del documento di identificazione, devono essere comunicati alla Gendarmeria-Ufficio Stranieri o alle singole Brigate della Gendarmeria entro 24 ore dall'arrivo, anche tramite fax o altri strumenti informatici che saranno previsti nel Regolamento di cui all'articolo
+36.
+2. I gestori delle aziende ricettive di cui agli articoli 14, 15, 16, 17, 18 e 19 della Legge 27 gennaio 2006 n. 22, sono, inoltre, tenuti ad annotare in appositi registri cartacei o informatici i dati anagrafici relativi agli ospiti alloggiati ed a esporre, in modo visibile, un cartello nel quale siano indicati gli obblighi gravanti sugli stranieri in relazione alla denuncia della propria presenza ed al soggiorno in Repubblica.
+3. Il cartello di cui al comma precedente è distribuito a cura della Gendarmeria-Ufficio Stranieri.
+
+[^33]: Sul punto, si vedano:
+    Articolo 20 della Legge 28 giugno 2010 n. 118 e successive modifiche:
+    Art.20
+    (Obblighi di denuncia)
+    1. I gestori delle aziende ricettive di cui agli articoli 14, 15, 16, 17, 18 e 19 della Legge 27 gennaio 2006 n. 22 sono tenuti a richiedere allo straniero l’esibizione di un documento di identità in corso di validità ed a fargli declinare i dati anagrafici. Le generalità dello straniero, la durata ed i motivi del soggiorno in Repubblica, gli estremi del passaporto o del documento di identificazione, devono essere comunicati alla Gendarmeria-Ufficio Stranieri o alle singole Brigate della Gendarmeria entro ventiquattro ore dall’arrivo, anche tramite fax o altri strumenti informatici che saranno previsti in apposito regolamento.
+    2. I gestori delle aziende ricettive di cui agli articoli 14, 15, 16, 17, 18 e 19 della Legge 27 gennaio 2006 n. 22, sono, inoltre, tenuti ad annotare in appositi registri cartacei o informatici i dati anagrafici relativi agli ospiti alloggiati ed a esporre, in modo visibile, un cartello nel quale siano indicati gli obblighi gravanti sugli stranieri in relazione alla denuncia della propria presenza ed al soggiorno in Repubblica.
+    3. Il cartello di cui al comma precedente è distribuito a cura della Gendarmeria-Ufficio Stranieri.
+    Decreto Delegato 22 gennaio 2016 n.5, Articolo 34:
+    Art.34
+    (Comunicazione alla Gendarmeria delle generalità dello straniero per i gestori delle aziende ricettive)
+    1. I gestori delle aziende ricettive di cui all’articolo 20 della Legge n.118/2010 e successive modifiche devono comunicare alla Gendarmeria – Ufficio Stranieri, entro ventiquattro ore dall’arrivo, le generalità dello straniero, la durata e i motivi del soggiorno in Repubblica, gli estremi del passaporto o di altro documento di identificazione. Sono esentati dall’ esibizione del documento di identità i minori di anni quindici, a condizione che il genitore o chi ne ha la tutela momentanea ne sottoscriva le generalità. Analogamente deve essere comunicata la data di partenza dello straniero nella giornata di partenza stessa.
+    2. Le comunicazioni avvengono tramite l’apposito sistema di banca dati informatica con connessione internet sicura.
+    3. Qualora non sia stata effettuata la comunicazione prevista dall’articolo 20, comma 1, della Legge n. 118/2010 e successive modifiche si presume, salvo prova contraria, che l’arrivo dello straniero sia precedente alle ventiquattro ore.
+    4. L’attrezzatura informatica locale e la connessione internet sono a carico dei gestori delle aziende ricettive. Compete agli stessi gestori adottare idonei criteri di sicurezza per i propri sistemi informatici a tutela della riservatezza dei dati.
+    5. Nel caso di utilizzo da parte del gestore di un proprio software di gestione delle registrazioni, è possibile utilizzare dati intermedi generati dal software stesso per la compilazione dei dati da inviare, previo accordo sul formato con la Gendarmeria
+    – Ufficio Stranieri.
+    6. La connessione internet sicura deve permettere l’identificazione del personale abilitato che effettua le registrazioni.
+    7. La comunicazione via internet sicura esenta le strutture ricettive dall’obbligo di compilazione e di invio del registro cartaceo.
+    8. A titolo di rimborso per le spese di manutenzione ordinaria del sistema informatico in uso da parte delle aziende ricettive è istituita una imposta annuale pari ad euro 60,00 (euro sessanta/00). Al pagamento della medesima si provvede al momento del rilascio delle credenziali di accesso al sistema presso la Gendarmeria – Ufficio Stranieri.
+    9. Sono esonerati dalla trasmissione dei dati relativi al documento di identificazione i membri dei gruppi di vacanze organizzate e i componenti i nuclei familiari, nel caso in cui la guida o il capo gruppo o il capofamiglia garantisca e sottoscriva le generalità degli altri stranieri componenti il gruppo o il nucleo familiare.
+    10. Nel caso in cui la Gendarmeria accerti l’uso scorretto di queste registrazioni, si applica la sanzione amministrativa prevista all’articolo 31, comma 1, della Legge n.118/2010 e successive modifiche.

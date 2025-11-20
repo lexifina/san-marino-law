@@ -1,0 +1,67 @@
+Art. 19
+(Le case religiose di ospitalità)
+1. Sono case religiose di ospitalità le strutture ricettive di proprietà di Enti ecclesiastici, caratterizzate da finalità religiose, socio culturali e ricreative, che offrono ospitalità a pagamento a chiunque lo richieda nel rispetto del carattere religioso dell'ospitalità stessa e con accettazione delle conseguenti regole di comportamento e limitazioni di servizio.
+2. Ai fini del presente regolamento sono considerati Enti Ecclesiastici gli enti riconosciuti in base al Decreto 30 giugno 1992 n.47 “Ratifica Accordo tra la Repubblica di San Marino e la Santa Sede” e relativo Protocollo Addizionale.
+3. Le case religiose di ospitalità devono assicurare i seguenti servizi minimi:
+a) accesso indipendente;
+b) superficie minima di 8 mq per le camere ad un letto e 10 mq per le camere a due letti, nel caso
+si tratti di strutture di tipo alberghiero dotate di camere con bagni annessi. In caso di
+camere/camerate aventi un numero superiore ai 4 posti letto e dotate di letti a castello, ove
+l'altezza media dei locali sia superiore a 2,70 m, il parametro superficie/posto letto a castello
+può essere ridotto a 4 mq;
+c) un wc e un bagno o doccia ogni otto posti letto con un minimo di un wc e un bagno o doccia per
+piano;
+d) locale soggiorno di ampiezza complessiva minima di 20 mq per i primi dieci posti letto e 0,5 mq
+per ogni posto letto in più;
+e) spazio adeguato per eventuale cucina comune;
+f) arredamento minimo delle camere da letto: un letto, una sedia, un comodino, uno scomparto
+armadio per persona, un tavolino ed un cestino rifiuti per ciascuna camera, fatto salvo il caso in
+cui si tratti di strutture dotate di camere/camerate munite di letti a castello ed aventi bagni in
+comune esterni alle camere stesse, per i quali può essere esclusa la presenza del comodino e
+ogni scomparto di armadio può essere condiviso in accordo, anche fra più persone;
+g) apparecchio telefonico ad uso comune;
+h) pulizia dei locali ad ogni cambio di cliente o comunque almeno una volta alla settimana, fatto
+salvo si tratti di strutture concesse in autogestione, per le quali la pulizia quotidiana e finale è
+affidata agli ospiti e la proprietà dovrà effettuare una pulizia generale ad ogni cambio di gruppo
+di ospiti;
+i) cambio della biancheria ad ogni cambio di cliente e comunque almeno una volta alla settimana;
+l) fornitura di energia elettrica, acqua fredda e calda e riscaldamento.
+4) L'autorizzazione all'esercizio di casa religiosa di ospitalità può comprendere la somministrazione di alimenti e bevande limitatamente alle sole persone alloggiate, nonché a coloro che possono utilizzare le strutture in conformità alle finalità sociali delle stesse. Nel caso si tratti di strutture concesse in autogestione, l’uso della cucina, la preparazione e somministrazione di alimenti e bevande sarà curata dagli utilizzatori della struttura, ovvero da ditte specializzate dagli utilizzatori appositamente scelte e remunerate.
+5) L'attività di casa religiosa di ospitalità è intrapresa previa denuncia di inizio attività all'[Ufficio di Stato per il Turismo][^105]. La denuncia di inizio attività deve essere completa del certificato di conformità edilizia relativo ai locali interessati all'esercizio di attività di casa religiosa di ospitalità.[^106]
+
+[^105]: La denominazione dell’Ufficio di Stato per il Turismo è stata aggiornata con Ufficio del Turismo. Per completezza si veda la nota all’articolo 4, comma 2 della Legge n.22/2006.
+[^106]: Testo originario (Regolamento n.3/2010)
+    Art. 19
+    1. Sono case religiose di ospitalità le strutture ricettive di proprietà di Enti ecclesiastici, caratterizzate da finalità religiose, che offrono ospitalità a pagamento a chiunque lo richieda nel rispetto del carattere religioso dell'ospitalità stessa e con accettazione delle conseguenti regole di comportamento e limitazioni di servizio. 2. Ai fini del presente regolamento sono considerati enti ecclesiastici gli enti riconosciuti in base al Decreto 30 giugno 1992 n. 47.
+    3. Le case religiose di ospitalità devono assicurare i seguenti servizi minimi:
+    a) accesso indipendente;
+    b) superficie minima di 8 mq per le camere ad un letto e 10 mq per le camere a due letti;
+    c) un wc e un bagno o doccia ogni otto posti letto con un minimo di un wc e un bagno o doccia per piano;
+    d) locale soggiorno di ampiezza complessiva minima di 20 mq per i primi dieci posti letto e 0,5 mq per ogni posto letto in più;
+    e) spazio adeguato per eventuale cucina comune;
+    f) arredamento minimo delle camere da letto: un letto, una sedia, un comodino, uno scomparto armadio per persona, un tavolino ed un cestino rifiuti per ciascuna camera;
+    g) apparecchio telefonico ad uso comune;
+    h) pulizia dei locali ad ogni cambio di cliente o comunque almeno una volta alla settimana;
+    i) cambio della biancheria ad ogni cambio di cliente e comunque almeno una volta alla settimana;
+    l) fornitura di energia elettrica, acqua fredda e calda e riscaldamento.
+    4. L'autorizzazione all'esercizio di casa religiosa di ospitalità può comprendere la somministrazione di alimenti e bevande limitatamente alle sole persone alloggiate, nonché a coloro che possono utilizzare le strutture in conformità alle finalità sociali delle stesse.
+    5. L'attività di casa religiosa di ospitalità è intrapresa previa denuncia di inizio attività all'Ufficio di Stato per il Turismo. La denuncia di inizio attività deve essere completa del certificato di conformità edilizia relativo ai locali interessati all'esercizio di attività di casa religiosa di ospitalità.
+    Modifiche legislative Regolamento 19 agosto 2020 n.6, articolo 1:
+    1. L’articolo 19 del Regolamento 8 giugno 2010 n.3 “Regolamento di attuazione sulle imprese ricettive di cui ai Titoli II e III della Legge n.22/2006 – Legge quadro sul Turismo” è così sostituito:
+    “Art. 19
+    (Le case religiose di ospitalità)
+    1. Sono case religiose di ospitalità le strutture ricettive di proprietà di Enti ecclesiastici, caratterizzate da finalità religiose, socio culturali e ricreative, che offrono ospitalità a pagamento a chiunque lo richieda nel rispetto del carattere religioso dell'ospitalità stessa e con accettazione delle conseguenti regole di comportamento e limitazioni di servizio.
+    2. Ai fini del presente regolamento sono considerati Enti Ecclesiastici gli enti riconosciuti in base al Decreto 30 giugno 1992 n.47 “Ratifica Accordo tra la Repubblica di San Marino e la Santa Sede” e relativo Protocollo Addizionale.
+    3. Le case religiose di ospitalità devono assicurare i seguenti servizi minimi:
+    a) accesso indipendente;
+    b) superficie minima di 8 mq per le camere ad un letto e 10 mq per le camere a due letti, nel caso si tratti di strutture di tipo alberghiero dotate di camere con bagni annessi. In caso di camere/camerate aventi un numero superiore ai 4 posti letto e dotate di letti a castello, ove l'altezza media dei locali sia superiore a 2,70 m, il parametro superficie/posto letto a castello può essere ridotto a 4 mq;
+    c) un wc e un bagno o doccia ogni otto posti letto con un minimo di un wc e un bagno o doccia per piano;
+    d) locale soggiorno di ampiezza complessiva minima di 20 mq per i primi dieci posti letto e 0,5 mq per ogni posto letto in più;
+    e) spazio adeguato per eventuale cucina comune;
+    f) arredamento minimo delle camere da letto: un letto, una sedia, un comodino, uno scomparto armadio per persona, un tavolino ed un cestino rifiuti per ciascuna camera, fatto salvo il caso in cui si tratti di strutture dotate di camere/camerate munite di letti a castello ed aventi bagni in comune esterni alle camere stesse, per i quali può essere esclusa la presenza del comodino e ogni scomparto di armadio può essere condiviso in accordo, anche fra più persone;
+    g) apparecchio telefonico ad uso comune;
+    h) pulizia dei locali ad ogni cambio di cliente o comunque almeno una volta alla settimana, fatto salvo si tratti di strutture concesse in autogestione, per le quali la pulizia quotidiana e finale è affidata agli ospiti e la proprietà dovrà effettuare una pulizia generale ad ogni cambio di gruppo di ospiti;
+    i) cambio della biancheria ad ogni cambio di cliente e comunque almeno una volta alla settimana;
+    l) fornitura di energia elettrica, acqua fredda e calda e riscaldamento.
+    4) L'autorizzazione all'esercizio di casa religiosa di ospitalità può comprendere la somministrazione di alimenti e bevande limitatamente alle sole persone alloggiate, nonché a coloro che possono utilizzare le strutture in conformità alle finalità sociali delle stesse. Nel caso si tratti di strutture concesse in autogestione, l’uso della cucina, la preparazione e somministrazione di alimenti e bevande sarà curata dagli utilizzatori della struttura, ovvero da ditte specializzate dagli utilizzatori appositamente scelte e remunerate.
+    5) L'attività di casa religiosa di ospitalità è intrapresa previa denuncia di inizio attività all'Ufficio di Stato per il Turismo. La denuncia di inizio attività deve essere completa del certificato di conformità edilizia relativo ai locali interessati all'esercizio di attività di casa religiosa di ospitalità.”.
