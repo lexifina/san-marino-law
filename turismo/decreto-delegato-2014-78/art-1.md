@@ -1,0 +1,6 @@
+## REGOLAMENTO PER LA CONCESSIONE DI CONTRIBUTI A PRIVATI PER EVENTI E MANIFESTAZIONI DI INTERESSE TURISTICO, CULTURALE, SPORTIVO. NORME IN MATERIA DI APERTURA SERALE DEGLI ESERCIZI COMMERCIALI DEL CENTRO STORICO DELLA CAPITALE E DISPOSIZIONI SUI COSTI PER L’USO DI SALE E SEDI PUBBLICHE E PER SERVIZI CONNESSI ALLA REALIZZAZIONE DI EVENTI E MANIFESTAZIONI DA PARTE DEI PRIVATI – ARTICOLO 62 DELLA LEGGE 20 DICEMBRE 2013 N. 174
+## Capo I REGOLAMENTAZIONE DELL’EROGAZIONE DI CONTRIBUTI PER EVENTI E MANIFESTAZIONI DI INTERESSE TURISTICO, CULTURALE E SPORTIVO
+Art. 1
+(Definizione e oggetto del contributo – finalità)
+1. Il Capo I del presente decreto delegato detta i criteri e le procedure di erogazione da parte delle Segreterie di Stato competenti, di contributi finanziari a sostegno di iniziative, eventi e manifestazioni promossi e organizzati da soggetti privati nei settori del turismo, della cultura e dello sport.
+2. Le presenti disposizioni sono dettate anche al fine di una migliore e necessaria programmazione, pianificazione e razionalizzazione delle risorse stanziate nei Bilanci di Previsione dello Stato destinate a sostenere meritevoli iniziative ed eventi promossi nei suddetti settori da soggetti privati, Enti, Federazioni sportive e Associazioni regolarmente iscritte nell’apposito Registro.

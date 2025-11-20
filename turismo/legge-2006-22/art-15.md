@@ -1,0 +1,11 @@
+Art. 15
+(Le strutture ricettive all’aria aperta)
+1. Sono strutture ricettive all’aria aperta i villaggi turistici ed i campeggi.
+2. Sono villaggi turistici gli esercizi ricettivi aperti al pubblico, a gestione unitaria, attrezzati su aree recintate per la sosta ed il soggiorno, in allestimenti aventi caratteristiche individuate nel regolamento d’attuazione, di turisti sprovvisti di norma di mezzi autonomi di pernottamento.
+3. Sono campeggi gli esercizi ricettivi aperti al pubblico, a gestione unitaria, allestiti ed attrezzati su aree recintate per la sosta ed il soggiorno temporaneo di turisti provvisti, di norma, di tende, caravan, autocaravan, mobil-house, maxicaravan, o altri mezzi mobili di pernottamento. Nei campeggi è consentita la presenza di tende, caravan e allestimenti stabili minimi installati a cura del gestore quali mezzi sussidiari di pernottamento, nel limite di una capacità ricettiva non superiore al 25% di quella complessiva dell’esercizio rapportata all’area utilizzabile.
+4. I campeggi e i villaggi turistici possono assumere la denominazione aggiuntiva di “Centro Vacanze”, qualora siano dotati di impianti sportivi, di intrattenimento e di svago con annessi servizi commerciali e di ristorazione.
+5. I villaggi turistici e i campeggi sono classificati per stelle. Le stelle sono attribuite in numero di 3, 2 e 1 secondo caratteristiche e requisiti di cui al settimo comma.
+6. La classifica viene attribuita su domanda inoltrata dalla persona fisica o giuridica interessata.
+7. Le caratteristiche e i requisiti strutturali e funzionali minimi per la classificazione sono determinati dal Regolamento di attuazione.
+8. Alla classificazione provvede la Commissione per la classificazione e vigilanza delle imprese ricettive, costituita secondo le modalità di cui all’articolo 20, secondo comma e disciplinate dal Regolamento di attuazione relativo.
+9. Nelle strutture ricettive di cui al presente articolo non sono soggetti a concessione od autorizzazione edilizia gli allestimenti mobili per il pernottamento, quali caravan, mobil-house, maxicaravan e simili installati dal gestore a servizio dei clienti, alle condizioni che non siano in alcun modo collegati permanentemente con il terreno e che il gestore garantisca, con impegno scritto, a pena di revoca dell’autorizzazione, la rotazione dei clienti.

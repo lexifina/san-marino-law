@@ -1,0 +1,24 @@
+Art. 19
+(Il "Bed & breakfast")
+1. La Repubblica di San Marino favorisce lo sviluppo della ricettività extra – alberghiera a carattere familiare ovvero imprenditoriale denominata “Bed & Breakfast”.
+2. Si definisce esercizio di “Bed & Breakfast familiare” l’attività ricettiva extra – alberghiera condotta da chi nella casa in cui abita e risiede anagraficamente, offre il servizio di alloggio e fornisce la prima colazione, in non più di quattro camere e per un massimo di dodici posti letto, con carattere saltuario o in determinati periodi dell’anno. L’esercizio di tale attività comporta l’obbligo di residenza e dimora del titolare nella casa adibita all’attività durante il periodo in cui si effettua il servizio. L’esercizio dell’attività è subordinato alla denuncia di inizio attività e non è soggetto al rilascio di licenza.
+3. Si definisce esercizio di “Bed & Breakfast imprenditoriale” l’attività ricettiva extra –alberghiera svolta, sia in forma individuale che societaria, in modo continuativo e professionale da chi fornisce alloggio e prima colazione in non più di sei camere e diciotto posti letto, anche avvalendosi della collaborazione di personale qualificato. L’esercizio di tale attività non comporta l’obbligo di residenza da parte dell’esercente all’interno della struttura adibita all’attività di “Bed & Breakfast imprenditoriale”, ed è subordinato al rilascio di una licenza da parte dell’UO Ufficio Attività Economiche.
+4. Condizione per l’esercizio dell’attività di “Bed & Breakfast” è il rispetto delle norme igienico-sanitarie, dei regolamenti edilizi e delle norme urbanistiche, nonché di quelle relative alle destinazioni d’uso proprie delle civili abitazioni.[^20]
+## TITOLO III
+NORME COMUNI ALLE IMPRESE RICETTIVE
+
+[^20]: Testo originario (Legge n.22/2006)
+    Art. 19
+    1. La Repubblica di San Marino favorisce lo sviluppo della ricettività alberghiera a carattere familiare denominata “Bed & Breakfast”.
+    2. Si definisce esercizio di “Bed & Breakfast”, l’attività ricettiva extra-alberghiera condotta da chi, nella casa in cui abita e risiede anagraficamente, offre un servizio di alloggio e fornisce la prima colazione, in non più di quattro camere per un massimo di dodici posti letto, con carattere saltuario o in determinati periodi dell’anno.
+    3. Condizione per l’esercizio dell’attività è il rispetto delle norme igienico-sanitarie, dei regolamenti edilizi e delle norme urbanistiche, nonché di quelle relative alle destinazioni d’uso proprie delle civili abitazioni, e comporta l’obbligo di dimora del titolare nella casa adibita all’attività durante il periodo in cui si effettua il servizio.
+    4. L’esercizio dell’attività è subordinato alla denuncia di inizio attività e non è soggetto al rilascio di licenza. Modalità, termini, procedure e sanzioni sono contenute nel Regolamento di attuazione.
+    Modifiche normative Decreto Delegato 25 agosto 2023 n.121, Articolo 2:
+    1. L’articolo 19 della Legge 27 gennaio 2006 n.22 è così sostituito:
+    “Art. 19
+    (Il "Bed & breakfast")
+    1. La Repubblica di San Marino favorisce lo sviluppo della ricettività extra – alberghiera a carattere familiare ovvero imprenditoriale denominata “Bed & Breakfast”.
+    2. Si definisce esercizio di “Bed & Breakfast familiare” l’attività ricettiva extra – alberghiera condotta da chi nella casa in cui abita e risiede anagraficamente, offre il servizio di alloggio e fornisce la prima colazione, in non più di quattro camere e per un massimo di dodici posti letto, con carattere saltuario o in determinati periodi dell’anno. L’esercizio di tale attività comporta l’obbligo di residenza e dimora del titolare nella casa adibita all’attività durante il periodo in cui si effettua il servizio. L’esercizio dell’attività è subordinato alla denuncia di inizio attività e non è soggetto al rilascio di licenza.
+    3. Si definisce esercizio di “Bed & Breakfast imprenditoriale” l’attività ricettiva extra –alberghiera svolta, sia in forma individuale che societaria, in modo continuativo e professionale da chi fornisce alloggio e prima colazione in non più di sei camere e diciotto posti letto, anche avvalendosi della collaborazione di personale qualificato. L’esercizio di tale attività non comporta l’obbligo di residenza da parte dell’esercente all’interno della struttura adibita all’attività di “Bed & Breakfast imprenditoriale”, ed è subordinato al rilascio di una licenza da parte dell’UO Ufficio Attività Economiche.
+    4. Condizione per l’esercizio dell’attività di “Bed & Breakfast” è il rispetto delle norme igienico-sanitarie, dei regolamenti edilizi e delle norme urbanistiche, nonché di quelle relative alle destinazioni d’uso proprie delle civili abitazioni.
+    5. Modalità, termini, procedure e sanzioni sono contenute nella Disciplina Attuativa di cui al Capo II del presente decreto delegato.”.

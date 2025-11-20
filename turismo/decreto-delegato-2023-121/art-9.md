@@ -1,0 +1,3 @@
+Art.9
+(Uffici competenti)
+1. Poiché le attività di “Bed & Breakfast” operano nel settore della ricettività extra-alberghiera, inserite nell’ambito della Legge Quadro sul Turismo, coloro che intendono intraprenderle dovranno essere a conoscenza e dovranno rispettare le norme che regolano le attività del settore, e in particolare i regolamenti di igiene alimentare e le più elementari norme di sicurezza e prevenzione collettiva e dovranno frequentare apposito corso di formazione e aggiornamento. L’autorizzazione ad esercitare l’attività di “Bed & Breakfast” prevede che i gestori si attengano alle direttive impartite dalle autorità competenti e agli indirizzi dell’UO Ufficio del Turismo.

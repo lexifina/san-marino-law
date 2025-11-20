@@ -1,0 +1,11 @@
+Art. 21
+(Licenza d’esercizio, denominazione, riconversione)
+1. L’esercizio delle attività ricettive è subordinato al rilascio di una licenza da parte dell’[Ufficio Industria, Artigianato e Commercio][^22] secondo le disposizioni di legge vigenti in materia di rilascio di patenti d’esercizio a persone fisiche e giuridiche, salvo quanto previsto dall’apposita legge per le strutture ricettive di cui all’articolo 18 e quanto disposto dall’articolo 19.
+2. La denominazione e la consistenza delle strutture ricettive e le relative variazioni contenute nell’atto di classificazione sono inserite nella licenza. La denominazione scelta per contrassegnare l’azienda è sottoposta ad approvazione dell’[Ufficio Industria, Artigianato e Commercio][^23], che può chiederne la modifica per evitare omonimie fra esercizi e/o indicazioni atte a indurre il turista in erronei convincimenti.
+3. Le strutture ricettive possono essere riconvertite da una tipologia all’altra fra quelle previste, fermi restando i vincoli previsti dalla presente legge e dai relativi Regolamenti attuativi.
+4. L’[Ufficio Industria, Artigianato e Commercio][^24] trasmette all’[Ufficio di Stato per il Turismo][^25] ed alla Gendarmeria le comunicazioni relative alle licenze, le sospensioni, le revoche e le cessazioni, nonché il cambio di titolarità; trasmette inoltre le informazioni relative ai periodi di apertura e chiusura, nonché le indicazioni sul gerente e/o preposto alla gestione della struttura ricettiva, comunicate dalle imprese ricettive ai sensi del Regolamento di attuazione.
+
+[^22]: La denominazione dell’Ufficio Industria, Artigianato e Commercio è stata aggiornata con Ufficio Attività Economiche. Per completezza si veda la nota all’articolo 13, comma 3 della Legge n.22/2006.
+[^23]: La denominazione dell’Ufficio Industria, Artigianato e Commercio è stata aggiornata con Ufficio Attività Economiche. Per completezza si veda la nota all’articolo 13, comma 3 della Legge n.22/2006.
+[^24]: La denominazione dell’Ufficio Industria, Artigianato e Commercio è stata aggiornata con Ufficio Attività Economiche. Per completezza si veda la nota all’articolo 13, comma 3 della Legge n.22/2006.
+[^25]: La denominazione dell’Ufficio di Stato per il Turismo è stata aggiornata con Ufficio del Turismo. Per completezza si veda la nota all’articolo 4, comma 2 della Legge n.22/2006.

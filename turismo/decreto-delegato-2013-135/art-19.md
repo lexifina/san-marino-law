@@ -1,0 +1,7 @@
+Art. 19
+(Disposizioni transitorie e finali)
+1. I soggetti che all’entrata in vigore del presente decreto esercitano legittimamente le attività turistiche congiunte di agenzia viaggio e tour operator in una unica sede, sono tenuti a separare le sedi entro sei mesi dall’entrata in vigore del presente decreto pena la sospensione della licenza d’esercizio.
+2. Le agenzie di viaggio e i tour operator già operanti in data precedente al presente decreto, sono tenute al deposito delle garanzie assicurative di cui all’articolo 2 entro il termine di sessanta giorni, pena la sospensione della licenza d’esercizio.
+3. I direttori tecnici delle imprese turistiche di intermediazione già costituite ed operanti all’entrata in vigore del presente decreto, sono iscritti d’ufficio nell’Elenco dei direttori tecnici di cui all’articolo 5 purché in possesso dei requisiti prescritti dalla Legge 27 gennaio 2006 n.22. Parimenti, le imprese turistiche di intermediazione che si costituiscono successivamente al presente decreto possono avvalersi di direttori tecnici non iscritti nell’Elenco di cui all’articolo 5, e fino al 31 dicembre 2016, e comunque fino agli esiti dell’espletamento della prima sessione utile dell’esame di abilitazione di cui al comma 1 dell’articolo 5, purché in possesso dei requisiti prescritti dalla Legge 27 gennaio 2006 n. 22.
+4. L'agenzia di viaggio ha l'obbligo di rispettare gli orari di apertura e chiusura giornalieri e settimanali esposti, secondo le vigenti leggi in materia.
+## LE PROFESSIONI TURISTICHE

@@ -1,0 +1,13 @@
+Art. 30
+(Norma Transitoria)
+1. Le imprese di intermediazione turistica, siano esse Agenzie di Viaggio e Turismo o Tour Operator, che, al momento dell’entrata in vigore della presente legge, esercitano una delle due attività in maniera disgiunta, sulla base della normativa precedente, possono continuare a svolgere tale attività previa comunicazione scritta all’[Ufficio Industria, Artigianato e Commercio][^41].
+2. Le imprese di intermediazione turistica che, al momento dell’entrata in vigore della presente legge, esercitano l’attività congiunta di Agenzia di Viaggio e Turismo e di Tour Operator, sulla base della normativa precedente, possono continuare a svolgere tale attività, previa comunicazione scritta
+42 all’[Ufficio Industria, Artigianato e Commercio] . Tali imprese devono però ubicare la sede dell’attività di Tour Operator in locali non aperti al pubblico e separati da quelli dove si svolge l’attività di Agenzia di Viaggio e Turismo. La separazione delle sedi deve avvenire entro sei mesi dall’entrata in vigore del Regolamento d’attuazione, previa verifica ed autorizzazione da parte dell’[Ufficio Industria, Artigianato e Commercio][^43].
+3. Le società che, al momento dell’entrata in vigore della presente legge, pur avendo ad oggetto l’esercizio di attività di intermediazione turistica non abbiano proceduto al ritiro della licenza ovvero non abbiano effettivamente avviato l’attività di intermediazione turistica, sulla base della normativa precedentemente in vigore, sono soggette alle disposizioni contenute nella presente legge. Conseguentemente, nel caso in cui le suddette società intendano avviare l’attività di intermediazione turistica devono optare tra l’esercizio dell’attività di Tour Operator di cui all’articolo 28, secondo e terzo comma e l’esercizio dell’attività di Agenzia di Viaggio di cui all’articolo 28, quarto e quinto comma.
+4. Le procedure, le modalità di verifica e le sanzioni applicabili in caso di inottemperanza alle prescrizioni di cui presente articolo sono contenute nel Regolamento di attuazione.
+## TITOLO V[^44]
+LE PROFESSIONI TURISTICHE
+
+[^41]: La denominazione dell’Ufficio Industria, Artigianato e Commercio è stata aggiornata con Ufficio Attività Economiche. Per completezza si veda la nota all’articolo 13, comma 3 della Legge n.22/2006.
+[^43]: La denominazione dell’Ufficio Industria, Artigianato e Commercio è stata aggiornata con Ufficio Attività Economiche. Per completezza si veda la nota all’articolo 13, comma 3 della Legge n.22/2006.
+[^44]: Si veda il Decreto Delegato 18 gennaio 2017 n.10 “Integrazione al regolamento di attuazione per la disciplina delle professioni turistiche di cui al Titolo V della Legge 27 gennaio 2006 n. 22 – Legge Quadro sul turismo della Repubblica di San Marino”.

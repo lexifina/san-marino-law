@@ -1,0 +1,6 @@
+Art. 11
+(Tesserino di riconoscimento)
+1. L’Ufficio del Turismo procede all’iscrizione nell’Albo Professionale degli Operatori turistici che hanno conseguito l’abilitazione, previo versamento della tassa di iscrizione annuale il cui importo è determinato dal Congresso di Stato su proposta del Dirigente dell’Ufficio del Turismo. Per il rinnovo, la tassa dovrà essere versata entro il 30 giugno di ogni anno all’Ufficio del Turismo. All’atto della richiesta di iscrizione, l’Operatore turistico deve sottoscrivere formale impegno di osservare tutte le disposizioni vigenti in materia di professione turistica e le norme deontologiche della professione di cui all’articolo 15.
+2. Dopo aver proceduto all’iscrizione all’Albo, l’Ufficio del Turismo rilascia il tesserino di riconoscimento (badge) sul quale sono riportati i dati anagrafici e la foto dell’Operatore turistico, la tipologia della figura professionale, il numero di iscrizione all’Albo nonché, limitatamente alla professione di guida turistica, le eventuali specializzazioni linguistiche.
+3. Il tesserino di riconoscimento (badge) è rinnovato ogni anno entro il 30 giugno a seguito del versamento della tassa di iscrizione annuale.
+4. L’Operatore turistico è tenuto a rendere sempre visibile durante l’esercizio dell’attività professionale il tesserino di riconoscimento.

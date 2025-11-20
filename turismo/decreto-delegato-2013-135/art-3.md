@@ -1,0 +1,9 @@
+Art. 3
+(Del Direttore Tecnico)
+1. Il direttore tecnico è il responsabile delle attività di agenzia di viaggio e di tour operator. La responsabilità di direzione tecnica dell’impresa turistica di intermediazione esercitata in forma individuale è assunta dal titolare dell’autorizzazione, purchè abbia la qualifica di direttore tecnico. Se l’attività di intermediazione turistica è svolta in forma societaria, la società titolare dell’agenzia di viaggio o del tour operator deve designare la persona fisica cui assegnare la qualifica di direttore tecnico.
+2. La direzione tecnica è esercitata in modo esclusivo e continuativo.
+3. Il direttore tecnico risponde in solido con il titolare dell’attività dell’agenzia o del tour operator.
+4. Il nome del direttore tecnico viene indicato nella licenza di esercizio e sulle proposte di viaggio.
+5. In caso di cessazione dell’attività da parte del direttore tecnico o di sua sospensione, il titolare dell’agenzia, se persona diversa dal direttore tecnico, è tenuto a darne immediata comunicazione all’[Ufficio Industria, Artigianato e Commercio][^145], provvedendo alla contestuale designazione di altra persona iscritta nell’Elenco di cui all’articolo 4. Qualora al verificarsi della sostituzione non vi sia alcun direttore tecnico abilitato iscritto nell’Elenco, è possibile designare temporaneamente, e comunque fino agli esiti dell’espletamento della prima sessione utile dell’esame di abilitazione di cui al comma 1 dell’articolo 5, il nominativo di un direttore tecnico che sia in possesso dei requisiti di cui al comma 2 dell’articolo 29 della Legge 27 gennaio 2006 n. 22.
+
+[^145]: La denominazione dell’Ufficio Industria, Artigianato e Commercio è stata aggiornata con Ufficio Attività Economiche. Per completezza si veda la nota all’articolo 13, comma 3 della Legge n.22/2006.
