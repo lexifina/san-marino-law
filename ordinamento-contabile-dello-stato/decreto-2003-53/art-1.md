@@ -1,0 +1,4 @@
+Art.1
+Contenuto del regolamento
+Il presente Regolamento di Contabilità contiene la prima parte delle disposizioni applicative della Legge 18 febbraio 1998 n.30 "Norme generali sull'ordinamento contabile dello Stato"; in particolare identifica le competenze e gli adempimenti dei soggetti preposti alla gestione del bilancio; indica gli strumenti di gestione, le procedure per la formazione e presentazione dei Bilanci e dei documenti contabili previsti dalla precitata Legge; precisa le modalità operative delle procedure amministrative e di controllo dei fatti della gestione finanziaria.
+Gli aspetti della programmazione, pianificazione, controllo di gestione, rendiconto generale, centri di costo, contabilità economico-patrimoniale e analitico-funzionale, vengono rinviati ad una successiva regolamentazione, che sarà riunita al presente Regolamento in un testo unico.

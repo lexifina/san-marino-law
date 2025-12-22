@@ -1,0 +1,8 @@
+Art.3
+Obblighi di informazione dei soggetti che fruiscono di contributi
+Fatto salvo quanto prescritto al primo comma dell'art. 3 della Legge 18 febbraio 1998 n.30, gli enti, le aziende, le associazioni, e le altre attività private con finalità economiche, sociali e culturali – che beneficiano in modo diretto di interventi pubblici sotto forma di contributi finanziari incentivanti lo sviluppo - sono tenuti a sottoporre, entro il 31 maggio di ogni anno, al Segretario di Stato che ha corrisposto il contributo una dettagliata relazione che illustri le attività realizzate o ancora in corso di preparazione ed attuazione nonché il relativo uso delle risorse assegnate, con particolare riferimento agli aspetti concernenti gli investimenti, l'occupazione e lo sviluppo produttivo.
+In presenza di erogazioni ripetitive, le stesse non potranno essere ulteriormente effettuate in mancanza del predetto adempimento in quanto la relazione deve costituire la base di valutazione delle nuove erogazioni in sede previsionale, al fine della correlazione dei contributi alle attività da svolgere ed agli obiettivi da perseguire.
+Non sono assoggettati agli obblighi previsti dal primo comma i beneficiari di contributi da considerarsi occasionali in quanto destinati a singole iniziative a sfondo sociale, culturale e simili.
+In questi ultimi casi, è sufficiente che i beneficiari dei contributi facciano pervenire una comunicazione in merito all'avvenuto svolgimento delle iniziative.
+Qualora i contributi siano stati erogati da più Dipartimenti, la relazione o la comunicazione di cui sopra devono essere inviate, oltre che ai Segretari di Stato interessati, anche al Segretario di Stato per le Finanze e Bilancio.
+Sezione II - Principi contabili

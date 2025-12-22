@@ -1,0 +1,4 @@
+## REVISIONE DEL REGOLAMENTO DI CONTABILITÀ
+Art. 11
+(Deroghe alle procedure operative)
+1. Fatto salvo quanto previsto dall’articolo 62 del predetto Decreto n. 53/2003, il Nucleo per la tenuta del sistema di gestione documentale ed il Nucleo per la tenuta del protocollo informatico, della gestione dei flussi documentali e degli archivi di concerto con la Direzione della Finanza Pubblica e la Contabilità di Stato hanno facoltà di autorizzare deroghe alle procedure operative di cui al Decreto n. 53/2003, come già modificato dal Decreto n. 75/2004 e dai superiori articoli, qualora la deroga si renda utile o necessaria per consentire la gestione informatizzata del procedimento di gestione delle entrate e delle spese afferenti al Bilancio dello Stato.

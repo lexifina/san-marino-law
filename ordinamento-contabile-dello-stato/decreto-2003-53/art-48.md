@@ -1,0 +1,20 @@
+Art.48
+Autorizzazioni
+Le autorizzazioni alle missioni e trasferte di cui al Titolo II della Legge 18 marzo 1997 n.37 sono rilasciate su apposito modulo, il quale deve contenere le seguenti indicazioni: lo scopo della missione; il giorno e l'ora di partenza; il giorno di rientro e, se possibile, l'ora prevista; se il dipendente può o meno fare uso del proprio mezzo di trasporto. I Segretari di Stato hanno facoltà di delegare ai Direttori di Dipartimento la competenza autorizzativa alle missioni e trasferte dei Dirigenti, di cui all’articolo 11, secondo comma, lettera a) della Legge 18 marzo 1997 n.37.[^32]
+Il dipendente che - senza averne avuta specifica autorizzazione - preferisce utilizzare la propria autovettura è rimborsato del solo prezzo dei biglietti di viaggio su mezzi di linea.
+Qualora la missione o trasferta abbia una durata superiore a quella prevista, il Dirigente deve giustificare il ritardato rientro ai fini della completa liquidazione delle competenze e dei rimborsi richiesti.
+Le spese rimborsate a piè di lista devono essere debitamente documentate, a meno che sussistano validi motivi che non lo consentono, nel qual caso il Segretario di Stato competente annota sul modulo della trasferta espressa autorizzazione al pagamento delle spese non documentate.
+Se le spese sono difficilmente documentabili, la valutazione della loro congruità e giustificazione è rimessa al Coordinatore di Dipartimento, che deve esprimere anche esplicita motivata autorizzazione al pagamento. All'occorrenza detta autorizzazione è rilasciata dal Segretario di Stato competente.
+In caso di smarrimento del biglietto di viaggio, l'interessato, dimostrata l'effettuazione della trasferta, può produrre la fattura del rivenditore corredata da una dichiarazione di smarrimento.
+Qualora lo smarrimento riguardi altra documentazione comprovante le spese sostenute, si procede caso per caso, previo parere della Commissione di Controllo della Finanza Pubblica.
+
+[^32]: Testo originario Art.48
+    Le autorizzazioni alle missioni e trasferte di cui al Titolo II della Legge 18 marzo 1997 n.37 sono rilasciate su apposito modulo, il quale deve contenere le seguenti indicazioni: lo scopo della missione; il giorno e l'ora di partenza; il giorno di rientro e, se possibile, l'ora prevista; se il dipendente può o meno fare uso del proprio mezzo di trasporto. Il dipendente che - senza averne avuta specifica autorizzazione - preferisce utilizzare la propria autovettura è rimborsato del solo prezzo dei biglietti di viaggio su mezzi di linea.
+    Qualora la missione o trasferta abbia una durata superiore a quella prevista, il Dirigente deve giustificare il ritardato rientro ai fini della completa liquidazione delle competenze e dei rimborsi richiesti.
+    Le spese rimborsate a piè di lista devono essere debitamente documentate, a meno che sussistano validi motivi che non lo consentono, nel qual caso il Segretario di Stato competente annota sul modulo della trasferta espressa autorizzazione al pagamento delle spese non documentate.
+    Se le spese sono difficilmente documentabili, la valutazione della loro congruità e giustificazione è rimessa al Coordinatore di Dipartimento, che deve esprimere anche esplicita motivata autorizzazione al pagamento. All'occorrenza detta autorizzazione è rilasciata dal Segretario di Stato competente.
+    In caso di smarrimento del biglietto di viaggio, l'interessato, dimostrata l'effettuazione della trasferta, può produrre la fattura del rivenditore corredata da una dichiarazione di smarrimento.
+    Qualora lo smarrimento riguardi altra documentazione comprovante le spese sostenute, si procede caso per caso, previo parere della Commissione di Controllo della Finanza Pubblica.
+    Modifiche legislative DECRETO DELEGATO 13 novembre 2020 n.200
+    “1. All’articolo 48, primo comma del Decreto n.53/2003 è aggiunto il seguente periodo:
+    “I Segretari di Stato hanno facoltà di delegare ai Direttori di Dipartimento la competenza autorizzativa alle missioni e trasferte dei Dirigenti, di cui all’articolo 11, secondo comma, lettera a) della Legge 18 marzo 1997 n.37.”.

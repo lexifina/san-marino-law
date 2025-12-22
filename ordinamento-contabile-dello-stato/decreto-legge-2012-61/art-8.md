@@ -1,0 +1,6 @@
+## INTERVENTI URGENTI A SOSTEGNO DEL SISTEMA ECONOMICO E DISPOSIZIONI FISCALI DIVERSE
+Art. 8
+Al fine di supportare i processi di riorganizzazione del settore bancario, il termine di cui all’articolo 8 del Decreto - Legge 25 novembre 2009 n.158, è esteso al 31 dicembre 2012.
+Ad integrazione dell’articolo 1 del Decreto Legge 11 ottobre 2011 n.169 previo parere del Comitato Credito e Risparmio possono accedere ai benefici fiscali e alle facilitazioni creditizie in esso disciplinate anche le Banche che, nell’ambito di operazioni autorizzate dalla Banca Centrale, acquisiscono le passività di soggetti bancari sammarinesi posti in regime di amministrazione straordinaria.
+Le disposizioni di cui all’articolo 27 della Legge 18 febbraio 1998 n.30 si applicano anche nei casi in cui le maggiori entrate siano costituite da proventi derivanti da provvedimenti disposti dall’autorità giudiziaria di confisca di somme in denaro in favore dell’Erario.
+Le disposizioni di cui al precedente comma 3 si applicano nelle modalità stabilite dall’articolo 27 della Legge 18 febbraio 1998 n.30, fatto salvo il rispetto dell’equilibrio di bilancio e nei limiti della disponibilità per l’Erario delle somme oggetto di confisca.
