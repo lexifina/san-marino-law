@@ -1,0 +1,2 @@
+Art. 12
+In deroga all'articolo 34 della Legge 25 luglio 2003 n. 99, come modificato dal precedente art. 1, i pagamenti effettuati mediante l'utilizzo dei fondi a rendere, di cui all'art. 29 del Regolamento di Contabilità approvato con Decreto 24 aprile 2003 n. 53, sono assoggettati al bollo di quietanza quando superano l'ammontare di € 260,00; in tal caso l'ammontare dell'imposta da riscuotere mediante marca da bollo deve essere sempre arrotondato per eccesso fino al raggiungimento del valore della marca da bollo.

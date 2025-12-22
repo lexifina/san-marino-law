@@ -1,0 +1,5 @@
+Art.4
+(Istruttoria della domanda - Comitato)
+1. La domanda di contributo, corredata dalla documentazione richiesta dall’articolo 3 e da ogni ulteriore informazione necessaria, ivi compresa l’indicazione del budget di spesa complessivo suddiviso per singole voci, è soggetta alla istruttoria e valutazione tecnica di congruità delle spese preventivate di un apposito Comitato di nomina congressuale. Il Comitato trasmette gli esiti della propria valutazione tecnica al Segretario di Stato competente per la decisione di assegnazione del contributo richiesto e per la quantificazione dello stesso.
+2. Il Comitato di nomina congressuale è composto dal Dirigente dell’Ufficio del Turismo e dell’Ufficio Attività Sociali e Culturali e da rappresentanti della Segreteria di Stato al Turismo, della
+3. Segreteria di Stato alla Cultura e della Segreteria di Stato con delega allo Sport, da un rappresentante delle Associazioni di categoria del settore turistico commerciale e dal Presidente della Consulta delle Associazioni.
