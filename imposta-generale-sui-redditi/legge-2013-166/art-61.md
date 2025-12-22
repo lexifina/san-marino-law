@@ -1,0 +1,5 @@
+Art. 61
+(Detassazione degli utili reinvestiti)
+1. Gli utili annuali di bilancio, conseguiti dai soggetti che svolgono attività di impresa indipendentemente dalla forma giuridica e purché in regime di contabilità ordinaria, utilizzati per interventi di investimento in beni strumentali nella stessa impresa, non costituiscono reddito imponibile agli effetti delle imposte dirette, secondo le disposizioni di cui ai successivi articoli.
+2. Le presenti disposizioni si applicano alle imprese che, alla data della presentazione del progetto di cui all’articolo 65 abbiano almeno cinque dipendenti assunti con contratto di lavoro a tempo indeterminato o tre dipendenti purché sammarinesi o residenti assunti con contratto di lavoro a tempo indeterminato; qualora nel periodo di durata del progetto il numero dei predetti dipendenti divenga inferiore a cinque o alle tre unità i benefici decadono interamente con gli effetti di cui all’articolo 67.
+3. La detassazione di cui al presente articolo è ammessa anche per le imprese in regimi contabili diversi, a condizione che dall’esercizio successivo a quello dell’approvazione del progetto le imprese adottino la contabilità ordinaria.
