@@ -1,0 +1,12 @@
+## BILANCI DI PREVISIONE DELLO STATO E DEGLI ENTI PUBBLICI PER L’ESERCIZIO FINANZIARIO 2014 E BILANCI PLURIENNALI 2014/2016
+Art.37
+(Prestazioni sanitarie e di sicurezza sociale)
+1. A parziale deroga di quanto previsto dal Decreto 26 marzo 1996 n.37 e successive modifiche, sono esclusi, a decorrere dal 1° Gennaio 2014 i rimborsi relativi alle cure odontoiatriche.
+2. Le prestazioni odontoiatriche di estrazione, otturazione e correlate ad eventuali patologie gengivali e quelle in favore degli ospiti della Casa di Riposo e dei titolari di pensione sociale erogate fino al 31 dicembre 2013 dall’ambulatorio odontoiatrico dell’Istituto per la Sicurezza Sociale, saranno garantite attraverso la stipula di apposite convenzioni tra l’Istituto per la Sicurezza Sociale e gli studi odontoiatrici autorizzati sul territorio.
+3. A parziale deroga di quanto previsto dal Decreto 26 marzo 1996 n.37, dal Decreto 31 marzo 2005 n.49 e dall’articolo 50 della Legge 21 dicembre 2012 n.150, sono esclusi, a decorrere dal 1° gennaio 2014 i rimborsi relativi alle cure termali.
+4. Annualmente l’Ufficio Tributario in accordo con l’I.S.S. emana apposita circolare per definire il tipo di cure odontoiatriche e termali, di cui i commi precedenti, che rientrano nelle spese deducibili previste all’articolo 14, comma 1), lettera b) della Legge 16 dicembre 2013 n.166.
+5. Con decorrenza 1° gennaio 2014, il terzo comma dell’articolo 4 della Legge 28 settembre 1992 n.80, è sostituito dal seguente:
+“Ove le pensioni e gli altri redditi non siano sufficienti, la differenza dell’importo della retta e quanto corrisposto dall’anziano è posta a carico dei famigliari fino al secondo grado di parentela, anche se non conviventi”.
+6. Con decorrenza 1° gennaio 2014, all’ultimo comma dell’articolo 4 della Legge 28 settembre 1992 n.80, viene aggiunto il comma che segue:
+“Entro il 31 marzo di ogni anno il Congresso di Stato, su conforme proposta del Comitato Esecutivo, sentito il parere della Consulta sanitaria, provvederà all’aggiornamento delle quote relative alla rette della Casa di Riposo e del Servizio Territoriale Domiciliare dell’I.S.S.”.
+7. Con decorrenza 1° gennaio 2014 le certificazioni sanitarie richieste dagli assistiti ad uso privato, ivi comprese le certificazioni ad uso attività sportiva non agonistica, sono rilasciate dai medici della U.O.C. Cure Primarie e Salute Territoriale dietro pagamento di un contributo. Si dà mandato al Comitato Esecutivo dell’I.S.S. di determinare l’entità del contributo e le tipologie delle certificazioni sanitarie soggette allo stesso.

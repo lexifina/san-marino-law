@@ -1,0 +1,42 @@
+Art. 46
+(Determinazione del reddito)
+1. Il reddito d’impresa è costituito dagli utili netti realizzati nel periodo d’imposta, risultanti dalla differenza fra l’ammontare dei ricavi comunque conseguiti e l’ammontare dei costi inerenti relativi al periodo d’imposta, apportando le variazioni in aumento o in diminuzione conseguenti all’applicazione delle norme contenute nella presente legge.
+2. I ricavi, gli altri proventi di ogni genere e le rimanenze concorrono a formare il reddito a prescindere dalla loro iscrizione nei registri fiscali. Le spese e gli altri componenti negativi sono ammessi in deduzione solo se e nella misura in cui risultino imputati nei registri fiscali relativi all’esercizio di competenza, fatti salvi quelli imputati al conto economico di un esercizio precedente, se la deduzione sia stata rinviata in conformità delle disposizioni tributarie, e quelli che, pur non essendo imputabili al conto economico, siano deducibili per disposizione di legge.
+3. Concorrono a formare il reddito le sopravvenienze attive, il valore normale dei prodotti dell’impresa assegnati ai soci o destinati a finalità estranee all’impresa, nonché le plusvalenze dei beni relativi all’impresa diversi da quelli al cui scambio o alla cui produzione sia diretta l’attività dell’impresa nel periodo di imposta in cui siano realizzate.
+4. I componenti del reddito derivanti da operazioni con società che direttamente o indirettamente controllino l’impresa, ne siano controllate o siano controllate dalla stessa società che controlla l’impresa, sono valutati in base al valore normale dei beni ceduti, dei servizi prestati e dei beni e servizi ricevuti, se ne deriva aumento del reddito. La stessa disposizione si applica anche se ne deriva una diminuzione del reddito e può essere riconosciuta soltanto nei seguenti casi:
+a) in esecuzione degli accordi conclusi con le autorità competenti degli Stati esteri, a
+seguito delle speciali procedure amichevoli previste dalle convenzioni
+internazionali contro le doppie imposizioni sui redditi;
+b) a seguito di istanza del contribuente a fronte di una rettifica in aumento definitiva
+e conforme al principio di libera concorrenza effettuata da uno Stato con il quale è
+in vigore una convenzione per evitare le doppie imposizioni sui redditi che
+consenta un adeguato scambio di informazioni. Con circolare dell’UO Ufficio
+Tributario sono definite le modalità applicative.
+5. La perdita documentata di un periodo d’imposta, determinata in base alle disposizioni del presente Titolo III, può essere computata, senza alcun limite di tempo, in diminuzione del reddito dei periodi d’imposta successivi in misura non superiore al 70 per cento del reddito imponibile d’impresa per ciascun periodo d’imposta.
+5 bis. Non concorrono alla formazione del reddito i componenti positivi e negativi che risultano dalla valutazione delle cripto-attività alla chiusura del periodo d'imposta, a prescindere dall'imputazione a conto economico.
+6. La rettifica da parte dell’Ufficio Tributario delle valutazioni fatte dal contribuente in un esercizio ha effetto anche per gli esercizi successivi. L’Ufficio Tributario tiene conto delle rettifiche operate e procede direttamente nel rettificare le valutazioni relative agli esercizi successivi.[^28]
+
+[^28]: Testo originario (Legge n.166/2013):
+    Art.46
+    (Determinazione del reddito)
+    1. Il reddito d’impresa è costituito dagli utili netti realizzati nel periodo d’imposta, risultanti dalla differenza fra l’ammontare dei ricavi comunque conseguiti e l’ammontare dei costi inerenti relativi al periodo d’imposta, apportando le variazioni in aumento o in diminuzione conseguenti all’applicazione delle norme contenute nella presente legge.
+    2. I ricavi, gli altri proventi di ogni genere e le rimanenze concorrono a formare il reddito a prescindere dalla loro iscrizione nei registri fiscali. Le spese e gli altri componenti negativi sono ammessi in deduzione solo se e nella misura in cui risultino imputati nei registri fiscali relativi all’esercizio di competenza, fatti salvi quelli imputati al conto economico di un esercizio precedente, se la deduzione sia stata rinviata in conformità delle disposizioni tributarie, e quelli che, pur non essendo imputabili al conto economico, siano deducibili per disposizione di legge.
+    3. Concorrono a formare il reddito le sopravvenienze attive, il valore normale dei prodotti dell’impresa assegnati ai soci o destinati a finalità estranee all’impresa, nonché le plusvalenze dei beni relativi all’impresa diversi da quelli al cui scambio o alla cui produzione sia diretta l’attività dell’impresa nel periodo di imposta in cui siano realizzate.
+    4. I componenti del reddito derivanti da operazioni con società che direttamente o indirettamente controllino l’impresa, ne siano controllate o siano controllate dalla stessa società che controlla l’impresa, sono valutati in base al valore normale dei beni ceduti, dei servizi prestati e dei beni e servizi ricevuti, se ne deriva aumento del reddito; la stessa disposizione si applica anche se ne deriva una diminuzione del reddito, ma soltanto in esecuzione degli accordi conclusi con le autorità competenti degli Stati esteri, a seguito delle speciali procedure amichevoli previste dalle convenzioni internazionali contro le doppie imposizioni sui redditi.
+    5. La perdita documentata di un periodo d’imposta, determinata in base alle norme del presente Titolo, può essere portata in deduzione dal reddito imponibile nella misura massima dell’80% nei tre periodi d’imposta successivi.
+    6. La rettifica da parte dell’Ufficio Tributario delle valutazioni fatte dal contribuente in un esercizio ha effetto anche per gli esercizi successivi. L’Ufficio Tributario tiene conto delle rettifiche operate e procede direttamente nel rettificare le valutazioni relative agli esercizi successivi.
+    Modifiche legislative:
+    Decreto Delegato 25 ottobre 2023 n.150, Articolo 30, comma 6 (abrogato dall’articolo 37 comma 6 del Decreto Delegato 29 agosto 2024 n.138):
+    6. Dopo il comma 5, dell’articolo 46 della Legge n.166/2013, è aggiunto il seguente comma 5 bis:
+    “5 bis. Non concorrono alla formazione del reddito i componenti positivi e negativi che risultano dalla valutazione delle cripto-attività alla chiusura del periodo d'imposta, a prescindere dall'imputazione a conto economico.”.
+    Decreto Delegato 29 agosto 2024 n.138, Articolo 30, comma 6:
+    6. Dopo il comma 5, dell’articolo 46 della Legge n.166/2013, è aggiunto il seguente comma 5 bis:
+    “5 bis. Non concorrono alla formazione del reddito i componenti positivi e negativi che risultano dalla valutazione delle cripto-attività alla chiusura del periodo d'imposta, a prescindere dall'imputazione a conto economico.”.
+    Legge 3 marzo 2025 n.30, Articolo 28, comma 1:
+    1. Il comma 4 dell’articolo 46 della Legge 166/2013 è così sostituito:
+    “4. I componenti del reddito derivanti da operazioni con società che direttamente o indirettamente controllino l’impresa, ne siano controllate o siano controllate dalla stessa società che controlla l’impresa, sono valutati in base al valore normale dei beni ceduti, dei servizi prestati e dei beni e servizi ricevuti, se ne deriva aumento del reddito. La stessa disposizione si applica anche se ne deriva una diminuzione del reddito e può essere riconosciuta soltanto nei seguenti casi:
+    a) in esecuzione degli accordi conclusi con le autorità competenti degli Stati esteri, a seguito delle speciali procedure amichevoli previste dalle convenzioni internazionali contro le doppie imposizioni sui redditi;
+    b) a seguito di istanza del contribuente a fronte di una rettifica in aumento definitiva e conforme al principio di libera concorrenza effettuata da uno Stato con il quale è in vigore una convenzione per evitare le doppie imposizioni sui redditi che consenta un adeguato scambio di informazioni. Con circolare dell’UO Ufficio Tributario sono definite le modalità applicative.”.
+    Legge 12 novembre 2025 n.141, Articolo 16:
+    1. Il comma 5, dell’articolo 46 della Legge n.166/2013 è così modificato:
+    “5. La perdita documentata di un periodo d’imposta, determinata in base alle disposizioni del presente Titolo III, può essere computata, senza alcun limite di tempo, in diminuzione del reddito dei periodi d’imposta successivi in misura non superiore al 70 per cento del reddito imponibile d’impresa per ciascun periodo d’imposta.”.

@@ -1,0 +1,10 @@
+Art. 3
+(Rimborso canone mensile gestione servizio circuito SMaC Card e modalità operative)
+1. E’ riconosciuto un rimborso di 10,00 euro al mese per ogni POS fisico soggetto al canone di gestione del servizio SMaC Card, sia che il POS operi per la sola funzionalità fiscale ai fini della certificazione dei ricavi degli operatori economici in via telematica introdotte con Decreto Delegato del 3 novembre 2014 n. 176, che per la funzionalità di gestione della scontistica. Il rimborso è in favore di ogni operatore economico o Ente pubblico o assimilato o enti o associazione giuridicamente riconosciuti e senza scopo di lucro.
+2. Il Servizio SMaC, del Dipartimento Finanze e Bilancio, liquida mensilmente al Centro Servizi srl l’importo corrispondente al rimborso unitario di 10,00 euro per il numero di POS fisici operanti sul circuito SMaC Card nel mese precedente. Il rimborso sarà riconosciuto per l’anno 2015.
+3. In caso di disdetta del servizio da parte dell’esercente il rimborso è corrisposto per l’intero mese in cui è operante la disdetta.
+3 bis. Eventuali miglioramenti contrattuali nella gestione dei canoni del Servizio SMaC Card, convenuti con Centro Servizi S.r.l., saranno esclusivamente destinati al contenimento dell’importo del rimborso unitario riconosciuto dallo Stato per singolo POS previsto al comma 1 del presente articolo fermo restando il mantenimento dello stesso costo in capo all’operatore economico.[^100]
+
+[^100]: Testo originario (Regolamento 28 gennaio 2019 n.2), Articolo Unico:
+    1. Dopo il comma 3, dell’articolo 3, del Regolamento 20 febbraio 2015 n.3 è aggiunto il comma 3 bis:
+    “3 bis Eventuali miglioramenti contrattuali nella gestione dei canoni del Servizio SMaC Card, convenuti con Centro Servizi S.r.l., saranno esclusivamente destinati al contenimento dell’importo del rimborso unitario riconosciuto dallo Stato per singolo POS previsto al comma 1 del presente articolo fermo restando il mantenimento dello stesso costo in capo all’operatore economico”.”

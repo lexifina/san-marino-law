@@ -1,0 +1,5 @@
+Art. 85
+(Certificazione dei redditi di lavoro dipendente e dei redditi da pensione)
+1. Tutti i datori di lavoro, compresa la Pubblica Amministrazione e gli enti del settore pubblico allargato, nonché gli enti previdenziali eroganti redditi da pensione, sono tenuti a trasmettere all’Ufficio Tributario, attraverso l’applicativo informatico per l’acquisizione delle dichiarazioni dei redditi, le informazioni relative ai redditi di lavoro e da pensione erogati ai contribuenti ed alle relative ritenute alla fonte operate ai sensi del Titolo VIII della presente legge.
+2. La trasmissione deve avvenire entro il 15 aprile. Con la corretta trasmissione delle informazioni di cui al comma precedente è soddisfatta la condizione ai fini dell’eventuale esonero dalla presentazione della dichiarazione prevista dal precedente articolo 84.
+3. Il datore di lavoro, con l’eccezione della Pubblica Amministrazione e degli enti del settore pubblico allargato, è comunque tenuto a consegnare al lavoratore dipendente copia cartacea del certificato di cui al precedente comma 1 unitamente all’attestazione di avvenuta acquisizione da parte dell’Ufficio Tributario.

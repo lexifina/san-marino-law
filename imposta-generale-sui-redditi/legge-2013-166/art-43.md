@@ -1,0 +1,6 @@
+Art. 43
+(Applicazione dell’imposta)
+1. L’imposta generale sui redditi di cui al presente Titolo III è determinata applicando l’aliquota proporzionale, nella misura del 17%, al reddito imponibile calcolato a norma degli articoli seguenti. La misura di tale aliquota è modificabile con decreto delegato.[^27]
+
+[^27]: Si veda la Legge 12 novembre 2025 n.141, Articolo 54, comma 6:
+    6. In via straordinaria e meramente transitoria per i periodi d’imposta 2026, 2027, 2028, 2029 e 2030, l’imposta IGR sui redditi di cui agli articoli 13, comma 1, lettere a) e l) e 43 della Legge n.166/2013 e successive modifiche, è determinata applicando l’aliquota proporzionale nella misura del 18 per cento, in luogo del 17 per cento. Il maggior gettito fiscale derivante dal predetto aumento è destinato ad investimenti infrastrutturali per il paese ed alla diminuzione del debito pubblico. A tal fine e, quale vincolo all’utilizzo del maggior gettito, saranno istituiti nel bilancio dello Stato appositi capitoli di spesa, in capo al Dipartimento Economia e Finanze, nei quali, in sede di predisposizione della legge di bilancio previsionale dello Stato, è stanziata la somma corrispondente alla stima del maggior gettito.

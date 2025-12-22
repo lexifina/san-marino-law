@@ -1,0 +1,5 @@
+Art. 82
+(Disposizioni finali e comuni agli articoli del Titolo V)
+1. Alle fusioni ed alle scissioni si applicano in quanto compatibili le disposizioni di cui al precedente articolo 76 quando le suddette operazioni straordinarie coinvolgono società assoggettate a regimi fiscali diversi.
+2. E’ ammessa per la società incorporante o risultante dalla fusione, o per la società beneficiaria risultante dalle operazioni di scissione, la facoltà di esercizio dell’opzione di cui al precedente articolo 79, comma 3, alle medesime condizioni e termini ivi stabiliti al fine di ottenere il riconoscimento fiscale dei maggiori valori iscritti in bilancio a seguito di tali operazioni.
+3. L’Amministrazione tributaria può disconoscere gli effetti delle disposizioni del presente Titolo V quando l’operazione straordinaria sia priva di valida ragione economica e posta in essere prevalentemente al fine di ottenere un risparmio d’imposta rispetto al prelievo altrimenti applicabile ai soggetti coinvolti nell’operazione stessa.

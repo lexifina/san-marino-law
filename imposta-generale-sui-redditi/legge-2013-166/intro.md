@@ -1,0 +1,141 @@
+Legge 16 dicembre 2013 n.166
+“Imposta generale sui redditi”
+Testo coordinato con le modifiche derivanti dal Decreto – Legge 16 giugno 2014 n.90, dal Decreto Delegato 26 giugno 2014 n.97, dal Decreto Delegato 5 dicembre 2014 n.213, dalla Legge 23 Dicembre 2014 n.219, dal Decreto Delegato 26 gennaio 2015 n.5, dal Decreto Delegato 1 luglio 2015 n.104, dal Decreto Delegato 30 luglio 2015 n.127, dalla Legge 22 dicembre 2015 n.189, dal Decreto Delegato 24 febbraio 2016 n.19, dal Decreto Delegato 24 maggio 2017 n.51, dalla Legge 7 agosto 2017 n.94, dal Decreto Delegato 27 settembre 2017 n.114, dalla Legge 29 settembre 2017 n.115, dal Decreto Delegato 5 dicembre 2017 n.137, dalla Legge 21 dicembre 2017 n.147, dal Decreto Delegato 1 febbraio 2018 n.15, dalla Legge 8 agosto 2018 n.104, dal Decreto Delegato 13 agosto 2018 n.108, dal Decreto Delegato 14 novembre 2018 n.144, dalla Legge 24 dicembre 2018 n.173, dal Decreto Delegato 28 dicembre 2018 n.180, dal Decreto Delegato 30 aprile 2019 n.72, dalla Legge 3 ottobre 2019 n.154, dalla Legge 19 novembre 2019 n.157, dal Decreto Delegato 13 novembre 2020 n.199, dalla Legge 23 Dicembre 2020 n.223, della Legge 29 ottobre 2021 n.183, dalla Legge 22 dicembre 2021 n.207, dal Decreto Delegato 7 marzo 2022 n.29, dalla Legge 23 dicembre 2022 n.171, dalla Legge 15 settembre 2023 n.132, dal Decreto Delegato 27 settembre 2023 n.134, dal Decreto Delegato 25 ottobre 2023 n.150, dal Decreto Delegato 31 ottobre 2023 n.155, dalla Legge 22 dicembre 2023 n.194, dal Decreto Delegato 30 gennaio 2024 n.15 (Reiterato con Decreto Delegato 18 aprile 2024 n.86), dal Decreto – Legge 3 maggio 2024 n.89, dal Decreto Delegato 29 agosto 2024 n.138, dalla Legge 22 ottobre 2024 n.155, dalla Legge 20 dicembre 2024 n.202, dalla Legge 3 marzo 2025 n.30, dalla Legge 28 aprile 2025 n.64, dal Decreto Delegato 4 novembre 2025 n.136 e dalla Legge 12 novembre 2025 n.141.
+(Aggiornato al 12 dicembre 2025)
+## ATTI NORMATIVI CITATI NEL TESTO COORDINATO
+- Legge 15 novembre 1917 n.17
+- Legge 17 febbraio 1961 n.7
+- Legge 22 dicembre 1972 n.40
+- Legge 22 dicembre 1972 n.41
+- Legge 11 novembre 1975 n.42
+- Decreto 26 aprile 1976 n.15
+- Legge 11 febbraio 1983 n.15
+- Legge 13 ottobre 1984 n.91
+- Legge 20 dicembre 1984 n.117
+- Legge 20 maggio 1985 n.59
+- Legge 20 maggio 1985 n.63
+- Legge 4 luglio 1985 n.76
+- Legge 28 giugno 1989 n.68
+- Decreto 16 dicembre 1991 n.153
+- Decreto 30 giugno 1992 n.47
+- Legge 28 settembre 1992 n.80
+- Legge 22 gennaio 1993 n.9
+- Legge 4 marzo 1993 n.37
+- Legge 15 dicembre 1994 n.110
+- Legge 21 febbraio 1995 n.27
+- Legge 23 maggio 1995 n.70
+- Legge 19 luglio 1995 n.87
+- Decreto 26 marzo 1996 n.37
+- Legge 24 novembre 1997 n.134
+- Legge 18 febbraio 1998 n.30
+- Legge 25 luglio 2000 n.67
+- Decreto 13 maggio 2003 n.56
+- Legge 21 gennaio 2004 n.5
+- Decreto 20 maggio 2004 n.64
+- Legge 25 maggio 2004 n.70
+- Decreto 20 luglio 2004 n.100
+- Decreto 31 marzo 2005 n.49
+- Legge 17 novembre 2005 n.165
+- Decreto 25 gennaio 2006 n.9
+- Legge 23 febbraio 2006 n.47
+- Legge 15 gennaio 2007 n.4
+- Decreto Delegato 20 dicembre 2007 n.125
+- Legge 7 maggio 2008 n.72
+- Decreto Delegato 30 settembre 2008 n.129
+- Decreto Delegato 23 gennaio 2009 n.3
+- Legge 31 luglio 2009 n.108
+- Decreto Delegato 21 settembre 2009 n.128
+- Legge 21 dicembre 2009 n.168
+- Legge 23 luglio 2010 n.129
+- Legge 26 luglio 2010 n.130
+Decreto Delegato 21 settembre 2010 n.158
+- Legge 25 gennaio 2011 n.5
+- Decreto Delegato 22 marzo 2011 n.50
+- Legge 5 ottobre 2011 n.158
+- Decreto Delegato 27 aprile 2012 n.44
+- Legge 21 dicembre 2012 n.150
+- Errata Corrige alla Legge 21 dicembre 2012 n.150 in data 30 gennaio 2013
+- Errata Corrige alla Legge 21 dicembre 2012 n.150 in data 2 luglio 2014
+- Legge 27 giugno 2013 n.71
+- Legge 20 dicembre 2013 n.174
+- Legge 29 luglio 2013 n.100
+- Decreto delegato 28 gennaio 2014 n.11
+- Legge 3 aprile 2014 n.48
+- Legge 29 aprile 2014 n.71
+- Decreto – Legge 16 giugno 2014 n.90
+- Decreto Delegato 26 giugno 2014 n.97
+- Decreto Delegato 11 agosto 2014 n.134
+- Legge 19 settembre 2014 n.146
+- Decreto Delegato 26 settembre 2014 n.149
+- Decreto Delegato 3 novembre 2014 n.176
+- Decreto Delegato 5 dicembre 2014 n.213
+- Legge 23 dicembre 2014 n.219
+- Decreto Delegato 26 gennaio 2015 n.5
+- Regolamento 20 febbraio 2015 n.3
+- Decreto Delegato 25 giugno 2015 n.95
+- Decreto Delegato 1 luglio 2015 n.104
+- Decreto Delegato 30 luglio 2015 n.127
+- Legge 3 novembre 2015 n.160
+- Legge 22 dicembre 2015 n.189
+- Decreto Delegato 24 febbraio 2016 n.19
+- Legge 21 dicembre 2016 n.144
+- Decreto Delegato 24 maggio 2017 n.51
+- Legge 7 agosto 2017 n.94
+- Errata Corrige alla Legge 7 agosto 2017 n.94
+- Decreto Delegato 27 settembre 2017 n.114
+- Legge 29 settembre 2017 n.115
+- Errata Corrige alla Legge 29 settembre 2017 n.115
+- Decreto Delegato 5 dicembre 2017 n.137
+- Legge 21 dicembre 2017 n.147
+- Errata Corrige alla Legge 21 dicembre 2017 n.147
+- Decreto Delegato 1 febbraio 2018 n.15
+- Legge 8 agosto 2018 n.104
+- Decreto Delegato 13 agosto 2018 n.108 (decaduto)
+- Decreto Delegato 14 novembre 2018 n.144
+- Legge 24 dicembre 2018 n.173
+- Errata Corrige alla Legge 24 dicembre 2018 n.173
+- Decreto Delegato 28 dicembre 2018 n.180
+- Regolamento 28 gennaio 2019 n.2
+- Decreto Delegato 30 aprile 2019 n.72
+- Decreto Delegato 13 gennaio 2019 n.101
+- Legge 3 ottobre 2019 n.154
+- Legge 19 novembre 2019 n.157
+- Legge 23 dicembre 2020 n.222
+- Legge 23 dicembre 2020 n.223
+- Decreto Delegato 26 marzo 2021 n.60
+- Decreto Delegato 25 maggio 2021 n.94
+- Decreto Legge 30 giugno 2021 n.134
+- Legge 29 ottobre 2021 n.183
+- Legge 22 dicembre 2021 n.207
+- Decreto – Legge 21 gennaio 2022 n.6
+- Decreto Delegato 7 marzo 2022 n.29
+- Decreto Delegato 21 giugno 2022 n.90
+- Legge 29 novembre 2022 n.157
+- Legge 23 dicembre 2022 n.171
+- Decreto Delegato 21 marzo 2023 n.51
+- Legge 9 maggio 2023 n.80
+- Decreto - Legge 10 maggio 2023 n.81
+- Legge 15 settembre 2023 n.132
+- Decreto Delegato 27 settembre 2023 n.134
+- Decreto Delegato 25 ottobre 2023 n.150 (abrogato)
+- Decreto Delegato 31 ottobre 2023 n.155 (abrogato)
+- Decreto Delegato 4 dicembre 2023 n.174
+- Legge 22 dicembre 2023 n.194
+- Decreto Delegato 30 gennaio 2024 n.15
+- Decreto Delegato 15 febbraio 2024 n.25 (abrogato)
+- Decreto Delegato 19 febbraio 2024 n.27
+- Decreto Delegato 20 febbraio 2024 n.32
+- Decreto Delegato 19 marzo 2024 n.56
+- Decreto Delegato 21 marzo 2024 n.65 (abrogato)
+- Decreto – Legge 3 maggio 2024 n.89
+- Decreto Delegato 9 agosto 2024 n.113
+- Decreto Delegato 29 agosto 2024 n.138
+- Legge 22 ottobre 2024 n.155
+- Legge 20 dicembre 2024 n.202
+- Legge 3 marzo 2025 n.30
+- Legge 28 aprile 2025 n.64
+- Decreto Delegato 4 novembre 2025 n.136
+- Legge 12 novembre 2025 n.141
+- Legge 22 dicembre 2025 n.158
+LEGGE 16 DICEMBRE 2013 N.166
+“IMPOSTA GENERALE SUI REDDITI”
