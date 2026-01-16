@@ -1,0 +1,27 @@
+Art.35
+(Conto Energia)
+1. Possono beneficiare dello strumento incentivante denominato "Conto Energia", definito nei commi successivi, le persone fisiche e giuridiche e le Società Energetiche di cui all’articolo 36.
+2. Tale incentivo consiste nella remunerazione con una tariffa incentivante dell’energia elettrica prodotta da un impianto a fonti rinnovabili (FER) in maniera tale da rendere competitiva tale tecnologia. I seguenti commi pertanto si riferiscono solo a impianti a fonti rinnovabili in cui l’energia prodotta è immessa in rete.
+3. Un apposito decreto delegato stabilisce ammontare, durata e modalità dell’incentivazione, nonché l’entità della tariffa incentivante espressa in €/kWh prodotto, i requisiti tecnici dell’impianto e le modalità di finanziamento.
+4. La tariffa incentivante è stabilita per scaglioni di potenza nominale installata e per grado di integrazione architettonica ed è aggiornata di anno in anno, al fine di adeguarla ai costi correnti delle tecnologie a fonti rinnovabili.
+5. La domanda di concessione della tariffa incentivante è presentata all’Autorità a seguito dell’installazione dell’impianto.
+6. Possono richiedere tale strumento incentivante le persone fisiche o giuridiche che intendono installare impianti a fonti rinnovabili di potenza compresa tra 1 e 20kW di potenza nominale.
+7. Nel caso in cui l’impianto a fonti rinnovabili incentivato venga ceduto ad nuovo proprietario, esso diventa beneficiario del Conto Energia.
+8. Gli incentivi di cui al presente articolo non sono cumulabili con quelli di cui all’articolo
+33.
+9. Al fine di incentivare la mobilità sostenibile è istituita una tassazione sulla tariffa incentivante erogata dall’A.A.S.S. a partire dal 1° gennaio 2021, derivante dalla produzione di energia elettrica da impianti fotovoltaici di potenza superiore a 20 kW che beneficiano degli incentivi erogati per mezzo dello strumento “Conto Energia”. L’Autorità di Regolazione per i Servizi Pubblici e l’Energia stabilisce entro il 31 gennaio di ogni anno la percentuale di tassazione sulla tariffa incentivante erogata non inferiore al 20%. I proventi derivanti dalla presente tassazione possono essere destinati a spesa ed imputati sul capitolo 2-5-6435 “Fondo per gli interventi finalizzati al risparmio energetico, idrico, alla produzione di energia da fonti rinnovabili e al contenimento delle fonti di inquinamento ai sensi dell’articolo 27 della Legge n.30/1998.[^12]
+
+[^12]: Testo Originario Legge n.48/2014, Art. 35:
+    (Conto Energia)
+    1. Possono beneficiare dello strumento incentivante denominato "Conto Energia", definito nei commi successivi, le persone fisiche e giuridiche e le Società Energetiche di cui all’articolo 36.
+    2. Tale incentivo consiste nella remunerazione con una tariffa incentivante dell’energia elettrica prodotta da un impianto a fonti rinnovabili (FER) in maniera tale da rendere competitiva tale tecnologia. I seguenti commi pertanto si riferiscono solo a impianti a fonti rinnovabili in cui l’energia prodotta è immessa in rete.
+    3. Un apposito decreto delegato stabilisce ammontare, durata e modalità dell’incentivazione, nonché l’entità della tariffa incentivante espressa in €/kWh prodotto, i requisiti tecnici dell’impianto e le modalità di finanziamento.
+    4. La tariffa incentivante è stabilita per scaglioni di potenza nominale installata e per grado di integrazione architettonica ed è aggiornata di anno in anno, al fine di adeguarla ai costi correnti delle tecnologie a fonti rinnovabili.
+    5. La domanda di concessione della tariffa incentivante è presentata all’Autorità a seguito dell’installazione dell’impianto.
+    6. Possono richiedere tale strumento incentivante le persone fisiche o giuridiche che intendono installare impianti a fonti rinnovabili di potenza compresa tra 1 e 20kW di potenza nominale.
+    7. Nel caso in cui l’impianto a fonti rinnovabili incentivato venga ceduto ad nuovo proprietario, esso diventa beneficiario del Conto Energia.
+    8. Gli incentivi di cui al presente articolo non sono cumulabili con quelli di cui all’articolo 33.
+    9. Con apposito decreto delegato è istituita una tassazione sull’utile, derivante dalla produzione di energia elettrica da impianto fotovoltaici che beneficiano degli incentivi erogati per mezzo dello strumento “Conto Energia”. Tale utile è considerato al netto dei costi d’installazione, di manutenzione e finanziari e si applica agli impianti di potenza superiore ai 20 kW.
+    MODIFICHE NORMATIVE Legge n.223/2020, Art. 51:
+    1. Il comma 9 dell’articolo 35 della Legge 3 aprile 2014 n.48 è così modificato:
+    “9. Al fine di incentivare la mobilità sostenibile è istituita una tassazione sulla tariffa incentivante erogata dall’A.A.S.S. a partire dal 1° gennaio 2021, derivante dalla produzione di energia elettrica da impianti fotovoltaici di potenza superiore a 20 kW che beneficiano degli incentivi erogati per mezzo dello strumento “Conto Energia”. L’Autorità di Regolazione per i Servizi Pubblici e l’Energia stabilisce entro il 31 gennaio di ogni anno la percentuale di tassazione sulla tariffa incentivante erogata non inferiore al 20%. I proventi derivanti dalla presente tassazione possono essere destinati a spesa ed imputati sul capitolo 2-5-6435 “Fondo per gli interventi finalizzati al risparmio energetico, idrico, alla produzione di energia da fonti rinnovabili e al contenimento delle fonti di inquinamento ai sensi dell’articolo 27 della Legge n.30/1998.”.

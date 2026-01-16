@@ -1,0 +1,6 @@
+Art. 24
+(Corrispettivi per i servizi di connessione e installazione degli strumenti di misura)
+1. Le disposizioni del presente articolo si applicano agli impianti di produzione di energia elettrica da fonti rinnovabili o di cogenerazione ad alto rendimento di potenza nominale non superiore a 20 kWel. L’Autorità definisce la Tariffa Unica per le fonti rinnovabili, che rappresenta l’unico costo da sostenere da parte del Richiedente per le operazioni di connessione e installazione degli strumenti di misura in maniera che i costi non costituiscano un deterrente rispetto alla installazione di tecnologie di produzione elettrica da fonti rinnovabili.
+I sovraccosti sostenuti dall’A.A.S.S. rispetto a tale valore saranno compensati attingendo al capitolo di bilancio 2-5-6435 “Fondo per interventi finalizzati al risparmio energetico, idrico, alla produzione di energia da fonti rinnovabili e al contenimento delle fonti di inquinamento”.
+I sovraccosti sostenuti da A.A.S.S. per i servizi di scambio sul posto e cessione dell’energia saranno compensati attingendo al medesimo fondo di cui al precedente comma.
+Nel caso in cui si riveli necessario adeguare la linea elettrica esistente, il costo di tale operazione è da imputare sul medesimo fondo di cui al comma precedente, sulla base della preventivazione prodotta dall’A.A.S.S.
