@@ -1,0 +1,6 @@
+## RACCOLTA COORDINATA IN MATERIA DI ENERGIA
+Raccolta coordinata con le modifiche derivanti da:
+Decreto Delegato 3 luglio 2008 n.99 Decreto Delegato 17 luglio 2012 n.84 Decreto Delegato 26 gennaio 2015 n.5 Decreto Delegato 24 maggio 2017 n.51 Legge 7 agosto 2017 n.94 Legge 21 dicembre 2017 n.147 Legge 19 dicembre 2019 n.157 Legge 7 luglio 2020 n.113 Legge 23 dicembre 2020 n.223 Decreto Delegato 25 giugno 2021 n.116 Legge 22 dicembre 2021 n.207 Legge 25 ottobre 2022 n.148 Legge 23 dicembre 2022 n.171 Legge 15 settembre 2023 n.132 Decreto Delegato 10 ottobre 2023 n.145 Decreto Delegato 22 dicembre 2023 n.191 Decreto Delegato 19 febbraio 2024 n.27 Decreto Delegato 10 luglio 2025 n.94
+(aggiornato al 16 gennaio 2026)
+## ATTI NORMATIVI CITATI NELLA RACCOLTA COORDINATA
+Legge 20 novembre 2001 n.120 Regolamento 11 settembre 2008 n.8 Legge 7 maggio 2008 n.72 Legge 3 aprile 2014 n.48 Decreto Legge 29 aprile 2014 n.68 Decreto Delegato 24 luglio 2014 n.120 Decreto Delegato 26 gennaio 2015 n.5 Decreto Delegato 25 luglio 2016 n.85 Decreto Delegato 24 maggio 2017 n.51 Regolamento 11 ottobre 2017 n.11 Regolamento 26 ottobre 2017 n.13 Legge 20 dicembre 2020 n.202 Legge 25 ottobre 2022 n.148 Decreto Delegato 19 febbraio 2024 n.27 Regolamento 31 marzo 2025 n.4
