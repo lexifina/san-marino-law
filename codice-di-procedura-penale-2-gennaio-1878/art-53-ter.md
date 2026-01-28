@@ -1,0 +1,18 @@
+Art. 53-ter
+(Durata)
+1. La durata delle misure coercitive non può superare i termini massimi indicati dalla legge.
+2. Le misure coercitive non possono avere durata superiore: a un mese, se il reato per cui si procede è punito con la prigionia di primo grado; a tre mesi, se il reato per cui si procede è punito con la prigionia di secondo o terzo grado; a sei mesi, se il reato per cui si procede è punito con la prigionia di quarto o quinto grado. In tutti gli altri casi le misure coercitive non possono avere durata superiore a un anno.
+3. I termini di cui al precedente comma, alla rispettiva scadenza, possono essere prorogati, una sola volta per uguale periodo, qualora permangano ancora le esigenze cautelari che hanno comportato l’adozione del provvedimento originario. La proroga è ordinata con decreto motivato del Giudice Inquirente, sottoposto alla procedura di riesame di cui all’articolo 53-quinquies ed alle eventuali impugnazioni di cui all’articolo 56.
+4. La misura interdittiva del divieto di esercitare determinate attività professionali o imprenditoriali, o di esercitare funzioni di amministrazione e rappresentanza di persone, fisiche e giuridiche, ed enti, può essere ordinata per la durata massima di due mesi, prorogabile per altri due mesi con provvedimento motivato del Giudice Inquirente circa il permanere delle esigenze cautelari. Il provvedimento di proroga è sottoposto alla procedura di riesame di cui all’articolo 53-quinquies ed alle eventuali impugnazioni di cui all’articolo 56.
+5. In ogni caso, allo scadere dei termini complessivi di cui ai superiori commi, le misure detentive e interdittive perdono efficacia.[^20]
+
+[^20]: Legge 2 marzo 2022 n.24, Articolo 1:
+    1. Gli articoli da 53 a 58 del Capitolo VIII del codice di procedura penale sono sostituiti dai seguenti articoli 53, 53-bis, 53-ter, 53-quater, 53-quinquies, 53-sexies, 54, 55, 56, 57, 58, 58-bis, 58-ter, 58-quater, 58-quinquies, 58-sexies, 58-septies, 58-octies e 58-nonies:
+    […] Art. 53-ter
+    (Durata)
+    1. La durata delle misure coercitive non può superare i termini massimi indicati dalla legge.
+    2. Le misure coercitive non possono avere durata superiore: a un mese, se il reato per cui si procede è punito con la prigionia di primo grado; a tre mesi, se il reato per cui si procede è punito con la prigionia di secondo o terzo grado; a sei mesi, se il reato per cui si procede è punito con la prigionia di quarto o quinto grado. In tutti gli altri casi le misure coercitive non possono avere durata superiore a un anno.
+    3. I termini di cui al precedente comma, alla rispettiva scadenza, possono essere prorogati, una sola volta per uguale periodo, qualora permangano ancora le esigenze cautelari che hanno comportato l’adozione del provvedimento originario. La proroga è ordinata con decreto motivato del Giudice Inquirente, sottoposto alla procedura di riesame di cui all’articolo 53-quinquies ed alle eventuali impugnazioni di cui all’articolo 56.
+    4. La misura interdittiva del divieto di esercitare determinate attività professionali o imprenditoriali, o di esercitare funzioni di amministrazione e rappresentanza di persone, fisiche e giuridiche, ed enti, può essere ordinata per la durata massima di due mesi, prorogabile per altri due mesi con provvedimento motivato del Giudice Inquirente circa il permanere delle esigenze cautelari. Il provvedimento di proroga è sottoposto alla procedura di riesame di cui all’articolo 53-quinquies ed alle eventuali impugnazioni di cui all’articolo 56.
+    5. In ogni caso, allo scadere dei termini complessivi di cui ai superiori commi, le misure detentive e interdittive perdono efficacia.”.
+    […]

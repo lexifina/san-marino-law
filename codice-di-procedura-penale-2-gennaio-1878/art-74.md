@@ -1,0 +1,2 @@
+Art. 74
+La perquisizione reale al domicilio dell’inquisito o di altri non può farsi che con decreto commissariale scritto nel processo, decreto la cui copia autenticata si trasmette al capo della forza pubblica. Nel detto decreto si prescrivono le cautele da usarsi nella perquisizione, della ommissione delle quali è responsabile il capo della forza. Non è necessario il decreto per eseguirla al domicilio del prevenuto, quando questa si opera nell’atto dell’arresto del prevenuto stesso.

@@ -1,0 +1,2 @@
+Art. 28
+Chiunque si presenta in giudizio per querelarsi di un reato, pel quale abbia sofferto danno fisico o morale, e chiunque si faccia a denunziare in giudizio un reato qualunque, deve, prima di essere inteso in esame, prestare il giuramento che dicesi di calunnia, ossia deve giurare toccando le scritture a delazione del cancelliere od attuario, che egli non è mosso alla sua querela o denunzia dall’animo di calunniare la persona, contro la quale sta per esporre la querela o denunzia.

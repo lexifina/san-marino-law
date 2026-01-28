@@ -1,0 +1,3 @@
+Art. 12
+(Sospensione della consegna. Consegna temporanea. Esecuzione all’estero)
+1. L’esecuzione dell’estradizione è sospesa se l’estradando deve essere giudicato nel territorio dello Stato o vi deve scontare una pena per reati commessi prima o dopo quello per il quale l’estradizione è stata concessa. Tuttavia il Segretario di Stato per la Giustizia, sentita l’autorità giudiziaria competente per l’esecuzione della pena o per il procedimento in corso nella Repubblica, può procedere alla consegna temporanea allo Stato richiedente della persona da estradare ivi imputata, concordandone termini e modalità. Il Segretario di Stato per la Giustizia può, inoltre, convenire che la pena da scontare sia eseguita nello Stato richiedente.

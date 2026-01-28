@@ -1,0 +1,2 @@
+Art. 48
+Nei reati di furti campestri o di danni dati, la prova generica si fa constare possibilmente mediante l’accesso del giudice inquirente assistito dal suo attuario, e mediante il giudizio di periti agricoltori. Qualora però il furto campestre od il danno dato non abbia lasciato traccie visibili, o queste siensi dileguate, la prova viene supplita dall'assertiva del derubato, che sia di buona fama, e da quella dei testimoni viciniori.

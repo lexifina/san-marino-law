@@ -1,0 +1,9 @@
+## CAPO IV NORME SULLA TRATTAZIONE DEI PROCEDIMENTI PENALI
+Art. 16
+1. Il Magistrato Dirigente può assegnare lo svolgimento di indagini relative a procedimenti per i misfatti indicati nell’articolo 147 del Codice Penale a due o più giudici inquirenti, ferma restando l’assegnazione del fascicolo già disposta.
+2. Possono essere assegnate a più magistrati anche le indagini relative a procedimenti diversi, purché ciò non comporti ritardo nella trattazione dei procedimenti per i misfatti indicati nell’articolo 147 del Codice Penale.
+3. I Commissari della Legge designati dal Magistrato Dirigente ai sensi dei commi che precedono esercitano, anche congiuntamente, le attribuzioni conferite dalla legge al giudice inquirente. I singoli atti processuali sono compiuti in forma individuale o congiunta.
+4. Il Magistrato Dirigente, ove non vi provveda direttamente, delega ad uno dei magistrati designati l'attività di direzione e coordinamento tra i giudici inquirenti. Il magistrato delegato, in particolare, dovrà garantire che tutti i giudici inquirenti ottemperino alle direttive impartite dal Magistrato Dirigente per il coordinamento delle indagini e per l'impiego della polizia giudiziaria, del personale ausiliario e delle risorse tecniche.
+5. Ciascun magistrato è comunque tenuto a fornire al Magistrato Dirigente una tempestiva informazione sull'andamento delle indagini.
+6. In relazione allo sviluppo delle indagini e tenuto conto delle complessive esigenze organizzative del Tribunale, il Magistrato Dirigente può revocare la designazione congiunta e disporre che il procedimento venga trattato dal solo giudice inquirente assegnatario del fascicolo.
+7. Qualora le esigenze di direzione e coordinamento delle indagini emergano in relazione a procedimenti per i quali sono già in corso indagini, il Magistrato Dirigente, può affiancare al giudice inquirente assegnatario del fascicolo, uno o più Commissari della Legge.

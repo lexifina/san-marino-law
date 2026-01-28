@@ -1,0 +1,3 @@
+Art. 27
+Quando nel codice penale abrogato o nelle leggi speciali sia preveduta quale pena principale l'interdizione temporanea dall'esercizio di diritti politici, impieghi o funzioni pubbliche, professioni, arti o mestieri, diritti o prerogative, essa si considera corrispondente all'interdizione dal primo al secondo grado della medesima specie.
+L'interdizione per sempre dall'esercizio di diritti politici, impieghi o funzioni pubbliche; la perdita di distintivi d'onore civile o militari e di titoli di nobiltà, nonché la incapacità di conseguirli preveduta quale speciale effetto delle pene, si considerano corrispondenti all'interdizione di quarto grado della medesima specie.

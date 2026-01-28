@@ -1,0 +1,2 @@
+Art. 46
+Nelle ferite ed in qualunque lesione personale, la quale lasci traccia permanente dopo di sé, la prova generica del reato risulta tanto dalle relazioni del professore curante, il quale esibendole al Tribunale nel termine fissato dalla Legge, deve avvalorarle colla santità del giuramento, quanto dalla ispezione giudiziale, che viene praticata dal giudice inquirente assistito dal suo attuario, osservando ed annotando in processo la qualità e la località della ferita, senza però rimuovere l'apparecchio chirurgico, quando ciò possa recar danno alla persona offesa.

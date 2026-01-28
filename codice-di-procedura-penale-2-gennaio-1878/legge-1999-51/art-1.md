@@ -1,0 +1,3 @@
+## INTERPRETAZIONE AUTENTICA DI NORME DI PROCEDURA PENALE
+Art.1
+L'articolo 198 del Codice di Procedura Penale si interpreta nel senso che la sentenza pronunciata dal Giudice delle Appellazioni Penali, inviata con il fascicolo e gli allegati al Commissario della Legge, viene immediatamente pubblicata da questi nella sua prima udienza utile, alla presenza dell'imputato e dei suoi difensori, del Procuratore del Fisco e delle parti civili, se costituite, debitamente convocati a norma dell'articolo 167 del Codice stesso.
