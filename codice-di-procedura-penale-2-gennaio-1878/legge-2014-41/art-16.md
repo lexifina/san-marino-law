@@ -1,0 +1,7 @@
+## CAPO III ESTRADIZIONE DALL’ESTERO
+Art. 16
+(Domanda di estradizione)
+1. Il Segretario di Stato per la Giustizia è competente a domandare a uno Stato estero l’estradizione di un imputato o di un condannato nei cui confronti debba essere eseguito un provvedimento restrittivo della libertà personale, di tipo cautelare o esecutivo di una sentenza di condanna, unitamente al sequestro del corpo del reato e delle cose pertinenti al reato. A tal fine l’autorità giudiziaria che procede, anche per l’esecuzione della sentenza di condanna o con la quale è stata applicata una misura di sicurezza limitativa della libertà personale, ne fa richiesta al Segretario di Stato per la Giustizia, trasmettendogli gli atti e i documenti necessari.
+2. Il Segretario di Stato per la Giustizia, fatte le opportune verifiche ed attivati i necessari approfondimenti presso le competenti autorità, può decidere di non presentare la domanda di estradizione o di differirne la presentazione dandone comunicazione all’autorità giudiziaria richiedente.
+3. Il Segretario di Stato per la Giustizia è competente a decidere in ordine all’accettazione delle condizioni eventualmente poste dallo Stato estero per concedere l’estradizione, purché non contrastanti con i principi fondamentali dell’ordinamento giuridico sammarinese. L’autorità giudiziaria è vincolata al rispetto delle condizioni accettate.
+4. Il Segretario di Stato per la Giustizia può disporre, al fine di estradizione, le ricerche all’estero dell’imputato o del condannato e domandarne l’arresto provvisorio.

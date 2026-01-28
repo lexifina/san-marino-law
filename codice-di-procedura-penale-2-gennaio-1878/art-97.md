@@ -1,0 +1,2 @@
+Art. 97
+I fratelli e le sorelle del prevenuto ed i consanguinei di lui fino al terzo grado inclusivamente di computazione civile, gli affini del medesimo sino al secondo grado inclusivamente di computazione civile, non possono essere sentiti in esame, se non quando sono indotti dallo stesso prevenuto. In questo caso sono chiamati a deporre senza giuramento, ma con esortazione a dire la verità. Alla loro deposizione è attribuita quella fede, che nel complesso delle circostanze si riconosca loro dovuta.

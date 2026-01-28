@@ -1,0 +1,2 @@
+Art. 80
+L’accesso giudiziale ha luogo ogni volta che si renda necessaria od utile l’ispezione oculare sulla faccia dei luoghi per verificare od escludere con atto di materiale esperimento la possibilità, o la realtà di un fatto rilevante, che risulti dalla deposizione di un testimonio, o dalle risposte dell’inquisito, purché il giudice inquirente riconosca che quel fatto può avere una influenza nel giudizio da emanarsi a carico, o discarico del prevenuto.

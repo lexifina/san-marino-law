@@ -1,0 +1,2 @@
+Art.2
+Alle correzioni delle omissioni o degli errori materiali intervenuti in una sentenza, contro la quale non venga interposto appello, provvede anche d'ufficio, sentite le parti, la stessa Autorità Giudiziaria che ha pronunciato la sentenza. Se le parti concordano nel chiedere la stessa correzione od integrazione, il Giudice provvede con decreto. Se la correzione od integrazione è chiesta da una sola parte, il Giudice provvede con una sentenza, resa in contradditorio fra le parti debitamente convocate, annotata sull'originale dell'atto.

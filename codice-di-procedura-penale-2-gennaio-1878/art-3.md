@@ -1,0 +1,2 @@
+Art. 3
+L’azione civile si può esercitare in via meramente civile, nel qual caso è regolata dalle norme della civile procedura, o contemporaneamente al giudizio penale per mezzo di questo. Se il danneggiato preferisce questa via, la di lui istanza per la rifazione dei danni viene registrata nel processo riguardante il reato, ed il magistrato decidente si occupa di tale domanda, come è prescritto nel Cap. XXI del presente Codice.

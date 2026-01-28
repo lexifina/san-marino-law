@@ -1,0 +1,2 @@
+Art. 72
+Nell’atto che si eseguisce l’arresto di un prevenuto, sia in forza del mandato rilasciato dal giudice inquirente, sia in virtù della facoltà spettante alla forza pubblica nei casi di flagrante, o quasi flagrante reato, è dovere dell’arrestante lo eseguire la perquisizione personale del catturando allo scopo principalmente di apprendere qualunque arma, di cui fosse delatore, o qualunque altro oggetto offensivo, o che sia attinente al reato.

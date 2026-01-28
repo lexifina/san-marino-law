@@ -1,0 +1,2 @@
+Art. 47
+Nei reati di furto qualificato per scalata, o per chiave falsa, o per effrazione od altra violenza alle cose, la prova generica si fa constare per mezzo del giudizio di periti muratori, o di fabbri ferrai, od altri simili artefici, i quali, previo esperimento da eseguirsi alla presenza del giudice inquirente e del suo attuario, giudicano sul modo, con cui il furto può essere stato operato dal reo, o individualmente da sé solo, o coll’aiuto di correi, o complici.

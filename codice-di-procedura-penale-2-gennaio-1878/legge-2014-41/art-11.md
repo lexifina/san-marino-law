@@ -1,0 +1,7 @@
+Art. 11
+(Provvedimento di estradizione. Consegna)
+1. Il Segretario di Stato per la Giustizia decide in merito all’estradizione entro quarantacinque giorni dalla ricezione del verbale che dà atto del consenso all’estradizione ovvero dalla notizia della scadenza del termine per l’impugnazione della sentenza del Giudice d’Appello o dal deposito della sentenza del Giudice per la terza istanza.
+2. Scaduto tale termine senza che sia intervenuta la decisione del Segretario di Stato per la Giustizia, la persona della quale è stata chiesta l’estradizione, se detenuta, è posta in libertà. La persona medesima è altresì posta in libertà in caso di diniego dell’estradizione.
+3. Il Segretario di Stato per la Giustizia comunica senza indugio allo Stato richiedente la decisione e, se questa è positiva, il luogo della consegna e la data a partire dalla quale sarà possibile procedervi, dando altresì precise indicazioni circa le limitazioni alla libertà personale subite dall’estradando ai fini dell’estradizione.
+4. Il termine per la consegna è di quindici giorni dalla data stabilita a norma del comma 3 e, a domanda motivata dello Stato richiedente, può essere prorogato di altri venti giorni.
+5. Il provvedimento di concessione dell’estradizione perde efficacia se, nel termine fissato, lo Stato richiedente non provvede a prendere in consegna l’estradando; in tal caso quest’ultimo viene posto in libertà.

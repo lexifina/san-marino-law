@@ -1,0 +1,3 @@
+Art.1
+(Finalità)
+1. Nell’attesa della riforma del Codice di Procedura Penale, la presente legge si propone lo scopo di avviare l’adeguamento delle norme processuali vigenti ai principi costituzionali in materia ed in particolare a quello di tutela del diritto di difesa in ogni grado del procedimento ed a quello di speditezza, economicità, pubblicità e indipendenza dei giudizi sanciti dall’articolo 15, secondo e terzo comma, della Dichiarazione dei Diritti dei Cittadini e dei Principi Fondamentali dell’Ordinamento Sammarinese, e dall’articolo 6 della Convenzione Europea per la Salvaguardia dei Diritti dell’Uomo e delle Libertà Fondamentali.
