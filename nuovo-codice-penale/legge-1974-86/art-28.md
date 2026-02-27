@@ -1,0 +1,3 @@
+Art. 28
+Quando nelle leggi speciali è prevista la decadenza, la sospensione o la revoca da una autorizzazione o licenza governativa, essa si considera corrispondente all'interdizione prevista dall'articolo 82 del nuovo codice penale solo nel caso che detta decadenza o revoca o sospensione promani direttamente da una decisione del giudice in conseguenza di un fatto previsto come reato.
+Quando per il medesimo fatto sia prevista, come conseguenza, una decadenza o revoca o sospensione da una determinata autorizzazione o licenza governativa - sia quale sanzione amministrativa sia come interdizione a mente dell'articolo 82 del nuovo codice penale - la sanzione amministrativa resta assorbita nell'interdizione.

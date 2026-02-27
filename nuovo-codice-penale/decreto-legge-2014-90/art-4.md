@@ -1,0 +1,10 @@
+Art. 4
+1. I soggetti designati cui alla Legge 17 giugno 2008 n.92 e successive modifiche devono adottare misure idonee ad assicurare la massima riservatezza sull’identità della persona fisica che ha rilevato l’operazione sospetta ai sensi dell’articolo 3.
+2. Gli atti e i documenti relativi alle segnalazioni sono custoditi sotto la responsabilità del soggetto designato, del suo legale rappresentante, o di un suo delegato.
+3. Le Autorità giudiziaria e di polizia adottano misure adeguate a garantire la riservatezza sull’identità della persona fisica che ha rilevato l’operazione sospetta. La richiesta di informazioni al soggetto designato, le eventuali richieste di approfondimenti, nonché gli scambi di informazioni, attinenti alle operazioni sospette segnalate devono avvenire con modalità idonee a garantire la massima riservatezza dell’identità della persona che ha rilevato l’operazione sospetta.
+4. In caso di comunicazione, denuncia o rapporto all’Autorità giudiziaria, l’identità della persona fisica che ha rilevato l’operazione sospetta, anche se conosciuta, non è menzionata.
+5. L’identità della persona fisica che ha rilevato l’operazione sospetta può essere rivelata solo quando l’Autorità giudiziaria, con decreto motivato, lo dichiara indispensabile ai fini dell’accertamento dei reati per i quali procede.
+6. Ai soggetti designati è fatto divieto di comunicare al soggetto interessato e a terzi, al di fuori delle ipotesi previste dai commi che seguono, l’avvenuta segnalazione di un’operazione sospetta o che è in corso o potrebbe essere svolta un’indagine in materia di corruzione.
+7. È consentito comunicare l’avvenuta segnalazione tra i soggetti finanziari con sede nella Repubblica di San Marino appartenenti al medesimo gruppo.
+8. È, altresì, consentita la comunicazione tra i soggetti designati che svolgono la propria prestazione in forma associata.
+9. Non costituisce violazione dell’obbligo di segretezza il tentativo dei soggetti designati di dissuadere il cliente dal porre in atto un’attività illegale.

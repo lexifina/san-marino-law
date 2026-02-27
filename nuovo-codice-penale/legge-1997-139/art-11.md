@@ -1,0 +1,6 @@
+Art.11
+Il giudice deve dare sempre motivata giustificazione all'uso del potere discrezionale concesso con questa legge.
+Deve rendere conto dei pareri, delle relazioni e degli interventi dei difensori, degli educatori, dei consulenti e collaboratori di giustizia.
+Per i provvedimenti previsti dalla presente legge si applica la procedura ordinaria secondo la fase del giudizio in corso. In difetto si applica la procedura di esecuzione.
+Le misure e le prescrizioni imposte dal giudice secondo questa legge non escludono l'applicazione delle analoghe misure previste dalle disposizioni sul rilascio, la revisione, la sospensione e le limitazioni della patente di guida, della licenza di caccia, del passaporto e di ogni altra autorizzazione o licenza rilasciata dagli uffici pubblici. Allo stesso modo l'applicazione di queste ultime misure non esclude il ricorso a quelle contemplate dalla presente legge, ma il giudice deve tenerne adeguato conto.
+Ove risultino adeguati elementi per ritenere la presenza di cose pertinenti un reato in materia contemplata dalla presente legge, in caso d'urgenza e nel rispetto del diritto alla difesa se ed in quanto possibile, la forza pubblica può procedere senz'altro, immediatamente e se necessario coattivamente, a perquisizione personale o domiciliare o su autoveicoli.

@@ -1,0 +1,2 @@
+Art. 9
+1. Nel bilancio dello Stato, tra i capitoli di spesa di pertinenza del Dipartimento Affari Istituzionali e Giustizia, è istituito un Fondo per l’assistenza finanziaria alle vittime di atti di terrorismo, implementato tempestivamente in casi di necessità. Possono accedere al Fondo le vittime di atti di terrorismo, consumati o tentati sul territorio della Repubblica e accertati da provvedimento definitivo dell’Autorità Giudiziaria.

@@ -1,0 +1,16 @@
+Art. 168 bis
+(Induzione alla prostituzione)
+Chiunque induce altri alla prostituzione è punito con la prigionia e con l'interdizione di terzo grado dai diritti politici, dai pubblici uffici, dalla professione o dall'arte.
+La prigionia è aumentata di un grado se il fatto è commesso:
+1) con violenza, minaccia o inganno;
+2) in danno di persona minore degli anni diciotto, ovvero che si trovi in condizioni di infermità o deficienza psichica;
+3) in danno di ascendente, discendente, affine in linea retta, adottante, adottato, coniuge, fratello o sorella.[^54]
+
+[^54]: Testo originario (Legge n.17/1974)
+    Art. 269 Induzione alla prostituzione Chiunque induce altri alla prostituzione è punito con la prigionia e con l'interdizione di terzo grado dai diritti politici, dai pubblici uffici, dalla professione o dall'arte.
+    La prigionia è aumentata di un grado se il fatto è commesso:
+    1) con violenza, minaccia o inganno;
+    2) in danno di persona minore degli anni diciotto, ovvero che si trovi in condizioni di infermità o deficienza psichica;
+    3) in danno di ascendente, discendente, affine in linea retta, adottante, adottato, coniuge, fratello o sorella.
+    Modifiche legislative Legge 20 giugno 2008 n.97, Articolo 9, comma 2:
+    L’articolo 269 del Codice Penale costituisce reato contro la libertà personale, ed è collocato nel Capitolo II del Codice Penale con il numero di Articolo 168 bis (induzione alla prostituzione).

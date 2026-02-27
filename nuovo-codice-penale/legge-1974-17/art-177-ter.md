@@ -1,0 +1,16 @@
+Art. 177 ter
+(Pornografia minorile)
+Chiunque utilizza un minore degli anni diciotto per realizzare spettacoli, opere o materiale di pornografia minorile, che rappresentano visivamente un minore in condotte sessualmente esplicite con finalità d'incitamento sessuale, è punito con la prigionia e l'interdizione di terzo grado. Le stesse pene si applicano a chi fa commercio di tale materiale pornografico minorile.
+Le pene suddette sono aumentate di un grado se il fatto è commesso ai danni di un minore degli anni quattordici, ovvero di un minore degli anni diciotto che si trovi in condizioni di infermità o deficienza psichica.
+Chiunque, al di fuori delle ipotesi di cui ai commi precedenti, fornisce ad altri, a titolo oneroso o gratuito, materiale pornografico minorile, è punito con la prigionia di primo grado ovvero con l'arresto di secondo grado e in ogni caso con l'interdizione di primo grado.
+Chiunque, al di fuori delle ipotesi previste dai commi precedenti, anche mediante l'utilizzo di sistemi telematici diffonde, distribuisce, divulga o pubblicizza materiale pornografico minorile ovvero divulga informazioni finalizzate all'adescamento o allo sfruttamento sessuale di minori degli anni diciotto, è punito con la prigionia e l'interdizione di terzo grado.
+In caso di condanna per i misfatti previsti dai commi precedenti è sempre ordinata la confisca del materiale pornografico ai sensi dell'articolo 147 del Codice Penale. A tal fine il Commissario della Legge può disporre nell'istruttoria il sequestro del materiale pornografico.[^61]
+
+[^61]: Testo originario (Legge n.61/2002, Articolo 3)
+    Dopo l'articolo 177 bis del Codice Penale è inserito il seguente articolo:
+    Art. 177 ter
+    (Pornografia minorile) Chiunque utilizza un minore degli anni diciotto per realizzare spettacoli, opere o materiale di pornografia minorile, che rappresentano visivamente un minore in condotte sessualmente esplicite con finalità d'incitamento sessuale, è punito con la prigionia e l'interdizione di terzo grado. Le stesse pene si applicano a chi fa commercio di tale materiale pornografico minorile.
+    Le pene suddette sono aumentate di un grado se il fatto è commesso ai danni di un minore degli anni quattordici, ovvero di un minore degli anni diciotto che si trovi in condizioni di infermità o deficienza psichica.
+    Chiunque, al di fuori delle ipotesi di cui ai commi precedenti, fornisce ad altri, a titolo oneroso o gratuito, materiale pornografico minorile, è punito con la prigionia di primo grado ovvero con l'arresto di secondo grado e in ogni caso con l'interdizione di primo grado.
+    Chiunque, al di fuori delle ipotesi previste dai commi precedenti, anche mediante l'utilizzo di sistemi telematici diffonde, distribuisce, divulga o pubblicizza materiale pornografico minorile ovvero divulga informazioni finalizzate all'adescamento o allo sfruttamento sessuale di minori degli anni diciotto, è punito con la prigionia e l'interdizione di terzo grado.
+    In caso di condanna per i misfatti previsti dai commi precedenti è sempre ordinata la confisca del materiale pornografico ai sensi dell'articolo 147 del Codice Penale. A tal fine il Commissario della Legge può disporre nell'istruttoria il sequestro del materiale pornografico.

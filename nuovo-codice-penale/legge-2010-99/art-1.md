@@ -1,0 +1,9 @@
+Art. 1
+(Definizioni)
+1. Ai fini della presente legge:
+a) per “fatture o altri documenti per operazioni inesistenti” si intendono le fatture o gli altri documenti aventi rilievo probatorio analogo emessi o rilasciati a fronte di operazioni o prestazioni di servizi non realmente effettuati in tutto o in parte o che indicano corrispettivi difformi a quelli reali, ovvero che riferiscono l'operazione a soggetti diversi da quelli effettivi o descrivono operazioni e servizi diversi da quelli effettuati;
+b) il "fine di evadere le imposte" e il "fine di consentire a terzi l'evasione" comprendono, rispettivamente, anche il fine di conseguire un indebito rimborso o il riconoscimento di un inesistente credito d'imposta, e il fine di consentirli a terzi. Nel caso il fatto sia commesso dall’amministratore, liquidatore o rappresentante di società, enti o persone fisiche, il "fine di evadere le imposte" ed il "fine di sottrarsi al pagamento" si intendono riferiti alla società, all'ente o alla persona fisica per conto della quale si agisce;
+c) si ha utilizzo di fatture o altri documenti per operazioni inesistenti quando tali fatture o documenti sono registrati nelle scritture contabili obbligatorie, o sono detenute o esibite a fine di prova nei confronti dell'amministrazione finanziaria, o rilasciate a soggetti terzi;
+d) per “contribuente” si intende il soggetto passivo d’imposta obbligato per legge all’assolvimento di imposte, tasse e tributi, nonché, tenuto all’espletamento di tutti gli obblighi previsti dalle norme aventi valenza tributaria;
+e) ai soli fini della presente legge non operano le condizioni di punibilità e di procedibilità previste dagli articoli 199 bis comma 3, 388 e 389 del codice penale;
+f) in caso di emissione, utilizzo o rilascio di fatture o altri documenti per operazioni o servizi inesistenti, non opera la clausola di riserva di cui all’articolo 199 bis del codice penale ("fuori dei casi di concorso nel reato").

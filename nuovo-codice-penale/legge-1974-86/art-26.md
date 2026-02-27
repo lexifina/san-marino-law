@@ -1,0 +1,3 @@
+Art. 26
+Allorché nel codice abrogato sia prevista la pena dei lavori pubblici non inferiore nel massimo a 5 anni, essa deve considerarsi corrispondente ad ogni effetto di legge alla prigionia di terzo grado. La pena dei lavori pubblici non inferiore nel massimo a 7 anni si considera corrispondente alla prigionia di quarto grado; se non inferiore nel massimo a 10 anni, si considera corrispondente alla prigionia di quinto grado; se non inferiore nel massimo a 15 anni, si considera corrispondente alla prigionia di sesto grado; se non inferiore ad anni 20, si considera corrispondente alla prigionia di settimo grado.
+La pena dei lavori pubblici non inferiore a 25 anni o a vita si considera corrispondente alla prigionia di ottavo grado.
