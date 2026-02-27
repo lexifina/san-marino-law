@@ -1,0 +1,8 @@
+Art. 17
+La Banca Centrale della Repubblica di San Marino provvede ad effettuare le investigazioni finanziarie avvalendosi, previa autorizzazione del Commissario della Legge, anche della collaborazione delle Forze di Polizia che risponderanno direttamente alla Banca Centrale e, qualora riscontri fatti che potrebbero costituire reato, li denuncia al Tribunale Unico.[^216]
+
+[^216]: Testo originario (Legge n.28/2004)
+    La Divisione Vigilanza della Banca Centrale della Repubblica di San Marino provvede ad effettuare le investigazioni finanziarie avvalendosi, previa autorizzazione del Commissario della Legge, anche della collaborazione delle Forze di Polizia che risponderanno direttamente alla Divisione Vigilanza della Banca Centrale della Repubblica di San Marino e, qualora riscontri che i fatti segnalati potrebbero costituire misfatto ai sensi della presente legge nonché dell'articolo 207 del Codice Penale, li segnala a sua volta al Tribunale Unico. Le segnalazioni per le quali non sono stati riscontrati fatti che potrebbero costituire misfatto ai sensi della citata legge nonché dell'articolo 207 del Codice Penale, sono archiviate direttamente dalla Divisione Vigilanza della Banca Centrale della Repubblica di San Marino.
+    Modifiche legislative Legge 17 giugno 2008 n.92, Articolo 84, comma 2:
+    2. L’articolo 17 della Legge 26 febbraio 2004 n. 28 è sostituito dal seguente:
+    «La Banca Centrale della Repubblica di San Marino provvede ad effettuare le investigazioni finanziarie avvalendosi, previa autorizzazione del Commissario della Legge, anche della collaborazione delle Forze di Polizia che risponderanno direttamente alla Banca Centrale e, qualora riscontri fatti che potrebbero costituire reato, li denuncia al Tribunale Unico.».

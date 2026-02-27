@@ -1,0 +1,3 @@
+Art.8
+Le misure e il trattamento speciale previsti dagli articoli 5, 6 e 7 di questa legge possono applicarsi anche alla persona indagata, imputata o condannata per reato di cessione ad altri di sostanze stupefacenti o psicotrope, quando la gravità dei fatti risulti estremamente lieve in ragione della qualità e quantità delle sostanze, della mancanza di profitto e di ogni altro vantaggio da parte dell'autore, dei particolari rapporti intercorrenti fra l'autore di reato e la persona alla quale le sostanze sono state fornite o procurate.
+In tal caso tuttavia l'esperimento probatorio o il regime di vigilanza non possono avere durata inferiore a quattro anni.

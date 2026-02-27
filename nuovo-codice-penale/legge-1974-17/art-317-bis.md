@@ -1,0 +1,14 @@
+Art. 317-bis
+(Corruzione privata)
+L’amministratore, il direttore, il dirigente, il sindaco, il curatore, il liquidatore, il commissario straordinario, il procuratore di una società o di un altro ente, anche privo di personalità giuridica, che svolge attività d’impresa, il quale riceve per sé o per altri una qualsiasi utilità non dovuta, o ne accetta la promessa per omettere, ritardare o per compiere un atto in violazione degli obblighi inerenti al suo ufficio o in violazione del dovere di fedeltà, è punito con la prigionia, l’interdizione dai pubblici uffici e dai diritti politici e la multa a giorni di secondo grado.
+Se il fatto è commesso da chi è sottoposto alla direzione o alla vigilanza di uno dei soggetti indicati al primo comma, si applica la prigionia, l’interdizione dai pubblici uffici e dai diritti politici di primo grado e la multa a giorni di secondo grado.
+Le pene previste dai commi che precedono si applicano anche a chi dà o promette l’utilità non dovuta.
+Le pene previste dai commi precedenti sono aumentate di un grado se la società o l’ente ha beneficiato di sgravi fiscali, contributivi, finanziamenti, provvidenze o sostegni da parte dello Stato in relazione all’attività a cui si riferisce l’atto compiuto, ritardato o omesso. Le stesse pene si applicano se la società o l’ente è partecipato in tutto o in parte dallo Stato.[^150]
+
+[^150]: Testo originario (Legge 2 agosto 2019 n. 119, Articolo 1)
+    1. Dopo l’articolo 317 del Codice Penale è inserito il seguente articolo:
+    “Art. 317-bis
+    (Corruzione privata) L’amministratore, il direttore, il dirigente, il sindaco, il curatore, il liquidatore, il commissario straordinario, il procuratore di una società o di un altro ente, anche privo di personalità giuridica, che svolge attività d’impresa, il quale riceve per sé o per altri una qualsiasi utilità non dovuta, o ne accetta la promessa per omettere, ritardare o per compiere un atto in violazione degli obblighi inerenti al suo ufficio o in violazione del dovere di fedeltà, è punito con la prigionia, l’interdizione dai pubblici uffici e dai diritti politici e la multa a giorni di secondo grado.
+    Se il fatto è commesso da chi è sottoposto alla direzione o alla vigilanza di uno dei soggetti indicati al primo comma, si applica la prigionia, l’interdizione dai pubblici uffici e dai diritti politici di primo grado e la multa a giorni di secondo grado.
+    Le pene previste dai commi che precedono si applicano anche a chi dà o promette l’utilità non dovuta.
+    Le pene previste dai commi precedenti sono aumentate di un grado se la società o l’ente ha beneficiato di sgravi fiscali, contributivi, finanziamenti, provvidenze o sostegni da parte dello Stato in relazione all’attività a cui si riferisce l’atto compiuto, ritardato o omesso. Le stesse pene si applicano se la società o l’ente è partecipato in tutto o in parte dallo Stato.”.

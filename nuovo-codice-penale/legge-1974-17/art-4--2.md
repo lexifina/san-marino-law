@@ -1,0 +1,3 @@
+Art. 4
+Un'apposita Commissione, formata dai Commissari della Legge e dal Segretario della Commissione Scientifica che ha elaborato il progetto del Codice Penale, dovrà preparare un progetto di norme transitorie, di attuazione e di coordinamento al Codice Penale nonché di modifica a talune norme della procedura penale concernenti l'applicazione, modificazione ed esecuzione delle pene e delle misure di sicurezza ed altresì concernenti la partecipazione della difesa all'istruzione sommaria formale.
+Tale progetto dovrà essere approvato dal Consiglio Grande e Generale non oltre il 30 novembre 1974.

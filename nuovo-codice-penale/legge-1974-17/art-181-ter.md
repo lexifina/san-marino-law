@@ -1,0 +1,20 @@
+Art.181-ter
+(Diffusione illecita di immagini o video sessualmente espliciti)
+Salvo che il fatto non costituisca più grave reato, chiunque, dopo averli realizzati o sottratti, invia, consegna, cede, pubblica o diffonde immagini o video di organi sessuali o a contenuto sessualmente esplicito, destinati a rimanere privati, senza il consenso delle persone rappresentate, è punito con la prigionia di secondo grado e la multa da 4.000,00 a 10.000,00 euro.
+Si applica la prigionia di primo grado e la multa da 2.000,00 a 8.000,00 euro, se il fatto è commesso da chi avendo ricevuto o comunque acquisito le immagini o i video li invia, consegna, cede, pubblica o diffonde senza il consenso delle persone rappresentate al fine di recare loro nocumento.
+Se i fatti indicati al primo comma sono commessi da chi è o era coniuge o persona che è o era legata da stabile relazione affettiva alla persona offesa ovvero se i fatti sono commessi attraverso strumenti informatici o telematici, si applica la prigionia dal secondo al terzo grado e la multa da 5.000,00 a 12.000,00 euro.
+Si applica la stessa pena indicata nel comma precedente, se i fatti sono commessi in danno di persona in condizione di inferiorità fisica o psichica o in danno di una donna in stato di gravidanza.
+Il misfatto è punito a querela della persona offesa. Si procederà tuttavia d'ufficio nei casi di cui al quarto comma, nonché quando il fatto è connesso con altro delitto per il quale si deve procedere d'ufficio.
+In caso di condanna per i misfatti previsti dai commi precedenti, è sempre ordinata la confisca del materiale contenente immagini o video di organi sessuali o a contenuto sessualmente esplicito ai sensi dell'articolo 147 del Codice Penale. A tal fine il Commissario della Legge può disporre nell'istruttoria il sequestro del materiale contenente immagini o video di organi sessuali o a contenuto sessualmente esplicito.[^69]
+
+[^69]: Testo originario (Legge 1 febbraio 2021 n.16)
+    Art.2
+    (Diffusione illecita di immagini o video sessualmente espliciti)
+    1. Dopo l’articolo 181-bis del Codice Penale è aggiunto il seguente articolo:
+    “Art.181-ter
+    (Diffusione illecita di immagini o video sessualmente espliciti) Salvo che il fatto non costituisca più grave reato, chiunque, dopo averli realizzati o sottratti, invia, consegna, cede, pubblica o diffonde immagini o video di organi sessuali o a contenuto sessualmente esplicito, destinati a rimanere privati, senza il consenso delle persone rappresentate, è punito con la prigionia di secondo grado e la multa da 4.000,00 a 10.000,00 euro.
+    Si applica la prigionia di primo grado e la multa da 2.000,00 a 8.000,00 euro, se il fatto è commesso da chi avendo ricevuto o comunque acquisito le immagini o i video li invia, consegna, cede, pubblica o diffonde senza il consenso delle persone rappresentate al fine di recare loro nocumento.
+    Se i fatti indicati al primo comma sono commessi da chi è o era coniuge o persona che è o era legata da stabile relazione affettiva alla persona offesa ovvero se i fatti sono commessi attraverso strumenti informatici o telematici, si applica la prigionia dal secondo al terzo grado e la multa da 5.000,00 a 12.000,00 euro.
+    Si applica la stessa pena indicata nel comma precedente, se i fatti sono commessi in danno di persona in condizione di inferiorità fisica o psichica o in danno di una donna in stato di gravidanza.
+    Il misfatto è punito a querela della persona offesa. Si procederà tuttavia d'ufficio nei casi di cui al quarto comma, nonché quando il fatto è connesso con altro delitto per il quale si deve procedere d'ufficio.
+    In caso di condanna per i misfatti previsti dai commi precedenti, è sempre ordinata la confisca del materiale contenente immagini o video di organi sessuali o a contenuto sessualmente esplicito ai sensi dell'articolo 147 del Codice Penale. A tal fine il Commissario della Legge può disporre nell'istruttoria il sequestro del materiale contenente immagini o video di organi sessuali o a contenuto sessualmente esplicito.”.

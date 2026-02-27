@@ -1,0 +1,8 @@
+Art. 16
+[ABROGATO][^215]
+
+[^215]: Testo originario (Legge n.28/2004)
+    1. Nell'ambito delle operazioni a carattere investigativo volte alla individuazione ed alla repressione dei misfatti previsti agli articoli 199 bis, 207 e 337 bis del Codice Penale ed all'acquisizione dei relativi elementi di prova, la Divisione Vigilanza della Banca Centrale della Repubblica di San Marino può, se sussistono gravi e convergenti indizi, bloccare ovvero congelare temporaneamente i capitali o altre risorse finanziarie o beni depositati presso gli intermediari bancari e finanziari sammarinesi di cui alle Leggi 12 febbraio 1986 n.21 e successive modifiche e 25 febbraio 1986 n.24, nonché qualsiasi rapporto o conto intrattenuto presso i medesimi intermediari. Entro quarantotto ore i superiori provvedimenti di blocco o congelamento temporaneo devono essere trasmessi al Commissario della Legge, il quale, entro le successive novantasei ore, se ne ricorrono i presupposti, provvede alla convalida ordinando la liberazione del blocco o congelamento temporaneo ovvero disponendo l'adozione della misura cautelare di sequestro. Entro il medesimo termine il provvedimento del Commissario della Legge deve essere notificato all'intermediario interessato ed alla Divisione Vigilanza della Banca Centrale della Repubblica di San Marino. I termini di cui sopra devono essere osservati a pena di inefficacia della misura.
+    Modifiche legislative Legge 17 giugno 2008 n.92, Articolo 89, lett.b):
+    1. Sono abrogati:
+    b) gli articoli 6, 8 e 16 della Legge 26 febbraio 2004 n.28 “Disposizioni in materia di contrasto del terrorismo, del riciclaggio del denaro di provenienza illecita e abuso di informazioni privilegiate”;

@@ -1,0 +1,3 @@
+Art. 340-decies
+(Finanziamento di reati di terrorismo)
+Chiunque con qualsiasi mezzo, anche per interposta persona, riceve, raccoglie, detiene, deposita, occulta, custodisce, eroga, cede o trasferisce denaro, beni o altre risorse economiche che sa destinati ad essere utilizzati, in tutto o in parte, per compiere uno o più reati di terrorismo o atti terroristici, o per fornire aiuto economico a terroristi o a gruppi terroristici o presta ad essi un servizio finanziario o servizi connessi, è punito con la prigionia di sesto grado e con l’interdizione dai pubblici uffici e dai diritti politici di quarto grado.

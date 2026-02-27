@@ -1,0 +1,9 @@
+Art. 25
+Quando nel codice penale abrogato, nelle leggi o nelle convenzioni internazionali siano previste le pene della prigionia o dell'arresto non superiori nel massimo ad 1 mese, sole o congiunte ad altra pena, esse devono considerarsi, per ogni effetto di legge, come corrispondenti all'arresto di primo grado.
+Quando nelle predette leggi siano previste le pene della prigionia o dell'arresto non inferiori nel massimo a 2 mesi, sole o congiunte ad altra pena, esse devono considerarsi, per ogni effetto di legge, come corrispondenti all'arresto di secondo grado.
+Quando siano previste la pena della prigionia non inferiore a 3 mesi ovvero dell'arresto non inferiore a 6 mesi, sole o congiunte ad altra pena, esse si considerano corrispondenti per ogni effetto di legge all'arresto di terzo grado.
+Quando sia prevista la pena della prigionia non inferiore nel massimo ad 1 anno, ovvero la pena dell'arresto superiore nel massimo a 6 mesi, tali pene si considerano corrispondenti alla prigionia di primo grado.
+Quando sia prevista la pena della prigionia non inferiore nel massimo a 3 anni, essa deve considerarsi corrispondente alla prigionia di secondo grado.
+Egualmente, la prigionia non inferiore nel massimo a 6 anni deve considerarsi per ogni effetto di legge come corrispondente alla prigionia di terzo grado; quella non inferiore nel massimo a 10 anni deve considerarsi corrispondente alla prigionia di quarto grado.
+La prigionia non inferiore nel massimo a 14 anni deve considerarsi corrispondente alla prigionia di quinto grado; se non inferiore nel massimo a 20 anni, deve considerarsi corrispondente alla prigionia di sesto grado; se non inferiore nel massimo a 24 anni, deve considerarsi corrispondente alla prigionia di settimo grado.
+La prigionia a vita si considera come corrispondente alla prigionia di ottavo grado.
