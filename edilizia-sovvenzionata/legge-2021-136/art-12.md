@@ -1,0 +1,17 @@
+Art.12
+(Agevolazioni interventi abitativi)
+1. I soggetti interessati dalla presente legge possono accedere ai benefici di cui all’articolo 154 della Legge 14 dicembre 2017 n.140 e successive modifiche e integrazioni, per prestiti agevolati finalizzati all’eliminazione delle barriere architettoniche, al fine di adeguare gli edifici adibiti a civile abitazione con tecnologie, apparati, strumenti e opere atte all’eliminazione delle barriere della comprensione e della comunicazione, compresi sistemi hardware, software, automazione e domotica.
+2. È demandato alla Commissione per la Gestione dell’Edilizia Residenziale l’aggiornamento del regolamento di cui all’articolo 154, comma 10, della Legge 14 dicembre 2017 n.140 e sue successive modifiche.
+3 Oltre a quanto previsto dal comma 1, nel Bilancio di previsione dello Stato è istituito apposito capitolo di spesa 2-3-7437 denominato “Contributi a fondo perduto per gli interventi di cui all’articolo 154 della Legge 14 dicembre 2017 n.140” con uno stanziamento, per l’esercizio finanziario 2022, di euro 100.000,00 in favore dei soggetti affetti da qualsiasi disabilità, utilizzabile fino ad una somma massima di euro 5.000,00 a richiedente per ogni esercizio, per la realizzazione degli interventi di cui al comma 1.[^35]
+
+[^35]: Testo originario (Legge n.136/2021) Art.12
+    (Agevolazioni interventi abitativi)
+    1. I soggetti interessati dalla presente legge, possono accedere ai benefici di cui all’articolo 154 della Legge 14 dicembre 2017 n.140 per prestiti agevolati finalizzati all’eliminazione delle barriere architettoniche, al fine di adeguare gli edifici adibiti a civile abitazione con tecnologie, apparati, strumenti e opere atte all’eliminazione delle barriere della comprensione e della comunicazione, compresi sistemi hardware, software, automazione e domotica.
+    Modifiche legislative Legge 22 dicembre 2021 n.207
+    Art.11
+    (Modifiche alle agevolazioni per adeguare gli edifici adibiti a civile abitazione per l’eliminazione delle barriere della comprensione e della comunicazione e ai prestiti agevolati per l’eliminazione delle barriere architettoniche) 1.L’articolo 12 della Legge 19 luglio 2021 n.136 è modificato come segue:
+    “Art.12
+    (Agevolazioni interventi abitativi)
+    1. I soggetti interessati dalla presente legge possono accedere ai benefici di cui all’articolo 154 della Legge 14 dicembre 2017 n.140 e successive modifiche e integrazioni, per prestiti agevolati finalizzati all’eliminazione delle barriere architettoniche, al fine di adeguare gli edifici adibiti a civile abitazione con tecnologie, apparati, strumenti e opere atte all’eliminazione delle barriere della comprensione e della comunicazione, compresi sistemi hardware, software, automazione e domotica.
+    2. È demandato alla Commissione per la Gestione dell’Edilizia Residenziale l’aggiornamento del regolamento di cui all’articolo 154, comma 10, della Legge 14 dicembre 2017 n.140 e sue successive modifiche.
+    3 Oltre a quanto previsto dal comma 1, nel Bilancio di previsione dello Stato è istituito apposito capitolo di spesa 2-3-7437 denominato “Contributi a fondo perduto per gli interventi di cui all’articolo 154 della Legge 14 dicembre 2017 n.140” con uno stanziamento, per l’esercizio finanziario 2022, di euro 100.000,00 in favore dei soggetti affetti da qualsiasi disabilità, utilizzabile fino ad una somma massima di euro 5.000,00 a richiedente per ogni esercizio, per la realizzazione degli interventi di cui al comma 1.”.

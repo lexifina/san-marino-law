@@ -1,0 +1,5 @@
+Art. 7
+(Formazione universitaria e post-universitaria)
+1. È promosso l’accesso all’istruzione universitaria e post-universitaria mediante tutti gli strumenti e servizi volti all’abbattimento delle barriere alla comprensione e alla comunicazione, anche mettendo a disposizione misure inclusive e strumenti idonei ad assicurare pari opportunità ed autonomia, in base alle necessità personali.
+2. È promosso, nel rispetto dell’autonomia universitaria, sia nell’ambito dei corsi di laurea sia nella formazione post lauream, l’insegnamento e l’uso, da parte degli studenti, della LIS, del sistema Braille nonché di tecniche, metodologie e risorse, anche informatiche, idonee a favorire la comunicazione delle e con le persone con disabilità sensoriali.
+3. Al fine di disporre di professionisti debitamente qualificati per l’insegnamento della LIS, della LIS tattile e del sistema Braille e per i differenti ruoli di assistente all’autonomia e alla comunicazione e di interprete in LIS e LIS tattile, l’Università di San Marino attiva corsi di formazione specifici.

@@ -1,0 +1,4 @@
+Art. 9
+(Arte, cultura, tempo libero)
+1. È favorita la piena accessibilità del patrimonio storico, artistico e culturale sammarinese, nonché il turismo accessibile e la fruizione di eventi culturali, della pratica sportiva, di manifestazioni e di eventi ricreativi, attraverso i sistemi comunicativi di cui all’articolo 2.
+2. Ai fini di cui al comma 1, la U.O. Istituti Culturali promuove iniziative finalizzate alla conoscenza e alla fruibilità del patrimonio culturale sammarinese in favore delle persone con disabilità sensoriali, quali formazione al personale, visite guidate con interpretariato in LIS, sistema Braille, video-guide, realizzazione di pannelli esplicativi accessibili, applicazioni tecnologiche ed ogni altra modalità idonea a migliorare la fruibilità delle attività legate allo sport, alla cultura e al tempo libero.

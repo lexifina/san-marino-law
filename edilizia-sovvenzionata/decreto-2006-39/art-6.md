@@ -1,0 +1,2 @@
+Art. 6
+E’ fatto obbligo alle società cooperative di abitazione iscritte al Pubblico Registro degli Enti Cooperativi di comunicare alla Sezione Cooperative dell’Ufficio del Lavoro, l’ammissione di nuovi soci, l’esclusione, il subentro, il recesso, entro 10 giorni dall’avvenuta deliberazione da parte del Consiglio d’Amministrazione. E’ altresì obbligo delle società cooperative comunicare la morte del socio entro 10 giorni dall’annotazione nel libro dei soci.

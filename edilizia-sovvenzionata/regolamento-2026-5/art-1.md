@@ -1,0 +1,3 @@
+Art. 1
+(Finalità e oggetto)
+1. Il presente regolamento definisce le procedure finalizzate alla concessione di contributi statali, nei limiti delle disponibilità di bilancio, così come previsto dalle Legge 31 marzo 2015 n.44 e successive modifiche, per il reperimento di unità immobiliari da adibire a prima abitazione nel rispetto dei principi di imparzialità, trasparenza e pubblicità della Pubblica Amministrazione, al fine di garantire il soddisfacimento delle normali esigenze abitative dei nuclei familiari residenti nel territorio della Repubblica di San Marino, nonché tempistiche certe per l’esame e la conclusione delle pratiche amministrative.

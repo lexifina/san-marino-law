@@ -1,0 +1,67 @@
+REGOLAMENTO 30 MARZO 2026 N.5
+## DISPOSIZIONI PER LA DEFINIZIONE DELLE MODALITÀ E PROCEDURE DI PRESENTAZIONE DELLE DOMANDE PER L’EROGAZIONE DEI CONTRIBUTI STATALI PER SOSTENERE LE ESIGENZE ABITATIVE DEI NUCLEI FAMILIARI RESIDENTI NELLA REPUBBLICA DI SAN MARINO AI SENSI DELLA LEGGE 31 MARZO 2015 N.44 E SUCCESSIVE MODIFICHE ATTI NORMATIVI CITATI NELLA RACCOLTA COORDINATA E NELLE ALTRE NORME IN MATERIA
+- Legge 15 novembre 1917 n.17
+- Decreto 9 marzo 1953 n.5
+- Decreto 6 dicembre 1976 n.71.
+- Legge 9 novembre 1979 n.70
+- Legge 24 aprile 1980 n.32
+- Legge 8 luglio 1981 n.59
+- Legge 29 ottobre 1981 n. 85
+- Legge 28 gennaio 1982 n.13
+- Legge 28 aprile 1982 n.35
+- Legge 26 maggio 1982 n.51
+- Legge 17 marzo 1988 n.51
+- Legge 17 marzo 1988 n.52
+- Legge 28 giugno 1989 n.68
+- Legge 18 settembre 1990 n.103
+- Legge 20 febbraio 1991 n.26
+- Legge 29 novembre 1991 n.149
+- Legge 29 gennaio 1992 n. 7
+- Legge 21 febbraio 1995 n.27
+- Legge 19 luglio 1995 n. 87
+- Legge 17 febbraio 1998 n.28
+- Legge 18 febbraio 1998 n.30
+- Legge 19 novembre 2001 n.115
+- Legge 30 aprile 2002 n.58
+- Decreto 13 maggio 2003 n.56
+- Legge 18 dicembre 2003 n.165
+- Legge 17 novembre 2005 n.165
+- Legge 13 dicembre 2005 n.179
+- Decreto 21 febbraio 2006 n.39
+- Decreto Delegato n. 4 agosto 2008 n.114
+- Decreto Delegato 5 maggio 2010 n.86
+- Decreto Delegato 5 maggio 2010 n.87
+- Legge 28 giugno 2010 n.118
+- Legge 22 dicembre 2010 n.194
+- Legge 5 ottobre 2011 n.159
+- Legge 5 ottobre 2011 n.160
+- Legge 22 dicembre 2011 n.200
+- Legge 21 dicembre 2012 n.150
+- Legge 27 giugno 2013 n.71
+- Regolamento 29 ottobre 2013 n.6
+- Legge 3 aprile 2014 n.48
+- Legge 22 luglio 2014 n.114
+- Decreto Delegato 30 ottobre 2014 n.175
+- Legge 23 dicembre 2014 n.219
+- Legge 31 marzo 2015 n.44
+- Regolamento 28 maggio 2015 n.8
+- Regolamento 30 settembre 2015 n.13
+- Legge 22 dicembre 2015 n.189
+- Decreto Delegato 4 maggio 2016 n.56
+- Legge 21 dicembre 2016 n. 144
+- Regolamento 13 luglio 2017 n.6
+- Legge 7 agosto 2017 n.94
+- Legge 29 settembre 2017 n.115
+- Legge 21 dicembre 2017 n.147
+- Decreto-Legge 19 marzo 2018 n.30
+- Decreto Delegato 17 maggio 2018 n.56
+- Legge 30 maggio 2019 n. 88
+- Legge 29 ottobre 2021 n.183
+- Legge 22 dicembre 2021 n.207
+- Legge 29 novembre 2022 n.158
+- Legge 23 dicembre 2022 n.171
+- Legge 15 settembre 2023 n.132
+- Legge 3 marzo 2025 n.30
+- Decreto Delegato 6 marzo 2025 n.35
+- Legge 28 aprile 2025 n.64
+- Regolamento 30 marzo 2026 n.5
