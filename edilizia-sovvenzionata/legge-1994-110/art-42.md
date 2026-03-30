@@ -1,0 +1,30 @@
+Art.42
+(Diritto di prelazione dell'Ecc.ma Camera)
+Qualora il socio intenda trasferire la proprietà dell'alloggio a terzi, è riconosciuto allo Stato il diritto di prelazione.
+Tale diritto si esercita mediante l'obbligo, per il socio, di comunicare alla Commissione per la Gestione dell'Edilizia Sovvenzionata il corrispettivo e le altre condizioni in base alle quali la vendita deve essere effettuata.
+Il Presidente della Commissione per la Gestione dell'Edilizia Sovvenzionata, su conforme delibera del Congresso di Stato, dovrà comunicare entro sessanta giorni a fare data dal ricevimento della comunicazione l'accettazione o meno del corrispettivo e delle condizioni ad esso afferenti.
+Trascorso tale termine senza che lo Stato si sia avvalso della facoltà sopradescritta, il socio sarà definitivamente libero di procedere alla vendita presso terzi.
+Qualora, a seguito di rinuncia da parte dello Stato di avvalersi dell'esercizio del diritto di prelazione a norma del presente articolo, il socio alienasse l'alloggio con modalità e/o corrispettivo diversi da quelli indicati nella proposta di vendita, lo Stato potrà fare valere presso il terzo acquirente la nullità della vendita.
+L'accertamento della nullità viene demandato a pronuncia del Commissario della Legge.
+La sentenza commissariale, accertata la violazione delle disposizioni per l'esercizio del diritto di prelazione, dichiara nullo il contratto e ordina al socio assegnatario di alienare l'alloggio allo Stato con obbligo altresì di risarcire il danno al terzo che abbia confidato nella stipula del contratto rivelatosi nullo di diritto.
+Le stesse disposizioni si applicano al caso in cui il socio ometta di comunicare l'offerta e le modalità di vendita.
+L'azione giudiziale per l'esercizio del diritto di prelazione potrà essere esercitata dall'Ecc.ma Camera entro sei mesi dall'avvenuta conoscenza della stipula del rogito. 9 bis. Il diritto di prelazione di cui al presente articolo non opera nell’ipotesi in cui il socio abbia estinto il mutuo, anche anticipatamente rispetto alla sua naturale scadenza, e sia comunque stato cancellato il privilegio a garanzia del mutuo stesso e nelle ipotesi in cui l’alloggio non sia stato finanziato con mutuo statale.
+9 ter. Allo scopo di assicurare la certezza giuridica al trasferimento e alla circolazione dei beni immobili di Società Cooperative di Abitazione e gli effetti della conservazione degli atti stipulati, sono considerati validi ed efficaci i trasferimenti e le negoziazioni stipulate in favore di terzi anteriormente all’entrata in vigore della presente legge, sempreché sia stato estinto preventivamente l’eventuale mutuo e sia comunque stato cancellato il privilegio a garanzia del mutuo stesso e nelle ipotesi in cui l’alloggio non sia stato finanziato con mutuo statale.[^9]
+
+[^9]: Testo originario (Legge n.110/1994)
+    Art.42
+    (Diritto di prelazione dell'Ecc.ma Camera)
+    Qualora il socio intenda trasferire la proprietà dell'alloggio a terzi, è riconosciuto allo Stato il diritto di prelazione.
+    Tale diritto si esercita mediante l'obbligo, per il socio, di comunicare alla Commissione per la Gestione dell'Edilizia Sovvenzionata il corrispettivo e le altre condizioni in base alle quali la vendita deve essere effettuata.
+    Il Presidente della Commissione per la Gestione dell'Edilizia Sovvenzionata, su conforme delibera del Congresso di Stato, dovrà comunicare entro sessanta giorni a fare data dal ricevimento della comunicazione l'accettazione o meno del corrispettivo e delle condizioni ad esso afferenti.
+    Trascorso tale termine senza che lo Stato si sia avvalso della facoltà sopradescritta, il socio sarà definitivamente libero di procedere alla vendita presso terzi.
+    Qualora, a seguito di rinuncia da parte dello Stato di avvalersi dell'esercizio del diritto di prelazione a norma del presente articolo, il socio alienasse l'alloggio con modalità e/o corrispettivo diversi da quelli indicati nella proposta di vendita, lo Stato potrà fare valere presso il terzo acquirente la nullità della vendita.
+    L'accertamento della nullità viene demandato a pronuncia del Commissario della Legge.
+    La sentenza commissariale, accertata la violazione delle disposizioni per l'esercizio del diritto di prelazione, dichiara nullo il contratto e ordina al socio assegnatario di alienare l'alloggio allo Stato con obbligo altresì di risarcire il danno al terzo che abbia confidato nella stipula del contratto rivelatosi nullo di diritto.
+    Le stesse disposizioni si applicano al caso in cui il socio ometta di comunicare l'offerta e le modalità di vendita.
+    L'azione giudiziale per l'esercizio del diritto di prelazione potrà essere esercitata dall'Ecc.ma Camera entro sei mesi dall'avvenuta conoscenza della stipula del rogito.
+    Modifiche legislative Legge 3 marzo 2025 n.30, Articolo 27:
+    (Modifica all’articolo 42 della Legge 15 dicembre 1994 n.110 “Testo Unico e riforma delle disposizioni in materia di edilizia sovvenzionata”)
+    1. Dopo il nono comma dell’articolo 42 della Legge n.110/1994, sono aggiunti i seguenti commi:
+    “9 bis. Il diritto di prelazione di cui al presente articolo non opera nell’ipotesi in cui il socio abbia estinto il mutuo, anche anticipatamente rispetto alla sua naturale scadenza, e sia comunque stato cancellato il privilegio a garanzia del mutuo stesso e nelle ipotesi in cui l’alloggio non sia stato finanziato con mutuo statale.
+    9 ter. Allo scopo di assicurare la certezza giuridica al trasferimento e alla circolazione dei beni immobili di Società Cooperative di Abitazione e gli effetti della conservazione degli atti stipulati, sono considerati validi ed efficaci i trasferimenti e le negoziazioni stipulate in favore di terzi anteriormente all’entrata in vigore della presente legge, sempreché sia stato estinto preventivamente l’eventuale mutuo e sia comunque stato cancellato il privilegio a garanzia del mutuo stesso e nelle ipotesi in cui l’alloggio non sia stato finanziato con mutuo statale.”.

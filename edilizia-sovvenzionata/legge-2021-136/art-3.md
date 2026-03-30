@@ -1,0 +1,4 @@
+Art. 3
+(Libertà di scelta e non discriminazione)
+1. È riconosciuto il diritto di libera scelta delle persone con disabilità sensoriali e delle loro famiglie o tutori in merito alle modalità di comunicazione, ai percorsi educativi e agli ausili utilizzati per il raggiungimento del pieno sviluppo della persona e della sua piena inclusione sociale, provvedendo alle garanzie necessarie affinché sia possibile accedere e fare liberamente uso dei metodi di insegnamento e dei sistemi di comunicazione di cui all’articolo 2 commi 1 e 2 in tutti gli ambiti pubblici e privati.
+2. Nessuna persona può essere discriminata né sottoposta a trattamenti diseguali, direttamente o indirettamente, per l’esercizio del suo diritto di opzione all’uso di mezzi di sostegno alla comunicazione di cui al comma l in qualsiasi ambito, sia pubblico che privato.

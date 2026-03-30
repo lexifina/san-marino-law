@@ -1,0 +1,4 @@
+Art. 6
+(Inclusione scolastica)
+1. Nell’ambito dei princìpi e delle finalità di cui agli articoli 1 e 2 della Legge 10 marzo 2015 n.28, lo Stato garantisce i servizi volti al sostegno e all’inclusione dell’alunno con disabilità sensoriale, tra cui la presenza, a seconda della tipologia di disabilità e delle necessità di ciascun alunno, dell’assistente all’autonomia e alla comunicazione che opera attraverso un Piano Educativo Individualizzato. È dato mandato al Congresso di Stato di emanare, entro novanta giorni dall’entrata in vigore della presente legge, apposito decreto delegato che disciplini la figura dell’assistente all’autonomia e alla comunicazione, ne definisca i requisiti e le funzioni.
+2. Il Dipartimento della Formazione promuove momenti formativi della LIS e del sistema Braille in ambito scolastico, nonché corsi di formazione specifica rivolti al corpo docente.

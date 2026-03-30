@@ -1,0 +1,4 @@
+Art. 8
+(Inclusione lavorativa e formazione permanente)
+1. Al fine di realizzare la piena inclusione sociale nei luoghi di lavoro, si promuovono pari opportunità e accessibilità a ambienti, postazioni di lavoro, risorse, corsi di formazione e aggiornamento, colloqui, riunioni, interazioni con la dirigenza e i colleghi e per tutto ciò che riguarda la vita lavorativa, mediante l’utilizzo della LIS, del sistema Braille e, in generale, dei sistemi comunicativi di cui all’articolo 2, degli strumenti e ausili idonei nonché delle nuove tecnologie, ivi comprese applicazioni, chat, e-mail e videoconferenze.
+2. Per i fini di cui al comma 1, è dato mandato al Segretario di Stato per il Lavoro di redigere entro centottanta giorni dall’entrata in vigore della presente legge apposite linee guida per l’inclusione lavorativa delle persone con disabilità sensoriali.

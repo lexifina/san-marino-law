@@ -1,0 +1,4 @@
+Art. 11
+(Monitoraggio della condizione delle persone con disabilità sensoriali)
+1. Nell’esercizio delle funzioni di cui al comma l dell’articolo 5 della Legge 10 marzo 2015, n.28 e comunque nei limiti delle risorse disponibili a legislazione vigente, la CSD-ONU (Commissione Sammarinese per l’Attuazione della Convenzione ONU), provvede al monitoraggio della condizione delle persone con disabilità sensoriali e predispone una relazione sullo stato di attuazione della presente legge da inviare alla Commissione Consiliare Permanente IV entro il 31 gennaio di ogni anno.
+2. L’Ufficio Informatica, Tecnologia, Dati e Statistica insieme all’Authority Sanitaria e Socio Sanitaria implementano gli strumenti statistici di misurazione della disabilità tenendo conto della Classificazione Internazionale del Funzionamento, della Disabilità e della Salute (ICF-International Classification of Functioning, Disability and Health) a cura dell’Organizzazione Mondiale della Sanità.

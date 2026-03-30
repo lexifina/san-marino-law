@@ -1,0 +1,3 @@
+Art. 13
+(Provvedimenti attuativi)
+1. Il Congresso di Stato, su proposta del Segretario di Stato per la Sanità e la Sicurezza Sociale e Pari Opportunità, di concerto con gli altri Segretari di Stato interessati per quanto di rispettiva competenza e sentita l’Università, le associazioni di rilevanza nazionale maggiormente rappresentative per la tutela e la promozione dei diritti delle persone con disabilità sensoriali, nonché le associazioni professionali operanti nel settore e la CSD-ONU, è autorizzato ad emanare appositi decreti delegati per l’attuazione delle disposizioni di cui alla presente legge ai sensi dell’articolo 23 della Legge 10 marzo 2015 n.28.
