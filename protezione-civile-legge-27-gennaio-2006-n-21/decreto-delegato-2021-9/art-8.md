@@ -1,0 +1,5 @@
+Art.8
+(Presidi territoriali)
+1. Il presidio territoriale, indicato nel Piano di Emergenza redatto dal SPC, può avvalersi dei Gruppi e delle associazioni di Protezione Civile, anche integrati a squadre miste composte da tecnici e forze dell’ordine. I suddetti volontari svolgono attività di controllo e monitoraggio, sulla base delle criticità note e presenti nel territorio, in accordo con le procedure operative di cui al Piano di Emergenza di Protezione Civile. Nello specifico i volontari possono occuparsi di tutte le attività di sorveglianza e vigilanza in relazione ai fenomeni di rischio, quali ad esempio incendi o eventi meteorologici avversi, e laddove sussistono condizioni di rischio residuo e aree già vulnerate ove necessiti intensificare l’azione di vigilanza.
+2. I Gruppi hanno possibilità di utilizzare i locali della Giunta di Castello e, d’intesa con il Capitano di Castello, le apparecchiature di segreteria, telefoniche ed informatiche.
+Sezione III Elenco delle associazioni di volontariato di protezione civile e dei Gruppi dei Castelli

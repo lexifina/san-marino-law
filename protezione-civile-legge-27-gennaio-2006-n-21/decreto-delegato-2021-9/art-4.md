@@ -1,0 +1,11 @@
+Art.4
+(Costituzione, compiti e requisiti di iscrizione)
+1. Presso ogni Castello della Repubblica, può essere costituito, ai sensi dell’articolo 7, comma 1, lettera n), della Legge n.21/2006, un gruppo di volontari di protezione civile, d’ora in poi denominato "Gruppo".
+2. Il SPC emette un bando pubblico per il reclutamento dei volontari dei Gruppi entro il 31 ottobre 2021. Successivamente al primo bando, il SPC promuove periodiche iniziative volte a sensibilizzare la popolazione circa l’importanza di aderire al volontariato di protezione civile.
+3. Il Gruppo concorre alle attività di previsione, prevenzione, pianificazione e soccorso, in vista o in occasione degli eventi calamitosi, senza fini di lucro, avvalendosi delle prestazioni personali, volontarie e gratuite dei propri aderenti.
+4. L’organizzazione del Gruppo è apolitica e persegue il fine della solidarietà civile, culturale e sociale a tutela della salvaguardia della popolazione in caso di emergenze.
+5. Al Gruppo possono aderire cittadini maggiorenni, residenti o domiciliati nel Castello d’interesse; possono essere ammessi anche altri soggetti, per esigenze occasionali o specifiche, in accordo con il Capo del SPC, informato il Capitano di Castello.
+6. Per la partecipazione al Gruppo è necessaria la certificazione medica di cui al successivo Capo IV.
+7. Per l’ammissione al Gruppo occorre presentare domanda d’iscrizione, sulla base di una modulistica approntata dal SPC, alla Giunta di Castello del relativo Gruppo d’interesse. Il Capitano di Castello trasferisce la documentazione relativa alle domande d’iscrizione al SPC che ne valuta la completezza e, in caso di esito positivo, il richiedente viene iscritto al Gruppo dei volontari di protezione civile del proprio Castello, nella Sezione A) dell’Elenco di cui al comma 3 dell’articolo 9. A tale procedura possono collaborare i Coordinatori tecnico-operativi di cui all’articolo 5.
+8. Per i volontari dei Gruppi valgono i principi sanciti dalla presente disciplina in termini di diritti, doveri, disposizioni e benefici.
+9. Qualora le adesioni ai singoli Gruppi raggiungano numeri esigui vengono costituiti uno o più gruppi che aggregano più Castelli e che fanno capo direttamente al SPC, sulla base dei criteri stabiliti al Regolamento di cui all’articolo 10, comma 7, del presente decreto delegato.
