@@ -1,0 +1,6 @@
+Art.21
+(Criteri minimi e definizione delle modalità di erogazione della formazione)
+1. L’attività di formazione è rivolta a tutti i volontari iscritti nell’Elenco nei limiti delle risorse finanziarie disponibili.
+2. Il SPC, nei limiti delle proprie risorse finanziarie o di quelle eventualmente messe a disposizione dalle altre strutture operative di Protezione Civile, può contribuire alla realizzazione di piani formativi ed attività addestrative, sulla base di un progetto condiviso e di un piano di incentivi concordato periodicamente con le singole associazioni e con l’Unione delle associazioni e dei Gruppi.
+3. L’attività di pianificazione formativa deve essere finalizzata ad assicurare, nel tempo, la formazione e il necessario periodico aggiornamento di tutti i volontari aderenti alle associazioni ed ai Gruppi iscritti nell’Elenco, con riferimento ai compiti svolti dall’associazione di appartenenza e nel rispetto degli specifici modelli organizzativi.
+4. Il piano formativo, in relazione agli ambiti di intervento in cui il volontariato opera e ai compiti che gli sono attribuiti, deve contemplare la formazione e l’addestramento all’uso delle attrezzature e dei dispositivi di protezione individuale idonei per lo specifico impiego.
