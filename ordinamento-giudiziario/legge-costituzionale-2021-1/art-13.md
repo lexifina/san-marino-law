@@ -1,0 +1,5 @@
+Art. 13
+(Formazione)
+1. Al fine di garantire gli approfondimenti scientifici e professionali necessari a svolgere la loro funzione con indipendenza, autonomia, competenza e preparazione i Magistrati hanno il diritto-dovere di partecipare alla formazione iniziale e continua. Il Consiglio Giudiziario, entro il 31 dicembre di ogni anno, adotta i piani di formazione annuali per gli Uditori Commissariali e per i Magistrati di carriera. Il Magistrato Dirigente[^17] predispone e presenta al Consiglio Giudiziario, entro il mese di gennaio di ogni anno, il resoconto dei piani di formazione dell’anno precedente. Il Consiglio Giudiziario, d’intesa con la Segreteria di Stato per la Giustizia, può stringere accordi con Istituti di formazione anche all’estero. La Formazione si estende alla trattazione delle questioni economiche, sociali e culturali relative all’esercizio delle funzioni giudiziarie.
+
+[^17]: Si veda la nota all’articolo 14, in particolare l’articolo 1, comma 4 della Legge Costituzionale 21 marzo 2025 n.1.

@@ -1,0 +1,11 @@
+Art.44
+Deliberazione del Collegio
+1. Terminata l'udienza pubblica, o le eventuali udienze pubbliche resesi necessarie, il Presidente convoca il Collegio in Camera di Consiglio per la valutazione collegiale delle risultanze emerse dalla discussione in udienza.
+2. Al termine della discussione il Collegio vota una ipotesi di deliberazione ed incarica uno dei membri, che può essere diverso dal relatore, di redigere il testo della sentenza.
+3. Il Presidente convoca il Collegio non prima di quindici giorni e non oltre trenta giorni dalla riunione di cui ai precedenti commi per la deliberazione definitiva e l'approvazione dell'intero testo della sentenza; a questo fine il redattore distribuisce agli altri membri, a cura del Cancelliere, almeno cinque giorni prima della riunione, il testo da lui elaborato.
+4. In ogni caso la deliberazione definitiva del collegio giudicante deve essere resa entro due mesi dall'ultima udienza, a meno che, per impedimento, o per morte, o altra causa di cessazione dalla carica di uno dei membri del collegio giudicante, non sia possibile sostituirlo ai sensi del presente regolamento e sia necessario costituire un nuovo collegio; qualora comunque trascorrano più di due mesi dall'ultima udienza, resta l'obbligo del Collegio Garante di rendere una deliberazione sulla causa.
+5. La sentenza porta la data della deliberazione di cui al comma precedente, è sottoscritta da tutti i membri del collegio giudicante, viene depositata in Cancelleria il giorno successivo e immediatamente a cura della Cancelleria notificata alle parti e comunicata in copia conforme alla Reggenza.
+6. Entro cinque giorni dal deposito la sentenza viene trasmessa, con la restituzione degli atti, all'autorità giudiziaria avanti alla quale pende il procedimento.
+7. La sentenza, sia di accoglimento sia di rigetto, viene pubblicata ad valvas e sul Bollettino Ufficiale; le disposizioni dichiarate incostituzionali, trascorsi sei mesi dalla pubblicazione senza che il Consiglio Grande e Generale abbia legiferato in applicazione dell'articolo 16 della Dichiarazione dei Diritti dei Cittadini e dei Principi Fondamentali dell'Ordinamento Sammarinese, non possono essere più applicate da chiunque.
+8. Le disposizioni del presente articolo si applicano anche al caso previsto dall'articolo
+39.

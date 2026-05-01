@@ -1,0 +1,7 @@
+## LA MAGISTRATURA. ORDINAMENTO GIUDIZIARIO E CONSIGLIO GIUDIZIARIO
+## TESTO COORDINATO CON LE MODIFICHE DERIVANTI DALLA LEGGE COSTITUZIONALE 21 MARZO 2025 N.1.
+Art. 1
+(Principi generali)
+1. Gli organi del Potere giudiziario esercitano le loro funzioni secondo quanto previsto dalla Dichiarazione dei Diritti dei Cittadini e dei Principi Fondamentali dell’Ordinamento Sammarinese. Soggetti alla legge soltanto e tenuti alla puntuale interpretazione ed applicazione del diritto vigente, vengono chiamati e permangono nelle loro funzioni per competenza professionale, obiettività ed imparzialità.
+2. Conformemente agli Statuti ed alla Dichiarazione dei Diritti e dei Principi Fondamentali dell’Ordinamento Sammarinese, i Magistrati esercitano le funzioni giudiziarie e svolgono i compiti istituzionali loro affidati nell’interesse dello Stato di diritto e senza vincolo di subordinazione. Essi sono responsabili in base alla legge.
+3. Ai Magistrati, vincolati ai doveri e titolari dei diritti indicati dalla legge, spettano le particolari garanzie di indipendenza, personali, economiche e di status previste dalla legge e dal diritto internazionale pattizio e consuetudinario. È responsabilità dello Stato e di ciascun giudice promuovere e salvaguardare l’indipendenza della Magistratura.

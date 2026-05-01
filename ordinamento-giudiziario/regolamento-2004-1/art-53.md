@@ -1,0 +1,3 @@
+Art.53
+Integrazioni al Regolamento generale
+1. Ogni qual volta il Collegio, nello svolgimento delle sue funzioni e nella organizzazione della sua attività, deve decidere questioni che non trovano soluzione nelle leggi o nel presente regolamento, può approvare una nuova disposizione integrativa di esso, secondo le disposizioni della Legge Qualificata n.55/2003 in materia, e subito dopo applicarla al caso, a meno che tale disposizione comporti obblighi o doveri o oneri nei confronti di soggetti esterni al Collegio, nel qual caso la nuova disposizione entra in vigore solo dopo la pubblicazione legale, o nel giorno indicato dalla stessa disposizione o altrimenti quindici giorni dopo.
