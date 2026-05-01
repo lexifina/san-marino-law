@@ -1,0 +1,4 @@
+Art. 4
+(Competenze dei Giudici per la Responsabilità Civile dei Magistrati)
+1. I Giudici per l’azione di responsabilità civile sono nominati due per il primo grado, uno per l’appello e uno per la terza istanza, con i relativi supplenti che subentreranno nella trattazione delle cause in caso di astensione, ricusazione, incompatibilità o grave impedimento dei titolari.
+2. L’azione di responsabilità civile dei Magistrati è assegnata alla competenza dei Giudici per l’azione di responsabilità civile. I Giudici per l’azione di responsabilità civile sono inoltre competenti a giudicare su un procedimento civile, penale o amministrativo, qualora tutti i competenti giudici si siano legittimamente astenuti o siano stati legittimamente ricusati o comunque non possano più giudicare per essersi già pronunciati.

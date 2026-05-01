@@ -1,0 +1,7 @@
+Art.27
+(Terza istanza nei giudizi amministrativi)
+1. In caso di difformità tra la sentenza di primo e di secondo grado, o tra i capi di esse, il Giudice Amministrativo d'Appello ordina alla Cancelleria di trasmettere l'intero fascicolo al Collegio Garante, mediante deposito presso l'Ufficio di Cancelleria dello stesso.
+2. Il Presidente del Collegio, con proprio decreto, assegna immediatamente il fascicolo ad un membro del Collegio. Tale decreto, a cura della Cancelleria, è comunicato immediatamente alle parti che possono depositare proprie memorie entro quindici giorni dall'avvenuta notifica. Nello stesso termine può essere presentata istanza di ricusazione del membro designato e, in tal caso, il giudizio rimane sospeso sino alla definizione dell'incidente.
+3. In caso di difformità tra le sentenze di primo e di secondo grado, il giudizio di terza istanza non ha luogo nel caso in cui la parte privata, soccombente in appello, rinunci al giudizio entro quindici giorni dalla comunicazione della sentenza d'appello, con dichiarazione depositata in Cancelleria.
+4. La sentenza deve essere depositata in Cancelleria entro novanta giorni decorrenti dal termine ultimo di cui al secondo comma del presente articolo.
+5. La sentenza è notificata alle parti interessate a cura dell'Ufficio di Cancelleria che provvederà anche alla trasmissione dell'intero fascicolo alla Cancelleria del Tribunale Amministrativo.

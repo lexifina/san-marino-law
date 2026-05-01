@@ -1,0 +1,5 @@
+Art.10
+Nome e forma delle decisioni del Collegio
+1. Il Collegio, nelle questioni con carattere giurisdizionale, decide con sentenza in tutti i casi nei quali è prescritto dalle leggi o comunque si pronuncia in via definitiva, oppure con ordinanza negli altri casi; le sentenze e ordinanze portano la data della loro deliberazione ed un numero progressivo per anno e sono pubblicate in apposita raccolta ufficiale nella quale è indicata anche la data ed il numero del Bollettino Ufficiale sul quale sono state pubblicate; si applicano le disposizioni specifiche di cui all'articolo 44 del presente regolamento.
+2. Il Collegio, nelle questioni che non hanno carattere giurisdizionale, approva i regolamenti, che portano il nome di Regolamento, la data ed il numero progressivo per anno, e delibera su altre questioni con atti che portano il nome di Deliberazione, la data ed il numero progressivo per anno.
+3. Il Presidente decide con decreto; i decreti portano la data di emanazione ed un numero progressivo per anno.
