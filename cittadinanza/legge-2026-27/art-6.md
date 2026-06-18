@@ -1,0 +1,6 @@
+## MODIFICA DELLE NORME RELATIVE ALLA CITTADINANZA PER NATURALIZZAZIONE – LEGGE 30 NOVEMBRE 2000 N.114 E SUCCESSIVE MODIFICHE
+Art.6
+(Disposizioni transitorie)
+1. Nelle more di una revisione organica e complessiva della disciplina sammarinese in materia di cittadinanza e alla luce delle modifiche introdotte con la presente legge, l’Ufficiale di Stato Civile non procede alla cancellazione dai registri della Cittadinanza della Repubblica dei cittadini sammarinesi per origine che, ai sensi dell’articolo 1, primo comma, punto 2 della Legge n.114/2000 e successive modifiche, non hanno reso, nel termine perentorio previsto, la dichiarazione di voler mantenere la cittadinanza sammarinese ai sensi dell’articolo 3 e successive modifiche della medesima legge.
+2. La disposizione di cui al comma 1 ha efficacia ex tunc.
+3. Coloro che sono stati cancellati dai registri della Cittadinanza della Repubblica nei ventiquattro mesi precedenti l’entrata in vigore della presente legge, per non aver adempiuto, ai sensi dell’articolo 2, comma 1, lettera f) della Legge n.114/2000 e successive modifiche, agli obblighi previsti, sono reinseriti nei predetti registri su richiesta, a condizione che risultino residenti al momento della domanda.
