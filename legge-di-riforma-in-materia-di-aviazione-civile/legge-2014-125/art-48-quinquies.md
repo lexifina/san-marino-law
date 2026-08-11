@@ -1,0 +1,3 @@
+Art. 48 quinquies
+(Vincoli ipotecari sulla cancellazione o vendita di aeromobile da parte del debitore)
+1. Il debitore ipotecario può richiedere, ai sensi dell’articolo 44, la cancellazione di un aeromobile gravato da ipoteca solo previa presentazione all’Autorità del consenso scritto da parte del creditore ipotecario eventualmente accompagnato dalla revoca dell’autorizzazione di cui all’articolo 48 ter, comma 1, punto f). Il consenso scritto del creditore ipotecario è richiesto altresì in caso di vendita da parte del debitore ipotecario dell’aeromobile gravato da ipoteca. Allo scopo di agevolare tale operazione l’Autorità può predisporre appositi moduli interni.

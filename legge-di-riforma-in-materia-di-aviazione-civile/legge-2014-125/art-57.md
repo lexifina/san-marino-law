@@ -1,0 +1,4 @@
+Art. 57
+(Ispezioni)
+1. Il Direttore Generale dispone le ispezioni su aeromobili, motori, eliche, rotori, parti e pertinenze utilizzati dagli operatori di aeromobili civili, per determinare il loro stato di sicurezza relativamente alle operazioni per la quale sono impiegati assicurando l’assistenza agli operatori ai fini della adozione degli interventi richiesti a seguito delle ispezioni e manutenzioni.
+2. Qualora a seguito delle azioni di cui al comma 1, il Direttore Generale riscontri che aeromobili, motori, eliche, rotori, parti e pertinenze, utilizzate o destinate ad essere utilizzate da operatori di aviazione civile, non siano idonei a condurre operazioni sicure, lo stesso è tenuto a notificare tale inidoneità agli operatori. Tali aeromobili, motori, eliche, rotori, parti e pertinenze non devono essere utilizzati nell’aviazione civile, salvo e fintanto che le irregolarità riscontrate non siano state rimosse.
