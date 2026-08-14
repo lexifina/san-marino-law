@@ -1,0 +1,5 @@
+## CERTIFICATI E LICENZE PER L’UTILIZZO DI APPARATI RADIOELETTRICI PER COMUNICAZIONI IN AMBITO DI SERVIZI MARITTIMI E MODIFICHE ALLA LEGGE 2 AGOSTO 2019 N. 120 E SUCCESSIVE MODIFICHE - RIFORMA IN MATERIA DI NAVIGAZIONE MARITTIMA
+## TITOLO I CERTIFICATI E LICENZE PER L’UTILIZZO DI APPARATI RADIOELETTRICI PER COMUNICAZIONI IN AMBITO DI SERVIZI MARITTIMI
+Art.1
+(Competenze e attribuzioni)
+1. A mente dell’articolo 3 della Legge 2 agosto 2019 n. 120 (Attribuzioni e funzioni dell’Autorità) l’Autorità per la Navigazione Marittima (in breve Autorità) è l’organo autorizzato e competente in materia di rilascio di certificati inerenti la navigazione marittima. A bordo delle imbarcazioni deve essere presente, quale dotazione di sicurezza, il dispositivo radio VHF-MF/HF di tipo omologato che deve essere registrato mediante la richiesta di apposita Licenza di esercizio. L’utilizzo della radio di bordo deve essere effettuato in via esclusiva dai possessori del Certificato limitato di radiotelefonista per navi che li abilita all’uso della radio e ne garantisce il livello di competenza adeguato.
