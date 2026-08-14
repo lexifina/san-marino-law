@@ -1,0 +1,8 @@
+Art. 3
+(La licenza di esercizio)
+1. La licenza di esercizio attesta la conformità dell'apparecchiatura e la legittimità del suo utilizzo a bordo dell’imbarcazione.
+2. La domanda per il rilascio deve essere presentata all’Autorità per l’Aviazione Civile e la Navigazione Marittima compilando l’apposito modulo, disponibile in via cartacea o in formato elettronico sul sito dell’Autorità, che contiene i dati anagrafici del richiedente, i dati dell’imbarcazione, il nominativo internazionale, l’eventuale codice MMSI ed i dati tecnici della radio dell’apparato radioelettrico e la dichiarazione di essere a conoscenza che l’ apparato deve essere impiegato solo ai fini di sicurezza, utilizzando il canale 16
+(quando si tratti di VHF) oppure della frequenza 2182 KHz (quando si tratti di RTF), con l’esclusione tassativa di effettuare traffico di corrispondenza pubblica e che a bordo dell’imbarcazione l’uso della stazione viene affidata solo a persone in possesso del certificato limitato di radiotelefonista per navi.
+3. La licenza è obbligatoriamente da conservare a bordo dell’imbarcazione e resterà valida fino al momento della dismissione dal Registro Marittimo Sammarinese, previ rinnovi periodici, o in caso di sostituzione, ovvero variazione dell’intestatario della licenza e/o variazioni o aggiunta di apparati radio a bordo.
+4. La licenza avrà la firma del Direttore Generale dell’Autorità per l’Aviazione Civile e la Navigazione Marittima o del Direttore del Dipartimento Telecomunicazioni della Repubblica di San Marino.
+5. L’armatore, o colui che viene incaricato dalla stesso tramite delega scritta, dovrà presentare la richiesta della licenza, compilando il relativo modulo di richiesta, ai fini della registrazione dell’unità nel registro.
