@@ -1,0 +1,5 @@
+Art. 77
+(Elezione del Presidente)
+1. E’ eletto Presidente, a scrutinio segreto, il Consigliere che ottenga i due terzi dei voti dei componenti la Commissione. Qualora, dopo due scrutini, nessuno raggiunga questa maggioranza, si procede al ballottaggio, a scrutinio segreto, tra i due Consiglieri che hanno raggiunto il maggior numero di voti. In caso di parità di voti, viene proclamato eletto il Consigliere più anziano nella carica e, in caso di pari anzianità, il Consigliere più anziano per età.
+2. Per l’elezione del vice Presidente si procede ai sensi del comma 1.
+3. Le stesse disposizioni si applicano per le elezioni suppletive. Nel caso in cui si debba procedere alla nomina di un nuovo Presidente, la convocazione della Commissione viene disposta dal vice Presidente o, in caso di sua impossibilità o assenza, dal Consigliere membro della medesima più anziano nella carica e, in caso di pari anzianità, dal Consigliere più anziano di età. La presidenza della seduta viene temporaneamente svolta con le medesime modalità.

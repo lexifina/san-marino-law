@@ -1,0 +1,11 @@
+Art. 30-bis
+(Limitazione della durata dell’esame dell’articolato di un progetto di legge)
+1. Qualora l’esame dell’articolato di un progetto di legge si protragga oltre venticinque ore di convocazione dalla chiusura del dibattito generale, è data facoltà alla maggioranza assoluta dei Consiglieri di presentare in forma scritta una mozione per porre in votazione, immediata e complessiva, la serie di emendamenti che ritiene di non voler sostenere.
+2. La proposta, previa dichiarazione di voto di quindici minuti per ciascun Gruppo Consiliare compreso il Gruppo Misto, è posta immediatamente in votazione. La mozione, da approvarsi a maggioranza assoluta, comporta il definitivo rigetto degli emendamenti elencati nella stessa; l’esame dell’articolato prosegue per l’esame dei restanti emendamenti.
+3. I commi 1 e 2 non si applicano ai progetti di legge costituzionale e qualificata.[^6]
+
+[^6]: bis. Successivamente vengono esaminati gli emendamenti interamente aggiuntivi di articoli, rispettando l’ordine individuato dall’Ufficio di Segreteria, sentito l’Ufficio Segreteria Istituzionale. L’ordine deve tenere conto di un’equa alternanza tra le proposte del Governo o della Maggioranza o dei singoli Gruppi Consiliari di Maggioranza e quelle dell’Opposizione o dei singoli Gruppi Consiliari di Opposizione, seguendo l’indicazione di priorità fornita dai medesimi all’Ufficio di Segreteria. L’ordine può essere modificato con accordo unanime tra tutti i Gruppi Consiliari di Maggioranza e di Opposizione.
+    7. L’approvazione dell’articolo o di parti di esso preclude ogni votazione ulteriore rispettivamente sull’articolo o sulle singole parti di esso.
+    8. La votazione dei singoli articoli avviene con voto palese, salvo quando è espressamente previsto il voto segreto.
+    9. I progetti di legge, come previsto dal comma 6 bis dell’articolo 29, possono essere ritirati dai proponenti in ogni fase del procedimento legislativo.
+    10. In sede di esame del Bilancio Preventivo dello Stato, con le modalità previste al presente articolo, sono sottoposti a votazione nell’ordine: gli emendamenti sui singoli capitoli, la parte “entrate”, la parte “uscite”, i singoli articoli della legge di bilancio e l’intera legge.”.

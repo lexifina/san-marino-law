@@ -1,0 +1,6 @@
+Art. 12
+(Ufficio di Presidenza – composizione)
+1. L’Ufficio di Presidenza è composto dai Presidenti dei Gruppi Consiliari. Il Presidente che non possa intervenire può farsi sostituire da un componente dello stesso Gruppo.
+2. Partecipano alle riunioni dell’Ufficio di Presidenza, senza diritto di voto, i membri dell’Ufficio di Segreteria, il Segretario di Stato per gli Affari Interni o altro Segretario di Stato in sua sostituzione.
+3. Il Gruppo Misto partecipa all’Ufficio di Presidenza con un suo rappresentante, se composto da almeno tre Consiglieri. Nel caso in cui facciano parte del Gruppo Misto Consiglieri appartenenti sia alla maggioranza consiliare sia all’opposizione, le medesime hanno facoltà di esprimere ciascuna un proprio rappresentante che partecipi alle riunioni dell’Ufficio di Presidenza. Se il Gruppo Misto non raggiunge il numero minimo di tre componenti, i Consiglieri che ne fanno parte possono delegare altri Gruppi Consiliari a rappresentarli.
+4. Ai fini della partecipazione alle riunioni dell’Ufficio di Presidenza è considerato Gruppo consiliare anche quella rappresentanza di Lista, ancorché con un numero di Consiglieri inferiore a tre per effetto della decurtazione dei propri eletti derivante dall’attribuzione del premio di maggioranza.

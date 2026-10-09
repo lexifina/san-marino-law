@@ -1,0 +1,18 @@
+Art. 68
+(Persone ammesse in Aula)
+1. Oltre ai Consiglieri e ai Segretari di Stato, sono ammessi in Aula durante le sedute consiliari i dipendenti dell’Ufficio Segreteria Istituzionale. In fase di esame dei decreti legge e dei decreti delegati sottoposti a ratifica e in fase di seconda lettura dei progetti di legge non sottoposti all’esame in Commissione Consiliare Permanente, previa comunicazione alla Reggenza, sono altresì ammessi in Aula funzionari e tecnici delle Segreterie di Stato e/o funzionari e tecnici della Pubblica Amministrazione al fine di fornire supporto al Segretario di Stato proponente o comunque relatore in materia. 1 bis. Previa comunicazione alla Reggenza, è altresì ammesso in Aula il relatore designato dal Comitato Promotore di progetto di legge di iniziativa popolare ai sensi dell’articolo 28.
+2. Il pubblico può assistere alle sedute del Consiglio Grande e Generale dalla tribuna, attenendosi ad un comportamento corretto e rimanendo in silenzio. Appositi regolamenti disciplinano tale accesso.
+3. La Reggenza può fare allontanare coloro che, dalla tribuna, con il loro comportamento recano disturbo ai lavori del Consiglio Grande e Generale.[^16]
+
+[^16]: Testo originario Legge Qualificata n.3/2018 Art. 68:
+    (Persone ammesse in Aula)
+    1. Oltre ai Consiglieri e ai Segretari di Stato, sono ammessi in Aula durante le sedute consiliari i dipendenti dell’Ufficio Segreteria Istituzionale. In fase di esame dei decreti legge e dei decreti delegati sottoposti a ratifica e in fase di seconda lettura dei progetti di legge non sottoposti all’esame in Commissione Consiliare Permanente, previa comunicazione alla Reggenza, sono altresì ammessi in Aula funzionari e tecnici delle Segreterie di Stato e/o funzionari e tecnici della Pubblica Amministrazione al fine di fornire supporto al Segretario di Stato proponente o comunque relatore in materia.
+    2. Il pubblico può assistere alle sedute del Consiglio Grande e Generale dalla tribuna, attenendosi ad un comportamento corretto e rimanendo in silenzio. Appositi regolamenti disciplinano tale accesso.
+    3. La Reggenza può fare allontanare coloro che, dalla tribuna, con il loro comportamento recano disturbo ai lavori del Consiglio Grande e Generale.
+    Modifiche Legislative Legge Qualificata n.1/2021, Art.11:
+    (Persone ammesse in Aula)
+    1. L’articolo 68 della Legge Qualificata 3 agosto 2018 n.3 è sostituito come segue:
+    “Art.68 (Persone ammesse in Aula)
+    1. Oltre ai Consiglieri e ai Segretari di Stato, sono ammessi in Aula durante le sedute consiliari i dipendenti dell’Ufficio Segreteria Istituzionale. In fase di esame dei decreti legge e dei decreti delegati sottoposti a ratifica e in fase di seconda lettura dei progetti di legge non sottoposti all’esame in Commissione Consiliare Permanente, previa comunicazione alla Reggenza, sono altresì ammessi in Aula funzionari e tecnici delle Segreterie di Stato e/o funzionari e tecnici della Pubblica Amministrazione al fine di fornire supporto al Segretario di Stato proponente o comunque relatore in materia. 1 bis. Previa comunicazione alla Reggenza, è altresì ammesso in Aula il relatore designato dal Comitato Promotore di progetto di legge di iniziativa popolare ai sensi dell’articolo 28.
+    2. Il pubblico può assistere alle sedute del Consiglio Grande e Generale dalla tribuna, attenendosi ad un comportamento corretto e rimanendo in silenzio. Appositi regolamenti disciplinano tale accesso.
+    3. La Reggenza può fare allontanare coloro che, dalla tribuna, con il loro comportamento recano disturbo ai lavori del Consiglio Grande e Generale.”.
