@@ -1,0 +1,9 @@
+## CAPO IV ASSEGNAZIONI E PARERI
+Art. 91
+(Assegnazione dei progetti di legge e degli argomenti alle Commissioni)
+1. La Reggenza indica a quale delle Commissioni Consiliari Permanenti competenti per materia devono essere assegnati i progetti di legge iscritti all’ordine del giorno del Consiglio una volta che questo abbia deliberato ai sensi dei commi 4 e 5 dell’articolo 29. La Reggenza, inoltre, assegna alle Commissioni consiliari permanenti competenti per materia gli altri argomenti che le medesime Commissioni sono chiamate ad esaminare o sui quali sono chiamate a deliberare a norma della presente legge e ne dà comunicazione al Consiglio.
+2. In ogni caso il Consiglio Grande e Generale a maggioranza dei presenti può sempre deliberare l’assegnazione ad una diversa Commissione.
+3. Dopo l’espletamento della procedura da seguire per l’esame e l’approvazione di un progetto di legge ai sensi dei commi 4 e 5 dell’articolo 29, la Reggenza dispone che il medesimo progetto sia trasmesso alla Commissione competente affinché lo esamini ed eventualmente deliberi conformemente alle relative procedure.
+4. Qualora lo ritenga opportuno, la Reggenza, sentito l’Ufficio di Presidenza, può disporre che un progetto di legge sia assegnato a più Commissioni per l’esame e la deliberazione in comune. Le Commissioni riunite sono di regola presiedute dal più anziano di età tra i Presidenti delle Commissioni stesse.
+5. L’esame dell’articolato di legge da parte della Commissione non può iniziare se non trascorso il termine di cinque giorni dall’assegnazione del progetto di legge, salvo diversa disposizione dell’Ufficio di Presidenza.
+6. I membri delle Commissioni – al fine dell’espletamento delle loro funzioni - hanno accesso a tutti gli atti, delibere del Congresso di Stato, di altre Commissioni e di ogni altro organo ed ente pubblico, salvo quelli che per loro natura hanno carattere riservato.
