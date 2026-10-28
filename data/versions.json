@@ -1,0 +1,19 @@
+{
+ "country": "SM",
+ "acts": [
+  {
+   "slug": "dichiarazione-dei-diritti",
+   "short": "Dichiarazione",
+   "title": "Dichiarazione dei diritti dei cittadini e dei principi fondamentali dell'ordinamento sammarinese (Legge 8 luglio 1974 n.59)",
+   "url": "https://www.consigliograndeegenerale.sm/on-line/home/archivio-leggi-decreti-e-regolamenti/scheda17011763.html",
+   "versions": [
+    {
+     "from": "2025-10-11",
+     "units": 20,
+     "source_url": "https://www.consigliograndeegenerale.sm/on-line/home/archivio-leggi-decreti-e-regolamenti/documento17085085.html",
+     "sha256": "4fd4fd0a52e70d09fe195443e9191f6ac1e55839557afa924e533c044680a249"
+    }
+   ]
+  }
+ ]
+}
