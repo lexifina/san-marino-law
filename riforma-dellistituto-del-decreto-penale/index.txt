@@ -1,0 +1,12 @@
+legge-2014-42/intro.md
+legge-2014-42/art-1.md
+legge-2014-42/art-2.md
+legge-2014-42/art-3.md
+legge-2014-42/art-4.md
+legge-2014-42/art-5.md
+legge-2014-42/art-6.md
+legge-2014-42/art-7.md
+legge-2014-42/art-8.md
+legge-2014-42/art-9.md
+legge-2014-42/art-10.md
+legge-2014-42/art-11.md
