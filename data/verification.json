@@ -1,0 +1,12 @@
+{
+ "checked_head": "5142c40b74867de5e3dd7ce4f0c2ff6705c24757",
+ "senza_texts": 33,
+ "senza_words": 925721,
+ "senza_differ": 1540,
+ "senza_moved": 10412,
+ "notes_texts": 65,
+ "notes_words": 2475831,
+ "notes_texts_999": 50,
+ "notes_recall": 0.9998,
+ "notes_min_recall": 0.9935
+}

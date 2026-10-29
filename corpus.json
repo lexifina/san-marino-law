@@ -1,0 +1,33 @@
+{
+  "corpus": "sm/national/acts",
+  "name": "Testi coordinati of the Republic of San Marino (consolidated texts of the Consiglio Grande e Generale)",
+  "label": "San Marino",
+  "language": "it",
+  "history": "current-only",
+  "texts": 65,
+  "history_from": "2012-01-20",
+  "record_to": "2026-10-28",
+  "record_note": "The Consiglio Grande e Generale publishes only the current edition of each testo coordinato, so each has one version here, dated by its \"aggiornato al\" date. Earlier wording is kept as the footnotes print it (Testo originario, Modifiche legislative) and the amending acts they name are in data/amendments.csv. The texts cover the main subjects, not every San Marino law.",
+  "built": "2026-10-29",
+  "baseline_trailer": "Consolidated",
+  "in_force_trailer": "In-force",
+  "dates": {
+    "commit": "the \"aggiornato al\" date of each testo coordinato",
+    "baseline_trailer": "Consolidated",
+    "other_trailers": [
+      "Date-source"
+    ],
+    "time": "12:00 Europe/San_Marino (CET/CEST)"
+  },
+  "author": {
+    "consolidated": "Segreteria Istituzionale (Consiglio Grande e Generale)",
+    "amendment": "none",
+    "unexplained": "Segreteria Istituzionale (Consiglio Grande e Generale)"
+  },
+  "legal_basis": "Legge 25 gennaio 1991 n.8 (diritto d'autore), art. 98(f): free reproduction, even in full, of the acts of the State and of public administrations",
+  "citation": {
+    "file": "([a-z0-9-]+/[a-z-]+-[0-9]{4}-[0-9]+)/art-([0-9]+(?:-[a-z]+)?)(?:--[0-9]+)?\\.md",
+    "cites": "(^|[^0-9A-Za-z])([Aa]rticol[oi]|[Aa]rt\\.) ?{n}([^0-9]|$)"
+  },
+  "tool": "tools/in_force_on.py"
+}
