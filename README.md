@@ -1,5 +1,7 @@
 # The laws of San Marino, as a git repository
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is San Marino's national law, which global-law reads at `san-marino/national/acts/`.
+
 The consolidated texts ("testi coordinati") of the Republic of San Marino as a git repository: 65 texts on
 the main subjects of San Marino law, holding 526 acts and 7535 articles, from the
 [Consiglio Grande e Generale](https://www.consigliograndeegenerale.sm/on-line/home/testi-coordinati.html). Each
