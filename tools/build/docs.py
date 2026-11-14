@@ -15,7 +15,7 @@ CACHE = HERE / '.cache'
 # Published with the record. The retrieval script and its notes stay private (the user's rule of 2026-10-29), and
 # publish_gate (gitlaw_common, private) checks every file before it is written.
 BUILD_FILES = ('unpack.py', 'parse.py', 'build.py', 'docs.py', 'check_repo.py')
-sys.path.insert(0, str(HERE.parent / 'gitlaw_common'))
+sys.path.append(str(HERE.parent / 'gitlaw_common'))
 try:
     from publish_gate import publish_gate
 except ImportError:          # an outside reader rebuilding from the published tools: no private rule to apply
@@ -145,4 +145,7 @@ def render(commits: list[tuple], today: str, fetched_on: str) -> dict[str, bytes
     for name in ('README.md', 'REPRODUCE.md', 'SOURCES.md', 'LICENSE'):
         files[f'tools/build/repo/{name}'] = (REPO_FILES / name).read_bytes()
     files['tools/build/repo/tools/in_force_on.py'] = (REPO_FILES / 'tools' / 'in_force_on.py').read_bytes()
+    # The English README beside the Italian README.md (the serbia-law model, 2026-11-14), published as kept in repo/.
+    if (REPO_FILES / 'README.en.md').exists():
+        files['README.en.md'] = files['tools/build/repo/README.en.md'] = (REPO_FILES / 'README.en.md').read_bytes()
     return publish_gate(files)

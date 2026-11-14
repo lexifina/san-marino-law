@@ -1,119 +1,94 @@
-# The laws of San Marino, as a git repository
+# San Marino: la storia delle leggi in git
 
-The consolidated texts ("testi coordinati") of the Republic of San Marino as a git repository: {{TEXTS}} texts on
-the main subjects of San Marino law, holding {{ACTS}} acts and {{ARTICLES}} articles, from the
-[Consiglio Grande e Generale](https://www.consigliograndeegenerale.sm/on-line/home/testi-coordinati.html). Each
-article is one file, with one paragraph per line, so `git blame` and `git diff` work line by line. The text is in
-Italian, as published.
+**Italiano** · **[Or read it in English](README.en.md)**
 
-**What this repository is not, yet: a history.** The Consiglio Grande e Generale publishes only the current edition
-of each testo coordinato and keeps no earlier ones. So each text is a single commit holding its whole current
-wording ("current-only"), dated by the day the text says it is updated to. There is no line-by-line history before
-that edition. Later editions will be added as later commits, so the history grows forward from here. What the
-source does say about the past is kept: the footnotes print each provision's earlier wording ("Testo originario")
-and the amending provisions ("Modifiche legislative"), and they are in the files and listed in
-[`data/amendments.csv`](data/amendments.csv).
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="data/it/effort-dark.svg">
+<img alt="Il diritto sammarinese in questo repository: che cosa contiene, le modifiche per anno di entrata in vigore, la completezza rispetto alle fonti ufficiali e la correttezza dei contenuti" src="data/it/effort-light.svg" width="880">
+</picture>
 
-The record holds {{TEXTS}} texts, updated between {{FIRST}} and {{LAST}}, in {{COMMITS}} commits. It is not every San
-Marino law: only the laws the Consiglio has brought into a testo coordinato (see [`laws.csv`](laws.csv)).
+Il diritto di San Marino come repository git: un file per articolo, un comma per riga e un commit per ogni testo coordinato, datato al giorno a cui il Consiglio Grande e Generale dichiara aggiornato il testo. Il Consiglio pubblica solo l'edizione vigente di ciascun testo, perciò per ora ognuno è un unico commit, attribuito all'ufficio che lo predispone; le edizioni successive saranno aggiunte come nuovi commit e `git log` le elencherà. Le note di ogni articolo conservano la formulazione precedente ("Testo originario") e l'atto che l'ha modificata; scegliendo una data si ottiene l'edizione vigente in quel giorno.
 
-## A lawyer's questions as git commands
+Fa parte di [lexifina/global-law](https://github.com/lexifina/global-law), un'unica storia git per il diritto di ogni Paese: questo è il diritto nazionale di San Marino, che global-law legge in `san-marino/national/acts/`.
 
-| Question | Command |
+**Che cosa contiene ora:** 65 testi coordinati sulle principali materie del diritto sammarinese, un'edizione ciascuno, aggiornati tra il 20 gennaio 2012 e il 28 ottobre 2026, che comprendono 526 atti (409 distinti; alcuni sono riportati in più di un testo) e 7.535 articoli, tra cui la Dichiarazione dei diritti dei cittadini (Legge 8 luglio 1974 n.59) con le modifiche fino al 2025; le loro note indicano 394 atti modificativi. [`laws.csv`](laws.csv) elenca ogni testo con la sua data; [`data/acts.csv`](data/acts.csv) elenca gli atti di ciascun testo.
+
+Ogni testo è una cartella che prende il nome dalla sua materia, con una cartella per atto denominata per tipo, anno e numero e un file per articolo (`lavoro/legge-1961-7/art-23.md` è l'articolo 23 della Legge 17 febbraio 1961 n.7, Legge per la tutela del lavoro e dei lavoratori, nella raccolta in materia di lavoro); `index.txt` elenca i file di un testo in ordine di lettura.
+
+Il testo è in italiano, la lingua ufficiale di San Marino, così come lo pubblica il Consiglio. Una traduzione in inglese non fa parte di questo archivio.
+
+## Domande come comandi git
+
+| Domanda | Comando |
 | --- | --- |
-| What does article 1 of the Codice Penale say? | `python tools/in_force_on.py {{TODAY}} nuovo-codice-penale/legge-1974-17 art-1` |
-| The whole of one act in a text, in order | `python tools/in_force_on.py {{TODAY}} nuovo-codice-penale/legge-1974-17` |
-| A whole testo coordinato | `python tools/in_force_on.py {{TODAY}} patrocinio-gratuito` |
-| An article's earlier wording and the act that changed it | the `[^n]:` notes at the end of its file |
-| Every provision an amending act touched, by the notes | `grep -i 'Legge 2 marzo 2022 n.24' data/amendments.csv` |
-| Which texts hold an act | `grep 'legge-2011-160' data/acts.csv` |
-| What changed in a text since this build (after later builds) | `git log -p -- nuovo-codice-penale` |
-| The list of texts, with their dates | [`laws.csv`](laws.csv) |
+| Ogni edizione dell'articolo 23 della Legge per la tutela del lavoro (una finora) | `git log -p --word-diff -- lavoro/legge-1961-7/art-23.md` |
+| Quali atti hanno modificato la Legge, secondo le sue note? | `grep lavoro/legge-1961-7/ data/amendments.csv` |
+| Ogni edizione della raccolta in materia di lavoro, con il giorno a cui è aggiornata | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- lavoro` |
+| L'articolo 23 nell'edizione vigente al 1° gennaio 2026 | `python tools/in_force_on.py 2026-01-01 lavoro/legge-1961-7 art-23` |
 
-## How a text is laid out
+**Fuori da git** pubblichiamo questo archivio anche online, gratuitamente:
 
-Each testo coordinato is a folder named after its subject. Its `title.md` is the cover: the title, the "aggiornato
-al" line and, where the text has one, the list of the acts it cites. A "raccolta coordinata" holds several acts:
-each is a subfolder named by kind, year and number (`legge-2011-160`, `decreto-delegato-2019-122`), or by kind and
-date for a 19th-century act that has no number (`legge-1884-12-20`), with the act's heading, title and preamble in
-`intro.md` and one file per article (`art-1.md`, `art-2-bis.md`). Such an old act numbers its articles at the start
-of their first paragraph ("1. - E' accordato ..."); each is still one file. A text that prints the same act twice
-keeps both copies (`art-1--2.md`, `intro--2.md`). Headings of Titles, Chapters and Sections (`## TITOLO I`) go at
-the top of the article that follows them; "ALTRE NORME" (the divider before a collection's further acts) heads the
-next act's `intro.md`. `index.txt` lists the files in reading order.
+- **[Chiedi a Claude del diritto sammarinese](https://global-law.lexifina.com/v1/try_claude?country=san-marino)**: apre Claude con una prima domanda già pronta.
+- **[Chiedi a ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=san-marino)**: la stessa domanda in ChatGPT.
+- **[Chiama l'API dal browser](https://global-law.lexifina.com/v1/search_law?query=ferie&jurisdictions=san-marino)**: una ricerca di "ferie" nel diritto sammarinese, con risposta in JSON. La documentazione è [qui](https://lexifina.com/api/global-law).
 
-A superscript note number in the PDF is written `[^n]` where it stands, and the note follows at the end of the
-same file, `[^n]: Testo originario ...`, with each further paragraph indented four spaces. Notes that nothing in the
-text calls ({{UNCALLED_NOTES}} of them) are in the text's `notes-uncalled.md`; {{MISSING_NOTES}} note numbers are
-called but have no note in the PDF. Both are listed in [`data/issues.csv`](data/issues.csv).
+Entrambi gli assistenti leggono l'archivio tramite il connettore gratuito Global law (MCP, `https://global-law.lexifina.com/mcp`); la prima volta la chat ti dà il link per aggiungerlo. Puoi chiedere in italiano o in inglese.
 
-## The dates, and which one we use
+**Ospitalo tu stesso, facilmente.** Bastano git e Python, e gli strumenti girano sul tuo computer:
 
-Each text states the date it is updated to ("aggiornato al 22 dicembre 2025"). **Each commit is dated by that date**,
-at noon San Marino time (CET/CEST), in its `In-force:` and `Consolidated:` trailers: the text is the law as the
-Consiglio consolidated it on that day. {{DATED_TITLE}} texts give a full date. {{DATED_MONTH}} gives only a month
-("vigente a maggio 2026") and is dated the first of that month, and {{DATED_RETRIEVED}} gives none and is dated by the
-day it was retrieved ({{FETCHED}}); the `Date-source:` trailer says which. The date is not the date any amendment
-took effect: those are in the amending acts, named in the notes.
+```sh
+git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
+python3 tools/countries.py add san-marino/national/acts
+python3 tools/law.py show 2026-01-01 san-marino/national/acts/lavoro/legge-1961-7/art-23.md
+```
 
-`tools/in_force_on.py` answers for any date on or after a text's edition. For an earlier date it says there is no
-version, because the source has none.
+Aperto in Claude Code, Cursor, VS Code o Codex, il clone avvia anche un server MCP locale con gli stessi strumenti ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
 
-## What "author" means
+## Date
 
-Every law-text commit has the same author: `Segreteria Istituzionale (Consiglio Grande e Generale)
-<segreteria-istituzionale@consigliograndeegenerale-sm.invalid>`, with the trailer `Kind: consolidated`. The address
-cannot exist. The author is the office that prepares the consolidation, not a lawmaker. No line is credited to an
-amending act, because without an earlier edition nobody can show which words an amendment wrote. When a later
-edition changes the text, the change will be credited to an amending act only where the new notes name one;
-otherwise it is labelled `Kind: unexplained` and authored by the Segreteria.
+Ogni commit è datato a mezzogiorno, ora di San Marino (Europe/San_Marino), al giorno a cui il testo dichiara di essere aggiornato ("aggiornato al 22 dicembre 2025"), e lo riporta nei trailer `In-force:` e `Consolidated:`:
 
-The notes name {{AMENDING_ACTS}} distinct acts in {{AMENDMENT_ROWS}} rows of `data/amendments.csv`.
+- 63 testi indicano una data completa; 1 indica solo un mese ("vigente a maggio 2026") ed è datato al primo giorno di quel mese; 1 non ne indica alcuna ed è datato al giorno in cui è stato scaricato, il 28 ottobre 2026. Il trailer `Date-source:` dice quale caso ricorre.
+- La data è quella del coordinamento, non quella in cui una modifica ha avuto effetto: quelle date sono negli atti modificativi indicati nelle note.
+- `tools/in_force_on.py` risponde per qualsiasi data uguale o successiva all'edizione di un testo; per una data anteriore dice che non esiste alcuna versione, perché la fonte non ne ha.
 
-## What it does not show
+Ogni commit di testo normativo è attribuito a `Segreteria Istituzionale (Consiglio Grande e Generale)`, l'ufficio che predispone il coordinamento, con `Kind: consolidated`. Nessuna riga è attribuita a un atto modificativo, perché senza un'edizione precedente nessuno può mostrare quali parole abbia scritto una modifica; le modifiche di un'edizione successiva saranno attribuite a un atto dove le sue note ne indicano uno.
 
-- Any edition before the current one. The site has none.
-- Laws not in a testo coordinato. The Consiglio's archive has every law and decree as enacted; they are not here.
-- Pictures, tables drawn as graphics, page numbers, and the PDF's layout (indentation, bold).
-- Text the PDF itself garbles: a few PDFs have letters with no Unicode mapping, shown as `�` as the PDF gives them.
+## Come viene verificato
 
-The testi coordinati are an aid to reading: the official text of each law is the one in the Bollettino Ufficiale,
-and the Consiglio says so. The same is true of this repository.
+- Le lettere e le cifre di ogni testo, in ordine, sono confrontate con la copia senza note del Consiglio stesso ("SENZA NOTE", 33 testi), letta da un diverso lettore PDF: differisce lo 0,17% di 925.721 parole, per lo più dove i due PDF stessi differiscono.
+- Le parole di ogni testo sono confrontate con il suo PDF con le note: il 99,98% delle parole del PDF è nel repository (il testo più basso il 99,35%).
+- I trailer di ogni commit sono analizzabili; non ci sono merge, né date che tornano indietro né date successive a quella della costruzione.
+- La costruzione è deterministica: dagli stessi file, il cui sha256 è in [`data/source-sha256.tsv`](data/source-sha256.tsv), produce gli stessi hash dei commit. I risultati sono in [`data/verification.json`](data/verification.json) e [`REPRODUCE.md`](REPRODUCE.md).
 
-## How it is checked
+## Che cosa non mostra
 
-`tools/build/` holds the build as it was run, and [`data/source-sha256.tsv`](data/source-sha256.tsv) the sha256 of
-every downloaded file. The build is deterministic: from the same files it gives the same commit hashes. See
-[`REPRODUCE.md`](REPRODUCE.md). Before publishing it was checked for these things:
-- the letters and digits of every text, in order, against the Consiglio's own copy without notes ("SENZA NOTE",
-  {{SENZA}} texts have one), read by a different PDF reader (poppler's `pdftotext`, not the PyMuPDF the build uses);
-  and, for every text, the words of the repository against the words of the PDF with notes;
-- every commit's trailers parse; there are no merges, no dates that go backwards and none after the build date;
-- the on-date tool, for sample articles on several dates;
-- two builds from the same files give the same HEAD.
+- **Qualsiasi edizione anteriore a quella vigente.** Il Consiglio non ne conserva; la formulazione precedente è solo nelle note.
+- **Le leggi che non sono in un testo coordinato.** L'archivio del Consiglio contiene ogni legge e decreto come approvati; qui non ci sono, e nemmeno la giurisprudenza, i trattati o i progetti di legge.
+- **Immagini, tabelle riprodotte come grafica, numeri di pagina e l'impaginazione del PDF.**
+- **Il testo che il PDF stesso altera**: alcuni PDF hanno lettere prive di corrispondenza Unicode, mostrate come `�`; le note senza richiamo e i richiami senza nota sono elencati in [`data/issues.csv`](data/issues.csv).
 
-The results ([`data/verification.json`](data/verification.json), for the law commits of this build): against the
-copies without notes ({{V_SENZA_TEXTS}} texts, {{V_SENZA_WORDS}} words), {{V_SENZA_DIFFER}} words ({{V_SENZA_PCT}}%)
-differ, and {{V_SENZA_MOVED}} more are only in another order (table cells, which the two readers take in a different
-order). Most differences are where the two PDFs themselves differ: tables of contents with other page numbers, a
-few copies without notes made on another day, notes printed in the copy without notes. The rest are where the
-other reader joins a word split at a line end or two numbers that stand side by side. Against the PDFs with notes
-({{V_NOTES_TEXTS}} texts, {{V_NOTES_WORDS}} words), {{V_NOTES_RECALL}}% of the PDF's words are in the repository
-(the lowest text: {{V_NOTES_MIN}}%, a decree whose annexes are wide tables), and {{V_NOTES_999}} texts reach 99.9% both
-ways.
+## Fonti
 
-## How it is built
+| Fonte | Tipo | Versioni precedenti | Note |
+| --- | --- | --- | --- |
+| [Consiglio Grande e Generale, Testi coordinati](https://www.consigliograndeegenerale.sm/on-line/home/testi-coordinati.html) (Segreteria Istituzionale) | Testi coordinati ufficiali, per materia | no, solo l'edizione vigente | PDF con note (formulazione precedente, atti modificativi); fa fede solo il Bollettino Ufficiale |
 
-Each text's download is a zip with the PDF with notes and, for some, one "SENZA NOTE"; `unpack.py` takes the
-PDFs out of it. `parse.py` reads the PDF with notes with PyMuPDF: lines by baseline, the
-note area of each page (below Word's footnote separator, or from the first note number, at the notes' size and
-margin), the note calls (superscript numbers in the text), act headings and articles. `build.py` writes one commit
-per text with `git fast-import`. No AI model takes part in building or checking it.
+## Licenza
 
-## Licence
+Vedi [`LICENSE`](LICENSE) e [`SOURCES.md`](SOURCES.md). I testi sono atti dello Stato, che la Legge 25 gennaio 1991 n.8, articolo 98, lettera f), consente a chiunque di riprodurre integralmente; la formulazione non è stata modificata, solo suddivisa in file e righe. I contributi propri di Lexifina sono CC0 1.0.
 
-Source: Consiglio Grande e Generale, Repubblica di San Marino (https://www.consigliograndeegenerale.sm), Segreteria
-Istituzionale. The texts are acts of the State, which Legge 25 gennaio 1991 n.8, article 98(f), allows anyone to
-reproduce in full. The wording was not changed; it was only split into files and lines. Lexifina's own
-contributions (the tools, the arrangement and the commit messages) are CC0. See [`LICENSE`](LICENSE) and
-[`SOURCES.md`](SOURCES.md).
+Nessun modello di IA ha scritto o modificato testo normativo, e nessuno interviene quando il repository viene costruito o verificato; gli script sono stati scritti da un modello di IA (vedi [`REPRODUCE.md`](REPRODUCE.md)).
+
+Questa è una traduzione della versione inglese ([README.en.md](README.en.md)); in caso di differenze, prevale la versione inglese.
+
+## Per saperne di più
+
+Dal repository [lexifina/global-law](https://github.com/lexifina/global-law) (pagine in inglese):
+
+- [FEATURES.md](https://github.com/lexifina/global-law/blob/main/FEATURES.md): tutte le funzionalità e ciò che ogni corpus deve supportare (`git blame`, `law.py`, strumenti MCP)
+- [FAQ.md](https://github.com/lexifina/global-law/blob/main/FAQ.md): domande e risposte · [CONTRIBUTING.md](https://github.com/lexifina/global-law/blob/main/CONTRIBUTING.md): proporre una modifica · [MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md): server MCP · [REPRODUCE.md](https://github.com/lexifina/global-law/blob/main/REPRODUCE.md): come è stato realizzato · [CHANGELOG.md](https://github.com/lexifina/global-law/blob/main/CHANGELOG.md)
+- [FRESHNESS.md](https://github.com/lexifina/global-law/blob/main/FRESHNESS.md): quanto è aggiornato ogni corpus · [Monitoraggio](https://github.com/lexifina/global-law/tree/main/monitoring): se gli aggiornamenti funzionano · [WATCHING.md](https://github.com/lexifina/global-law/blob/main/WATCHING.md): come ogni fonte ufficiale viene controllata per individuare le modifiche
+- [performance/](https://github.com/lexifina/global-law/tree/main/performance): quanto sono veloci gli strumenti, misurato
+- [visualisations/](https://github.com/lexifina/global-law/tree/main/visualisations): grafici e collegamenti attraverso il diritto di tutto il mondo
+- [Vulnerabilità](https://github.com/lexifina/global-law/tree/main/vulnerabilities): errori nei testi così come sono stati pubblicati
