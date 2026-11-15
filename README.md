@@ -30,7 +30,8 @@ Il testo è in italiano, la lingua ufficiale di San Marino, così come lo pubbli
 
 - **[Chiedi a Claude del diritto sammarinese](https://global-law.lexifina.com/v1/try_claude?country=san-marino)**: apre Claude con una prima domanda già pronta.
 - **[Chiedi a ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=san-marino)**: la stessa domanda in ChatGPT.
-- **[Chiama l'API dal browser](https://global-law.lexifina.com/v1/search_law?query=ferie&jurisdictions=san-marino)**: una ricerca di "ferie" nel diritto sammarinese, con risposta in JSON. La documentazione è [qui](https://lexifina.com/api/global-law).
+- **[Cerca nel diritto sammarinese sul nostro sito](https://lexifina.com/law?country=san-marino&q=ferie)**: una ricerca di "ferie", con il testo di ogni disposizione e le sue versioni, senza account.
+- **[API REST per sviluppatori](https://global-law.lexifina.com/v1/search_law?query=ferie&jurisdiction=san-marino)**: la stessa ricerca in JSON, senza chiave. La documentazione è [qui](https://lexifina.com/api/global-law).
 
 Entrambi gli assistenti leggono l'archivio tramite il connettore gratuito Global law (MCP, `https://global-law.lexifina.com/mcp`); la prima volta la chat ti dà il link per aggiungerlo. Puoi chiedere in italiano o in inglese.
 
