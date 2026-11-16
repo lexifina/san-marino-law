@@ -61,6 +61,7 @@ Every law-text commit is credited to `Segreteria Istituzionale (Consiglio Grande
 - The words of every text are compared with its PDF with notes: 99.98% of the PDF's words are in the repository (the lowest text 99.35%).
 - Every commit's trailers parse; there are no merges, no dates that go back and none after the build date.
 - The build is deterministic: from the same files, whose sha256 are in [`data/source-sha256.tsv`](data/source-sha256.tsv), it gives the same commit hashes. The results are in [`data/verification.json`](data/verification.json) and [`REPRODUCE.md`](REPRODUCE.md).
+- [vulnerabilities/](vulnerabilities/README.en.md): possible drafting mistakes in San Marino law, found by global-law's detectors and checked by hand.
 
 ## What it does not show
 

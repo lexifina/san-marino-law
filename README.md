@@ -61,6 +61,7 @@ Ogni commit di testo normativo è attribuito a `Segreteria Istituzionale (Consig
 - Le parole di ogni testo sono confrontate con il suo PDF con le note: il 99,98% delle parole del PDF è nel repository (il testo più basso il 99,35%).
 - I trailer di ogni commit sono analizzabili; non ci sono merge, né date che tornano indietro né date successive a quella della costruzione.
 - La costruzione è deterministica: dagli stessi file, il cui sha256 è in [`data/source-sha256.tsv`](data/source-sha256.tsv), produce gli stessi hash dei commit. I risultati sono in [`data/verification.json`](data/verification.json) e [`REPRODUCE.md`](REPRODUCE.md).
+- [vulnerabilities/](vulnerabilities/): possibili errori di tecnica legislativa nel diritto sammarinese, individuati dai rilevatori di global-law e verificati a mano.
 
 ## Che cosa non mostra
 
