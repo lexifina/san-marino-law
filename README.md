@@ -84,6 +84,10 @@ Nessun modello di IA ha scritto o modificato testo normativo, e nessuno intervie
 
 Questa è una traduzione della versione inglese ([README.en.md](README.en.md)); in caso di differenze, prevale la versione inglese.
 
+## Visualizzazioni
+
+- [visualisations/](visualisations/): grafici tratti da questo repository. Non ancora disegnati.
+
 ## Per saperne di più
 
 Dal repository [lexifina/global-law](https://github.com/lexifina/global-law) (pagine in inglese):
